@@ -1,0 +1,116 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Dashboard" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Personal Fitness Dashboard"
+          }
+        }
+      }
+    },
+    "Privacy.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your health data is extremely sensitive, so Peak doesn’t collect any user data or analytics."
+          }
+        }
+      }
+    },
+    "Privacy.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private By Design"
+          }
+        }
+      }
+    },
+    "Resolutions.and" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "&"
+          }
+        }
+      }
+    },
+    "Resolutions.Create" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create Resolutions for 2024"
+          }
+        }
+      }
+    },
+    "Resolutions.Review" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Review Your Progress in 2023"
+          }
+        }
+      }
+    },
+    "Themes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Over 60 Gorgeous Themes"
+          }
+        }
+      }
+    },
+    "Widgets" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beautifully Designed Widgets"
+          }
+        }
+      }
+    },
+    "Widgets.Homescreen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beautiful Widgets for Your Homescreen"
+          }
+        }
+      }
+    },
+    "Widgets.Lockscreen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "...And For Your Lockscreen"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

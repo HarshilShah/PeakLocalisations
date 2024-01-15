@@ -11,7 +11,7 @@ import SwiftUI
 struct PeakLocalisationsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Text(verbatim: "Hello, world!")
         }
     }
 }

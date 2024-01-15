@@ -1,0 +1,138 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Dashboard.AltText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A rotating display of placeholder UI for steps, workouts, and activity rings"
+          }
+        }
+      }
+    },
+    "Dashboard.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configure your metrics and your blocks"
+          }
+        }
+      }
+    },
+    "Dashboard.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Personal Fitness Dashboard"
+          }
+        }
+      }
+    },
+    "Privacy.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your health data is extremely sensitive, so Peak doesn’t collect any user data."
+          }
+        }
+      }
+    },
+    "Privacy.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private By Design"
+          }
+        }
+      }
+    },
+    "Themes.AltText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A stacked list of partially-overlapping Overview blocks from the app, rendered in different multicoloured themes"
+          }
+        }
+      }
+    },
+    "Themes.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Match your style."
+          }
+        }
+      }
+    },
+    "Themes.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Wide Assortment of Themes"
+          }
+        }
+      }
+    },
+    "Welcome to" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to"
+          }
+        }
+      }
+    },
+    "Widgets.AltText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mock up of a transition between an iOS homescreen and a lockscreen, each showing several Peak widgets."
+          }
+        }
+      }
+    },
+    "Widgets.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Always keep an eye on your progress."
+          }
+        }
+      }
+    },
+    "Widgets.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homescreen & Lockscreen Widgets"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

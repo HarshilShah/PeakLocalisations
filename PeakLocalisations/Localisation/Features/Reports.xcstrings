@@ -1,0 +1,108 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "In Review" : {
+      "comment" : "This is displayed after the current year, so \"2023 In Review\", for example",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In Review"
+          }
+        }
+      }
+    },
+    "MetricLimitAlert.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can only select up to %lld metrics."
+          }
+        }
+      }
+    },
+    "MetricLimitAlert.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limit Reached"
+          }
+        }
+      }
+    },
+    "Metrics.Selected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld/%lld Selected"
+          }
+        }
+      }
+    },
+    "Recap" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recap"
+          }
+        }
+      }
+    },
+    "Share" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share"
+          }
+        }
+      }
+    },
+    "ShareReport.Text" : {
+      "comment" : "The first argument is the name of the metric or workout type, the second is the period, and the last is a URL",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My %1$@ recap for %2$@! Check out yours at %3$@"
+          }
+        }
+      }
+    },
+    "ShareReportSummary.Text" : {
+      "comment" : "The first argument is the period (so 2023, 2024, etc.). The second is a URL",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "My fitness recap for %1$@! Check out yours at %2$@"
+          }
+        }
+      }
+    },
+    "Shuffle Theme" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shuffle Theme"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

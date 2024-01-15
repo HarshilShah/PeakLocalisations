@@ -1,0 +1,202 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "homescreen.add" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adding Home Screen Widgets"
+          }
+        }
+      }
+    },
+    "homescreen.addInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On your Home Screen, long press in an empty space\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        }
+      }
+    },
+    "homescreen.edit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editing Home Screen Widgets"
+          }
+        }
+      }
+    },
+    "homescreen.editInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Long press on the widget\nSelect “Edit Widget”"
+          }
+        }
+      }
+    },
+    "lockscreen.add" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adding Lock Screen Widgets"
+          }
+        }
+      }
+    },
+    "lockscreen.addInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        }
+      }
+    },
+    "lockscreen.addInstructionsPad" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        }
+      }
+    },
+    "lockscreen.edit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editing Lock Screen Widgets"
+          }
+        }
+      }
+    },
+    "lockscreen.editInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nTap any widget to edit it"
+          }
+        }
+      }
+    },
+    "lockscreen.editInstructionsPad" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nTap any widget to edit it"
+          }
+        }
+      }
+    },
+    "standBy.add" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adding StandBy Widgets"
+          }
+        }
+      }
+    },
+    "standBy.addInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter StandBy mode, and scroll to a view with two widgets side-by-side\nTap and hold on a widget\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        }
+      }
+    },
+    "standBy.edit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editing StandBy Widgets"
+          }
+        }
+      }
+    },
+    "standBy.editInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter StandBy mode, and scroll to a view with a Peak widget\nTap and hold on the widget until a vertical carousel appears\nTap the widget in the carousel to edit it"
+          }
+        }
+      }
+    },
+    "standBy.enter" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entering StandBy Mode"
+          }
+        }
+      }
+    },
+    "standBy.enterInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note: StandBy mode only works on iPhone, and requires iOS 17 or later\nGo to Settings > StandBy and make sure StandBy is turned on\nConnect your iPhone to a charger and set it down on its side\nTap the side button\nSwipe left or right to switch between different views. Swipe up or down to scroll between options for each of these views"
+          }
+        }
+      }
+    },
+    "title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget Tutorial"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

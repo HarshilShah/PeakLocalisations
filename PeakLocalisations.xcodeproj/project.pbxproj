@@ -8,17 +8,71 @@
 
 /* Begin PBXBuildFile section */
 		E8BE48D02B5517DE005075DC /* PeakLocalisationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */; };
-		E8BE48D22B5517DE005075DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BE48D12B5517DE005075DC /* ContentView.swift */; };
-		E8BE48D42B5517DF005075DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48D32B5517DF005075DC /* Assets.xcassets */; };
-		E8BE48D72B5517DF005075DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48D62B5517DF005075DC /* Preview Assets.xcassets */; };
+		E8BE48FD2B551871005075DC /* Screenshots.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48DE2B551871005075DC /* Screenshots.xcstrings */; };
+		E8BE48FE2B551871005075DC /* Metadata.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48DF2B551871005075DC /* Metadata.xcstrings */; };
+		E8BE48FF2B551871005075DC /* AddNewHealthKitPermissions.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E12B551871005075DC /* AddNewHealthKitPermissions.xcstrings */; };
+		E8BE49002B551871005075DC /* HealthKitUnavailable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E22B551871005075DC /* HealthKitUnavailable.xcstrings */; };
+		E8BE49012B551871005075DC /* PeakPro.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E32B551871005075DC /* PeakPro.xcstrings */; };
+		E8BE49022B551871005075DC /* Backups.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E42B551871005075DC /* Backups.xcstrings */; };
+		E8BE49032B551871005075DC /* Notifications.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E52B551871005075DC /* Notifications.xcstrings */; };
+		E8BE49042B551871005075DC /* Onboarding.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E62B551871005075DC /* Onboarding.xcstrings */; };
+		E8BE49052B551871005075DC /* AddEntry.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E72B551871005075DC /* AddEntry.xcstrings */; };
+		E8BE49062B551871005075DC /* Reports.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E82B551871005075DC /* Reports.xcstrings */; };
+		E8BE49072B551871005075DC /* WidgetSetup.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */; };
+		E8BE49082B551871005075DC /* Details.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EA2B551871005075DC /* Details.xcstrings */; };
+		E8BE49092B551871005075DC /* Preferences.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EB2B551871005075DC /* Preferences.xcstrings */; };
+		E8BE490A2B551871005075DC /* AddMetrics.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EC2B551871005075DC /* AddMetrics.xcstrings */; };
+		E8BE490B2B551871005075DC /* Home.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48ED2B551871005075DC /* Home.xcstrings */; };
+		E8BE490C2B551871005075DC /* Resolutions.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EF2B551871005075DC /* Resolutions.xcstrings */; };
+		E8BE490D2B551871005075DC /* ConfigureGoal.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F02B551871005075DC /* ConfigureGoal.xcstrings */; };
+		E8BE490E2B551871005075DC /* Trends.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F12B551871005075DC /* Trends.xcstrings */; };
+		E8BE490F2B551871005075DC /* Benchmark.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F22B551871005075DC /* Benchmark.xcstrings */; };
+		E8BE49102B551871005075DC /* Blocks.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F32B551871005075DC /* Blocks.xcstrings */; };
+		E8BE49112B551871005075DC /* Goals.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F42B551871005075DC /* Goals.xcstrings */; };
+		E8BE49122B551871005075DC /* GoalTitles.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F52B551871005075DC /* GoalTitles.xcstrings */; };
+		E8BE49132B551871005075DC /* Stats.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F72B551871005075DC /* Stats.xcstrings */; };
+		E8BE49142B551871005075DC /* Themes.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F82B551871005075DC /* Themes.xcstrings */; };
+		E8BE49152B551871005075DC /* WorkoutTypes.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F92B551871005075DC /* WorkoutTypes.xcstrings */; };
+		E8BE49162B551871005075DC /* Time.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48FA2B551871005075DC /* Time.xcstrings */; };
+		E8BE49172B551871005075DC /* Metrics.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48FB2B551871005075DC /* Metrics.xcstrings */; };
+		E8BE49182B551871005075DC /* General.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48FC2B551871005075DC /* General.xcstrings */; };
+		E8BE491B2B551972005075DC /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE491A2B551972005075DC /* InfoPlist.xcstrings */; };
+		E8BE491D2B551980005075DC /* Widget.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE491C2B551980005075DC /* Widget.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		E8BE48CC2B5517DE005075DC /* PeakLocalisations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PeakLocalisations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeakLocalisationsApp.swift; sourceTree = "<group>"; };
-		E8BE48D12B5517DE005075DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		E8BE48D32B5517DF005075DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E8BE48D62B5517DF005075DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E8BE48DE2B551871005075DC /* Screenshots.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Screenshots.xcstrings; sourceTree = "<group>"; };
+		E8BE48DF2B551871005075DC /* Metadata.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Metadata.xcstrings; sourceTree = "<group>"; };
+		E8BE48E12B551871005075DC /* AddNewHealthKitPermissions.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = AddNewHealthKitPermissions.xcstrings; sourceTree = "<group>"; };
+		E8BE48E22B551871005075DC /* HealthKitUnavailable.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = HealthKitUnavailable.xcstrings; sourceTree = "<group>"; };
+		E8BE48E32B551871005075DC /* PeakPro.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = PeakPro.xcstrings; sourceTree = "<group>"; };
+		E8BE48E42B551871005075DC /* Backups.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Backups.xcstrings; sourceTree = "<group>"; };
+		E8BE48E52B551871005075DC /* Notifications.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Notifications.xcstrings; sourceTree = "<group>"; };
+		E8BE48E62B551871005075DC /* Onboarding.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Onboarding.xcstrings; sourceTree = "<group>"; };
+		E8BE48E72B551871005075DC /* AddEntry.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = AddEntry.xcstrings; sourceTree = "<group>"; };
+		E8BE48E82B551871005075DC /* Reports.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Reports.xcstrings; sourceTree = "<group>"; };
+		E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = WidgetSetup.xcstrings; sourceTree = "<group>"; };
+		E8BE48EA2B551871005075DC /* Details.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Details.xcstrings; sourceTree = "<group>"; };
+		E8BE48EB2B551871005075DC /* Preferences.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Preferences.xcstrings; sourceTree = "<group>"; };
+		E8BE48EC2B551871005075DC /* AddMetrics.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = AddMetrics.xcstrings; sourceTree = "<group>"; };
+		E8BE48ED2B551871005075DC /* Home.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Home.xcstrings; sourceTree = "<group>"; };
+		E8BE48EF2B551871005075DC /* Resolutions.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Resolutions.xcstrings; sourceTree = "<group>"; };
+		E8BE48F02B551871005075DC /* ConfigureGoal.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = ConfigureGoal.xcstrings; sourceTree = "<group>"; };
+		E8BE48F12B551871005075DC /* Trends.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Trends.xcstrings; sourceTree = "<group>"; };
+		E8BE48F22B551871005075DC /* Benchmark.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Benchmark.xcstrings; sourceTree = "<group>"; };
+		E8BE48F32B551871005075DC /* Blocks.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Blocks.xcstrings; sourceTree = "<group>"; };
+		E8BE48F42B551871005075DC /* Goals.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Goals.xcstrings; sourceTree = "<group>"; };
+		E8BE48F52B551871005075DC /* GoalTitles.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = GoalTitles.xcstrings; sourceTree = "<group>"; };
+		E8BE48F72B551871005075DC /* Stats.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Stats.xcstrings; sourceTree = "<group>"; };
+		E8BE48F82B551871005075DC /* Themes.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Themes.xcstrings; sourceTree = "<group>"; };
+		E8BE48F92B551871005075DC /* WorkoutTypes.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = WorkoutTypes.xcstrings; sourceTree = "<group>"; };
+		E8BE48FA2B551871005075DC /* Time.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Time.xcstrings; sourceTree = "<group>"; };
+		E8BE48FB2B551871005075DC /* Metrics.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Metrics.xcstrings; sourceTree = "<group>"; };
+		E8BE48FC2B551871005075DC /* General.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = General.xcstrings; sourceTree = "<group>"; };
+		E8BE491A2B551972005075DC /* InfoPlist.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
+		E8BE491C2B551980005075DC /* Widget.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Widget.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,19 +106,78 @@
 			isa = PBXGroup;
 			children = (
 				E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */,
-				E8BE48D12B5517DE005075DC /* ContentView.swift */,
-				E8BE48D32B5517DF005075DC /* Assets.xcassets */,
-				E8BE48D52B5517DF005075DC /* Preview Content */,
+				E8BE49192B551956005075DC /* Localisation */,
 			);
 			path = PeakLocalisations;
 			sourceTree = "<group>";
 		};
-		E8BE48D52B5517DF005075DC /* Preview Content */ = {
+		E8BE48DD2B551871005075DC /* App Store */ = {
 			isa = PBXGroup;
 			children = (
-				E8BE48D62B5517DF005075DC /* Preview Assets.xcassets */,
+				E8BE48DE2B551871005075DC /* Screenshots.xcstrings */,
+				E8BE48DF2B551871005075DC /* Metadata.xcstrings */,
 			);
-			path = "Preview Content";
+			path = "App Store";
+			sourceTree = "<group>";
+		};
+		E8BE48E02B551871005075DC /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				E8BE48E12B551871005075DC /* AddNewHealthKitPermissions.xcstrings */,
+				E8BE48E22B551871005075DC /* HealthKitUnavailable.xcstrings */,
+				E8BE48E32B551871005075DC /* PeakPro.xcstrings */,
+				E8BE48E42B551871005075DC /* Backups.xcstrings */,
+				E8BE48E52B551871005075DC /* Notifications.xcstrings */,
+				E8BE48E62B551871005075DC /* Onboarding.xcstrings */,
+				E8BE48E72B551871005075DC /* AddEntry.xcstrings */,
+				E8BE48E82B551871005075DC /* Reports.xcstrings */,
+				E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */,
+				E8BE48EA2B551871005075DC /* Details.xcstrings */,
+				E8BE48EB2B551871005075DC /* Preferences.xcstrings */,
+				E8BE48EC2B551871005075DC /* AddMetrics.xcstrings */,
+				E8BE48ED2B551871005075DC /* Home.xcstrings */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		E8BE48EE2B551871005075DC /* Blocks */ = {
+			isa = PBXGroup;
+			children = (
+				E8BE48EF2B551871005075DC /* Resolutions.xcstrings */,
+				E8BE48F02B551871005075DC /* ConfigureGoal.xcstrings */,
+				E8BE48F12B551871005075DC /* Trends.xcstrings */,
+				E8BE48F22B551871005075DC /* Benchmark.xcstrings */,
+				E8BE48F32B551871005075DC /* Blocks.xcstrings */,
+				E8BE48F42B551871005075DC /* Goals.xcstrings */,
+				E8BE48F52B551871005075DC /* GoalTitles.xcstrings */,
+			);
+			path = Blocks;
+			sourceTree = "<group>";
+		};
+		E8BE48F62B551871005075DC /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				E8BE48F72B551871005075DC /* Stats.xcstrings */,
+				E8BE48F82B551871005075DC /* Themes.xcstrings */,
+				E8BE48F92B551871005075DC /* WorkoutTypes.xcstrings */,
+				E8BE48FA2B551871005075DC /* Time.xcstrings */,
+				E8BE48FB2B551871005075DC /* Metrics.xcstrings */,
+				E8BE48FC2B551871005075DC /* General.xcstrings */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		E8BE49192B551956005075DC /* Localisation */ = {
+			isa = PBXGroup;
+			children = (
+				E8BE491A2B551972005075DC /* InfoPlist.xcstrings */,
+				E8BE491C2B551980005075DC /* Widget.xcstrings */,
+				E8BE48DD2B551871005075DC /* App Store */,
+				E8BE48EE2B551871005075DC /* Blocks */,
+				E8BE48F62B551871005075DC /* Core */,
+				E8BE48E02B551871005075DC /* Features */,
+			);
+			path = Localisation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +238,36 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E8BE48D72B5517DF005075DC /* Preview Assets.xcassets in Resources */,
-				E8BE48D42B5517DF005075DC /* Assets.xcassets in Resources */,
+				E8BE48FF2B551871005075DC /* AddNewHealthKitPermissions.xcstrings in Resources */,
+				E8BE49052B551871005075DC /* AddEntry.xcstrings in Resources */,
+				E8BE49112B551871005075DC /* Goals.xcstrings in Resources */,
+				E8BE48FE2B551871005075DC /* Metadata.xcstrings in Resources */,
+				E8BE490A2B551871005075DC /* AddMetrics.xcstrings in Resources */,
+				E8BE49042B551871005075DC /* Onboarding.xcstrings in Resources */,
+				E8BE490B2B551871005075DC /* Home.xcstrings in Resources */,
+				E8BE490D2B551871005075DC /* ConfigureGoal.xcstrings in Resources */,
+				E8BE48FD2B551871005075DC /* Screenshots.xcstrings in Resources */,
+				E8BE49142B551871005075DC /* Themes.xcstrings in Resources */,
+				E8BE49182B551871005075DC /* General.xcstrings in Resources */,
+				E8BE49132B551871005075DC /* Stats.xcstrings in Resources */,
+				E8BE49092B551871005075DC /* Preferences.xcstrings in Resources */,
+				E8BE49032B551871005075DC /* Notifications.xcstrings in Resources */,
+				E8BE49012B551871005075DC /* PeakPro.xcstrings in Resources */,
+				E8BE49002B551871005075DC /* HealthKitUnavailable.xcstrings in Resources */,
+				E8BE49122B551871005075DC /* GoalTitles.xcstrings in Resources */,
+				E8BE49072B551871005075DC /* WidgetSetup.xcstrings in Resources */,
+				E8BE490E2B551871005075DC /* Trends.xcstrings in Resources */,
+				E8BE49172B551871005075DC /* Metrics.xcstrings in Resources */,
+				E8BE49022B551871005075DC /* Backups.xcstrings in Resources */,
+				E8BE49152B551871005075DC /* WorkoutTypes.xcstrings in Resources */,
+				E8BE491B2B551972005075DC /* InfoPlist.xcstrings in Resources */,
+				E8BE490F2B551871005075DC /* Benchmark.xcstrings in Resources */,
+				E8BE49082B551871005075DC /* Details.xcstrings in Resources */,
+				E8BE49102B551871005075DC /* Blocks.xcstrings in Resources */,
+				E8BE491D2B551980005075DC /* Widget.xcstrings in Resources */,
+				E8BE49062B551871005075DC /* Reports.xcstrings in Resources */,
+				E8BE49162B551871005075DC /* Time.xcstrings in Resources */,
+				E8BE490C2B551871005075DC /* Resolutions.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +278,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E8BE48D22B5517DE005075DC /* ContentView.swift in Sources */,
 				E8BE48D02B5517DE005075DC /* PeakLocalisationsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

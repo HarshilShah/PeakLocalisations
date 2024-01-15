@@ -1,0 +1,375 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Active Energy" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Active Energy"
+          }
+        }
+      }
+    },
+    "Activity Rings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activity Rings"
+          }
+        }
+      }
+    },
+    "Activity Rings Compact" : {
+      "comment" : "Compact version of \"Activity Rings\". If one doesn't exist, enter the same value for both",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rings"
+          }
+        }
+      }
+    },
+    "Activity Rings Exercise" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exercise"
+          }
+        }
+      }
+    },
+    "Activity Rings Move" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move"
+          }
+        }
+      }
+    },
+    "Activity Rings Stand" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stand"
+          }
+        }
+      }
+    },
+    "Body Fat Percentage" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Body Fat Percentage"
+          }
+        }
+      }
+    },
+    "Body Fat Percentage Compact" : {
+      "comment" : "Compact version of \"Body Fat Percentage\". If one doesn't exist, enter the same value for both",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Body Fat %"
+          }
+        }
+      }
+    },
+    "Body Mass Index" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Body Mass Index"
+          }
+        }
+      }
+    },
+    "Body Mass Index Compact" : {
+      "comment" : "Compact version of \"Body Mass Index\". If one doesn't exist, enter the same value for both",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BMI"
+          }
+        }
+      }
+    },
+    "Cycling Distance" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cycling Distance"
+          }
+        }
+      }
+    },
+    "Distance" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distance"
+          }
+        }
+      }
+    },
+    "Exercise Minutes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exercise Minutes"
+          }
+        }
+      }
+    },
+    "Flights Climbed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flights Climbed"
+          }
+        }
+      }
+    },
+    "Heart Rate" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heart Rate"
+          }
+        }
+      }
+    },
+    "Heart Rate Usage Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Used to display heart rate statistics and graphs for workouts"
+          }
+        }
+      }
+    },
+    "Height" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Height"
+          }
+        }
+      }
+    },
+    "Height Usage Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Used to calculate your BMI"
+          }
+        }
+      }
+    },
+    "Lean Body Mass" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lean Body Mass"
+          }
+        }
+      }
+    },
+    "Metric.Singular" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metric"
+          }
+        }
+      }
+    },
+    "Metrics.Plural" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metrics"
+          }
+        }
+      }
+    },
+    "Skiing and Snowboarding Distance" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skiing and Snowboarding Distance"
+          }
+        }
+      }
+    },
+    "Skiing and Snowboarding Distance Compact" : {
+      "comment" : "Compact version of \"Skiing and Snowboarding Distance\". If one doesn't exist, enter the same value for both",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ski Distance"
+          }
+        }
+      }
+    },
+    "Stand Hours" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stand Hours"
+          }
+        }
+      }
+    },
+    "Steps" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steps"
+          }
+        }
+      }
+    },
+    "Swimming Distance" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swimming Distance"
+          }
+        }
+      }
+    },
+    "Swimming Distance Compact" : {
+      "comment" : "Compact version of \"Swimming Distance\". If one doesn't exist, enter the same value for both",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Swim Distance"
+          }
+        }
+      }
+    },
+    "Walking and Running Distance" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Walking and Running Distance"
+          }
+        }
+      }
+    },
+    "Weight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weight"
+          }
+        }
+      }
+    },
+    "Wheelchair Distance" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wheelchair Distance"
+          }
+        }
+      }
+    },
+    "Wheelchair Pushes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wheelchair Pushes"
+          }
+        }
+      }
+    },
+    "Wheelchair Pushes Compact" : {
+      "comment" : "Compact version of \"Wheelchair Pushes\". If one doesn't exist, enter the same value for both",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pushes"
+          }
+        }
+      }
+    },
+    "Workouts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Workouts"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

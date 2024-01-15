@@ -1,0 +1,296 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ Hold to set up" : {
+
+    },
+    "%@ Tap and hold to set up" : {
+
+    },
+	"All Workouts" : {
+
+    },
+    "App Icon" : {
+
+    },
+    "AppIconWidget.Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Just a big app icon."
+          }
+        }
+      }
+    },
+    "AppIconWidget.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Icon"
+          }
+        }
+      }
+    },
+    "Benchmark" : {
+
+    },
+    "BenchmarkWidget.Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compare your progress against a benchmark."
+          }
+        }
+      }
+    },
+    "BenchmarkWidget.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benchmark"
+          }
+        }
+      }
+    },
+    "ChartWidget.Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualise your fitness journey with charts."
+          }
+        }
+      }
+    },
+    "ChartWidget.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chart"
+          }
+        }
+      }
+    },
+    "Dark Mode Icon" : {
+
+    },
+    "Dark Mode Theme" : {
+
+    },
+    "Goal" : {
+
+    },
+    "GoalWidget.Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Track your progress towards achieving your fitness goals."
+          }
+        }
+      }
+    },
+    "GoalWidget.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Goal"
+          }
+        }
+      }
+    },
+    "HistoryWidget.Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View all of your stats for the past week."
+          }
+        }
+      }
+    },
+    "HistoryWidget.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        }
+      }
+    },
+    "Leave this empty to show totals for all workout types" : {
+
+    },
+    "Leave this empty to show trends for all workout types" : {
+
+    },
+    "Light Mode Icon" : {
+
+    },
+    "Light Mode Theme" : {
+
+    },
+    "Match App" : {
+
+    },
+    "Metric" : {
+
+    },
+    "Metrics" : {
+
+    },
+    "No Benchmark Configured" : {
+
+    },
+    "No Goal Selected" : {
+
+    },
+    "No Metric Selected" : {
+
+    },
+    "No Metrics Selected" : {
+
+    },
+    "None" : {
+
+    },
+    "Overview Period" : {
+
+    },
+    "OverviewWidget.Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get a overview of your progress over time."
+          }
+        }
+      }
+    },
+    "OverviewWidget.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overview"
+          }
+        }
+      }
+    },
+    "Period" : {
+
+    },
+    "RecentsWidget.Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View your recent stats for any metric."
+          }
+        }
+      }
+    },
+    "RecentsWidget.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recents"
+          }
+        }
+      }
+    },
+    "Show Stats" : {
+
+    },
+    "Show Stats for Today" : {
+
+    },
+    "Statistic" : {
+
+    },
+    "Tap to Unlock Widget" : {
+
+    },
+    "Theme" : {
+
+    },
+    "Timescales" : {
+
+    },
+    "TodayWidget.Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your stats for today."
+          }
+        }
+      }
+    },
+    "TodayWidget.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
+          }
+        }
+      }
+    },
+    "TotalsWidget.Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See your total progress over the past week, month, and year."
+          }
+        }
+      }
+    },
+    "TotalsWidget.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totals"
+          }
+        }
+      }
+    },
+    "TrendsWidget.Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stay on track and build on your past performance."
+          }
+        }
+      }
+    },
+    "TrendsWidget.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trends"
+          }
+        }
+      }
+    },
+    "Workout Type" : {
+
+    },
+    "Workout Types" : {
+
+    }
+  },
+  "version" : "1.0"
+}
