@@ -114,6 +114,7 @@
 		E8BE48DD2B551871005075DC /* App Store */ = {
 			isa = PBXGroup;
 			children = (
+				E8BE491A2B551972005075DC /* InfoPlist.xcstrings */,
 				E8BE48DE2B551871005075DC /* Screenshots.xcstrings */,
 				E8BE48DF2B551871005075DC /* Metadata.xcstrings */,
 			);
@@ -123,19 +124,20 @@
 		E8BE48E02B551871005075DC /* Features */ = {
 			isa = PBXGroup;
 			children = (
-				E8BE48E12B551871005075DC /* AddNewHealthKitPermissions.xcstrings */,
-				E8BE48E22B551871005075DC /* HealthKitUnavailable.xcstrings */,
-				E8BE48E32B551871005075DC /* PeakPro.xcstrings */,
-				E8BE48E42B551871005075DC /* Backups.xcstrings */,
-				E8BE48E52B551871005075DC /* Notifications.xcstrings */,
 				E8BE48E62B551871005075DC /* Onboarding.xcstrings */,
 				E8BE48E72B551871005075DC /* AddEntry.xcstrings */,
-				E8BE48E82B551871005075DC /* Reports.xcstrings */,
-				E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */,
-				E8BE48EA2B551871005075DC /* Details.xcstrings */,
-				E8BE48EB2B551871005075DC /* Preferences.xcstrings */,
 				E8BE48EC2B551871005075DC /* AddMetrics.xcstrings */,
+				E8BE48EA2B551871005075DC /* Details.xcstrings */,
 				E8BE48ED2B551871005075DC /* Home.xcstrings */,
+				E8BE48E32B551871005075DC /* PeakPro.xcstrings */,
+				E8BE48EB2B551871005075DC /* Preferences.xcstrings */,
+				E8BE48E42B551871005075DC /* Backups.xcstrings */,
+				E8BE48E52B551871005075DC /* Notifications.xcstrings */,
+				E8BE48E82B551871005075DC /* Reports.xcstrings */,
+				E8BE491C2B551980005075DC /* Widget.xcstrings */,
+				E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */,
+				E8BE48E12B551871005075DC /* AddNewHealthKitPermissions.xcstrings */,
+				E8BE48E22B551871005075DC /* HealthKitUnavailable.xcstrings */,
 			);
 			path = Features;
 			sourceTree = "<group>";
@@ -143,13 +145,13 @@
 		E8BE48EE2B551871005075DC /* Blocks */ = {
 			isa = PBXGroup;
 			children = (
-				E8BE48EF2B551871005075DC /* Resolutions.xcstrings */,
-				E8BE48F02B551871005075DC /* ConfigureGoal.xcstrings */,
-				E8BE48F12B551871005075DC /* Trends.xcstrings */,
-				E8BE48F22B551871005075DC /* Benchmark.xcstrings */,
 				E8BE48F32B551871005075DC /* Blocks.xcstrings */,
 				E8BE48F42B551871005075DC /* Goals.xcstrings */,
 				E8BE48F52B551871005075DC /* GoalTitles.xcstrings */,
+				E8BE48F02B551871005075DC /* ConfigureGoal.xcstrings */,
+				E8BE48EF2B551871005075DC /* Resolutions.xcstrings */,
+				E8BE48F22B551871005075DC /* Benchmark.xcstrings */,
+				E8BE48F12B551871005075DC /* Trends.xcstrings */,
 			);
 			path = Blocks;
 			sourceTree = "<group>";
@@ -157,12 +159,12 @@
 		E8BE48F62B551871005075DC /* Core */ = {
 			isa = PBXGroup;
 			children = (
+				E8BE48FC2B551871005075DC /* General.xcstrings */,
+				E8BE48FA2B551871005075DC /* Time.xcstrings */,
+				E8BE48FB2B551871005075DC /* Metrics.xcstrings */,
 				E8BE48F72B551871005075DC /* Stats.xcstrings */,
 				E8BE48F82B551871005075DC /* Themes.xcstrings */,
 				E8BE48F92B551871005075DC /* WorkoutTypes.xcstrings */,
-				E8BE48FA2B551871005075DC /* Time.xcstrings */,
-				E8BE48FB2B551871005075DC /* Metrics.xcstrings */,
-				E8BE48FC2B551871005075DC /* General.xcstrings */,
 			);
 			path = Core;
 			sourceTree = "<group>";
@@ -170,12 +172,10 @@
 		E8BE49192B551956005075DC /* Localisation */ = {
 			isa = PBXGroup;
 			children = (
-				E8BE491A2B551972005075DC /* InfoPlist.xcstrings */,
-				E8BE491C2B551980005075DC /* Widget.xcstrings */,
-				E8BE48DD2B551871005075DC /* App Store */,
-				E8BE48EE2B551871005075DC /* Blocks */,
 				E8BE48F62B551871005075DC /* Core */,
 				E8BE48E02B551871005075DC /* Features */,
+				E8BE48EE2B551871005075DC /* Blocks */,
+				E8BE48DD2B551871005075DC /* App Store */,
 			);
 			path = Localisation;
 			sourceTree = "<group>";
