@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E8B3C1502B552E2800030D64 /* Formatting.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8B3C14F2B552E2800030D64 /* Formatting.xcstrings */; };
 		E8BE48D02B5517DE005075DC /* PeakLocalisationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */; };
 		E8BE48FD2B551871005075DC /* Screenshots.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48DE2B551871005075DC /* Screenshots.xcstrings */; };
 		E8BE48FE2B551871005075DC /* Metadata.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48DF2B551871005075DC /* Metadata.xcstrings */; };
@@ -41,6 +42,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E8B3C14F2B552E2800030D64 /* Formatting.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Formatting.xcstrings; sourceTree = "<group>"; };
 		E8BE48CC2B5517DE005075DC /* PeakLocalisations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PeakLocalisations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeakLocalisationsApp.swift; sourceTree = "<group>"; };
 		E8BE48DE2B551871005075DC /* Screenshots.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Screenshots.xcstrings; sourceTree = "<group>"; };
@@ -165,6 +167,7 @@
 				E8BE48F72B551871005075DC /* Stats.xcstrings */,
 				E8BE48F82B551871005075DC /* Themes.xcstrings */,
 				E8BE48F92B551871005075DC /* WorkoutTypes.xcstrings */,
+				E8B3C14F2B552E2800030D64 /* Formatting.xcstrings */,
 			);
 			path = Core;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 				E8BE49132B551871005075DC /* Stats.xcstrings in Resources */,
 				E8BE49092B551871005075DC /* Preferences.xcstrings in Resources */,
 				E8BE49032B551871005075DC /* Notifications.xcstrings in Resources */,
+				E8B3C1502B552E2800030D64 /* Formatting.xcstrings in Resources */,
 				E8BE49012B551871005075DC /* PeakPro.xcstrings in Resources */,
 				E8BE49002B551871005075DC /* HealthKitUnavailable.xcstrings in Resources */,
 				E8BE49122B551871005075DC /* GoalTitles.xcstrings in Resources */,
