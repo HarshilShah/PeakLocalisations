@@ -2,19 +2,53 @@
   "sourceLanguage" : "en",
   "strings" : {
     "%@ Hold to set up" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Halten um zu konfigurieren"
+          }
+        }
+      }
     },
     "%@ Tap and hold to set up" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Drücken und halten um zu konfigurieren"
+          }
+        }
+      }
     },
-	"All Workouts" : {
-
+    "All Workouts" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle Trainings"
+          }
+        }
+      }
     },
     "App Icon" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Icon"
+          }
+        }
+      }
     },
     "AppIconWidget.Description" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einfach ein grosses App Icon"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -25,6 +59,12 @@
     },
     "AppIconWidget.Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Icon"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -34,10 +74,23 @@
       }
     },
     "Benchmark" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benchmark"
+          }
+        }
+      }
     },
     "BenchmarkWidget.Description" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vergleiche einen Fortschritt mit einem Benchmark."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48,6 +101,12 @@
     },
     "BenchmarkWidget.Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benchmark"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -58,6 +117,12 @@
     },
     "ChartWidget.Description" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualisiere deine Fitness-Reise mit Diagrammen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -68,6 +133,12 @@
     },
     "ChartWidget.Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diagramme"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77,16 +148,43 @@
       }
     },
     "Dark Mode Icon" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Icon im dunklen Stil"
+          }
+        }
+      }
     },
     "Dark Mode Theme" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunkler Stil"
+          }
+        }
+      }
     },
     "Goal" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziel"
+          }
+        }
+      }
     },
     "GoalWidget.Description" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfolge deinen Fortschritt deiner Fitness-Ziele."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -97,6 +195,12 @@
     },
     "GoalWidget.Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -107,6 +211,12 @@
     },
     "HistoryWidget.Description" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeige alle deine Statistiken der letzten Woche an."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -117,6 +227,12 @@
     },
     "HistoryWidget.Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verlauf"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -126,46 +242,143 @@
       }
     },
     "Leave this empty to show totals for all workout types" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leer lassen um die Summe aller deiner Trainings-Arten"
+          }
+        }
+      }
     },
     "Leave this empty to show trends for all workout types" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leer lassen um die Trends aller deiner Trainings-Arten"
+          }
+        }
+      }
     },
     "Light Mode Icon" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Icon im hellen Stil"
+          }
+        }
+      }
     },
     "Light Mode Theme" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heller Stil"
+          }
+        }
+      }
     },
     "Match App" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit App synchronisieren"
+          }
+        }
+      }
     },
     "Metric" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metrik"
+          }
+        }
+      }
     },
     "Metrics" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metriken"
+          }
+        }
+      }
     },
     "No Benchmark Configured" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kein Benchmark konfiguriert"
+          }
+        }
+      }
     },
     "No Goal Selected" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kein Ziel ausgewählt"
+          }
+        }
+      }
     },
     "No Metric Selected" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Metrik ausgewählt"
+          }
+        }
+      }
     },
     "No Metrics Selected" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Metriken ausgewählt"
+          }
+        }
+      }
     },
     "None" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine"
+          }
+        }
+      }
     },
     "Overview Period" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Übersichts-Zeitraum"
+          }
+        }
+      }
     },
     "OverviewWidget.Description" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erhalte eine Übersicht deines Fortschritts im Verlauf der Zeit."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176,6 +389,12 @@
     },
     "OverviewWidget.Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Übersicht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -185,10 +404,23 @@
       }
     },
     "Period" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeitraum"
+          }
+        }
+      }
     },
     "RecentsWidget.Description" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeige deine letzten Statistiken für eine beliebige Metrik an."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -199,6 +431,12 @@
     },
     "RecentsWidget.Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kürzlich verwendet"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -208,25 +446,73 @@
       }
     },
     "Show Stats" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeige Statistiken an"
+          }
+        }
+      }
     },
     "Show Stats for Today" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeige Statistiken für heute an"
+          }
+        }
+      }
     },
     "Statistic" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistik"
+          }
+        }
+      }
     },
     "Tap to Unlock Widget" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tippen um das Widget zu entsperren"
+          }
+        }
+      }
     },
     "Theme" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stil"
+          }
+        }
+      }
     },
     "Timescales" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeitrahmen"
+          }
+        }
+      }
     },
     "TodayWidget.Description" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Statistiken für heute."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -237,6 +523,12 @@
     },
     "TodayWidget.Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -247,6 +539,12 @@
     },
     "TotalsWidget.Description" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeige deinen Gesamt-Fortschritt der letzten Woche, des letzten Monats und des letzten Jahrs an."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -257,6 +555,12 @@
     },
     "TotalsWidget.Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Summen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -267,6 +571,12 @@
     },
     "TrendsWidget.Description" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bleibe auf Kurs und baue auf deinen bisherigen Leistungen auf."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -277,6 +587,12 @@
     },
     "TrendsWidget.Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trends"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -286,10 +602,24 @@
       }
     },
     "Workout Type" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trainings-Art"
+          }
+        }
+      }
     },
     "Workout Types" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trainings-Arten"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

@@ -5,6 +5,12 @@
       "comment" : "Do not localize",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -14,12 +20,25 @@
       }
     },
     "Change App Icon" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Icon ändern"
+          }
+        }
+      }
     },
     "NSHealthShareUsageDescription" : {
       "comment" : "Privacy - Health Share Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak liest Daten aus HealthKit um deinen Fortschritt anzuzeigen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -32,6 +51,12 @@
       "comment" : "Privacy - Health Update Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak schreibt dein Gewicht und deine Körpermasse in HealthKit"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -44,6 +69,12 @@
       "comment" : "Privacy - Photo Library Additions Usage Description",
       "extractionState" : "extracted_with_value",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak speichert deine Berichte in die Foto-Mediathek"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "new",
@@ -53,16 +84,45 @@
       }
     },
     "Peak backup" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak Sicherung"
+          }
+        }
+      }
     },
     "Something Wrong?" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etwas stimmt nicht?"
+          }
+        }
+      }
     },
     "UntitledHealthApp backup" : {
-      "comment" : "Do not localize"
+      "comment" : "Do not localize",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UntitledHealthApp backup"
+          }
+        }
+      }
     },
     "We’re here to help" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir helfen gerne weiter"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

@@ -4,6 +4,12 @@
     "Active Energy" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktive Energie"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16,6 +22,12 @@
       "comment" : "This is used as a shorthand for \"All Rings\"; it's shorter to match Move, Exercise, and Stand",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27,6 +39,12 @@
     "Average" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durchschnitt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38,6 +56,12 @@
     "Duration" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dauer"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50,6 +74,12 @@
       "comment" : "This is different from \"Duration\" in that it covers the total workout time, including when you paused it",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesamtdauer"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -61,6 +91,12 @@
     "Elevation Gained" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gewonnene Höhe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -72,6 +108,12 @@
     "Maximum" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maximum"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -83,6 +125,12 @@
     "Minimum" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimum"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -94,6 +142,12 @@
     "Number of Days" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anzahl Tage"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -105,6 +159,12 @@
     "Number of Workouts" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anzahl Trainingseinheiten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -117,6 +177,12 @@
       "comment" : "This is the inverse of \"Speed\"; so if the speed is in kilometres per hour, pace would be expressed as minutes or hours per kilometre",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -129,6 +195,12 @@
       "comment" : "Used to show progress (first parameter) relative to a goal (second parameter)",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@/%2$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -141,6 +213,12 @@
       "comment" : "Used to show the current or required progress per unit of time, for example \"per week\"",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/%@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -153,6 +231,12 @@
       "comment" : "Used to show progress (first parameter) relative to a goal (second parameter)",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ von %2$@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -165,6 +249,12 @@
       "comment" : "Used to show a goal. The current progress is rendered separately, when using this variant",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/%@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176,6 +266,12 @@
     "Speed" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geschwindigkeit"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -187,6 +283,12 @@
     "Stats" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistiken"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -198,6 +300,12 @@
     "Total" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesamt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -209,6 +317,12 @@
     "Total Energy" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesamt Energie"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -220,6 +334,12 @@
     "Workout Stat" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trainigs-Statistiken"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -231,6 +351,12 @@
     "Workout Stat.Select" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wähle eine Trainings-Statistik"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -242,6 +368,12 @@
     "Workout Type" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trainings-Art"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -253,6 +385,12 @@
     "Workout Types" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trainings-Arten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

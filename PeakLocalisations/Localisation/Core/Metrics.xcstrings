@@ -4,6 +4,12 @@
     "Active Energy" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktive Energie"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15,6 +21,12 @@
     "Activity Rings" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivitätgsringe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27,6 +39,12 @@
       "comment" : "Compact version of \"Activity Rings\". If one doesn't exist, enter the same value for both",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ringe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38,6 +56,12 @@
     "Activity Rings Exercise" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trainieren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -49,6 +73,12 @@
     "Activity Rings Move" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bewegen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -60,6 +90,12 @@
     "Activity Rings Stand" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stehen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71,6 +107,12 @@
     "Body Fat Percentage" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Körperfett-Prozent"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -83,6 +125,12 @@
       "comment" : "Compact version of \"Body Fat Percentage\". If one doesn't exist, enter the same value for both",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Körperfett %"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -94,6 +142,12 @@
     "Body Mass Index" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Body Mass Index"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -106,6 +160,12 @@
       "comment" : "Compact version of \"Body Mass Index\". If one doesn't exist, enter the same value for both",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BMI"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -117,6 +177,12 @@
     "Cycling Distance" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Radfahren Distanz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -128,6 +194,12 @@
     "Distance" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distanz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -139,6 +211,12 @@
     "Exercise Minutes" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trainings-Minuten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -150,6 +228,12 @@
     "Flights Climbed" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stockwerke"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -161,6 +245,12 @@
     "Heart Rate" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herzfrequenz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -172,6 +262,12 @@
     "Heart Rate Usage Description" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wird zur Anzeige von Herzfrequenz-statistiken und -grafiken für Trainingseinheiten genutzt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -183,6 +279,12 @@
     "Height" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grösse"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -194,6 +296,12 @@
     "Height Usage Description" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wird zur Berechnung deines BMI genutzt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -205,6 +313,12 @@
     "Lean Body Mass" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magere Körpermasse"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -216,6 +330,12 @@
     "Metric.Singular" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metrik"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -227,6 +347,12 @@
     "Metrics.Plural" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metriken"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -238,6 +364,12 @@
     "Skiing and Snowboarding Distance" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skifahren und Snowboarden Distanz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -250,6 +382,12 @@
       "comment" : "Compact version of \"Skiing and Snowboarding Distance\". If one doesn't exist, enter the same value for both",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skifahren Distanz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -261,6 +399,12 @@
     "Stand Hours" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steh-Stunden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -272,6 +416,12 @@
     "Steps" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schritte"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -283,6 +433,12 @@
     "Swimming Distance" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schwimmen Distanz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -295,6 +451,12 @@
       "comment" : "Compact version of \"Swimming Distance\". If one doesn't exist, enter the same value for both",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schwimmen Distanz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -306,6 +468,12 @@
     "Walking and Running Distance" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gehen und Laufen Distanz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -317,6 +485,12 @@
     "Weight" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gewicht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -328,6 +502,12 @@
     "Wheelchair Distance" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rollstuhl Distanz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -339,6 +519,12 @@
     "Wheelchair Pushes" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rollstuhl Schübe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -351,6 +537,12 @@
       "comment" : "Compact version of \"Wheelchair Pushes\". If one doesn't exist, enter the same value for both",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rollstuhl Schübe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -362,6 +554,12 @@
     "Workouts" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trainingseinheiten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
