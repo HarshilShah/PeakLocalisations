@@ -34,13 +34,46 @@
         }
       }
     },
-    "Log %@ " : {
+    "Log.BMI" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Log Your %@"
+            "value" : "Log Your BMI"
+          }
+        }
+      }
+    },
+    "Log.BodyFat" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Your Body Fat"
+          }
+        }
+      }
+    },
+    "Log.LeanBodyMass" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Your Lean Body Mass"
+          }
+        }
+      }
+    },
+    "Log.Weight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Log Your Weight"
           }
         }
       }
