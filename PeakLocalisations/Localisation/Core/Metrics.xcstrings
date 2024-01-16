@@ -110,7 +110,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Körperfett-Prozent"
+            "value" : "Körperfettanteil"
           }
         },
         "en" : {
@@ -180,7 +180,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Radfahren Distanz"
+            "value" : "Strecke Radfahren"
           }
         },
         "en" : {
@@ -197,7 +197,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distanz"
+            "value" : "Strecke"
           }
         },
         "en" : {
@@ -282,7 +282,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grösse"
+            "value" : "Größe"
           }
         },
         "en" : {
@@ -316,7 +316,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Magere Körpermaße"
+            "value" : "Magere Körpermasse"
           }
         },
         "en" : {
@@ -367,7 +367,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skifahren und Snowboarden Distanz"
+            "value" : "Strecke Skifahren und Snowboarden"
           }
         },
         "en" : {
@@ -385,7 +385,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skifahren Distanz"
+            "value" : "Strecke Skifahren"
           }
         },
         "en" : {
@@ -402,7 +402,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Steh-Stunden"
+            "value" : "Stehstunden"
           }
         },
         "en" : {
@@ -436,7 +436,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schwimmen Distanz"
+            "value" : "Strecke Schwimmen"
           }
         },
         "en" : {
@@ -454,7 +454,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schwimmen Distanz"
+            "value" : "Strecke Schwimmen"
           }
         },
         "en" : {
@@ -471,7 +471,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gehen und Laufen Distanz"
+            "value" : "Strecke Gehen und Laufen"
           }
         },
         "en" : {
@@ -505,7 +505,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rollstuhl Distanz"
+            "value" : "Strecke (Rollstuhl)"
           }
         },
         "en" : {

@@ -201,7 +201,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wechsle in den StandBy Modus und wische zu einer Ansicht mit zwei Widgets nebeneinander.\nHalte ein Widget lange gedrückt.\nTippe auf den Plus-Button oben links.\nSuche \"Peak\".\nWähle ein Widget aus, und klicke auf \"Widget hinzufügen\".\nTippe auf das Widget, um es zu bearbeiten."
+            "value" : "Aktiviere den StandBy Modus und wechsle zu einer Ansicht mit zwei Widgets nebeneinander.\nHalte ein Widget lange gedrückt.\nTippe auf den Plus-Button oben links.\nSuche \"Peak\".\nWähle ein Widget aus, und klicke auf \"Widget hinzufügen\".\nTippe auf das Widget, um es zu bearbeiten."
           }
         },
         "en" : {
@@ -236,7 +236,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wechsle in den StandBy Modus und wische zu einer Ansicht mit einem Peak Widget.\nHalte das Widget lange gedrückt, bis eine vertikales Karussell erscheint.\nTippe auf das Widget im Karussell, um es zu bearbeiten."
+            "value" : "Aktiviere den StandBy Modus und wechsle zu einer Ansicht mit einem Peak Widget.\nHalte das Widget lange gedrückt, bis eine vertikales Karussell erscheint.\nTippe auf das Widget im Karussell, um es zu bearbeiten."
           }
         },
         "en" : {
@@ -271,7 +271,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hinweis: Der StandBy Modus funktioniert nur auf einem iPhone mit iOS 17 oder neuer.\nGehe in die Einstellungen > StandBy und stelle sicher, dass StandBy aktiviert ist.\nVerbinde dein iPhone mit einem Ladegerät und kippe es in eine horizontale Position.\nDrücke den Seitenschalter.\nWische links oder rechts, um zwischen den verschiedenen Ansichten zu wechseln. Wische hoch oder runter um zwischen den verschiedenen Optionen der Ansichten zu wechseln."
+            "value" : "Hinweis: Der StandBy Modus funktioniert nur auf einem iPhone mit iOS 17 oder neuer.\nGehe in die Einstellungen > StandBy und stelle sicher, dass StandBy aktiviert ist.\nVerbinde dein iPhone mit einem Ladegerät und kippe es in eine horizontale Position.\nDrücke den Seitenschalter.\nStreiche links oder rechts, um zwischen den verschiedenen Ansichten zu wechseln. Streiche hoch oder runter um zwischen den verschiedenen Optionen der Ansichten zu wechseln."
           }
         },
         "en" : {

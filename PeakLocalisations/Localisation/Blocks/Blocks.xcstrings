@@ -24,7 +24,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Visualisiere deine Statistiken"
+            "value" : "Visualisiere deine Statistiken."
           }
         },
         "en" : {
@@ -58,7 +58,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erhalte eine Übersicht über deine Statistiken"
+            "value" : "Erhalte eine Übersicht über deine Statistiken."
           }
         },
         "en" : {
@@ -126,7 +126,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Summe hinzufügen"
+            "value" : "Summen hinzufügen"
           }
         },
         "en" : {

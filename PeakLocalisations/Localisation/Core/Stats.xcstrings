@@ -94,7 +94,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erreichte Höhe"
+            "value" : "Höhenmeter"
           }
         },
         "en" : {
@@ -269,7 +269,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Geschwindigkeit"
+            "value" : "Tempo"
           }
         },
         "en" : {

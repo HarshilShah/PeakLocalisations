@@ -136,7 +136,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diagramme"
+            "value" : "Diagramm"
           }
         },
         "en" : {
@@ -152,7 +152,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "App Icon in der dunklen Darstellung"
+            "value" : "App Icon im Dunkelmodus"
           }
         }
       }
@@ -162,7 +162,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dunkles Theme"
+            "value" : "Theme im Dunkelmodus"
           }
         }
       }
@@ -266,7 +266,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "App Icon in der hellen Darstellung"
+            "value" : "App Icon im Hellmodus"
           }
         }
       }
@@ -276,7 +276,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Helles Theme"
+            "value" : "Theme im Hellmodus"
           }
         }
       }

@@ -7,7 +7,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Amerikanischer Fußball"
+            "value" : "American Football"
           }
         },
         "en" : {
@@ -41,7 +41,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Australischer Fußball"
+            "value" : "Australian Football"
           }
         },
         "en" : {
@@ -58,7 +58,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Federball"
+            "value" : "Badminton"
           }
         },
         "en" : {
@@ -75,7 +75,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Barre"
+            "value" : "Barre-Training"
           }
         },
         "en" : {
@@ -126,7 +126,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kegeln"
+            "value" : "Bowling"
           }
         },
         "en" : {
@@ -194,7 +194,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abwärmen"
+            "value" : "Cool-down"
           }
         },
         "en" : {
@@ -228,7 +228,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cricket"
+            "value" : "Kricket"
           }
         },
         "en" : {
@@ -245,7 +245,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Langlauf"
+            "value" : "Skilanglauf"
           }
         },
         "en" : {
@@ -262,7 +262,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cross-Training"
+            "value" : "Crosstraining"
           }
         },
         "en" : {
@@ -330,7 +330,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tänzerisch inspiriertes Training"
+            "value" : "Tänzerisches Training"
           }
         },
         "en" : {
@@ -347,7 +347,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diskus-Sport"
+            "value" : "Flugscheibensport"
           }
         },
         "en" : {
@@ -364,7 +364,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abfahrt"
+            "value" : "Skifahren"
           }
         },
         "en" : {
@@ -381,7 +381,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elliptisch"
+            "value" : "Crosstrainer"
           }
         },
         "en" : {
@@ -449,7 +449,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fischen"
+            "value" : "Angeln"
           }
         },
         "en" : {
@@ -483,7 +483,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Flexibilität"
+            "value" : "Flexibilitätstraining"
           }
         },
         "en" : {
@@ -551,7 +551,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hand-Radfahren"
+            "value" : "Handbiken"
           }
         },
         "en" : {
@@ -670,7 +670,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Springseil"
+            "value" : "Seilspringen"
           }
         },
         "en" : {
@@ -738,7 +738,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Körper und Geist"
+            "value" : "Körper & Geist"
           }
         },
         "en" : {
@@ -755,7 +755,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gemischtes Kardio"
+            "value" : "Gem. Cardiotraining"
           }
         },
         "en" : {
@@ -772,7 +772,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gemischtes metabolisches Kardio-Training"
+            "value" : "Gem. metabolisches Cardiotraining"
           }
         },
         "en" : {
@@ -789,7 +789,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anderes"
+            "value" : "Sonstiges"
           }
         },
         "en" : {
@@ -1010,7 +1010,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eislauf Sport"
+            "value" : "Skaten"
           }
         },
         "en" : {
@@ -1044,7 +1044,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schneesportarten"
+            "value" : "Wintersport"
           }
         },
         "en" : {
@@ -1146,7 +1146,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Treppen steigen"
+            "value" : "Stepper"
           }
         },
         "en" : {
@@ -1180,7 +1180,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schritt-Training"
+            "value" : "Steppertraining"
           }
         },
         "en" : {
