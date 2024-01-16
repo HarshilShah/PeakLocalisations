@@ -7,7 +7,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Amerikanischer Fussball"
+            "value" : "Amerikanischer Fußball"
           }
         },
         "en" : {
@@ -24,7 +24,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bogenschiessen"
+            "value" : "Bogenschießen"
           }
         },
         "en" : {
@@ -41,7 +41,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Australischer Fussball"
+            "value" : "Australischer Fußball"
           }
         },
         "en" : {
@@ -1078,7 +1078,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fussball"
+            "value" : "Fußball"
           }
         },
         "en" : {
