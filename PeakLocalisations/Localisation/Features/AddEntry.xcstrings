@@ -58,7 +58,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trage dein %@ ein"
+            "value" : "Trage deinen BMI ein"
           }
         },
         "en" : {
@@ -72,6 +72,12 @@
     "Log.BodyFat" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trage dein Körperfett ein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -83,6 +89,12 @@
     "Log.LeanBodyMass" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trage deine magere Körpermasse ein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -94,6 +106,12 @@
     "Log.Weight" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trage dein Gewicht ein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
