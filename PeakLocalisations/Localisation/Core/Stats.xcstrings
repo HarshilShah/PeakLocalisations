@@ -77,7 +77,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gesamtdauer"
+            "value" : "Gesamtzeit"
           }
         },
         "en" : {
@@ -94,7 +94,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gewonnene Höhe"
+            "value" : "Erreichte Höhe"
           }
         },
         "en" : {
@@ -162,7 +162,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anzahl Trainingseinheiten"
+            "value" : "Anzahl Trainings"
           }
         },
         "en" : {
@@ -337,7 +337,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trainigs-Statistiken"
+            "value" : "Trainigs-Statistik"
           }
         },
         "en" : {
@@ -371,7 +371,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trainings-Art"
+            "value" : "Trainingsart"
           }
         },
         "en" : {
@@ -388,7 +388,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trainings-Arten"
+            "value" : "Trainingsarten"
           }
         },
         "en" : {

@@ -152,7 +152,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "App Icon im dunklen Stil"
+            "value" : "App Icon in der dunklen Darstellung"
           }
         }
       }
@@ -162,7 +162,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dunkler Stil"
+            "value" : "Dunkles Theme"
           }
         }
       }
@@ -266,7 +266,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "App Icon im hellen Stil"
+            "value" : "App Icon in der hellen Darstellung"
           }
         }
       }
@@ -276,7 +276,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Heller Stil"
+            "value" : "Helles Theme"
           }
         }
       }
@@ -296,7 +296,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metrik"
+            "value" : "Kennzahl"
           }
         }
       }
@@ -306,7 +306,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metriken"
+            "value" : "Kennzahlen"
           }
         }
       }
@@ -336,7 +336,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine Metrik ausgewählt"
+            "value" : "Keine Kennzahl ausgewählt"
           }
         }
       }
@@ -346,7 +346,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine Metriken ausgewählt"
+            "value" : "Keine Kennzahlen ausgewählt"
           }
         }
       }
@@ -418,7 +418,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeige deine letzten Statistiken für eine beliebige Metrik an."
+            "value" : "Zeige deine letzten Statistiken für eine beliebige Kennzahl an."
           }
         },
         "en" : {
@@ -434,7 +434,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kürzlich verwendet"
+            "value" : "Neueste"
           }
         },
         "en" : {
@@ -490,7 +490,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stil"
+            "value" : "Theme"
           }
         }
       }
@@ -500,7 +500,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeitrahmen"
+            "value" : "Zeiträume"
           }
         }
       }
@@ -606,7 +606,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trainings-Art"
+            "value" : "Trainingsart"
           }
         }
       }
@@ -616,7 +616,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trainings-Arten"
+            "value" : "Trainingsarten"
           }
         }
       }

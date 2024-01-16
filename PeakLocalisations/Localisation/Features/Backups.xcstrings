@@ -191,13 +191,13 @@
                   "one" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%arg Metrik"
+                      "value" : "%arg Kennzahl"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
                       "state" : "translated",
-                      "value" : "%arg Metriken"
+                      "value" : "%arg Kennzahlen"
                     }
                   }
                 }

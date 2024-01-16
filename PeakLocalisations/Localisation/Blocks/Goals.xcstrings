@@ -211,7 +211,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ziel-Verlauf"
+            "value" : "Verlauf der Ziele"
           }
         },
         "en" : {
@@ -245,7 +245,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vorsatz-Fortschritt"
+            "value" : "Fortschritt des Vorsatzes"
           }
         },
         "en" : {
@@ -381,7 +381,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktuelles tempo"
+            "value" : "Aktuelles Tempo"
           }
         },
         "en" : {
@@ -568,7 +568,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rückschritt"
+            "value" : "Im Hintertreffen"
           }
         },
         "en" : {

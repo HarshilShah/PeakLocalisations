@@ -28,13 +28,13 @@
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "Du kannst bis zu einer Metrik auswählen."
+                  "value" : "Du kannst bis zu einer Kennzahl auswählen."
                 }
               },
               "other" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "Du kannst bis zu %lld Metriken auswählen."
+                  "value" : "Du kannst bis zu %lld Kennzahlen auswählen."
                 }
               }
             }
@@ -123,7 +123,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meine %1$@ Zusammenfassung für %2$@! Überprüfe deinen unter"
+            "value" : "Meine %1$@ Zusammenfassung für %2$@! Schau dir Deine an unter"
           }
         },
         "en" : {
@@ -141,7 +141,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meine Fitness-Zusammenfassung für %1$@! Überprüfe deinen unter %2$@"
+            "value" : "Meine Fitness-Zusammenfassung für %1$@! Schau dir deine an unter %2$@"
           }
         },
         "en" : {
@@ -158,7 +158,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zufälliger Stil"
+            "value" : "Zufälliges Theme"
           }
         },
         "en" : {

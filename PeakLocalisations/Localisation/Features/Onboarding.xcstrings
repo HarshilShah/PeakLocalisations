@@ -24,7 +24,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Konfiguriere deine Metriken und Blöcke"
+            "value" : "Konfiguriere deine Kennzahlen und Blöcke"
           }
         },
         "en" : {
@@ -92,7 +92,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eine gestapelte Liste von sich teilweise überschneidenden Übersichtsblöcken aus der App, die in verschiedenen mehrfarbigen Themen dargestellt werden"
+            "value" : "Ein Stapel von sich teilweise überschneidenden Übersichtsblöcken aus der App, die in verschiedenen mehrfarbigen Themen dargestellt werden"
           }
         },
         "en" : {
@@ -126,7 +126,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eine breite Auswahl von Stilen"
+            "value" : "Eine breite Auswahl von Themes"
           }
         },
         "en" : {
@@ -160,7 +160,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modell eines Übergangs zwischen einem iOS-Homescreen und einem Sperrbildschirm, die jeweils mehrere Peak-Widgets zeigen."
+            "value" : "Modell eines Übergangs zwischen einem iOS-Homebildschirm und einem Sperrbildschirm, die jeweils mehrere Peak-Widgets zeigen."
           }
         },
         "en" : {
@@ -177,7 +177,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deinen Fortschritt immer im Blick"
+            "value" : "Behalte deinen Fortschritt immer im Blick."
           }
         },
         "en" : {
@@ -194,7 +194,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Homescreen & Sperrbildschirm Widgets"
+            "value" : "Home- & Sperrbildschirm Widgets"
           }
         },
         "en" : {

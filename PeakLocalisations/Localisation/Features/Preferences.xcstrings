@@ -269,7 +269,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dunkler Stil"
+            "value" : "Dunkles Theme"
           }
         },
         "en" : {
@@ -338,7 +338,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kalorien (Kal)"
+            "value" : "Kalorien (Cal)"
           }
         },
         "en" : {
@@ -442,7 +442,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Homescreen"
+            "value" : "Homebildschirm"
           }
         },
         "en" : {
@@ -459,7 +459,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Heller Stil"
+            "value" : "Helles Theme"
           }
         },
         "en" : {
@@ -527,7 +527,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wähle einen Stil"
+            "value" : "Wähle eine Theme"
           }
         },
         "en" : {
@@ -698,7 +698,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Standby"
+            "value" : "StandBy"
           }
         },
         "en" : {
@@ -749,7 +749,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stil"
+            "value" : "Theme"
           }
         },
         "en" : {
@@ -869,7 +869,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Steine (st)"
+            "value" : "Stone (st)"
           }
         },
         "en" : {

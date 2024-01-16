@@ -333,7 +333,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metrik"
+            "value" : "Kennzahl"
           }
         },
         "en" : {
@@ -350,7 +350,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metriken"
+            "value" : "Kennzahlen"
           }
         },
         "en" : {
@@ -540,7 +540,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rollstuhl Schübe"
+            "value" : "Schübe"
           }
         },
         "en" : {
@@ -557,7 +557,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trainingseinheiten"
+            "value" : "Trainings"
           }
         },
         "en" : {

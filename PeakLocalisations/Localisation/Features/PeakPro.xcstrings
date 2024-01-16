@@ -109,7 +109,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eine breite Palette an Icons, die deinen Homescreen erfreuen."
+            "value" : "Eine breite Palette an Icons, die deinen Homebildschirm erfreuen."
           }
         },
         "en" : {
@@ -126,7 +126,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unbegrenzte Metriken und Blöcke"
+            "value" : "Unbegrenzte Kennzahlen und Blöcke"
           }
         },
         "en" : {
@@ -194,7 +194,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stile"
+            "value" : "Themes"
           }
         },
         "en" : {
@@ -211,7 +211,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Personalisiere die App mit einem von über 60 wunderschönen Stilen."
+            "value" : "Personalisiere die App mit einem von über 60 wunderschönen Themes."
           }
         },
         "en" : {
@@ -228,7 +228,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Homescreen & Sperrbildschirm Widgets"
+            "value" : "Home- & Sperrbildschirm Widgets"
           }
         },
         "en" : {
@@ -245,7 +245,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Behalte deinen Fortschritt im Blick mit wunderschönen Widgets."
+            "value" : "Behalte deinen Fortschritt mit wunderschönen Widgets im Blick."
           }
         },
         "en" : {
@@ -262,7 +262,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schalte umlimitierte Metriken, Blocks, Stile, Widgets und mehr frei"
+            "value" : "Schalte unbegrenzte Kennzahlen, Blocks, Themes, Widgets und mehr frei"
           }
         },
         "en" : {
@@ -498,13 +498,13 @@
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "Füge mehr als %d Metrik hinzu mit"
+                  "value" : "Füge mehr als %d Kennzahl hinzu mit"
                 }
               },
               "other" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "Füge mehr als %d Metriken hinzu mit"
+                  "value" : "Füge mehr als %d Kennzahlen hinzu mit"
                 }
               }
             }
@@ -524,7 +524,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Passe deinen Stil an mit"
+            "value" : "Passe dein Theme an mit"
           }
         },
         "en" : {
@@ -592,7 +592,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Widerherstellen"
+            "value" : "Wiederherstellen"
           }
         },
         "en" : {

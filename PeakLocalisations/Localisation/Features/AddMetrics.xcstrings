@@ -24,7 +24,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Weitere Metriken sind in Arbeit. Wenn du Vorschläge hast, lass es mich gerne wissen!"
+            "value" : "Weitere Kennzahlen sind in Arbeit. Wenn du Vorschläge hast, lass es mich gerne wissen!"
           }
         },
         "en" : {
@@ -58,7 +58,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nicht vorrätig"
+            "value" : "Ausverkauft"
           }
         },
         "en" : {
@@ -143,7 +143,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metrik hinzufügen"
+            "value" : "Kennzahl hinzufügen"
           }
         },
         "en" : {
