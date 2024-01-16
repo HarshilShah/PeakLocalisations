@@ -28,7 +28,7 @@
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "Du kannst bis zu einer Kennzahl auswählen."
+                  "value" : "Du kannst nur eine Kennzahl auswählen."
                 }
               },
               "other" : {
@@ -123,7 +123,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meine %1$@ Zusammenfassung für %2$@! Schau dir Deine an unter"
+            "value" : "Meine %1$@ Zusammenfassung für %2$@! Schau dir Deine an unter %3$@"
           }
         },
         "en" : {
