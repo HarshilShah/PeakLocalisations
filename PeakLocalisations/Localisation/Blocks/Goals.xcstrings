@@ -4,6 +4,12 @@
     "Daily Goal" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tägliches Ziel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15,6 +21,12 @@
     "Description" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sieh dir den Fortschritt deiner Ziele an."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26,6 +38,12 @@
     "Easing.Balanced" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewogen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37,6 +55,12 @@
     "Easing.Current" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuell"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48,6 +72,12 @@
     "Easing.GentleStart" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schonender Start"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -59,6 +89,12 @@
     "Easing.Linear" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Linear"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -70,6 +106,12 @@
     "Easing.StrongStart" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kräftiger Start"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -81,6 +123,12 @@
     "Edit" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bearbeiten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92,6 +140,12 @@
     "Goal" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -103,6 +157,12 @@
     "Goals" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziele"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -114,6 +174,12 @@
     "History.Empty.Description" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn du Ziele erreichst, werden sie hier erscheinen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -125,6 +191,12 @@
     "History.Empty.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hier gibt es (noch) nichts zu sehen…"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -136,6 +208,12 @@
     "History.Goal.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verlauf der Ziele"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +225,12 @@
     "History.LoadMore" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehr Laden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -158,6 +242,12 @@
     "History.Resolution.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortschritt des Vorsatzes"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169,6 +259,12 @@
     "NotificationKind.CriticalDay" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kritischer Tag"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180,6 +276,12 @@
     "NotificationKind.Goal Updated" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziel aktualisiert"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -191,6 +293,12 @@
     "NotificationKind.GoalCompleted" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziel erreicht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -202,6 +310,12 @@
     "NotificationKind.ResolutionCompleted" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorsatz erreicht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -213,6 +327,12 @@
     "Progress" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortschritt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -224,6 +344,12 @@
     "Progression" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortschritt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -235,6 +361,12 @@
     "Stat.Change" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veränderung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -246,6 +378,12 @@
     "Stat.CurrentPace" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelles Tempo"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -257,6 +395,12 @@
     "Stat.DaysInHand" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfügbare Tage"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -268,6 +412,12 @@
     "Stat.DaysRemaining" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbleibende Tage"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +429,12 @@
     "Stat.Remaining" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verbleibend"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -290,6 +446,12 @@
     "Stat.RemainingToday" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute verbleibend"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -301,6 +463,12 @@
     "Stat.RequiredPace" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erforderliches Tempo"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -312,6 +480,12 @@
     "Status.Completed" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geschafft!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -323,6 +497,12 @@
     "Status.CriticalDay" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kritischer Tag"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -334,6 +514,12 @@
     "Status.CriticalDay.Completed" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kritischer Tag abgeschlossen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -345,6 +531,12 @@
     "Status.CriticalDay.Failed" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kritischer Tag abgeschlossen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -356,6 +548,12 @@
     "Status.Failed" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehlgeschlagen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -367,6 +565,12 @@
     "Status.Lagging" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Hintertreffen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -378,6 +582,12 @@
     "Status.OnTrack" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auf Kurs"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -389,6 +599,12 @@
     "View History" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verlauf anzeigen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

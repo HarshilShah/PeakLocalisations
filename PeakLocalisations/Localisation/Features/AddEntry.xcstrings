@@ -4,6 +4,12 @@
     "Entry" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eintrag"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15,6 +21,12 @@
     "Error.FailedToSave.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stelle bitte sicher, dass du den Zugriff auf HealthKit freigegeben hast\n\nFehler: %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26,6 +38,12 @@
     "Error.FailedToSave.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eintrag konnte nicht gespeichert werden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37,6 +55,12 @@
     "Log.BMI" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trage deinen BMI ein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48,6 +72,12 @@
     "Log.BodyFat" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trage dein Körperfett ein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -59,6 +89,12 @@
     "Log.LeanBodyMass" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trage deine magere Körpermasse ein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -70,6 +106,12 @@
     "Log.Weight" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trage dein Gewicht ein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -81,6 +123,12 @@
     "Save.Button" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speichern"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92,6 +140,12 @@
     "Save.Confirmed" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gespeichert!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -103,6 +157,12 @@
     "Time" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeit"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

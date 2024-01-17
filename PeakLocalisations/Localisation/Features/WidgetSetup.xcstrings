@@ -4,6 +4,12 @@
     "homescreen.add" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homebildschirm Widgets hinzufügen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16,6 +22,12 @@
       "comment" : "Separate instructions with a single new line",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Homebildschirm.\nTippe auf den Plus-Button oben links.\nSuche \"Peak\".\nWähle ein Widget aus und klicke auf \"Hinzufügen\".\nTippe auf das Widget, um es zu bearbeiten."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -27,6 +39,12 @@
     "homescreen.edit" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homebildschirm Widgets editieren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -39,6 +57,12 @@
       "comment" : "Separate instructions with a single new line",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tippe lange auf ein Widget.\nWähle \"Widget bearbeiten\" aus."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -50,6 +74,12 @@
     "lockscreen.add" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sperrbildschirm Widgets hinzufügen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -62,6 +92,12 @@
       "comment" : "Separate instructions with a single new line",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über oder unter der Zeit aus.\nSuche \"Peak\".\nWähle irgendein Widget aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist)\nTippe auf das Widget, um es zu bearbeiten."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -74,6 +110,12 @@
       "comment" : "Separate instructions with a single new line",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über der Zeit oder links aus.\nSuche \"Peak\".\nWähle irgendein Widget aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist)\nTippe auf das Widget, um es zu bearbeiten."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -85,6 +127,12 @@
     "lockscreen.edit" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sperrbildschirm Widgets bearbeiten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -97,6 +145,12 @@
       "comment" : "Separate instructions with a single new line",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über oder unter der Zeit aus.\nTippe auf ein Widget, um es zu bearbeiten."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -109,6 +163,12 @@
       "comment" : "Separate instructions with a single new line",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über der Zeit oder links aus.\nTippe auf ein Widget, um es zu bearbeiten."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -120,6 +180,12 @@
     "standBy.add" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StandBy Widgets hinzufügen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -132,6 +198,12 @@
       "comment" : "Separate instructions with a single new line",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktiviere den StandBy Modus und wechsle zu einer Ansicht mit zwei Widgets nebeneinander.\nHalte ein Widget lange gedrückt.\nTippe auf den Plus-Button oben links.\nSuche \"Peak\".\nWähle ein Widget aus, und klicke auf \"Widget hinzufügen\".\nTippe auf das Widget, um es zu bearbeiten."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -143,6 +215,12 @@
     "standBy.edit" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StandBy Widgets bearbeiten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -155,6 +233,12 @@
       "comment" : "Separate instructions with a single new line",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktiviere den StandBy Modus und wechsle zu einer Ansicht mit einem Peak Widget.\nHalte das Widget lange gedrückt, bis eine vertikales Karussell erscheint.\nTippe auf das Widget im Karussell, um es zu bearbeiten."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -166,6 +250,12 @@
     "standBy.enter" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StandBy Modus aktivieren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -178,6 +268,12 @@
       "comment" : "Separate instructions with a single new line",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinweis: Der StandBy Modus funktioniert nur auf einem iPhone mit iOS 17 oder neuer.\nGehe in die Einstellungen > StandBy und stelle sicher, dass StandBy aktiviert ist.\nVerbinde dein iPhone mit einem Ladegerät und kippe es in eine horizontale Position.\nDrücke den Seitenschalter.\nStreiche links oder rechts, um zwischen den verschiedenen Ansichten zu wechseln. Streiche hoch oder runter um zwischen den verschiedenen Optionen der Ansichten zu wechseln."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -189,6 +285,12 @@
     "title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget Anleitung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

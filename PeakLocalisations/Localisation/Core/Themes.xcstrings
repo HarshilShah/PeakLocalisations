@@ -4,6 +4,12 @@
     "Beige" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beige"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15,6 +21,12 @@
     "Blue" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blau"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26,6 +38,12 @@
     "Dark" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunkel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37,6 +55,12 @@
     "Dimmed" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abgedunkelt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48,6 +72,12 @@
     "Fruit Banana" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Banane"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -59,6 +89,12 @@
     "Fruit Blueberry" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blaubeere"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -70,6 +106,12 @@
     "Fruit Dragonfruit" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drachenfrucht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -81,6 +123,12 @@
     "Fruit Grape" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Weintraube"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92,6 +140,12 @@
     "Fruit Lime" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limette"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -103,6 +157,12 @@
     "Fruit Mango" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mango"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -114,6 +174,12 @@
     "Fruit Orange" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -125,6 +191,12 @@
     "Fruit Peach" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pfirsich"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -136,6 +208,12 @@
     "Fruit Strawberry" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erdbeere"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +225,12 @@
     "Green" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grün"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -158,6 +242,12 @@
     "Group %@ %@" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@/%@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169,6 +259,12 @@
     "Indigo" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indigo"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -180,6 +276,12 @@
     "Jet" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jet"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -191,6 +293,12 @@
     "Lavender" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lavendel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -202,6 +310,12 @@
     "Light" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hell"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -213,6 +327,12 @@
     "List.Dark" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunkel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -224,6 +344,12 @@
     "List.Dimmed" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abgedunkelt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -235,6 +361,12 @@
     "List.Fruity" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fruchtig"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -246,6 +378,12 @@
     "List.Jet" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jet"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -257,6 +395,12 @@
     "List.Nature" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Natur"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -268,6 +412,12 @@
     "List.Pastels" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pastellfarben"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -279,6 +429,12 @@
     "List.Standard" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -290,6 +446,12 @@
     "List.Tinted" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Getönt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -301,6 +463,12 @@
     "List.Vivid" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lebendig"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -312,6 +480,12 @@
     "Nature Coral" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koralle"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -323,6 +497,12 @@
     "Nature Desert" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wüste"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -334,6 +514,12 @@
     "Nature Forest" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wald"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -345,6 +531,12 @@
     "Nature Meadow" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiese"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -356,6 +548,12 @@
     "Nature Ocean" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ozean"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -367,6 +565,12 @@
     "Nature Sea" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meer"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -378,6 +582,12 @@
     "Nature Tundra" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tundra"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -389,6 +599,12 @@
     "Ochre" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocker"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -400,6 +616,12 @@
     "Orange" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -411,6 +633,12 @@
     "Pastel" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pastellfarben"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -422,6 +650,12 @@
     "Pink" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pink"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -433,6 +667,12 @@
     "Purple" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lila"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -444,6 +684,12 @@
     "Red" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rot"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -455,6 +701,12 @@
     "Slate" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schiefer"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -466,6 +718,12 @@
     "Tangerine" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mandarine"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -477,6 +735,12 @@
     "Tinted" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Getönt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -488,6 +752,12 @@
     "Turquoise" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Türkis"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -499,6 +769,12 @@
     "Yellow" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gelb"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

@@ -4,6 +4,12 @@
     "Dashboard.AltText" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine rotierende Anzeige von Platzhaltern für Schritte, Trainings und Aktivitätsringe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15,6 +21,12 @@
     "Dashboard.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfiguriere deine Kennzahlen und Blöcke"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26,6 +38,12 @@
     "Dashboard.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine persönliche Fitness-Übersicht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37,6 +55,12 @@
     "Privacy.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Gesundheitsdaten sind besonders sensibel, weshalb Peak keine Nutzerdaten sammelt."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48,6 +72,12 @@
     "Privacy.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privatsphäre von Anfang an"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -59,6 +89,12 @@
     "Themes.AltText" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Stapel von sich teilweise überschneidenden Übersichtsblöcken aus der App, die in verschiedenen mehrfarbigen Themen dargestellt werden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -70,6 +106,12 @@
     "Themes.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passe deinen Stil an"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -81,6 +123,12 @@
     "Themes.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine breite Auswahl von Themes"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92,6 +140,12 @@
     "Welcome to" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Willkommen bei"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -103,6 +157,12 @@
     "Widgets.AltText" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modell eines Übergangs zwischen einem iOS-Homebildschirm und einem Sperrbildschirm, die jeweils mehrere Peak-Widgets zeigen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -114,6 +174,12 @@
     "Widgets.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behalte deinen Fortschritt immer im Blick."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -125,6 +191,12 @@
     "Widgets.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home- & Sperrbildschirm Widgets"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

@@ -5,6 +5,12 @@
       "comment" : "The top level About section, that contains more information about the app, privacy policy, and terms and conditions",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -17,6 +23,12 @@
       "comment" : "Don't translate \"Peak\" here",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über Peak"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -28,6 +40,12 @@
     "App Icon" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Icon"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -40,6 +58,12 @@
       "comment" : "Don't include \"App Icon\" in the translation",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -52,6 +76,12 @@
       "comment" : "Don't include \"App Icon\" in the translation",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag Alternativ"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -64,6 +94,12 @@
       "comment" : "Don't include \"App Icon\" in the translation",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -76,6 +112,12 @@
       "comment" : "Don't include \"App Icon\" in the translation",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard Alternativ"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -88,6 +130,12 @@
       "comment" : "Don't include \"App Icon\" in the translation",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nacht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -99,6 +147,12 @@
     "Appearance" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Darstellung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -110,6 +164,12 @@
     "Appearance Dark" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunkel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -121,6 +181,12 @@
     "Appearance Light" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hell"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -132,6 +198,12 @@
     "Appearance Match System" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An System anpassen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -143,6 +215,12 @@
     "Backups" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sicherungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -154,6 +232,12 @@
     "by %@" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "von %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -165,6 +249,12 @@
     "by Harshil Shah" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "von [Harshil Shah](https://harshil.net)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -176,6 +266,12 @@
     "Dark Theme" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dunkles Theme"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -188,6 +284,12 @@
       "comment" : "The top level display preferences section, that contains app icon, appearance, and theme preferences",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anzeige"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -199,6 +301,12 @@
     "Distance Unit Kilometer" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kilometer (km)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -210,6 +318,12 @@
     "Distance Unit Mile" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meilen (mi)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -221,6 +335,12 @@
     "Energy Unit Calorie" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalorien (Cal)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -232,6 +352,12 @@
     "Energy Unit kilocalorie" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kilokalorien (kcal)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -243,6 +369,12 @@
     "Energy Unit kilojoule" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kilojoule (kJ)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -255,6 +387,12 @@
       "comment" : "The top level feedback preference",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -267,6 +405,12 @@
       "comment" : "The top level general preferences section",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -278,6 +422,12 @@
     "Haptics" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haptik"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -289,6 +439,12 @@
     "Homescreen" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homebildschirm"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -300,6 +456,12 @@
     "Light Theme" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Helles Theme"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -311,6 +473,12 @@
     "Lockscreen" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sperrbildschirm"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -322,6 +490,12 @@
     "Made in Mumbai, India" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hergestellt in Mumbai, Indien"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -333,6 +507,12 @@
     "Open App" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App öffnen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -344,6 +524,12 @@
     "Pick a Theme" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wähle ein Theme"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -355,6 +541,12 @@
     "Pick an Icon" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wähle ein Icon"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -366,6 +558,12 @@
     "Privacy" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datenschutz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -377,6 +575,12 @@
     "Privacy Policy" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Datenschutzbestimmungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -388,6 +592,12 @@
     "Refresh" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktualisieren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -399,6 +609,12 @@
     "Review on the App Store" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im App Store bewerten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -410,6 +626,12 @@
     "Send a Message" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sende eine Nachricht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -421,6 +643,12 @@
     "Send an Email" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sende eine Email"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -433,6 +661,12 @@
       "comment" : "Don't translate \"Peak\" here",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak teilen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -444,6 +678,12 @@
     "Special Thanks To" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Besonderen Dank an"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -455,6 +695,12 @@
     "StandBy" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StandBy"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -466,6 +712,12 @@
     "Terms" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bedingungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -477,6 +729,12 @@
     "Terms of Service" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemeine Geschäftsbedingungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -488,6 +746,12 @@
     "Theme" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theme"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -499,6 +763,12 @@
     "Third Party Libraries" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lizenzen von Drittanbietern"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -510,6 +780,12 @@
     "Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -522,6 +798,12 @@
       "comment" : "The top level display units section, that contains pickers for distance, active energy, and weight units",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einheiten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -533,6 +815,12 @@
     "Version %@ %@" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version %@ (Build %@)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -544,6 +832,12 @@
     "Weight Unit Kilogram" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kilogramm (kg)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -555,6 +849,12 @@
     "Weight Unit Pound" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pfund (lb)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -566,6 +866,12 @@
     "Weight Unit Stone" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stone (st)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -577,6 +883,12 @@
     "Widget Interactions" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget Interaktionen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
