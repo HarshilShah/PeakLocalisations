@@ -95,7 +95,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über oder unter der Zeit aus.\nSuche \"Peak\".\nWähle irgendein Widget aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist)\nTippe auf das Widget, um es zu bearbeiten."
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über oder unter der Zeit aus.\nSuche \"Peak\".\nWähle irgendein Widget aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist).\nTippe auf das Widget, um es zu bearbeiten."
           }
         },
         "en" : {
@@ -113,7 +113,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über der Zeit oder links aus.\nSuche \"Peak\".\nWähle irgendein Widget aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist)\nTippe auf das Widget, um es zu bearbeiten."
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über der Zeit oder links aus.\nSuche \"Peak\".\nWähle irgendein Widget aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist).\nTippe auf das Widget, um es zu bearbeiten."
           }
         },
         "en" : {
