@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "Daily Goal"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meta diaria"
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "See how your goals are progressing."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vea cómo progresan sus metas."
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "Balanced"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Balanceado"
+          }
         }
       }
     },
@@ -65,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Current"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actual"
           }
         }
       }
@@ -83,6 +107,12 @@
             "state" : "translated",
             "value" : "Gentle Start"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicio Suave"
+          }
         }
       }
     },
@@ -99,6 +129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Linear"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lineal"
           }
         }
       }
@@ -117,6 +153,12 @@
             "state" : "translated",
             "value" : "Strong Start"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicio Fuerte"
+          }
         }
       }
     },
@@ -133,6 +175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Edit"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar"
           }
         }
       }
@@ -151,6 +199,12 @@
             "state" : "translated",
             "value" : "Goal"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meta"
+          }
         }
       }
     },
@@ -167,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Goals"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metas"
           }
         }
       }
@@ -185,6 +245,12 @@
             "state" : "translated",
             "value" : "As you complete your goals, they will show up here."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Las metas completadas aparecerán aquí."
+          }
         }
       }
     },
@@ -201,6 +267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nothing to see here… yet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay nada que ver aquí… todavía"
           }
         }
       }
@@ -219,6 +291,12 @@
             "state" : "translated",
             "value" : "Goal History"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historia de Metas"
+          }
         }
       }
     },
@@ -235,6 +313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Load More"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver Más"
           }
         }
       }
@@ -253,6 +337,12 @@
             "state" : "translated",
             "value" : "Resolution Progress"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Progreso de Resolución"
+          }
         }
       }
     },
@@ -269,6 +359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Critical Day"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Día Crítico"
           }
         }
       }
@@ -287,6 +383,12 @@
             "state" : "translated",
             "value" : "Goal Updated"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meta Actualizada"
+          }
         }
       }
     },
@@ -303,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Goal Completed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meta Completada"
           }
         }
       }
@@ -321,6 +429,12 @@
             "state" : "translated",
             "value" : "Resolution Completed"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resolución Completada"
+          }
         }
       }
     },
@@ -337,6 +451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Progress"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Progreso"
           }
         }
       }
@@ -355,6 +475,12 @@
             "state" : "translated",
             "value" : "Progression"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Progresión"
+          }
         }
       }
     },
@@ -371,6 +497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Change"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambio"
           }
         }
       }
@@ -389,6 +521,12 @@
             "state" : "translated",
             "value" : "Current Pace"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ritmo Actual"
+          }
         }
       }
     },
@@ -405,6 +543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Days in Hand"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Días en Mano"
           }
         }
       }
@@ -423,6 +567,12 @@
             "state" : "translated",
             "value" : "Remaining Days"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Días Restantes"
+          }
         }
       }
     },
@@ -439,6 +589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Remaining"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restante"
           }
         }
       }
@@ -457,6 +613,12 @@
             "state" : "translated",
             "value" : "Remaining Today"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restante Hoy"
+          }
         }
       }
     },
@@ -473,6 +635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Required Pace"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ritmo Requerido"
           }
         }
       }
@@ -491,6 +659,12 @@
             "state" : "translated",
             "value" : "Completed!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Completada!"
+          }
         }
       }
     },
@@ -507,6 +681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Critical Day"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Día Crítico"
           }
         }
       }
@@ -525,6 +705,12 @@
             "state" : "translated",
             "value" : "Critical Day Completed"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Día Crítico Completado"
+          }
         }
       }
     },
@@ -541,6 +727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Critical Day Failed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Día Crítico Fallido"
           }
         }
       }
@@ -559,6 +751,12 @@
             "state" : "translated",
             "value" : "Failed"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallido"
+          }
         }
       }
     },
@@ -575,6 +773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Falling Behind"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrasarse"
           }
         }
       }
@@ -593,6 +797,12 @@
             "state" : "translated",
             "value" : "On Track"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En Plazo"
+          }
         }
       }
     },
@@ -609,6 +819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "View History"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver Historial"
           }
         }
       }

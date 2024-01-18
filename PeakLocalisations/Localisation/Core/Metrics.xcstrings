@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "Active Energy"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Energía en Actividad"
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activity Rings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anillos de actividad"
           }
         }
       }
@@ -50,6 +62,12 @@
             "state" : "translated",
             "value" : "Rings"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anillos"
+          }
         }
       }
     },
@@ -66,6 +84,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exercise"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ejercicio"
           }
         }
       }
@@ -84,6 +108,12 @@
             "state" : "translated",
             "value" : "Move"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Movimiento"
+          }
         }
       }
     },
@@ -101,6 +131,12 @@
             "state" : "translated",
             "value" : "Stand"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De Pie"
+          }
         }
       }
     },
@@ -117,6 +153,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Body Fat Percentage"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porcentaje de Grasa Corporal"
           }
         }
       }
@@ -136,6 +178,12 @@
             "state" : "translated",
             "value" : "Body Fat %"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porcentaje de Grasa Corporal"
+          }
         }
       }
     },
@@ -152,6 +200,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Body Mass Index"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Índice de Masa Corporal"
           }
         }
       }
@@ -171,6 +225,12 @@
             "state" : "translated",
             "value" : "BMI"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IMC"
+          }
         }
       }
     },
@@ -187,6 +247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cycling Distance"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distancia en bicicleta"
           }
         }
       }
@@ -205,6 +271,12 @@
             "state" : "translated",
             "value" : "Distance"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distancia"
+          }
         }
       }
     },
@@ -221,6 +293,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Exercise Minutes"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minutos de Ejercicio"
           }
         }
       }
@@ -239,6 +317,12 @@
             "state" : "translated",
             "value" : "Flights Climbed"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pisos Subidos"
+          }
         }
       }
     },
@@ -255,6 +339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Heart Rate"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frecuencia Cardiaca"
           }
         }
       }
@@ -273,6 +363,12 @@
             "state" : "translated",
             "value" : "Used to display heart rate statistics and graphs for workouts"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se utiliza para mostrar estadísticas y gráficos de frecuencia cardíaca para entrenamientos."
+          }
         }
       }
     },
@@ -289,6 +385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Height"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altura"
           }
         }
       }
@@ -307,6 +409,12 @@
             "state" : "translated",
             "value" : "Used to calculate your BMI"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se utiliza para calcular su IMC."
+          }
         }
       }
     },
@@ -323,6 +431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lean Body Mass"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masa Corporal sin Grasa"
           }
         }
       }
@@ -341,6 +455,12 @@
             "state" : "translated",
             "value" : "Metric"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Métrica"
+          }
         }
       }
     },
@@ -358,6 +478,12 @@
             "state" : "translated",
             "value" : "Metrics"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Métricas"
+          }
         }
       }
     },
@@ -374,6 +500,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Skiing and Snowboarding Distance"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distancia en Deportes de Nieve"
           }
         }
       }
@@ -393,6 +525,12 @@
             "state" : "translated",
             "value" : "Ski Distance"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distancia en Deportes de Nieve"
+          }
         }
       }
     },
@@ -409,6 +547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stand Hours"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Horas de pie"
           }
         }
       }
@@ -427,6 +571,12 @@
             "state" : "translated",
             "value" : "Steps"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pasos"
+          }
         }
       }
     },
@@ -443,6 +593,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Swimming Distance"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distancia Nadada"
           }
         }
       }
@@ -462,6 +618,12 @@
             "state" : "translated",
             "value" : "Swim Distance"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distancia Nadada"
+          }
         }
       }
     },
@@ -478,6 +640,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Walking and Running Distance"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distancia Andando/Corriendo"
           }
         }
       }
@@ -496,6 +664,12 @@
             "state" : "translated",
             "value" : "Weight"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peso"
+          }
         }
       }
     },
@@ -513,6 +687,12 @@
             "state" : "translated",
             "value" : "Wheelchair Distance"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distancia en Silla de Ruedas"
+          }
         }
       }
     },
@@ -529,6 +709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wheelchair Pushes"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impulsos"
           }
         }
       }
@@ -548,6 +734,12 @@
             "state" : "translated",
             "value" : "Pushes"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impulsos"
+          }
         }
       }
     },
@@ -564,6 +756,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Workouts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrenos"
           }
         }
       }

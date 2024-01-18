@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "A rotating display of placeholder UI for steps, workouts, and activity rings"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una visualización giratoria de la interfaz de usuario para pasos, entrenamientos y anillos de actividad"
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configure your metrics and your blocks"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configure sus métricas y bloques"
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "Your Personal Fitness Dashboard"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Su Panel Personal de Fitness"
+          }
         }
       }
     },
@@ -65,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Your health data is extremely sensitive, so Peak doesn’t collect any user data."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sus datos de salud son extremadamente confidenciales y, por eso, Peak no recopila ningún dato del usuario."
           }
         }
       }
@@ -83,6 +107,12 @@
             "state" : "translated",
             "value" : "Private By Design"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privada por Diseño"
+          }
         }
       }
     },
@@ -99,6 +129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A stacked list of partially-overlapping Overview blocks from the app, rendered in different multicoloured themes"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una lista de bloques de vista general superpuestos parcialmente desde la aplicación, renderizada en diferentes temas multicolores"
           }
         }
       }
@@ -117,6 +153,12 @@
             "state" : "translated",
             "value" : "Match your style."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coincide con su estilo."
+          }
         }
       }
     },
@@ -133,6 +175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A Wide Assortment of Themes"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una Amplia Variedad de Temas"
           }
         }
       }
@@ -151,6 +199,12 @@
             "state" : "translated",
             "value" : "Welcome to"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienvenido a"
+          }
         }
       }
     },
@@ -167,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mock up of a transition between an iOS homescreen and a lockscreen, each showing several Peak widgets."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una pantalla de inicio y una de bloqueo, cada una de las cuales muestra varios widgets de Peak."
           }
         }
       }
@@ -185,6 +245,12 @@
             "state" : "translated",
             "value" : "Always keep an eye on your progress."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siempre vigile su progreso."
+          }
         }
       }
     },
@@ -201,6 +267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Homescreen & Lockscreen Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets de Pantalla de Inicio y Pantalla de Bloqueo"
           }
         }
       }

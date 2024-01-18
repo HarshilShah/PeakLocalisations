@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "This action cannot be undone, and may prevent your widgets configured to show %@ data from working.\n\nThis change does not affect your HealthKit data."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta acción no se puede deshacer y puede impedir que sus widgets de %@ funcionen.\n\nEste cambio no afecta sus datos de HealthKit."
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "Slide to Delete"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deslizar para Borrar"
+          }
         }
       }
     },
@@ -65,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Remove %@?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Eliminar %@?"
           }
         }
       }

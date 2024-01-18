@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "© 2024 Harshil Shah"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "©️ 2024 Harshil Shah"
+          }
         }
       }
     },
@@ -33,6 +39,12 @@
             "state" : "translated",
             "value" : "Peak lets you make your own fitness dashboard, and always stay on top of it with a range of widgets.\n\n→ Your Personal Fitness Dashboard\nBuild a custom dashboard tailored to your needs by picking and choosing the exact metrics you want, such as steps, workouts, activity rings, and more. Each metric can contain a variety of blocks, such as charts, goals, totals, trends, and more.\n\n→ Homescreen and Lockscreen Widgets\nPeak includes a wide variety of beautifully designed widgets to help you keep track of your progress at a glance. These let you keep track of your stats for today, your progress towards your goals, and more. Each widget can also be customised with its own theme, for both light and dark mode.\n\n→ An Assortment of Themes\nPeak includes over 60 beautifully designed themes, so you can find the exact appearance for your tastes. You can even set different custom themes for light and dark mode.\n\n→ Private By Design\nPrivacy is one of the Peak’s core values. Health data is some of the most sensitive data people have, so there is no tracking or data collection.\n\n→ A Delight to Use\nPeak feels right at home on your iPhone and iPad, and includes familiar patterns and a lot of small touches to make using the app a breeze. You can customise various aspects such as the app icon, themes, the units you choose, and more.\n\nTerms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak le permite crear su propio panel de control de fitness y estar siempre al tanto de él con una variedad de widgets.\n\n→ Su Panel de Fitness Personal\nConstruya un panel de control personalizado adaptado a sus necesidades con las métricas exactas que desee, como pasos, entrenamientos, anillos de actividad y más. Cada métrica puede contener una variedad de bloques, como gráficos, metas, totales, tendencias y más.\n\n→ Widgets para la Pantalla de Inicio y Bloqueo\nPeak incluye una amplia variedad de widgets bellamente diseñados para ayudarle a mirar su progreso con solo un vistazo. Le permiten ver sus estadísticas de hoy, su avance hacia sus metas y más. Cada widget también se puede personalizar con su propio tema, tanto para el modo claro como para el modo oscuro.\n\n→ Una Variedad de Temas\nPeak incluye más de 60 temas bellamente diseñados, para que pueda encontrar la apariencia exacta que busca. Incluso puede establecer temas personalizados diferentes para el modo claro y el modo oscuro.\n\n→ Privacidad por Diseño\nLa privacidad es uno de los valores fundamentales de Peak. Los datos de salud son algunos de los datos más sensibles que las personas tienen, por lo que no hay seguimiento ni recopilación de datos.\n\n→ Un Placer de Usar\nPeak se siente como en casa en su iPhone e iPad e incluye patrones familiares y muchos detalles para que usar la aplicación sea muy sencillo. Puede personalizar varios aspectos, como el icono de la aplicación, los temas, las unidades y más.\n\nTérminos de Uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/"
+          }
         }
       }
     },
@@ -50,6 +62,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peak, widgets, fitness, health, goals, resolutions, habits, steps, workouts, weight tracker, weight tracking, pedometer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak, widgets, fitness, salud, metas, resoluciones, hábitos, pasos, entrenamiento, peso, seguimiento de pesos, pedómetro"
           }
         }
       }

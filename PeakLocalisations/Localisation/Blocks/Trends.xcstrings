@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "Stay on track and build on your past performance."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mira las tendencias en su progreso."
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Not Enough Data"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Hay Suficientes Datos"
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "vs. %@ overall"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vs %@ en total"
+          }
         }
       }
     },
@@ -65,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trending Down"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tendencia hacia abaja"
           }
         }
       }
@@ -83,6 +107,12 @@
             "state" : "translated",
             "value" : "Not Trending"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No es Tendencia"
+          }
         }
       }
     },
@@ -99,6 +129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trend Unknown"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tendencia Desconocida"
           }
         }
       }
@@ -117,6 +153,12 @@
             "state" : "translated",
             "value" : "Trending Up"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tendencias hacia arriba"
+          }
         }
       }
     },
@@ -133,6 +175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Long Term"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Largo Plazo"
           }
         }
       }
@@ -151,6 +199,12 @@
             "state" : "translated",
             "value" : "90 vs. 365 days"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "90 vs 365 días"
+          }
         }
       }
     },
@@ -167,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Medium Term"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mediano Plazo"
           }
         }
       }
@@ -185,6 +245,12 @@
             "state" : "translated",
             "value" : "30 vs. 120 days"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "30 vs 120 días"
+          }
         }
       }
     },
@@ -201,6 +267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Short Term"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corto Plazo"
           }
         }
       }
@@ -219,6 +291,12 @@
             "state" : "translated",
             "value" : "7 vs. 28 days"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "7 vs 28 días"
+          }
         }
       }
     },
@@ -236,6 +314,12 @@
             "state" : "translated",
             "value" : "Trends"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tendencias"
+          }
         }
       }
     },
@@ -252,6 +336,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add Trends"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar Tendencias"
           }
         }
       }

@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "Date"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fecha"
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Period"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Periodo"
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "Select a Period"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccione un Período"
+          }
         }
       }
     },
@@ -65,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Day"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Días"
           }
         }
       }
@@ -113,6 +137,24 @@
               }
             }
           }
+        },
+        "es" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Ayer"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Hace %lld días"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -154,6 +196,24 @@
               }
             }
           }
+        },
+        "es" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "En %lld día"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "En %lld días"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -170,6 +230,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Number of Days"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Número de días"
           }
         }
       }
@@ -188,6 +254,12 @@
             "state" : "translated",
             "value" : "Today"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy"
+          }
         }
       }
     },
@@ -204,6 +276,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yesterday"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayer"
           }
         }
       }
@@ -222,6 +300,12 @@
             "state" : "translated",
             "value" : "Every Day"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos los días"
+          }
         }
       }
     },
@@ -238,6 +322,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Month"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mes actual"
           }
         }
       }
@@ -280,6 +370,24 @@
               }
             }
           }
+        },
+        "es" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "En %lld mes"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "En %lld meses"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -296,6 +404,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Number of Months"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Número de meses"
           }
         }
       }
@@ -314,6 +428,12 @@
             "state" : "translated",
             "value" : "This Month"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este mes"
+          }
         }
       }
     },
@@ -330,6 +450,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Last Month"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El mes pasado"
           }
         }
       }
@@ -348,6 +474,12 @@
             "state" : "translated",
             "value" : "Every Month"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada mes"
+          }
         }
       }
     },
@@ -364,6 +496,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Week"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semana"
           }
         }
       }
@@ -406,6 +544,24 @@
               }
             }
           }
+        },
+        "es" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "En %lld semana"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "En %lld semanas"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -422,6 +578,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Number of Weeks"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Número de semanas"
           }
         }
       }
@@ -440,6 +602,12 @@
             "state" : "translated",
             "value" : "This Week"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta semana"
+          }
         }
       }
     },
@@ -456,6 +624,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Last Week"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La semana pasada"
           }
         }
       }
@@ -474,6 +648,12 @@
             "state" : "translated",
             "value" : "Every Week"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada Semana"
+          }
         }
       }
     },
@@ -490,6 +670,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Year"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Año"
           }
         }
       }
@@ -508,6 +694,12 @@
             "state" : "translated",
             "value" : "Number of Years"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Número de Años"
+          }
         }
       }
     },
@@ -524,6 +716,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "This Year"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este Año"
           }
         }
       }
@@ -542,6 +740,12 @@
             "state" : "translated",
             "value" : "Last Year"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Año Pasado"
+          }
         }
       }
     },
@@ -558,6 +762,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Every Year"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada Año"
           }
         }
       }

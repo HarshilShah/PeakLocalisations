@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "Add Family Plan"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar Plan Familiar"
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add Family to Peak Pro"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar Familia a Peak Pro"
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "All Plans"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos Planes"
+          }
         }
       }
     },
@@ -65,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You’re all set up!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Ya está todo listo!"
           }
         }
       }
@@ -83,6 +107,12 @@
             "state" : "translated",
             "value" : "Continue"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
         }
       }
     },
@@ -99,6 +129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "App Icons"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iconos de App"
           }
         }
       }
@@ -117,6 +153,12 @@
             "state" : "translated",
             "value" : "A range of icons to bring some delight to your homescreen."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una variedad de íconos para alegrar tu pantalla de inicio."
+          }
         }
       }
     },
@@ -133,6 +175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unlimited Metrics & Blocks"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Métricas y Bloques Sin Límites"
           }
         }
       }
@@ -151,6 +199,12 @@
             "state" : "translated",
             "value" : "Bring in all of your data, and create all the blocks you want."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Traiga todos sus datos y cree todos los bloques que desee."
+          }
         }
       }
     },
@@ -167,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support the developer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apoya al desarrollador"
           }
         }
       }
@@ -185,6 +245,12 @@
             "state" : "translated",
             "value" : "Peak is made by a one-person team. Your subscriptions directly help me continue building new features."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak está hecho por un equipo de una persona. Sus suscripciones me ayudan directamente a seguir construyendo nuevas características."
+          }
         }
       }
     },
@@ -201,6 +267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Themes"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temas"
           }
         }
       }
@@ -219,6 +291,12 @@
             "state" : "translated",
             "value" : "Personalise the app by choosing from over 60 beautiful themes."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personaliza la aplicación eligiendo entre más de 60 temas hermosos."
+          }
         }
       }
     },
@@ -235,6 +313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Homescreen & Lockscreen Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets de Pantalla de Inicio y Pantalla de Bloqueo"
           }
         }
       }
@@ -253,6 +337,12 @@
             "state" : "translated",
             "value" : "Always keep your finger on your progress with beautiful widgets."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esté siempre atento a su progreso con widgets hermosos."
+          }
         }
       }
     },
@@ -269,6 +359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unlock unlimited metrics, blocks, themes, widgets, and more"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquea métricas ilimitadas, bloques, temas, widgets y más"
           }
         }
       }
@@ -287,6 +383,12 @@
             "state" : "translated",
             "value" : "Hide Plans"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar Planes"
+          }
         }
       }
     },
@@ -303,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Learn More"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aprender Más"
           }
         }
       }
@@ -321,6 +429,12 @@
             "state" : "translated",
             "value" : "Learn more about family plans"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más información sobre los planes familiares"
+          }
         }
       }
     },
@@ -337,6 +451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Manage Subscription"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Administrar Suscripción"
           }
         }
       }
@@ -355,6 +475,12 @@
             "state" : "translated",
             "value" : "Not Now"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ahora No"
+          }
         }
       }
     },
@@ -368,6 +494,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak Pro"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peak Pro"
@@ -389,6 +521,12 @@
             "state" : "translated",
             "value" : "Lifetime"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para Siempre"
+          }
         }
       }
     },
@@ -405,6 +543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monthly"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mensual"
           }
         }
       }
@@ -423,6 +567,12 @@
             "state" : "translated",
             "value" : "Yearly"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anual"
+          }
         }
       }
     },
@@ -440,6 +590,12 @@
             "state" : "translated",
             "value" : "Purchase"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprar"
+          }
         }
       }
     },
@@ -456,6 +612,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Switch app icons with"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambiar iconos de app con"
           }
         }
       }
@@ -486,6 +648,12 @@
             "state" : "translated",
             "value" : "Add more than %d blocks with"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar más de %d bloques con"
+          }
         }
       }
     },
@@ -515,6 +683,12 @@
             "state" : "translated",
             "value" : "Add more than %d metrics with"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar más de %d bloques con"
+          }
         }
       }
     },
@@ -531,6 +705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Customise your theme with"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personalice su tema con"
           }
         }
       }
@@ -549,6 +729,12 @@
             "state" : "translated",
             "value" : "Unlock all widgets with"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquear todos los widgets con"
+          }
         }
       }
     },
@@ -565,6 +751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Redeem"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canjear"
           }
         }
       }
@@ -583,6 +775,12 @@
             "state" : "translated",
             "value" : "Requires iCloud Family Sharing"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Requiere iCloud Compartir en Familia"
+          }
         }
       }
     },
@@ -599,6 +797,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restore"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar"
           }
         }
       }
@@ -617,6 +821,12 @@
             "state" : "translated",
             "value" : "Share Peak Pro with up to 6 members of your family"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparte Peak Pro con 6 miembros de su familia"
+          }
         }
       }
     },
@@ -633,6 +843,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Start Your 7 Day Free Trial"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comienza Su Prueba Gratuita de 7 Días"
           }
         }
       }
@@ -651,6 +867,12 @@
             "state" : "translated",
             "value" : "Subscribe"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suscribirse"
+          }
         }
       }
     },
@@ -668,6 +890,12 @@
             "state" : "translated",
             "value" : "Tap to Unlock"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toque para Desbloquear"
+          }
         }
       }
     },
@@ -684,6 +912,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Thank you for unlocking Peak Pro!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Gracias por conseguir Peak Pro!"
           }
         }
       }
