@@ -1,6 +1,17 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recap Your Fitness Journey"
+          }
+        }
+      }
+    },
     "In Review" : {
       "comment" : "This is displayed after the current year, so \"2023 In Review\", for example",
       "extractionState" : "manual",

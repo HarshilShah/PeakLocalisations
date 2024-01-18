@@ -387,7 +387,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Trainingsarten"
           }
         },
@@ -395,6 +395,61 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Workout Types"
+          }
+        }
+      }
+    },
+    "Workout Types.All" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Workouts"
+          }
+        }
+      }
+    },
+    "Workout Types.Select" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Workout Types"
+          }
+        }
+      }
+    },
+    "Workout Types.Select.EmptyDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If you think a workout type is missing, please contact the developer"
+          }
+        }
+      }
+    },
+    "Workout Types.Select.EmptyTitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing to see here"
+          }
+        }
+      }
+    },
+    "Workout Types.Show All" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show All"
           }
         }
       }
