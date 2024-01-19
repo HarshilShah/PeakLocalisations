@@ -1,0 +1,1723 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "ActiveEnergy.Cal.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cal"
+          }
+        }
+      }
+    },
+    "ActiveEnergy.Joules.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kJ"
+          }
+        }
+      }
+    },
+    "ActiveEnergy.Kcal.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kcal"
+          }
+        }
+      }
+    },
+    "Days %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Tag"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Tage"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "day"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "days"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Days.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Tag"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Tage"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "day"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "days"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Days.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Tag"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Tage"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "day"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "days"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Distance.Kilometers.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "km"
+          }
+        }
+      }
+    },
+    "Distance.Meters.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "m"
+          }
+        }
+      }
+    },
+    "Distance.Miles.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mi"
+          }
+        }
+      }
+    },
+    "Flights %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stockwerk"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stockwerke"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "flight"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "flights"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Flights.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stockwerk"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stockwerke"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "flight"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "flights"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Flights.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stockwerk"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stockwerke"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "flight"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "flights"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "HeartRate %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ bpm"
+          }
+        }
+      }
+    },
+    "HeartRate.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[bpm](measurement: 'unit’)"
+          }
+        }
+      }
+    },
+    "HeartRate.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bpm"
+          }
+        }
+      }
+    },
+    "Months %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Monat"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Monate"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "month"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "months"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Months %lld %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monate %1$lld %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Months %1$lld %2$@"
+          }
+        }
+      }
+    },
+    "Months.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Monat"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Monate"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "month"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "months"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Months.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Monat"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Monate"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "month"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "months"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Pace.Kilometers %lf %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@/km"
+          }
+        }
+      }
+    },
+    "Pace.Kilometers.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value')^[/km](measurement: 'unit’)"
+          }
+        }
+      }
+    },
+    "Pace.Kilometers.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/km"
+          }
+        }
+      }
+    },
+    "Pace.Miles %lf %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@/mi"
+          }
+        }
+      }
+    },
+    "Pace.Miles.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value')^[/mi](measurement: 'unit’)"
+          }
+        }
+      }
+    },
+    "Pace.Miles.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/mi"
+          }
+        }
+      }
+    },
+    "Percentage.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%"
+          }
+        }
+      }
+    },
+    "Pushes %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stoß"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stöße"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "push"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "pushes"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Pushes.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stoß"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stöße"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "push"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "pushes"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Pushes.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stoß"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Stöße"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "push"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "pushes"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Rings %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Ring"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Ringe"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "ring"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "rings"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Rings.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Ring"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Ringe"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "ring"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "rings"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Rings.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "new",
+                      "value" : "Ring"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Ringe"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Ring"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Rings"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Speed.Kilometers.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "km/h"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kph"
+          }
+        }
+      }
+    },
+    "Speed.Miles.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mph"
+          }
+        }
+      }
+    },
+    "Steps %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Schritt"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Schritte"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "step"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "steps"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Steps.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Schritt"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Schritte"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "step"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "steps"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Steps.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Schritt"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Schritte"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "step"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "steps"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Time.Hours.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stunden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hours"
+          }
+        }
+      }
+    },
+    "Time.Minutes.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minuten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "minutes"
+          }
+        }
+      }
+    },
+    "Weeks %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Woche"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Wochen"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "week"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "weeks"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Weeks %lld %@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wochen %1$lld %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Weeks %1$lld %2$@"
+          }
+        }
+      }
+    },
+    "Weeks.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Woche"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Wochen"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "week"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "weeks"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Weeks.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Woche"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Wochen"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "week"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "weeks"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Weight.Kilograms.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kg"
+          }
+        }
+      }
+    },
+    "Weight.Pounds.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lb"
+          }
+        }
+      }
+    },
+    "Weight.Stones.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "st"
+          }
+        }
+      }
+    },
+    "Workouts %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Training"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Trainings"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "workout"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "workouts"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Workouts.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Training"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Trainings"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "workout"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "workouts"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Workouts.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Training"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "Trainings"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "workout"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "workouts"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
