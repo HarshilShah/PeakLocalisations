@@ -1,4 +1,4 @@
 files:
-  - source: PeakLocalisations/Localisation/**/**.xcstrings
+  - source: PeakLocalisations/Localisation/*/**.xcstrings
     translation: '%original_path%/%original_file_name%.xcstrings'
     multilingual: 1
