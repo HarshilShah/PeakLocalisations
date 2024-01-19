@@ -1,0 +1,210 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Dashboard.AltText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine rotierende Anzeige von Platzhaltern für Schritte, Trainings und Aktivitätsringe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A rotating display of placeholder UI for steps, workouts, and activity rings"
+          }
+        }
+      }
+    },
+    "Dashboard.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfiguriere deine Kennzahlen und Blöcke"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configure your metrics and your blocks"
+          }
+        }
+      }
+    },
+    "Dashboard.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine persönliche Fitness-Übersicht"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Personal Fitness Dashboard"
+          }
+        }
+      }
+    },
+    "Privacy.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Gesundheitsdaten sind besonders sensibel, weshalb Peak keine Nutzerdaten sammelt."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your health data is extremely sensitive, so Peak doesn’t collect any user data."
+          }
+        }
+      }
+    },
+    "Privacy.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privatsphäre von Anfang an"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Private By Design"
+          }
+        }
+      }
+    },
+    "Themes.AltText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Stapel von sich teilweise überschneidenden Übersichtsblöcken aus der App, die in verschiedenen mehrfarbigen Themen dargestellt werden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A stacked list of partially-overlapping Overview blocks from the app, rendered in different multicoloured themes"
+          }
+        }
+      }
+    },
+    "Themes.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passe deinen Stil an"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Match your style."
+          }
+        }
+      }
+    },
+    "Themes.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine breite Auswahl von Themes"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A Wide Assortment of Themes"
+          }
+        }
+      }
+    },
+    "Welcome to" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Willkommen bei"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to"
+          }
+        }
+      }
+    },
+    "Widgets.AltText" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modell eines Übergangs zwischen einem iOS-Homebildschirm und einem Sperrbildschirm, die jeweils mehrere Peak-Widgets zeigen."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mock up of a transition between an iOS homescreen and a lockscreen, each showing several Peak widgets."
+          }
+        }
+      }
+    },
+    "Widgets.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behalte deinen Fortschritt immer im Blick."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Always keep an eye on your progress."
+          }
+        }
+      }
+    },
+    "Widgets.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home- & Sperrbildschirm Widgets"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homescreen & Lockscreen Widgets"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
