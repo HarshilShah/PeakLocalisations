@@ -534,13 +534,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kritischer Tag abgeschlossen"
+            "value" : "Kritischer Tag fehlgeschlagen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Critical Day Completed"
+            "value" : "Critical Day Failed"
           }
         }
       }
