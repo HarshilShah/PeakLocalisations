@@ -7,7 +7,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Homebildschirm Widgets hinzufügen"
+            "value" : "Homebildschirm-Widgets hinzufügen"
           }
         },
         "en" : {
@@ -42,7 +42,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Homebildschirm Widgets editieren"
+            "value" : "Homebildschirm-Widgets editieren"
           }
         },
         "en" : {
@@ -77,7 +77,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sperrbildschirm Widgets hinzufügen"
+            "value" : "Sperrbildschirm-Widgets hinzufügen"
           }
         },
         "en" : {
@@ -95,7 +95,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über oder unter der Zeit aus.\nSuche \"Peak\".\nWähle irgendein Widget aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist).\nTippe auf das Widget, um es zu bearbeiten."
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über oder unter der Zeit aus.\nSuche \"Peak\".\nWähle eines der Widgets aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist).\nTippe auf das Widget, um es zu bearbeiten."
           }
         },
         "en" : {
@@ -113,7 +113,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über der Zeit oder links aus.\nSuche \"Peak\".\nWähle irgendein Widget aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist).\nTippe auf das Widget, um es zu bearbeiten."
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über der Zeit oder links aus.\nSuche \"Peak\".\nWähle eines der Widgets aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist).\nTippe auf das Widget, um es zu bearbeiten."
           }
         },
         "en" : {
@@ -130,7 +130,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sperrbildschirm Widgets bearbeiten"
+            "value" : "Sperrbildschirm-Widgets bearbeiten"
           }
         },
         "en" : {
@@ -183,7 +183,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "StandBy Widgets hinzufügen"
+            "value" : "StandBy-Widgets hinzufügen"
           }
         },
         "en" : {
@@ -201,7 +201,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktiviere den StandBy Modus und wechsle zu einer Ansicht mit zwei Widgets nebeneinander.\nHalte ein Widget lange gedrückt.\nTippe auf den Plus-Button oben links.\nSuche \"Peak\".\nWähle ein Widget aus, und klicke auf \"Widget hinzufügen\".\nTippe auf das Widget, um es zu bearbeiten."
+            "value" : "Aktiviere StandBy und wechsle zu einer Ansicht mit zwei Widgets nebeneinander.\nHalte ein Widget lange gedrückt.\nTippe auf den Plus-Button oben links.\nSuche \"Peak\".\nWähle ein Widget aus, und klicke auf \"Widget hinzufügen\".\nTippe auf das Widget, um es zu bearbeiten."
           }
         },
         "en" : {
@@ -218,7 +218,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "StandBy Widgets bearbeiten"
+            "value" : "StandBy-Widgets bearbeiten"
           }
         },
         "en" : {
@@ -236,7 +236,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktiviere den StandBy Modus und wechsle zu einer Ansicht mit einem Peak Widget.\nHalte das Widget lange gedrückt, bis eine vertikales Karussell erscheint.\nTippe auf das Widget im Karussell, um es zu bearbeiten."
+            "value" : "Aktiviere StandBy und wechsle zu einer Ansicht mit einem Peak Widget.\nHalte das Widget lange gedrückt, bis eine vertikales Karussell erscheint.\nTippe auf das Widget im Karussell, um es zu bearbeiten."
           }
         },
         "en" : {
@@ -253,7 +253,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "StandBy Modus aktivieren"
+            "value" : "StandBy aktivieren"
           }
         },
         "en" : {
@@ -271,7 +271,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hinweis: Der StandBy Modus funktioniert nur auf einem iPhone mit iOS 17 oder neuer.\nGehe in die Einstellungen > StandBy und stelle sicher, dass StandBy aktiviert ist.\nVerbinde dein iPhone mit einem Ladegerät und kippe es in eine horizontale Position.\nDrücke den Seitenschalter.\nStreiche links oder rechts, um zwischen den verschiedenen Ansichten zu wechseln. Streiche hoch oder runter um zwischen den verschiedenen Optionen der Ansichten zu wechseln."
+            "value" : "Hinweis: StandBy funktioniert nur auf einem iPhone mit iOS 17 oder neuer.\nGehe in die Einstellungen > StandBy und stelle sicher, dass StandBy aktiviert ist.\nVerbinde dein iPhone mit einem Ladegerät und kippe es in eine horizontale Position.\nDrücke den Seitenschalter.\nStreiche links oder rechts, um zwischen den verschiedenen Ansichten zu wechseln. Streiche hoch oder runter um zwischen den verschiedenen Optionen der Ansichten zu wechseln."
           }
         },
         "en" : {
@@ -288,7 +288,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Widget Anleitung"
+            "value" : "Widget-Anleitung"
           }
         },
         "en" : {
