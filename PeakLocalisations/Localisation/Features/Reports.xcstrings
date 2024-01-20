@@ -194,7 +194,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Mi resumen de %1$@ para %2$@! Mira el suyo en %3$@"
+            "value" : "¡Mi resumen de %1$@ para %2$@! Mire el suyo en %3$@"
           }
         }
       }
@@ -218,7 +218,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Mi resumen de fitness para %1$@! Mira el suyo en %2$@"
+            "value" : "¡Mi resumen de fitness para %1$@! Mire el suyo en %2$@"
           }
         }
       }

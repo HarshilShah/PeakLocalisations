@@ -322,7 +322,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mira todas sus estadísticas de la semana pasada."
+            "value" : "Mire todas sus estadísticas de la semana pasada."
           }
         }
       }
@@ -634,7 +634,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mira sus estadísticas recientes para cualquier métrica."
+            "value" : "Mire sus estadísticas recientes para cualquier métrica."
           }
         }
       }
@@ -862,7 +862,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mira las tendencias en su progreso."
+            "value" : "Mire las tendencias en su progreso."
           }
         }
       }
