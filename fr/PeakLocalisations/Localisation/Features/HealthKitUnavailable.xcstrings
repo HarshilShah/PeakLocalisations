@@ -1,0 +1,52 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak erfordert HealthKit. Um fortzufahren, öffne bitte die App auf einem iPhone oder iPad mit iOS 17 oder neuer."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak requires HealthKit to work. To continue, open the app on an iPhone, or an iPad running iOS 17."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak requiere HealthKit para funcionar. Para continuar, abre la aplicación en un iPhone, o en un iPad con iOS 17."
+          }
+        }
+      }
+    },
+    "Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HealthKit nicht verfügbar"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HealthKit Unavailable"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HealthKit No Disponible"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
