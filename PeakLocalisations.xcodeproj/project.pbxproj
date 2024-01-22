@@ -13,7 +13,7 @@
 		E8BE48FE2B551871005075DC /* Metadata.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48DF2B551871005075DC /* Metadata.xcstrings */; };
 		E8BE48FF2B551871005075DC /* AddNewHealthKitPermissions.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E12B551871005075DC /* AddNewHealthKitPermissions.xcstrings */; };
 		E8BE49002B551871005075DC /* HealthKitUnavailable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E22B551871005075DC /* HealthKitUnavailable.xcstrings */; };
-		E8BE49012B551871005075DC /* PeakPro.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E32B551871005075DC /* PeakPro.xcstrings */; };
+		E8BE49012B551871005075DC /* Ultra.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E32B551871005075DC /* Ultra.xcstrings */; };
 		E8BE49022B551871005075DC /* Backups.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E42B551871005075DC /* Backups.xcstrings */; };
 		E8BE49032B551871005075DC /* Notifications.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E52B551871005075DC /* Notifications.xcstrings */; };
 		E8BE49042B551871005075DC /* Onboarding.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E62B551871005075DC /* Onboarding.xcstrings */; };
@@ -49,7 +49,7 @@
 		E8BE48DF2B551871005075DC /* Metadata.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Metadata.xcstrings; sourceTree = "<group>"; };
 		E8BE48E12B551871005075DC /* AddNewHealthKitPermissions.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = AddNewHealthKitPermissions.xcstrings; sourceTree = "<group>"; };
 		E8BE48E22B551871005075DC /* HealthKitUnavailable.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = HealthKitUnavailable.xcstrings; sourceTree = "<group>"; };
-		E8BE48E32B551871005075DC /* PeakPro.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = PeakPro.xcstrings; sourceTree = "<group>"; };
+		E8BE48E32B551871005075DC /* Ultra.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Ultra.xcstrings; sourceTree = "<group>"; };
 		E8BE48E42B551871005075DC /* Backups.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Backups.xcstrings; sourceTree = "<group>"; };
 		E8BE48E52B551871005075DC /* Notifications.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Notifications.xcstrings; sourceTree = "<group>"; };
 		E8BE48E62B551871005075DC /* Onboarding.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Onboarding.xcstrings; sourceTree = "<group>"; };
@@ -131,7 +131,7 @@
 				E8BE48EC2B551871005075DC /* AddMetrics.xcstrings */,
 				E8BE48EA2B551871005075DC /* Details.xcstrings */,
 				E8BE48ED2B551871005075DC /* Home.xcstrings */,
-				E8BE48E32B551871005075DC /* PeakPro.xcstrings */,
+				E8BE48E32B551871005075DC /* Ultra.xcstrings */,
 				E8BE48EB2B551871005075DC /* Preferences.xcstrings */,
 				E8BE48E42B551871005075DC /* Backups.xcstrings */,
 				E8BE48E52B551871005075DC /* Notifications.xcstrings */,
@@ -258,7 +258,7 @@
 				E8BE49092B551871005075DC /* Preferences.xcstrings in Resources */,
 				E8BE49032B551871005075DC /* Notifications.xcstrings in Resources */,
 				E8B3C1502B552E2800030D64 /* Formatting.xcstrings in Resources */,
-				E8BE49012B551871005075DC /* PeakPro.xcstrings in Resources */,
+				E8BE49012B551871005075DC /* Ultra.xcstrings in Resources */,
 				E8BE49002B551871005075DC /* HealthKitUnavailable.xcstrings in Resources */,
 				E8BE49122B551871005075DC /* GoalTitles.xcstrings in Resources */,
 				E8BE49072B551871005075DC /* WidgetSetup.xcstrings in Resources */,
