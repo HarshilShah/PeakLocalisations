@@ -47,29 +47,6 @@
         }
       }
     },
-    "All Plans" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alle Pläne"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "All Plans"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Todos Planes"
-          }
-        }
-      }
-    },
     "All Set Up" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -93,25 +70,48 @@
         }
       }
     },
-    "ContinueButton" : {
+    "Feature.FamilySharing" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Weiter"
+            "value" : "Gemeinsam stärker werden"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continue"
+            "value" : "Get Stronger, Together"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuar"
+            "value" : "Hágase Más Fuerte, Juntos"
+          }
+        }
+      }
+    },
+    "Feature.FamilySharing.Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teile Peak Pro mit bis zu 6 Familienmitgliedern über die iCloud Familienfreigabe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share Peak Pro with up to 6 family members using iCloud Family Sharing"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparta Peak Pro con hasta 6 miembros de su familia con iCloud Compartir en familia"
           }
         }
       }
@@ -369,29 +369,6 @@
         }
       }
     },
-    "Hide Plans" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pläne ausblenden"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hide Plans"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ocultar Planes"
-          }
-        }
-      }
-    },
     "Learn More" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -411,29 +388,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Aprender Más"
-          }
-        }
-      }
-    },
-    "Learn more about family plans" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erfahre mehr über die Familien-Pläne"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Learn more about family plans"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Más información sobre los planes familiares"
           }
         }
       }
@@ -657,6 +611,29 @@
         }
       }
     },
+    "Reason.FamilySharing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Werde gemeinsam stärker mit"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get stronger together with"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hágase Más Fuerte, Juntos con"
+          }
+        }
+      }
+    },
     "Reason.Metrics" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -757,29 +734,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Canjear"
-          }
-        }
-      }
-    },
-    "Requires iCloud Family Sharing" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erfordert iCloud Familien-Freigabe"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Requires iCloud Family Sharing"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Requiere iCloud Compartir en Familia"
           }
         }
       }
