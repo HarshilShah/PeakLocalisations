@@ -8,6 +8,12 @@
             "state" : "translated",
             "value" : "%@ Halten um zu konfigurieren"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Mantén pulsado para configurar"
+          }
         }
       }
     },
@@ -17,6 +23,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ Drücken und halten um zu konfigurieren"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Toca o mantén pulsado para configurar"
           }
         }
       }
@@ -28,6 +40,12 @@
             "state" : "translated",
             "value" : "Alle Trainings"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos"
+          }
         }
       }
     },
@@ -37,6 +55,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "App Icon"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icono de App"
           }
         }
       }
@@ -54,6 +78,12 @@
             "state" : "translated",
             "value" : "Just a big app icon."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo un gran icono de app."
+          }
         }
       }
     },
@@ -70,6 +100,12 @@
             "state" : "translated",
             "value" : "App Icon"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icono de App"
+          }
         }
       }
     },
@@ -79,6 +115,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Benchmark"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Referencia"
           }
         }
       }
@@ -96,6 +138,12 @@
             "state" : "translated",
             "value" : "Compare your progress against a benchmark."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compare su progreso con un punto de referencia."
+          }
         }
       }
     },
@@ -111,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Benchmark"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Referencia"
           }
         }
       }
@@ -128,6 +182,12 @@
             "state" : "translated",
             "value" : "Visualise your fitness journey with charts."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualice su viaje de fitness con gráficos."
+          }
         }
       }
     },
@@ -144,6 +204,12 @@
             "state" : "translated",
             "value" : "Chart"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gráfico"
+          }
         }
       }
     },
@@ -153,6 +219,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "App Icon im Dunkelmodus"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icono de Tema Oscuro"
           }
         }
       }
@@ -164,6 +236,12 @@
             "state" : "translated",
             "value" : "Theme im Dunkelmodus"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema Oscuro"
+          }
         }
       }
     },
@@ -173,6 +251,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ziel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meta"
           }
         }
       }
@@ -190,6 +274,12 @@
             "state" : "translated",
             "value" : "Track your progress towards achieving your fitness goals."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siga su progreso hacia sus metas."
+          }
         }
       }
     },
@@ -205,6 +295,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Goal"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meta"
           }
         }
       }
@@ -222,6 +318,12 @@
             "state" : "translated",
             "value" : "View all of your stats for the past week."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mire todas sus estadísticas de la semana pasada."
+          }
         }
       }
     },
@@ -238,6 +340,12 @@
             "state" : "translated",
             "value" : "History"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historia"
+          }
         }
       }
     },
@@ -247,6 +355,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Leer lassen um die Summe aller deiner Trainings-Arten"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Déjelo vacío para mostrar los totales de todos los tipos de entrenamiento."
           }
         }
       }
@@ -258,6 +372,12 @@
             "state" : "translated",
             "value" : "Leer lassen um die Trends aller deiner Trainings-Arten"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Déjelo vacío para mostrar tendencias para todos los tipos de entrenamiento."
+          }
         }
       }
     },
@@ -267,6 +387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "App Icon im Hellmodus"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icono de Tema Ligero"
           }
         }
       }
@@ -278,6 +404,12 @@
             "state" : "translated",
             "value" : "Theme im Hellmodus"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema Ligero"
+          }
         }
       }
     },
@@ -287,6 +419,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mit App synchronisieren"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empareja la App"
           }
         }
       }
@@ -298,6 +436,12 @@
             "state" : "translated",
             "value" : "Kennzahl"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Métrica"
+          }
         }
       }
     },
@@ -307,6 +451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kennzahlen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Métricas"
           }
         }
       }
@@ -318,6 +468,12 @@
             "state" : "translated",
             "value" : "Kein Benchmark konfiguriert"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ninguna Referencia Seleccionada"
+          }
         }
       }
     },
@@ -327,6 +483,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kein Ziel ausgewählt"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ninguna Meta Seleccionada"
           }
         }
       }
@@ -338,6 +500,12 @@
             "state" : "translated",
             "value" : "Keine Kennzahl ausgewählt"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ninguna Métrica Seleccionada"
+          }
         }
       }
     },
@@ -347,6 +515,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Keine Kennzahlen ausgewählt"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Hay Métricas Seleccionadas"
           }
         }
       }
@@ -358,6 +532,12 @@
             "state" : "translated",
             "value" : "Keine"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ninguna"
+          }
         }
       }
     },
@@ -367,6 +547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Übersichts-Zeitraum"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Período"
           }
         }
       }
@@ -384,6 +570,12 @@
             "state" : "translated",
             "value" : "Get a overview of your progress over time."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un resumen de su progreso a lo largo del tiempo."
+          }
         }
       }
     },
@@ -400,6 +592,12 @@
             "state" : "translated",
             "value" : "Overview"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resumen"
+          }
         }
       }
     },
@@ -409,6 +607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeitraum"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Período"
           }
         }
       }
@@ -426,6 +630,12 @@
             "state" : "translated",
             "value" : "View your recent stats for any metric."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mire sus estadísticas recientes para cualquier métrica."
+          }
         }
       }
     },
@@ -442,6 +652,12 @@
             "state" : "translated",
             "value" : "Recents"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recientes"
+          }
         }
       }
     },
@@ -451,6 +667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeige Statistiken an"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar Estadísticas"
           }
         }
       }
@@ -462,6 +684,12 @@
             "state" : "translated",
             "value" : "Zeige Statistiken für heute an"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar Estadísticas para Hoy"
+          }
         }
       }
     },
@@ -471,6 +699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Statistik"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estadísticas"
           }
         }
       }
@@ -482,6 +716,12 @@
             "state" : "translated",
             "value" : "Tippen um das Widget zu entsperren"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toque para Desbloquear Widget"
+          }
         }
       }
     },
@@ -492,6 +732,12 @@
             "state" : "translated",
             "value" : "Theme"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema"
+          }
         }
       }
     },
@@ -501,6 +747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeiträume"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plazos"
           }
         }
       }
@@ -518,6 +770,12 @@
             "state" : "translated",
             "value" : "Your stats for today."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sus estadísticas para hoy."
+          }
         }
       }
     },
@@ -533,6 +791,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Today"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy"
           }
         }
       }
@@ -550,6 +814,12 @@
             "state" : "translated",
             "value" : "See your total progress over the past week, month, and year."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vea su progreso total durante la última semana, mes y año."
+          }
         }
       }
     },
@@ -565,6 +835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Totals"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totales"
           }
         }
       }
@@ -582,6 +858,12 @@
             "state" : "translated",
             "value" : "Stay on track and build on your past performance."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mire las tendencias en su progreso."
+          }
         }
       }
     },
@@ -598,6 +880,12 @@
             "state" : "translated",
             "value" : "Trends"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tendencias"
+          }
         }
       }
     },
@@ -608,6 +896,12 @@
             "state" : "translated",
             "value" : "Trainingsart"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipo de Entreno"
+          }
         }
       }
     },
@@ -617,6 +911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Trainingsarten"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipos de Entreno"
           }
         }
       }

@@ -16,6 +16,12 @@
             "state" : "new",
             "value" : "Peak"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak"
+          }
         }
       }
     },
@@ -25,6 +31,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "App Icon ändern"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambiar Icono"
           }
         }
       }
@@ -44,6 +56,12 @@
             "state" : "new",
             "value" : "Peak reads data from HealthKit to show you your progress"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak lee datos de HealthKit para mostrarle su progreso"
+          }
         }
       }
     },
@@ -61,6 +79,12 @@
           "stringUnit" : {
             "state" : "new",
             "value" : "Peak writes your weight and body measurements to HealthKit"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak escribe su peso y medidas corporales en HealthKit"
           }
         }
       }
@@ -80,6 +104,12 @@
             "state" : "new",
             "value" : "Peak saves your reports to your photo library"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak guarda sus informes en su biblioteca de fotos"
+          }
         }
       }
     },
@@ -89,6 +119,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peak Sicherung"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copia de Seguridad de Peak"
           }
         }
       }
@@ -100,6 +136,12 @@
             "state" : "translated",
             "value" : "Stimmt etwas nicht?"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Pasa algo Mal?"
+          }
         }
       }
     },
@@ -107,6 +149,12 @@
       "comment" : "Do not localize",
       "localizations" : {
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UntitledHealthApp backup"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "UntitledHealthApp backup"
@@ -120,6 +168,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wir helfen gerne weiter"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estamos aquí para ayudar"
           }
         }
       }

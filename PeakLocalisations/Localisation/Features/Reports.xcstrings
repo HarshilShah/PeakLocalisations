@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "Recap Your Fitness Journey"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recapitula su Viaje de Fitness"
+          }
         }
       }
     },
@@ -32,6 +38,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "In Review"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En Resumen"
           }
         }
       }
@@ -62,6 +74,12 @@
             "state" : "translated",
             "value" : "You can only select up to %lld metrics."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo puede seleccionar hasta %lld métricas."
+          }
         }
       }
     },
@@ -78,6 +96,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Limit Reached"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Límite Alcanzado"
           }
         }
       }
@@ -96,6 +120,12 @@
             "state" : "translated",
             "value" : "%lld/%lld Selected"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld/%lld seleccionados"
+          }
         }
       }
     },
@@ -113,6 +143,12 @@
             "state" : "translated",
             "value" : "Recap"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resumen"
+          }
         }
       }
     },
@@ -129,6 +165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Share"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartir"
           }
         }
       }
@@ -148,6 +190,12 @@
             "state" : "translated",
             "value" : "My %1$@ recap for %2$@! Check out yours at %3$@"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Mi resumen de %1$@ para %2$@! Mire el suyo en %3$@"
+          }
         }
       }
     },
@@ -166,6 +214,12 @@
             "state" : "translated",
             "value" : "My fitness recap for %1$@! Check out yours at %2$@"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Mi resumen de fitness para %1$@! Mire el suyo en %2$@"
+          }
         }
       }
     },
@@ -182,6 +236,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Shuffle Theme"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema Aleatorio"
           }
         }
       }

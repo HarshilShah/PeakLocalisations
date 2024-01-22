@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "Current"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actual"
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Next"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siguiente"
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "Previous"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anterior"
+          }
         }
       }
     },
@@ -66,6 +84,12 @@
             "state" : "translated",
             "value" : "Start"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicial"
+          }
         }
       }
     },
@@ -82,6 +106,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Target"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Destino"
           }
         }
       }
@@ -101,6 +131,12 @@
             "state" : "translated",
             "value" : "You're in the home stretch! Just one more goal to go"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Está en la recta final! Solo falta una meta más"
+          }
         }
       }
     },
@@ -118,6 +154,12 @@
             "state" : "translated",
             "value" : "Resolution Progress"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Progreso de la Resolución"
+          }
         }
       }
     },
@@ -134,6 +176,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resolutions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resoluciones"
           }
         }
       }

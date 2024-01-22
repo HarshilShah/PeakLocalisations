@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "Adding Home Screen Widgets"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar Widgets de Pantalla de Inicio"
+          }
         }
       }
     },
@@ -33,6 +39,12 @@
             "state" : "translated",
             "value" : "On your Home Screen, long press in an empty space\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En su Pantalla de Inicio, pulsación larga en un espacio vacío\nToca el botón más en la parte superior izquierda\nEncuentra \"Peak\"\nElige un widget, y pulsa \"Agregar Widget\"\nToca el widget para editarlo"
+          }
         }
       }
     },
@@ -49,6 +61,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Editing Home Screen Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar Widgets de Pantalla de Inicio"
           }
         }
       }
@@ -68,6 +86,12 @@
             "state" : "translated",
             "value" : "Long press on the widget\nSelect “Edit Widget”"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulsación larga en el widget\nSeleccione \"Editar Widget\""
+          }
         }
       }
     },
@@ -84,6 +108,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Adding Lock Screen Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar Widgets de Pantalla de Bloqueo"
           }
         }
       }
@@ -103,6 +133,12 @@
             "state" : "translated",
             "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En su Pantalla de Bloqueo, pulsación larga en un espacio vacío\nToque el botón \"Personalizar\"\nSeleccione la Pantalla de Bloqueo\nSeleccione el rectángulo arriba o debajo de la hora\nBuscar “Peak”\nToque cualquier widget para añadirlo (Nota: Puede que necesite eliminar los widgets existentes si no hay suficiente espacio)\nToque su widget recientemente añadido para editarlo"
+          }
         }
       }
     },
@@ -121,6 +157,12 @@
             "state" : "translated",
             "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En su Pantalla de Bloqueo, pulsación larga en un espacio vacío\nToque el botón \"Personalizar\"\nSeleccione la Pantalla de Bloqueo\nSeleccione el rectángulo encima de la hora o a la izquierda\nBuscar “Peak”\nToque cualquier widget para añadirlo (Nota: Puede que necesite eliminar los widgets existentes si no hay suficiente espacio)\nToque su widget recientemente añadido para editarlo"
+          }
         }
       }
     },
@@ -137,6 +179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Editing Lock Screen Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar Widgets de Pantalla de Bloqueo"
           }
         }
       }
@@ -156,6 +204,12 @@
             "state" : "translated",
             "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nTap any widget to edit it"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En su Pantalla de Bloqueo, pulsación larga en un espacio vacío\nToque el botón \"Personalizar\"\nSeleccione la Pantalla de Bloqueo\nSeleccione el rectángulo arriba o debajo de la hora\nToque cualquier widget para editarlo"
+          }
         }
       }
     },
@@ -174,6 +228,12 @@
             "state" : "translated",
             "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nTap any widget to edit it"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En su Pantalla de Bloqueo, pulsación larga en un espacio vacío\nToque el botón \"Personalizar\"\nSeleccione la Pantalla de Bloqueo\nSeleccione el rectángulo encima de la hora o a la izquierda\nToque cualquier widget para editarlo"
+          }
         }
       }
     },
@@ -190,6 +250,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Adding StandBy Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar Widgets en Modo de Reposo"
           }
         }
       }
@@ -209,6 +275,12 @@
             "state" : "translated",
             "value" : "Enter StandBy mode, and scroll to a view with two widgets side-by-side\nTap and hold on a widget\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrar en modo de reposo, y desplácese hacia una vista con dos widgets lado a lado\nToque y mantenga presionado un widget\nToque el botón más en la parte superior izquierda\nBuscar “Peak”\nElija un widget, y pulse “Aregar Widget”\nToque el widget para editarlo"
+          }
         }
       }
     },
@@ -225,6 +297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Editing StandBy Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar Widgets en Modo de Reposo"
           }
         }
       }
@@ -244,6 +322,12 @@
             "state" : "translated",
             "value" : "Enter StandBy mode, and scroll to a view with a Peak widget\nTap and hold on the widget until a vertical carousel appears\nTap the widget in the carousel to edit it"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrar en modo de reposo, y desplácese hasta una vista con un widget de Peak\nToque y mantenga presionado el widget hasta que aparezca un carrusel vertical\nToque el widget en el carrusel para editarlo"
+          }
         }
       }
     },
@@ -260,6 +344,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entering StandBy Mode"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrar en Modo de Reposo"
           }
         }
       }
@@ -279,6 +369,12 @@
             "state" : "translated",
             "value" : "Note: StandBy mode only works on iPhone, and requires iOS 17 or later\nGo to Settings > StandBy and make sure StandBy is turned on\nConnect your iPhone to a charger and set it down on its side\nTap the side button\nSwipe left or right to switch between different views. Swipe up or down to scroll between options for each of these views"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nota: El modo de reposo solo funciona en iPhone y requiere iOS 17 o superior\nVaya a Configuración > StandBy y asegúrese de que En Reposo esté activado\nConecte su iPhone a un cargador y colóquelo de lado\nToca el botón lateral\nDesliza el dedo hacia la izquierda o hacia la derecha para cambiar entre diferentes vistas. Desliza hacia arriba o hacia abajo para desplazarte entre las opciones de cada una de estas vistas"
+          }
         }
       }
     },
@@ -295,6 +391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Widget Tutorial"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutorial de Widgets"
           }
         }
       }

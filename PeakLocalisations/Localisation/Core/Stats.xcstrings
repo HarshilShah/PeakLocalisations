@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "Active Energy"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Energía en Actividad"
+          }
         }
       }
     },
@@ -33,6 +39,12 @@
             "state" : "translated",
             "value" : "All"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos"
+          }
         }
       }
     },
@@ -50,6 +62,12 @@
             "state" : "translated",
             "value" : "Average"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Promedio"
+          }
         }
       }
     },
@@ -66,6 +84,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Duration"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Duración"
           }
         }
       }
@@ -85,6 +109,12 @@
             "state" : "translated",
             "value" : "Elapsed Time"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiempo Transcurrido"
+          }
         }
       }
     },
@@ -101,6 +131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Elevation Gained"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desnivel"
           }
         }
       }
@@ -119,6 +155,12 @@
             "state" : "translated",
             "value" : "Maximum"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Máximo"
+          }
         }
       }
     },
@@ -135,6 +177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Minimum"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mínimo"
           }
         }
       }
@@ -153,6 +201,12 @@
             "state" : "translated",
             "value" : "Number of Days"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Número de Días"
+          }
         }
       }
     },
@@ -169,6 +223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Number of Workouts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Número de Entrenos"
           }
         }
       }
@@ -188,6 +248,12 @@
             "state" : "translated",
             "value" : "Pace"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ritmo"
+          }
         }
       }
     },
@@ -202,6 +268,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@/%2$@"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@/%2$@"
@@ -224,6 +296,12 @@
             "state" : "translated",
             "value" : "/%@"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/%@"
+          }
         }
       }
     },
@@ -242,6 +320,12 @@
             "state" : "translated",
             "value" : "%1$@ out of %2$@"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ de %2$@"
+          }
         }
       }
     },
@@ -256,6 +340,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/%@"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "/%@"
@@ -277,6 +367,12 @@
             "state" : "translated",
             "value" : "Speed"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velocidad"
+          }
         }
       }
     },
@@ -294,6 +390,12 @@
             "state" : "translated",
             "value" : "Stats"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estadísticas"
+          }
         }
       }
     },
@@ -307,6 +409,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Total"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Total"
@@ -328,6 +436,12 @@
             "state" : "translated",
             "value" : "Total Energy"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Energía Total"
+          }
         }
       }
     },
@@ -344,6 +458,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Workout Stat"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estadística de Entreno"
           }
         }
       }
@@ -362,6 +482,12 @@
             "state" : "translated",
             "value" : "Select a Workout Stat"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccione una Estadística de Entreno"
+          }
         }
       }
     },
@@ -378,6 +504,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Workout Type"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipo de Entreno"
           }
         }
       }
@@ -396,6 +528,12 @@
             "state" : "translated",
             "value" : "Workout Types"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipos de Entreno"
+          }
         }
       }
     },
@@ -412,6 +550,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "All Workouts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos"
           }
         }
       }
@@ -430,6 +574,12 @@
             "state" : "translated",
             "value" : "Select Workout Types"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar Tipos de Entreno"
+          }
         }
       }
     },
@@ -446,6 +596,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If you think a workout type is missing, please contact the developer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si cree que falta un tipo de entreno, comuníquese con el desarrollador"
           }
         }
       }
@@ -464,6 +620,12 @@
             "state" : "translated",
             "value" : "Nothing to see here"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nada que ver aquí"
+          }
         }
       }
     },
@@ -480,6 +642,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Show All"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar Todo"
           }
         }
       }

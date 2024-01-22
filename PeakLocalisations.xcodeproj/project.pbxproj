@@ -226,6 +226,7 @@
 				en,
 				Base,
 				de,
+				es,
 			);
 			mainGroup = E8BE48C32B5517DE005075DC;
 			productRefGroup = E8BE48CD2B5517DE005075DC /* Products */;
