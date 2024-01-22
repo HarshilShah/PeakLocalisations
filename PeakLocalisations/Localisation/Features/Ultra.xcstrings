@@ -1,52 +1,6 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "Add Family Plan" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Familien-Plan hinzufügen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Add Family Plan"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Agregar Plan Familiar"
-          }
-        }
-      }
-    },
-    "Add Family to Peak Pro" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Familien-Plan zu Peak Pro hinzufügen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Add Family to Peak Pro"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Agregar Familia a Peak Pro"
-          }
-        }
-      }
-    },
     "All Set Up" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -757,29 +711,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restaurar"
-          }
-        }
-      }
-    },
-    "Share Peak Pro" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Teile Peak Pro mit bis zu 6 Familienmitgliedern"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Share Peak Pro with up to 6 members of your family"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comparte Peak Pro con 6 miembros de su familia"
           }
         }
       }
