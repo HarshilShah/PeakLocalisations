@@ -116,6 +116,28 @@
         }
       }
     },
+    "Feature.FamilySharing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Stronger, Together"
+          }
+        }
+      }
+    },
+    "Feature.FamilySharing.Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share Peak Pro with up to 6 family members using iCloud Family Sharing"
+          }
+        }
+      }
+    },
     "Feature.Icons" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -653,6 +675,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Agregar más de %d bloques con"
+          }
+        }
+      }
+    },
+    "Reason.FamilySharing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get stronger together with"
           }
         }
       }
