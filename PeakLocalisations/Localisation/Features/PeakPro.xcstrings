@@ -124,6 +124,12 @@
             "state" : "translated",
             "value" : "Get Stronger, Together"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hágase Más Fuerte, Juntos"
+          }
         }
       }
     },
@@ -134,6 +140,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Share Peak Pro with up to 6 family members using iCloud Family Sharing"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparta Peak Pro con hasta 6 miembros de su familia con iCloud Compartir en familia"
           }
         }
       }
@@ -686,6 +698,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Get stronger together with"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hágase Más Fuerte, Juntos con"
           }
         }
       }
