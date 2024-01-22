@@ -53,19 +53,19 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teile Peak Pro mit bis zu 6 Familienmitgliedern über die iCloud Familienfreigabe"
+            "value" : "Teile Peak Ultra mit bis zu 6 Familienmitgliedern über die iCloud Familienfreigabe"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Share Peak Pro with up to 6 family members using iCloud Family Sharing"
+            "value" : "Share Peak Ultra with up to 6 family members using iCloud Family Sharing"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comparta Peak Pro con hasta 6 miembros de su familia con iCloud Compartir en familia"
+            "value" : "Comparta Peak Ultra con hasta 6 miembros de su familia con iCloud Compartir en familia"
           }
         }
       }
@@ -392,25 +392,25 @@
         }
       }
     },
-    "Peak Pro" : {
+    "Peak Ultra" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak Pro"
+            "value" : "Peak Ultra"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak Pro"
+            "value" : "Peak Ultra"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak Pro"
+            "value" : "Peak Ultra"
           }
         }
       }
@@ -790,19 +790,19 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vielen Dank dass du Peak Pro freigeschaltet hast!"
+            "value" : "Vielen Dank dass du Peak Ultra freigeschaltet hast!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thank you for unlocking Peak Pro!"
+            "value" : "Thank you for unlocking Peak Ultra!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Gracias por conseguir Peak Pro!"
+            "value" : "¡Gracias por conseguir Peak Ultra!"
           }
         }
       }
