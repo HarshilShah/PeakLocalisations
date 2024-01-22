@@ -566,7 +566,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wähle Trainingsarten aus"
+            "value" : "Wähle Trainingsarten"
           }
         },
         "en" : {
@@ -635,7 +635,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alle anzeigen"
+            "value" : "Alle"
           }
         },
         "en" : {
