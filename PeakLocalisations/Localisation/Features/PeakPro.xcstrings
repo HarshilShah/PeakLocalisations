@@ -119,6 +119,12 @@
     "Feature.FamilySharing" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemeinsam stärker werden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -136,6 +142,12 @@
     "Feature.FamilySharing.Description" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Teilen Sie Peak Pro mit bis zu 6 Familienmitgliedern über die iCloud Familien-Freigabe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -694,6 +706,12 @@
     "Reason.FamilySharing" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Werde gemeinsam stärker mit"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
