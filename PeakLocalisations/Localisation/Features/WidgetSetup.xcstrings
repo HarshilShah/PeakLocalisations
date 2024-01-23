@@ -43,7 +43,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En su Pantalla de Inicio, pulsación larga en un espacio vacío\nToca el botón más en la parte superior izquierda\nEncuentra \"Peak\"\nElige un widget, y pulsa \"Agregar Widget\"\nToca el widget para editarlo"
+            "value" : "En su Pantalla de Inicio, pulsación larga en un espacio vacío\nToque el botón más en la parte superior izquierda\nEncuentre \"Peak\"\nElije un widget, y pulse \"Agregar Widget\"\nToque el widget para editarlo"
           }
         }
       }
@@ -373,7 +373,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nota: El modo de reposo solo funciona en iPhone y requiere iOS 17 o superior\nVaya a Configuración > StandBy y asegúrese de que En Reposo esté activado\nConecte su iPhone a un cargador y colóquelo de lado\nToca el botón lateral\nDesliza el dedo hacia la izquierda o hacia la derecha para cambiar entre diferentes vistas. Desliza hacia arriba o hacia abajo para desplazarte entre las opciones de cada una de estas vistas"
+            "value" : "Nota: El modo de reposo solo funciona en iPhone y requiere iOS 17 o superior\nVaya a Configuración > StandBy y asegúrese de que En Reposo esté activado\nConecte su iPhone a un cargador y colóquelo de lado\nToque el botón lateral\nDesliza el dedo hacia la izquierda o hacia la derecha para cambiar entre diferentes vistas. Desliza hacia arriba o hacia abajo para desplazarte entre las opciones de cada una de estas vistas"
           }
         }
       }

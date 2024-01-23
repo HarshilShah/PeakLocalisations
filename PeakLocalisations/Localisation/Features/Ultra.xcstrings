@@ -42,7 +42,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hágase Más Fuerte, Juntos"
+            "value" : "Háganse Más Fuerte, Juntos"
           }
         }
       }
@@ -88,7 +88,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Iconos de App"
+            "value" : "Íconos de App"
           }
         }
       }
@@ -111,7 +111,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Una variedad de íconos para alegrar tu pantalla de inicio."
+            "value" : "Una variedad de iconos para alegrar su pantalla de inicio."
           }
         }
       }
@@ -249,7 +249,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Personaliza la aplicación eligiendo entre más de 60 temas hermosos."
+            "value" : "Personalice la aplicación eligiendo entre más de 60 temas hermosos."
           }
         }
       }
@@ -583,7 +583,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hágase Más Fuerte, Juntos con"
+            "value" : "Háganse Más Fuerte, Juntos con"
           }
         }
       }

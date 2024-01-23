@@ -208,6 +208,29 @@
         }
       }
     },
+    "Term.Long.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Langfristig Trends"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Long Term Trends"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tendencias de Largo Plazo"
+          }
+        }
+      }
+    },
     "Term.Medium" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -254,6 +277,29 @@
         }
       }
     },
+    "Term.Medium.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mittelfristig Trends"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medium Term Trends"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tendencias de Mediano Plazo"
+          }
+        }
+      }
+    },
     "Term.Short" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -296,6 +342,29 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "7 vs 28 días"
+          }
+        }
+      }
+    },
+    "Term.Short.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kurzfristig Trends"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Short Term Trends"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tendencias de Corto Plazo"
           }
         }
       }

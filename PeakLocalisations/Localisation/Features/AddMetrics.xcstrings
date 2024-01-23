@@ -19,7 +19,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "También solícita permiso para %@"
+            "value" : "También solicita permiso para %@"
           }
         }
       }
