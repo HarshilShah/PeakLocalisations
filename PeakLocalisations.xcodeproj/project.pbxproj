@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07D419672B5FC5AA006A52B4 /* WhatsNew.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 07D419662B5FC5AA006A52B4 /* WhatsNew.xcstrings */; };
 		E8B3C1502B552E2800030D64 /* Formatting.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8B3C14F2B552E2800030D64 /* Formatting.xcstrings */; };
 		E8BE48D02B5517DE005075DC /* PeakLocalisationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */; };
 		E8BE48FD2B551871005075DC /* Screenshots.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48DE2B551871005075DC /* Screenshots.xcstrings */; };
@@ -42,6 +43,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		07D419662B5FC5AA006A52B4 /* WhatsNew.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = WhatsNew.xcstrings; sourceTree = "<group>"; };
 		E8B3C14F2B552E2800030D64 /* Formatting.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Formatting.xcstrings; sourceTree = "<group>"; };
 		E8BE48CC2B5517DE005075DC /* PeakLocalisations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PeakLocalisations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeakLocalisationsApp.swift; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 			isa = PBXGroup;
 			children = (
 				E8BE48E62B551871005075DC /* Onboarding.xcstrings */,
+				07D419662B5FC5AA006A52B4 /* WhatsNew.xcstrings */,
 				E8BE48E72B551871005075DC /* AddEntry.xcstrings */,
 				E8BE48EC2B551871005075DC /* AddMetrics.xcstrings */,
 				E8BE48EA2B551871005075DC /* Details.xcstrings */,
@@ -265,6 +268,7 @@
 				E8BE490E2B551871005075DC /* Trends.xcstrings in Resources */,
 				E8BE49172B551871005075DC /* Metrics.xcstrings in Resources */,
 				E8BE49022B551871005075DC /* Backups.xcstrings in Resources */,
+				07D419672B5FC5AA006A52B4 /* WhatsNew.xcstrings in Resources */,
 				E8BE49152B551871005075DC /* WorkoutTypes.xcstrings in Resources */,
 				E8BE491B2B551972005075DC /* InfoPlist.xcstrings in Resources */,
 				E8BE490F2B551871005075DC /* Benchmark.xcstrings in Resources */,
