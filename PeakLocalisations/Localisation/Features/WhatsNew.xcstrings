@@ -1,0 +1,151 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Feature.FamilySharing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gemeinsam stärker werden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get Stronger, Together"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Háganse Más Fuerte, Juntos"
+          }
+        }
+      }
+    },
+    "Feature.FamilySharingBody" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share Peak Ultra (previously Peak Pro) with up to 6 members of your family using iCloud Family Sharing!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparta Peak Ultra (anteriormente Peak Pro) con hasta 6 miembros de su familia con iCloud Compartir en familia"
+          }
+        }
+      }
+    },
+    "Feature.Themes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flaunt Your Style"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muestre Su Estilo"
+          }
+        }
+      }
+    },
+    "Feature.ThemesBody" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try the new bright and flamboyant “Vivid” themes, available in 9 beautiful colours"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pruebe los nuevos temas brillantes \"Vívidos\", disponibles en 9 hermosos colores"
+          }
+        }
+      }
+    },
+    "Feature.Translations" : {
+      "comment" : "Put the current language first",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now in Spanish and German!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Ahora en Español y Alemán!"
+          }
+        }
+      }
+    },
+    "Feature.TranslationsBody" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If you’d like to see Peak support another language, please let me know"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si desea que Peak agregue otro idioma, hágamelo saber."
+          }
+        }
+      }
+    },
+    "Leave a Review" : {
+      "comment" : "Use a shorter version, if available",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leave a Review"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deja una reseña"
+          }
+        }
+      }
+    },
+    "Title" : {
+      "comment" : "This can also be translated as \"New in Peak\"",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What’s New in Peak"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuevo en Peak"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
