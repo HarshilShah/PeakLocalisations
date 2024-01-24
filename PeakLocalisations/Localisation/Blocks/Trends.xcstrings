@@ -214,7 +214,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Langfristig Trends"
+            "value" : "Langfristige Trends"
           }
         },
         "en" : {
@@ -283,7 +283,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mittelfristig Trends"
+            "value" : "Mittelfristige Trends"
           }
         },
         "en" : {
@@ -352,7 +352,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kurzfristig Trends"
+            "value" : "Kurzfristige Trends"
           }
         },
         "en" : {
