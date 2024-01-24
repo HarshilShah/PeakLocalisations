@@ -361,7 +361,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hinweis: StandBy funktioniert nur auf einem iPhone mit iOS 17 oder neuer.\nGehe in die Einstellungen > StandBy und stelle sicher, dass StandBy aktiviert ist.\nVerbinde dein iPhone mit einem Ladegerät und kippe es in eine horizontale Position.\nDrücke den Seitenschalter.\nStreiche links oder rechts, um zwischen den verschiedenen Ansichten zu wechseln. Streiche hoch oder runter um zwischen den verschiedenen Optionen der Ansichten zu wechseln."
+            "value" : "Hinweis: StandBy funktioniert nur auf einem iPhone mit iOS 17 oder neuer.\nGehe in die Einstellungen > StandBy und stelle sicher, dass StandBy aktiviert ist.\nVerbinde dein iPhone mit einem Ladegerät und kippe es in eine horizontale Position.\nDrücke den Seitenschalter.\nStreiche links oder rechts, um zwischen den verschiedenen Ansichten zu wechseln. Streiche hoch oder runter, um zwischen den verschiedenen Optionen der Ansichten zu wechseln."
           }
         },
         "en" : {
