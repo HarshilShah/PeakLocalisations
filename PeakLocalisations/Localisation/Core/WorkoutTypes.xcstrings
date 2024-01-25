@@ -2031,7 +2031,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rollstuhl-Lauftempo"
+            "value" : "Rollstuhltraining im Lauftempo"
           }
         },
         "en" : {
@@ -2054,7 +2054,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rollstuhl-Gehtempo"
+            "value" : "Rollstuhltraining im Gehtempo"
           }
         },
         "en" : {

@@ -513,7 +513,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktuelles Tempo"
+            "value" : "Aktuelle Pace"
           }
         },
         "en" : {
@@ -628,7 +628,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erforderliches Tempo"
+            "value" : "Erforderliche Pace"
           }
         },
         "en" : {
@@ -766,7 +766,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Im Hintertreffen"
+            "value" : "Im Rückstand"
           }
         },
         "en" : {
