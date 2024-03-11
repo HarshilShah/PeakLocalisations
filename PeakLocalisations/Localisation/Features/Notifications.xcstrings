@@ -4,6 +4,12 @@
     "Denied.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte erlaube Benachrichtigungen in den Systemeinstellungen um über Aktualisierungen informiert zu werden."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21,6 +27,12 @@
     "Denied.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Berechtigung für Benachrichtigungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

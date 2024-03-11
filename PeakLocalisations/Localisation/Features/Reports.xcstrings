@@ -132,6 +132,12 @@
     "Notification.Daily.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sieh dir deinen gestrigen Fortschritt an"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -149,6 +155,12 @@
     "Notification.Daily.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine tägliche Zusammenfassung steht bereit!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -166,6 +178,12 @@
     "Notification.Monthly.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sieh dir deinen Fortschritt des letzten Monats an"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -184,6 +202,12 @@
       "comment" : "The argument is a formatted month name",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Zusammenfassung für %@ steht bereit!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -201,6 +225,12 @@
     "Notification.Weekly.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sieh dir deinen Fortschritt der letzten Woche an"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -218,6 +248,12 @@
     "Notification.Weekly.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine wöchentliche Zusammenfassung steht bereit!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -235,6 +271,12 @@
     "Notification.Yearly.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sieh dir deinen Fortschritt des letzten Jahres an"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -253,6 +295,12 @@
       "comment" : "The argument is a formatted year",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Zusammenfassung für %@ steht bereit!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -270,6 +318,12 @@
     "NotificationPrompt.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak kann dich benachrichtigen, sobald dein Zusammenfassung bereit steht."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -288,6 +342,12 @@
       "comment" : "Try to keep this short, matching the length of the original",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benachrichtigungen aktivieren?"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -328,6 +388,12 @@
     "Recaps" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zusammenfassungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
