@@ -129,6 +129,179 @@
         }
       }
     },
+    "Notification.Daily.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check out your progress yesterday"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revise su progreso de ayer."
+          }
+        }
+      }
+    },
+    "Notification.Daily.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Daily Recap is Ready!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Su Resumen Diario está Listo!"
+          }
+        }
+      }
+    },
+    "Notification.Monthly.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check out your progress last month"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revise su progreso del mes pasado."
+          }
+        }
+      }
+    },
+    "Notification.Monthly.Title" : {
+      "comment" : "The argument is a formatted month name",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your %@ Recap is Ready!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Su Resumen de %@ está Listo!"
+          }
+        }
+      }
+    },
+    "Notification.Weekly.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check out your progress last week"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revise su progreso de la semana pasada."
+          }
+        }
+      }
+    },
+    "Notification.Weekly.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your Weekly Recap is Ready!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Su Resumen Semanal está Listo!"
+          }
+        }
+      }
+    },
+    "Notification.Yearly.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check out your progress over the last year"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revise su progreso durante el último año."
+          }
+        }
+      }
+    },
+    "Notification.Yearly.Title" : {
+      "comment" : "The argument is a formatted year",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your %@ Annual Recap is Ready!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Su Resumen Anual de %@ está Listo!"
+          }
+        }
+      }
+    },
+    "NotificationPrompt.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak can notify you as soon as new recaps are ready."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak puede notificarle en cuanto nuevos resúmenes estén listos."
+          }
+        }
+      }
+    },
+    "NotificationPrompt.Title" : {
+      "comment" : "Try to keep this short, matching the length of the original",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enable Recap Alerts?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Habilitar Alertas de Resumenes?"
+          }
+        }
+      }
+    },
     "Recap" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -148,6 +321,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resumen"
+          }
+        }
+      }
+    },
+    "Recaps" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recaps"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resumenes"
           }
         }
       }
