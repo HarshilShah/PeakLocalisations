@@ -1,6 +1,52 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Denied.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte erlaube Benachrichtigungen in den Systemeinstellungen um über Aktualisierungen informiert zu werden."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please enable notifications in Settings to receive updates."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permita notificaciones en Ajustes para recibir actualizaciones."
+          }
+        }
+      }
+    },
+    "Denied.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine Berechtigung für Benachrichtigungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications Permissions Denied"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Permiso de notificaciones denegado"
+          }
+        }
+      }
+    },
     "EmptyState.Body" : {
       "extractionState" : "manual",
       "localizations" : {
