@@ -143,6 +143,12 @@
     "Blood Oxygen" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blutsauerstoff"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -254,6 +260,12 @@
     "Cardio Fitness" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cardiofitness"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -271,6 +283,12 @@
     "Cardio Recovery" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cardioerholung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -426,6 +444,12 @@
     "Heart Rate Variability" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herzfrequenzvariabilität"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -558,6 +582,12 @@
     "Resting Energy" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruheenergie"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -575,6 +605,12 @@
     "Resting Heart Rate" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruheherzfrequenz"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -639,6 +675,12 @@
     "Sleep" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schlaf"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -656,6 +698,12 @@
     "Sleep Stage Asleep" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schlafend"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -673,6 +721,12 @@
     "Sleep Stage Awake" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wach"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -690,6 +744,12 @@
     "Sleep Stage Core" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kernschlaf"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -707,6 +767,12 @@
     "Sleep Stage Deep" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiefschlaf"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -724,6 +790,12 @@
     "Sleep Stage In Bed" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im Bett"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -741,6 +813,12 @@
     "Sleep Stage REM" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "REM"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -874,6 +952,12 @@
     "Walking Heart Rate Average" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "∅-Herzfrequenz (Gehen)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
