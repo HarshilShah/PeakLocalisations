@@ -188,6 +188,12 @@
     "Section.Vitals" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vitalzeichen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
