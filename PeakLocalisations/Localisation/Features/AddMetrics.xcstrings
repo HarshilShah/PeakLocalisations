@@ -185,6 +185,29 @@
         }
       }
     },
+    "Section.Vitals" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vitalzeichen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vitals"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Constantes Vitales"
+          }
+        }
+      }
+    },
     "Title" : {
       "extractionState" : "manual",
       "localizations" : {

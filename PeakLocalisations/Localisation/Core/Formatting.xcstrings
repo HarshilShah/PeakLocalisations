@@ -1984,6 +1984,29 @@
         }
       }
     },
+    "Time.Milliseconds.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ms"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ms"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ms"
+          }
+        }
+      }
+    },
     "Time.Minutes.Unit" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2003,6 +2026,264 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "minutos"
+          }
+        }
+      }
+    },
+    "vo2Max %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂max"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂max"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ max"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ max"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ máx."
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ máx."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "vo2Max.Attributed %lf %@" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂max"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂max"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ max"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ max"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’)"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ máx."
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ máx."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "vo2Max.Unit %lf" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂max"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂max"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ max"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ max"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ máx."
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ máx."
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       }
