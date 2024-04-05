@@ -4,6 +4,12 @@
     "Feature.Recents" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neues Widget \"Neueste\""
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21,6 +27,12 @@
     "Feature.RecentsBody" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfolge bis zu 3 Metriken auf dem iPhone, und bis zu 7 Metriken auf dem iPad."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38,6 +50,12 @@
     "Feature.Sleep" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Schlaf im Überblick"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -55,6 +73,12 @@
     "Feature.SleepBody" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sieh dir Graphen, Trends, Heatmaps, Ziele und mehr zu deinem Schlaf an."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -72,6 +96,12 @@
     "Feature.Vitals" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behalte deine Vitalwerte im Blick"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -89,6 +119,12 @@
     "Feature.VitalsBody" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Herzfrequenz, VO₂max, Blutsauerstoff und mehr."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
