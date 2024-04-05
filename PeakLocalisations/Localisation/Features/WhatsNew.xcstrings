@@ -1,141 +1,140 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "Feature.FamilySharing" : {
+    "Feature.Recents" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gemeinsam stärker werden"
+            "value" : "Neues Widget \"Neueste\""
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Get Stronger, Together"
+            "value" : "New Recents widget"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Háganse Más Fuerte, Juntos"
+            "value" : "Nuevo Widget de Recientes"
           }
         }
       }
     },
-    "Feature.FamilySharingBody" : {
+    "Feature.RecentsBody" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teile Peak Ultra (ehemals Peak Pro) mit bis zu 6 Familienmitgliedern mittels der iCloud Familienfreigabe!"
+            "value" : "Verfolge bis zu 3 Metriken auf dem iPhone, und bis zu 7 Metriken auf dem iPad."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Share Peak Ultra (previously Peak Pro) with up to 6 members of your family using iCloud Family Sharing!"
+            "value" : "Track up to 3 metrics on iPhone, and up to 7 on iPad"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comparta Peak Ultra (anteriormente Peak Pro) con hasta 6 miembros de su familia con iCloud Compartir en familia"
+            "value" : "Rastree hasta 3 métricas en iPhone y hasta 7 en iPad."
           }
         }
       }
     },
-    "Feature.Themes" : {
+    "Feature.Sleep" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeige deinen Stil"
+            "value" : "Dein Schlaf im Überblick"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Flaunt Your Style"
+            "value" : "Track Your Sleep"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Muestre Su Estilo"
+            "value" : "Rastree Su Sueño"
           }
         }
       }
     },
-    "Feature.ThemesBody" : {
+    "Feature.SleepBody" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Probiere die neuen hellen und extravaganten \"Lebendig\" Themes aus, die in 9 wunderschönen Farben verfügbar sind."
+            "value" : "Sieh dir Graphen, Trends, Heatmaps, Ziele und mehr zu deinem Schlaf an."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Try the new bright and flamboyant “Vivid” themes, available in 9 beautiful colours"
+            "value" : "View sleep graphs, trends, heat maps, goals, and more."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pruebe los nuevos temas brillantes \"Vívidos\", disponibles en 9 hermosos colores"
+            "value" : "Ver gráficos, tendencias, metas y más."
           }
         }
       }
     },
-    "Feature.Translations" : {
-      "comment" : "Put the current language first",
+    "Feature.Vitals" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jetzt in Deutsch und Spanisch!"
+            "value" : "Behalte deine Vitalwerte im Blick"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Now in Spanish and German!"
+            "value" : "Track Your Vitals"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Ahora en Español y Alemán!"
+            "value" : "Rastree Sus Signos Vitales"
           }
         }
       }
     },
-    "Feature.TranslationsBody" : {
+    "Feature.VitalsBody" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wenn du dir Peak in einer weiteren Sprache wünschst, lass es mich wissen."
+            "value" : "Herzfrequenz, VO₂max, Blutsauerstoff und mehr."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "If you’d like to see Peak support another language, please let me know"
+            "value" : "Heart rate, VO₂ max, blood oxygen, and more."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Si desea que Peak agregue otro idioma, hágamelo saber."
+            "value" : "Ritmo cardíaco, VO₂ máximo, oxígeno en sangre y más."
           }
         }
       }
