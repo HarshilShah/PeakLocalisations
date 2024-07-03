@@ -170,6 +170,12 @@
             "state" : "translated",
             "value" : "Peak syncs and backs up your metrics, blocks, and settings in your iCloud account"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak sincroniza y realiza copias de seguridad de sus métricas, bloques y configuraciones en su cuenta de iCloud"
+          }
         }
       }
     },
@@ -399,6 +405,12 @@
             "state" : "translated",
             "value" : "Please keep the screen lit while Peak sets up"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantenga la pantalla iluminada mientras Peak se configura"
+          }
         }
       }
     },
@@ -571,6 +583,12 @@
             "state" : "translated",
             "value" : "Sync"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sincronización"
+          }
         }
       }
     },
@@ -591,8 +609,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Copia de Seguridad"
+            "state" : "translated",
+            "value" : "Sincronización y Copias de Seguridad"
           }
         }
       }
@@ -605,6 +623,12 @@
             "state" : "translated",
             "value" : "Checking for sync data"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando datos de sincronización"
+          }
         }
       }
     },
@@ -615,6 +639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Open Peak on your iPhone to continue"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abra Peak en su iPhone para continuar"
           }
         }
       }
@@ -627,6 +657,12 @@
             "state" : "translated",
             "value" : "Sync data not found"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se encontraron datos de sincronización"
+          }
         }
       }
     },
@@ -637,6 +673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You’re offline. Connect to the internet to load synced data"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estás desconectado. Conéctese a Internet para cargar datos sincronizados"
           }
         }
       }
@@ -649,6 +691,12 @@
             "state" : "translated",
             "value" : "Sync data restored!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Datos de sincronización restaurados!"
+          }
         }
       }
     },
@@ -659,6 +707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restoring archives"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurando archivos"
           }
         }
       }
@@ -680,8 +734,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Para utilizar copias de seguridad automáticas, asegúrese de que:"
+            "state" : "translated",
+            "value" : "Para utilizar sincronización y copias de seguridad automáticas, asegúrese de que:"
           }
         }
       }
