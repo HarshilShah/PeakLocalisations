@@ -300,7 +300,7 @@
         }
       }
     },
-    "Features.All.Short" : {
+    "Features.All" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
@@ -319,6 +319,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desbloquea métricas ilimitadas, bloques, temas, widgets y más"
+          }
+        }
+      }
+    },
+    "Features.All.Compact" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock all features"
           }
         }
       }

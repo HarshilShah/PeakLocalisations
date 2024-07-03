@@ -162,6 +162,17 @@
         }
       }
     },
+    "Explanation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak syncs and backs up your metrics, blocks, and settings in your iCloud account"
+          }
+        }
+      }
+    },
     "Export Backup" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -380,6 +391,17 @@
         }
       }
     },
+    "Keep The Screen Lit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please keep the screen lit while Peak sets up"
+          }
+        }
+      }
+    },
     "Recent Backups" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -541,25 +563,102 @@
         }
       }
     },
-    "Title" : {
+    "Sync" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sync"
+          }
+        }
+      }
+    },
+    "Sync and Backups" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Sicherungen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Backups"
+            "value" : "Sync & Backups"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Copia de Seguridad"
+          }
+        }
+      }
+    },
+    "SyncStatus.Checking" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Checking for sync data"
+          }
+        }
+      }
+    },
+    "SyncStatus.DisconnectedFromPhone" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Peak on your iPhone to continue"
+          }
+        }
+      }
+    },
+    "SyncStatus.Missing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sync data not found"
+          }
+        }
+      }
+    },
+    "SyncStatus.Offline" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You’re offline. Connect to the internet to load synced data"
+          }
+        }
+      }
+    },
+    "SyncStatus.Restored" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sync data restored!"
+          }
+        }
+      }
+    },
+    "SyncStatus.RestoringArchives" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restoring archives"
           }
         }
       }
@@ -569,19 +668,19 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Um automatische Sicherungen zu nutzen, stelle bitte sicher dass:"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "To use automatic backups, please ensure that:"
+            "value" : "To use sync & automatic backups, please ensure that:"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Para utilizar copias de seguridad automáticas, asegúrese de que:"
           }
         }

@@ -1,144 +1,6 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "Feature.Recents" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Neues Widget \"Neueste\""
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "New Recents widget"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nuevo Widget de Recientes"
-          }
-        }
-      }
-    },
-    "Feature.RecentsBody" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verfolge bis zu 3 Metriken auf dem iPhone, und bis zu 7 Metriken auf dem iPad."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Track up to 3 metrics on iPhone, and up to 7 on iPad"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rastree hasta 3 métricas en iPhone y hasta 7 en iPad."
-          }
-        }
-      }
-    },
-    "Feature.Sleep" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dein Schlaf im Überblick"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Track Your Sleep"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rastree Su Sueño"
-          }
-        }
-      }
-    },
-    "Feature.SleepBody" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sieh dir Graphen, Trends, Heatmaps, Ziele und mehr zu deinem Schlaf an."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "View sleep graphs, trends, heat maps, goals, and more."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ver gráficos, tendencias, metas y más."
-          }
-        }
-      }
-    },
-    "Feature.Vitals" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Behalte deine Vitalwerte im Blick"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Track Your Vitals"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rastree Sus Signos Vitales"
-          }
-        }
-      }
-    },
-    "Feature.VitalsBody" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Herzfrequenz, VO₂max, Blutsauerstoff und mehr."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Heart rate, VO₂ max, blood oxygen, and more."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ritmo cardíaco, VO₂ máximo, oxígeno en sangre y más."
-          }
-        }
-      }
-    },
     "Leave a Review" : {
       "comment" : "Use a shorter version, if available",
       "extractionState" : "manual",
@@ -159,6 +21,29 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Deja una reseña"
+          }
+        }
+      }
+    },
+    "Now on Apple Watch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Neues Widget \"Neueste\""
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now on your Apple Watch!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Nuevo Widget de Recientes"
           }
         }
       }

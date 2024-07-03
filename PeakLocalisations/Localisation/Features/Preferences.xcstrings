@@ -539,6 +539,17 @@
         }
       }
     },
+    "First Day of the Week" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First Day of the Week"
+          }
+        }
+      }
+    },
     "General" : {
       "comment" : "The top level general preferences section",
       "extractionState" : "manual",

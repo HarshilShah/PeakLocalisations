@@ -33,6 +33,9 @@
         }
       }
     },
+    "All" : {
+
+    },
     "All Workouts" : {
       "localizations" : {
         "de" : {
@@ -709,6 +712,9 @@
         }
       }
     },
+    "Tap and hold to set up" : {
+
+    },
     "Tap to Unlock Widget" : {
       "localizations" : {
         "de" : {
@@ -737,22 +743,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tema"
-          }
-        }
-      }
-    },
-    "Timescales" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zeiträume"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Plazos"
           }
         }
       }
