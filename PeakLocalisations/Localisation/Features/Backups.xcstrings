@@ -165,6 +165,12 @@
     "Explanation" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak synchronisiert und sichert deine Kennzahlen, Blöcke und Einstellungen mit deinem iCloud-Account"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -400,6 +406,12 @@
     "Keep The Screen Lit" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte lass den Bildschirm an während Peak eingerichtet wird"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -578,6 +590,12 @@
     "Sync" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchronisierung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -597,8 +615,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Sicherungen"
+            "state" : "translated",
+            "value" : "Synchronisierung & Sicherungen"
           }
         },
         "en" : {
@@ -618,6 +636,12 @@
     "SyncStatus.Checking" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suche nach synchronisierten Daten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -635,6 +659,12 @@
     "SyncStatus.DisconnectedFromPhone" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffne Peak auf deinem iPhone um fortzufahren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -652,6 +682,12 @@
     "SyncStatus.Missing" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine synchronisierten Daten gefunden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -669,6 +705,12 @@
     "SyncStatus.Offline" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du bist offline. Stelle eine Internetverbindung her um synchronisierte Daten zu laden."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -686,6 +728,12 @@
     "SyncStatus.Restored" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchronisierte Daten wiederhergestellt!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -703,6 +751,12 @@
     "SyncStatus.RestoringArchives" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Archivierte Daten wiederherstellen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -722,8 +776,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Um automatische Sicherungen zu nutzen, stelle bitte sicher dass:"
+            "state" : "translated",
+            "value" : "Um automatische Synchronisierung & Sicherungen zu nutzen, stelle bitte sicher dass:"
           }
         },
         "en" : {

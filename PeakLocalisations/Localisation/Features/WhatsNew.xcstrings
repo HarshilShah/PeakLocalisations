@@ -30,8 +30,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Neues Widget \"Neueste\""
+            "state" : "translated",
+            "value" : "Jetzt auf deiner Apple Watch!"
           }
         },
         "en" : {

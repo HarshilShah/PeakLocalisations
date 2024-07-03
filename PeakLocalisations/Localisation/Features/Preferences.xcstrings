@@ -542,6 +542,12 @@
     "First Day of the Week" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erster Wochentag"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

@@ -257,6 +257,12 @@
     "Off" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aus"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -274,6 +280,12 @@
     "On" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
