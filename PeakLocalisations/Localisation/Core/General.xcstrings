@@ -262,6 +262,12 @@
             "state" : "translated",
             "value" : "Off"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desactivado"
+          }
         }
       }
     },
@@ -272,6 +278,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "On"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activado"
           }
         }
       }
