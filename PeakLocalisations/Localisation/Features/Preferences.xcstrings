@@ -547,6 +547,12 @@
             "state" : "translated",
             "value" : "First Day of the Week"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primer Día de la Semana"
+          }
         }
       }
     },
