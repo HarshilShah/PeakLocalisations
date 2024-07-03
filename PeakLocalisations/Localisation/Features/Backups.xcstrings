@@ -168,7 +168,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak synchronisiert und sichert deine Kennzahlen, Blöcke und Einstellungen mit deinem iCloud-Account"
+            "value" : "Peak synchronisiert und sichert deine Kennzahlen, Blöcke und Einstellungen in deinen iCloud-Account"
           }
         },
         "en" : {
@@ -409,7 +409,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bitte lass den Bildschirm an während Peak eingerichtet wird"
+            "value" : "Bitte halte den Bildschirm aktiv während Peak eingerichtet wird"
           }
         },
         "en" : {
