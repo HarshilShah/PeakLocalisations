@@ -9,6 +9,12 @@
             "state" : "translated",
             "value" : "Add Some Metrics to Get Started"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregue Algunas Métricas para Comenzar"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add Some Metrics on Your Phone to Get Started"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregue Algunas Métricas en su Teléfono para Comenzar"
           }
         }
       }
