@@ -331,6 +331,12 @@
             "state" : "translated",
             "value" : "Unlock all features"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquea todas las funciones"
+          }
         }
       }
     },
