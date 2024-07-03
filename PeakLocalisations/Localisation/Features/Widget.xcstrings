@@ -33,6 +33,22 @@
         }
       }
     },
+    "All" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos"
+          }
+        }
+      }
+    },
     "All Workouts" : {
       "localizations" : {
         "de" : {
@@ -709,6 +725,22 @@
         }
       }
     },
+    "Tap and hold to set up" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücken und halten um zu konfigurieren"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toca o mantén pulsado para configurar"
+          }
+        }
+      }
+    },
     "Tap to Unlock Widget" : {
       "localizations" : {
         "de" : {
@@ -737,22 +769,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tema"
-          }
-        }
-      }
-    },
-    "Timescales" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zeiträume"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Plazos"
           }
         }
       }

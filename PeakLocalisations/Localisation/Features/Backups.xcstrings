@@ -162,6 +162,29 @@
         }
       }
     },
+    "Explanation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak synchronisiert und sichert deine Kennzahlen, Blöcke und Einstellungen in deinen iCloud-Account"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak syncs and backs up your metrics, blocks, and settings in your iCloud account"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak sincroniza y realiza copias de seguridad de sus métricas, bloques y configuraciones en su cuenta de iCloud"
+          }
+        }
+      }
+    },
     "Export Backup" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -380,6 +403,29 @@
         }
       }
     },
+    "Keep The Screen Lit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte halte den Bildschirm aktiv während Peak eingerichtet wird"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please keep the screen lit while Peak sets up"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantenga la pantalla iluminada mientras Peak se configura"
+          }
+        }
+      }
+    },
     "Recent Backups" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -541,25 +587,186 @@
         }
       }
     },
-    "Title" : {
+    "Sync" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sicherungen"
+            "value" : "Synchronisierung"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Backups"
+            "value" : "Sync"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copia de Seguridad"
+            "value" : "Sincronización"
+          }
+        }
+      }
+    },
+    "Sync and Backups" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchronisierung & Sicherungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sync & Backups"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sincronización y Copias de Seguridad"
+          }
+        }
+      }
+    },
+    "SyncStatus.Checking" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suche nach synchronisierten Daten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Checking for sync data"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando datos de sincronización"
+          }
+        }
+      }
+    },
+    "SyncStatus.DisconnectedFromPhone" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffne Peak auf deinem iPhone um fortzufahren"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Peak on your iPhone to continue"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abra Peak en su iPhone para continuar"
+          }
+        }
+      }
+    },
+    "SyncStatus.Missing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine synchronisierten Daten gefunden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sync data not found"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se encontraron datos de sincronización"
+          }
+        }
+      }
+    },
+    "SyncStatus.Offline" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du bist offline. Stelle eine Internetverbindung her, um synchronisierte Daten zu laden."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You’re offline. Connect to the internet to load synced data"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estás desconectado. Conéctese a Internet para cargar datos sincronizados"
+          }
+        }
+      }
+    },
+    "SyncStatus.Restored" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Synchronisierte Daten wiederhergestellt!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sync data restored!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Datos de sincronización restaurados!"
+          }
+        }
+      }
+    },
+    "SyncStatus.RestoringArchives" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Archivierte Daten wiederherstellen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restoring archives"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurando archivos"
           }
         }
       }
@@ -570,19 +777,19 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Um automatische Sicherungen zu nutzen, stelle bitte sicher dass:"
+            "value" : "Um automatische Synchronisierung & Sicherungen zu nutzen, stelle bitte sicher dass:"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "To use automatic backups, please ensure that:"
+            "value" : "To use sync & automatic backups, please ensure that:"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Para utilizar copias de seguridad automáticas, asegúrese de que:"
+            "value" : "Para utilizar sincronización y copias de seguridad automáticas, asegúrese de que:"
           }
         }
       }

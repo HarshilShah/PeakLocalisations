@@ -1,0 +1,72 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Alert.CancelRequestBody" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak isn’t ready to use on your watch just yet"
+          }
+        }
+      }
+    },
+    "Alert.CancelRequestTitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel Setting Up Peak on your Apple Watch?"
+          }
+        }
+      }
+    },
+    "Alert.CancelSetup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel Setup"
+          }
+        }
+      }
+    },
+    "Alert.ContinueSetup" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continue Setup"
+          }
+        }
+      }
+    },
+    "Phone.Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep Peak open on your phone and your watch to finish setting up."
+          }
+        }
+      }
+    },
+    "Phone.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparing Peak for Apple Watch"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

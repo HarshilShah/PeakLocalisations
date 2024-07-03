@@ -678,25 +678,25 @@
         }
       }
     },
-    "HeartRate.Attributed %lf %@" : {
+    "HeartRate.Attributed %@" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "^[%2$@](measurement: 'value') ^[bpm](measurement: 'unit’)"
+            "value" : "^[%1$@](measurement: 'value') ^[bpm](measurement: 'unit’)"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "^[%2$@](measurement: 'value') ^[bpm](measurement: 'unit’)"
+            "value" : "^[%1$@](measurement: 'value') ^[bpm](measurement: 'unit’)"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "^[%2$@](measurement: 'value') ^[lpm](measurement: 'unit’)"
+            "value" : "^[%1$@](measurement: 'value') ^[lpm](measurement: 'unit’)"
           }
         }
       }
@@ -982,24 +982,25 @@
         }
       }
     },
-    "Pace.Kilometers %lf %@" : {
+    "Pace.Kilometers %@" : {
+      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%2$@/km"
+            "value" : "%1$@/km"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%2$@/km"
+            "value" : "%1$@/km"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%2$@/km"
+            "value" : "%1$@/km"
           }
         }
       }
@@ -1050,24 +1051,25 @@
         }
       }
     },
-    "Pace.Miles %lf %@" : {
+    "Pace.Miles %@" : {
+      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%2$@/mi"
+            "value" : "%1$@/mi"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%2$@/mi"
+            "value" : "%1$@/mi"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%2$@/mi"
+            "value" : "%1$@/mi"
           }
         }
       }
@@ -2202,88 +2204,25 @@
         }
       }
     },
-    "vo2Max.Unit %lf" : {
+    "vo2Max.Unit" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%#@unit@"
-          },
-          "substitutions" : {
-            "unit" : {
-              "formatSpecifier" : "lf",
-              "variations" : {
-                "plural" : {
-                  "one" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "VO₂max"
-                    }
-                  },
-                  "other" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "VO₂max"
-                    }
-                  }
-                }
-              }
-            }
+            "value" : "VO₂ max"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%#@unit@"
-          },
-          "substitutions" : {
-            "unit" : {
-              "formatSpecifier" : "lf",
-              "variations" : {
-                "plural" : {
-                  "one" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "VO₂ max"
-                    }
-                  },
-                  "other" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "VO₂ max"
-                    }
-                  }
-                }
-              }
-            }
+            "value" : "VO₂ max"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%#@unit@"
-          },
-          "substitutions" : {
-            "unit" : {
-              "formatSpecifier" : "lf",
-              "variations" : {
-                "plural" : {
-                  "one" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "VO₂ máx."
-                    }
-                  },
-                  "other" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "VO₂ máx."
-                    }
-                  }
-                }
-              }
-            }
+            "value" : "VO₂ máx"
           }
         }
       }
