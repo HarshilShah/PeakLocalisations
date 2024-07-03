@@ -42,8 +42,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Nuevo Widget de Recientes"
+            "state" : "translated",
+            "value" : "¡Ahora en su Apple Watch!"
           }
         }
       }
