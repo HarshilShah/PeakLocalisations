@@ -4,6 +4,12 @@
     "Alert.CancelRequestBody" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak auf deiner Watch ist noch nicht bereit"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21,6 +27,12 @@
     "Alert.CancelRequestTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Willst du das Einrichten von Peak auf deiner Watch wirklich abbrechen?"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38,6 +50,12 @@
     "Alert.CancelSetup" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichten abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -55,6 +73,12 @@
     "Alert.ContinueSetup" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichten fortsetzen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -72,6 +96,12 @@
     "Phone.Description" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lass Peak auf deinem iPhone und deiner Watch geöffnet um die Einrichtung abzuschliessen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -89,6 +119,12 @@
     "Phone.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bereite Peak für deine Apple Watch vor"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
