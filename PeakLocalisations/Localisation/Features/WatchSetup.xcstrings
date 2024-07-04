@@ -9,6 +9,12 @@
             "state" : "translated",
             "value" : "Peak isn’t ready to use on your watch just yet"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak todavía no está listo para usar en su reloj"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancel Setting Up Peak on your Apple Watch?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cancelar la Configuración de Peak en su Apple Watch?"
           }
         }
       }
@@ -31,6 +43,12 @@
             "state" : "translated",
             "value" : "Cancel Setup"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar Configuración"
+          }
         }
       }
     },
@@ -41,6 +59,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue Setup"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar Configuración"
           }
         }
       }
@@ -53,6 +77,12 @@
             "state" : "translated",
             "value" : "Keep Peak open on your phone and your watch to finish setting up."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantén Peak abierto en su teléfono y en su reloj para terminar de configurar."
+          }
         }
       }
     },
@@ -63,6 +93,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preparing Peak for Apple Watch"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparando Peak para su Apple Watch"
           }
         }
       }
