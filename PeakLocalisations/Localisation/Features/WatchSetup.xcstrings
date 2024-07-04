@@ -4,10 +4,22 @@
     "Alert.CancelRequestBody" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak auf deiner Watch ist noch nicht bereit"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peak isn’t ready to use on your watch just yet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak todavía no está listo para usar en su reloj"
           }
         }
       }
@@ -15,10 +27,22 @@
     "Alert.CancelRequestTitle" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Willst du das Einrichten von Peak auf deiner Watch wirklich abbrechen?"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancel Setting Up Peak on your Apple Watch?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Cancelar la Configuración de Peak en su Apple Watch?"
           }
         }
       }
@@ -26,10 +50,22 @@
     "Alert.CancelSetup" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichten abbrechen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancel Setup"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar Configuración"
           }
         }
       }
@@ -37,10 +73,22 @@
     "Alert.ContinueSetup" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einrichten fortsetzen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continue Setup"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar Configuración"
           }
         }
       }
@@ -48,10 +96,22 @@
     "Phone.Description" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lass Peak auf deinem iPhone und deiner Watch geöffnet um die Einrichtung abzuschließen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Keep Peak open on your phone and your watch to finish setting up."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantén Peak abierto en su teléfono y en su reloj para terminar de configurar."
           }
         }
       }
@@ -59,10 +119,22 @@
     "Phone.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bereite Peak für deine Apple Watch vor"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preparing Peak for Apple Watch"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparando Peak para su Apple Watch"
           }
         }
       }
