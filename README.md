@@ -4,9 +4,6 @@ This repository contains all the localisation string files for Peak, a fitness d
 
 If you speak another language, and would like to help translate Peak to support it, we'd love your help!
 
-> [!NOTE]
-> If you’re not comfortable using Xcode, you can also [check out the project on Crowdin](https://crowdin.com/project/peak).
-
 ## Getting Started
 
 - Download the latest version of Xcode (at minimum, Xcode 15) from [Apple](http://developer.apple.com/download/applications/).
