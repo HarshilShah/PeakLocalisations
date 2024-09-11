@@ -429,6 +429,22 @@
         }
       }
     },
+    "Log" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eintragen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registre"
+          }
+        }
+      }
+    },
     "Match App" : {
       "localizations" : {
         "de" : {
@@ -493,22 +509,6 @@
         }
       }
     },
-    "No Goal Selected" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kein Ziel ausgewählt"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ninguna Meta Seleccionada"
-          }
-        }
-      }
-    },
     "No Metric Selected" : {
       "localizations" : {
         "de" : {
@@ -553,6 +553,44 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ninguna"
+          }
+        }
+      }
+    },
+    "Open Metric" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kennzahl öffnen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre la Métrica"
+          }
+        }
+      }
+    },
+    "Open Peak" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak öffnen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Peak"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre Peak"
           }
         }
       }
@@ -673,6 +711,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recientes"
+          }
+        }
+      }
+    },
+    "Set a Goal in Peak" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge ein Ziel in Peak hinzu"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crear una Meta en Peak"
           }
         }
       }
@@ -901,6 +955,38 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tendencias"
+          }
+        }
+      }
+    },
+    "View Goals" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziele ansehen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver Metas"
+          }
+        }
+      }
+    },
+    "View Pinned" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Angeheftetes ansehen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver Fijados"
           }
         }
       }

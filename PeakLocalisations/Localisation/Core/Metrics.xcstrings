@@ -579,6 +579,29 @@
         }
       }
     },
+    "Mindful Minutes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minuten der Achtsamkeit"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindful Minutes"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minutos de Mindfulness"
+          }
+        }
+      }
+    },
     "Resting Energy" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -926,6 +949,29 @@
         }
       }
     },
+    "Time in Daylight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeit im Tageslicht"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time in Daylight"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiempo de Exposición a la Luz Diurna"
+          }
+        }
+      }
+    },
     "Walking and Running Distance" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -938,13 +984,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Walking and Running Distance"
+            "value" : "Step Distance"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distancia Andando/Corriendo"
+            "value" : "Distancia de Pasos"
           }
         }
       }

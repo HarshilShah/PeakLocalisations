@@ -20,7 +20,7 @@
 		E8BE49032B551871005075DC /* Notifications.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E52B551871005075DC /* Notifications.xcstrings */; };
 		E8BE49042B551871005075DC /* Onboarding.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E62B551871005075DC /* Onboarding.xcstrings */; };
 		E8BE49052B551871005075DC /* AddEntry.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E72B551871005075DC /* AddEntry.xcstrings */; };
-		E8BE49062B551871005075DC /* Reports.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E82B551871005075DC /* Reports.xcstrings */; };
+		E8BE49062B551871005075DC /* Recaps.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E82B551871005075DC /* Recaps.xcstrings */; };
 		E8BE49072B551871005075DC /* WidgetSetup.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */; };
 		E8BE49082B551871005075DC /* Details.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EA2B551871005075DC /* Details.xcstrings */; };
 		E8BE49092B551871005075DC /* Preferences.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EB2B551871005075DC /* Preferences.xcstrings */; };
@@ -41,6 +41,7 @@
 		E8BE49182B551871005075DC /* General.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48FC2B551871005075DC /* General.xcstrings */; };
 		E8BE491B2B551972005075DC /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE491A2B551972005075DC /* InfoPlist.xcstrings */; };
 		E8BE491D2B551980005075DC /* Widget.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE491C2B551980005075DC /* Widget.xcstrings */; };
+		E8EABF842C91A5D700D8E21E /* Icons.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8EABF832C91A5D700D8E21E /* Icons.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,7 +59,7 @@
 		E8BE48E52B551871005075DC /* Notifications.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Notifications.xcstrings; sourceTree = "<group>"; };
 		E8BE48E62B551871005075DC /* Onboarding.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Onboarding.xcstrings; sourceTree = "<group>"; };
 		E8BE48E72B551871005075DC /* AddEntry.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = AddEntry.xcstrings; sourceTree = "<group>"; };
-		E8BE48E82B551871005075DC /* Reports.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Reports.xcstrings; sourceTree = "<group>"; };
+		E8BE48E82B551871005075DC /* Recaps.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Recaps.xcstrings; sourceTree = "<group>"; };
 		E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = WidgetSetup.xcstrings; sourceTree = "<group>"; };
 		E8BE48EA2B551871005075DC /* Details.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Details.xcstrings; sourceTree = "<group>"; };
 		E8BE48EB2B551871005075DC /* Preferences.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Preferences.xcstrings; sourceTree = "<group>"; };
@@ -79,6 +80,7 @@
 		E8BE48FC2B551871005075DC /* General.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = General.xcstrings; sourceTree = "<group>"; };
 		E8BE491A2B551972005075DC /* InfoPlist.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 		E8BE491C2B551980005075DC /* Widget.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Widget.xcstrings; sourceTree = "<group>"; };
+		E8EABF832C91A5D700D8E21E /* Icons.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Icons.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,7 +142,7 @@
 				E8BE48ED2B551871005075DC /* Home.xcstrings */,
 				E8BE48E52B551871005075DC /* Notifications.xcstrings */,
 				E8BE48EB2B551871005075DC /* Preferences.xcstrings */,
-				E8BE48E82B551871005075DC /* Reports.xcstrings */,
+				E8BE48E82B551871005075DC /* Recaps.xcstrings */,
 				E8BE48E32B551871005075DC /* Ultra.xcstrings */,
 				E88B42BE2C36739600A65CAC /* WatchSetup.xcstrings */,
 				07D419662B5FC5AA006A52B4 /* WhatsNew.xcstrings */,
@@ -171,6 +173,7 @@
 				E8BE48FA2B551871005075DC /* Time.xcstrings */,
 				E8BE48FB2B551871005075DC /* Metrics.xcstrings */,
 				E8BE48F72B551871005075DC /* Stats.xcstrings */,
+				E8EABF832C91A5D700D8E21E /* Icons.xcstrings */,
 				E8BE48F82B551871005075DC /* Themes.xcstrings */,
 				E8BE48F92B551871005075DC /* WorkoutTypes.xcstrings */,
 				E8B3C14F2B552E2800030D64 /* Formatting.xcstrings */,
@@ -182,8 +185,8 @@
 			isa = PBXGroup;
 			children = (
 				E8BE48F62B551871005075DC /* Core */,
-				E8BE48E02B551871005075DC /* Features */,
 				E8BE48EE2B551871005075DC /* Blocks */,
+				E8BE48E02B551871005075DC /* Features */,
 				E8BE48DD2B551871005075DC /* App Store */,
 			);
 			path = Localisation;
@@ -263,6 +266,7 @@
 				E8BE49132B551871005075DC /* Stats.xcstrings in Resources */,
 				E8BE49092B551871005075DC /* Preferences.xcstrings in Resources */,
 				E8BE49032B551871005075DC /* Notifications.xcstrings in Resources */,
+				E8EABF842C91A5D700D8E21E /* Icons.xcstrings in Resources */,
 				E8B3C1502B552E2800030D64 /* Formatting.xcstrings in Resources */,
 				E8BE49012B551871005075DC /* Ultra.xcstrings in Resources */,
 				E8BE49002B551871005075DC /* HealthKitUnavailable.xcstrings in Resources */,
@@ -279,7 +283,7 @@
 				E8BE49102B551871005075DC /* Blocks.xcstrings in Resources */,
 				E88B42BF2C36739600A65CAC /* WatchSetup.xcstrings in Resources */,
 				E8BE491D2B551980005075DC /* Widget.xcstrings in Resources */,
-				E8BE49062B551871005075DC /* Reports.xcstrings in Resources */,
+				E8BE49062B551871005075DC /* Recaps.xcstrings in Resources */,
 				E8BE49162B551871005075DC /* Time.xcstrings in Resources */,
 				E8BE490C2B551871005075DC /* Resolutions.xcstrings in Resources */,
 			);

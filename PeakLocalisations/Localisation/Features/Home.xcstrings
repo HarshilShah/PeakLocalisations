@@ -47,6 +47,29 @@
         }
       }
     },
+    "Drag to Reorder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziehen um neu Anzuordnen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drag to Reorder"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrastre para Reordenar"
+          }
+        }
+      }
+    },
     "RemoveMetric.Body" : {
       "extractionState" : "manual",
       "localizations" : {
