@@ -431,6 +431,12 @@
     },
     "Log" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eintragen"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -553,6 +559,12 @@
     },
     "Open Metric" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kennzahl öffnen"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -563,6 +575,12 @@
     },
     "Open Peak" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak öffnen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -943,6 +961,12 @@
     },
     "View Goals" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziele ansehen"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -953,6 +977,12 @@
     },
     "View Pinned" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Angeheftetes ansehen"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",

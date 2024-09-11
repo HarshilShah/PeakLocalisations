@@ -119,6 +119,12 @@
     "Icon.Modifier Dark" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Dunkel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -136,6 +142,12 @@
     "Icon.Modifier Light" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Hell"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -177,6 +189,12 @@
     "IconList.Original" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Original"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -195,6 +213,12 @@
       "comment" : "The argument passed is a link. Use standard Markdown syntax to add it to the call to action",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn du dein eigenes App Icon einreichen möchtest, [melde dich bitte](%@)!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

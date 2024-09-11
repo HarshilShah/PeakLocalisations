@@ -4,6 +4,12 @@
     "Add" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge einen Block hinzu"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -274,6 +280,12 @@
     "Pinned" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Angeheftet"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
