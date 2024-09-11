@@ -55,6 +55,12 @@
             "state" : "translated",
             "value" : "Drag to Reorder"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrastre para Reordenar"
+          }
         }
       }
     },

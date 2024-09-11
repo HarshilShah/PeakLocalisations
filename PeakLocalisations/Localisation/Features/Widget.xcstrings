@@ -261,24 +261,6 @@
         }
       }
     },
-    "DoNotLocalize.configKey" : {
-
-    },
-    "DoNotLocalize.dayComponents" : {
-
-    },
-    "DoNotLocalize.DeepLink" : {
-
-    },
-    "DoNotLocalize.HistoryWidgetDayPicker" : {
-
-    },
-    "DoNotLocalize.OpenDeepLink" : {
-
-    },
-    "DoNotLocalize.refresh" : {
-
-    },
     "Goal" : {
       "localizations" : {
         "de" : {
@@ -448,7 +430,14 @@
       }
     },
     "Log" : {
-
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registre"
+          }
+        }
+      }
     },
     "Match App" : {
       "localizations" : {
@@ -563,7 +552,14 @@
       }
     },
     "Open Metric" : {
-
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre la Métrica"
+          }
+        }
+      }
     },
     "Open Peak" : {
       "localizations" : {
@@ -571,6 +567,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Open Peak"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abre Peak"
           }
         }
       }
@@ -940,10 +942,24 @@
       }
     },
     "View Goals" : {
-
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver Metas"
+          }
+        }
+      }
     },
     "View Pinned" : {
-
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver Fijados"
+          }
+        }
+      }
     },
     "Workout Type" : {
       "localizations" : {

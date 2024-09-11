@@ -9,6 +9,12 @@
             "state" : "translated",
             "value" : "Add a Block"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar un Bloque"
+          }
         }
       }
     },
@@ -237,7 +243,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anclar"
+            "value" : "Fijar"
           }
         }
       }
@@ -260,7 +266,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Desanclar"
+            "value" : "Desfijar"
           }
         }
       }
@@ -272,6 +278,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pinned"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fijado"
           }
         }
       }

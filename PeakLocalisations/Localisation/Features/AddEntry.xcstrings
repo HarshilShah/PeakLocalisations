@@ -9,6 +9,12 @@
             "state" : "translated",
             "value" : "Add Entry"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar Entrada"
+          }
         }
       }
     },
@@ -89,6 +95,12 @@
             "state" : "translated",
             "value" : "Log"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registre"
+          }
         }
       }
     },
@@ -109,8 +121,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Registre su IMC"
+            "state" : "translated",
+            "value" : "Registre IMC"
           }
         }
       }
@@ -132,8 +144,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Registre su Grasa Corporal"
+            "state" : "translated",
+            "value" : "Registre Grasa Corporal"
           }
         }
       }
@@ -155,8 +167,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Registre su Masa Corporal Magra"
+            "state" : "translated",
+            "value" : "Registre Masa Corporal Magra"
           }
         }
       }
@@ -178,8 +190,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Registre su Peso"
+            "state" : "translated",
+            "value" : "Registre Peso"
           }
         }
       }

@@ -172,6 +172,12 @@
             "state" : "translated",
             "value" : "Block Size"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tamaño de bloque"
+          }
         }
       }
     },
@@ -182,6 +188,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Full"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completo"
           }
         }
       }
@@ -194,6 +206,12 @@
             "state" : "translated",
             "value" : "Large"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grande"
+          }
         }
       }
     },
@@ -205,6 +223,12 @@
             "state" : "translated",
             "value" : "Medium"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mediano"
+          }
         }
       }
     },
@@ -215,6 +239,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Small"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pequeño"
           }
         }
       }

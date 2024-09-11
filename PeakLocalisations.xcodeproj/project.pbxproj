@@ -185,8 +185,8 @@
 			isa = PBXGroup;
 			children = (
 				E8BE48F62B551871005075DC /* Core */,
-				E8BE48E02B551871005075DC /* Features */,
 				E8BE48EE2B551871005075DC /* Blocks */,
+				E8BE48E02B551871005075DC /* Features */,
 				E8BE48DD2B551871005075DC /* App Store */,
 			);
 			path = Localisation;

@@ -9,6 +9,12 @@
             "state" : "translated",
             "value" : "All Features"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todas las Características"
+          }
         }
       }
     },
@@ -52,8 +58,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Háganse Más Fuerte, Juntos"
+            "state" : "translated",
+            "value" : "En Familia"
           }
         }
       }
@@ -75,8 +81,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Comparta Peak Ultra con hasta 6 miembros de su familia con iCloud Compartir en familia"
+            "state" : "translated",
+            "value" : "Háganse más fuerte, juntos"
           }
         }
       }
@@ -121,8 +127,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Una variedad de iconos para alegrar su pantalla de inicio."
+            "state" : "translated",
+            "value" : "Lleve alegría a sus pantallas de inicio"
           }
         }
       }
@@ -167,8 +173,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Traiga todos sus datos y cree todos los bloques que desee."
+            "state" : "translated",
+            "value" : "Traiga todos sus datos"
           }
         }
       }
@@ -213,8 +219,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Peak está hecho por un equipo de una persona. Sus suscripciones me ayudan directamente a seguir construyendo nuevas características."
+            "state" : "translated",
+            "value" : "Peak está hecho por un equipo de una persona. Sus suscripciones me ayudan directamente a seguir construyendo nuevas características"
           }
         }
       }
@@ -254,13 +260,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pick from over 70 beautiful themes"
+            "value" : "Pick from over 80 beautiful themes"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Personalice la aplicación eligiendo entre más de 60 temas hermosos."
+            "state" : "translated",
+            "value" : "Elige entre más de 80 temas hermosos"
           }
         }
       }
@@ -282,8 +288,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Widgets de Pantalla de Inicio y Pantalla de Bloqueo"
+            "state" : "translated",
+            "value" : "Widgets y Complicaciones"
           }
         }
       }
@@ -305,8 +311,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Esté siempre atento a su progreso con widgets hermosos."
+            "state" : "translated",
+            "value" : "Esté siempre atento a su progreso"
           }
         }
       }
@@ -365,6 +371,12 @@
             "state" : "translated",
             "value" : "Start using all of Peak’s features to track your health & fitness"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comience a utilizar todas las funciones de Peak para seguir su salud y estado físico"
+          }
         }
       }
     },
@@ -375,6 +387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Today"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy"
           }
         }
       }
@@ -387,6 +405,12 @@
             "state" : "translated",
             "value" : "Get a reminder about when your trial will end. Requires notification permissions"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recibe un recordatorio sobre cuándo finalizará tu prueba. Requiere permisos de notificación"
+          }
         }
       }
     },
@@ -397,6 +421,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Day 5"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Día 5"
           }
         }
       }
@@ -409,6 +439,12 @@
             "state" : "translated",
             "value" : "You'll be charged on the 7th day. Cancel anytime before"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se le cobrará el séptimo día. Puede cancelar en cualquier momento antes"
+          }
         }
       }
     },
@@ -419,6 +455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Day 7"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Día 7"
           }
         }
       }
@@ -431,6 +473,12 @@
             "state" : "translated",
             "value" : "How Your Free Trial Works"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cómo Funciona su Prueba Gratuita"
+          }
         }
       }
     },
@@ -441,6 +489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Your subscription will change from a trial to Peak Ultra soon. We hope you’re enjoying Peak!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Su suscripción cambiará de una prueba a Peak Ultra pronto. ¡Esperamos que esté disfrutando de Peak!"
           }
         }
       }
@@ -453,6 +507,12 @@
             "state" : "translated",
             "value" : "2 Days Left on Your Trial"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quedan 2 Días en su Prueba"
+          }
         }
       }
     },
@@ -463,6 +523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Remind Me"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recordarme"
           }
         }
       }
@@ -475,6 +541,12 @@
             "state" : "translated",
             "value" : "Skip"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No"
+          }
         }
       }
     },
@@ -485,6 +557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Would you like Peak to send you a notification 2 days before your trial ends?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Le gustaría que Peak le envíe una notificación 2 días antes de que finalice su prueba?"
           }
         }
       }
@@ -651,6 +729,7 @@
       }
     },
     "Plans.Hide" : {
+      "comment" : "Feel free to translate \"Hide Plans\" to make this shorter",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -658,16 +737,29 @@
             "state" : "translated",
             "value" : "Hide All Plans"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar Los Planes"
+          }
         }
       }
     },
     "Plans.Show" : {
+      "comment" : "Feel free to just translate \"All Plans\" to make this shorter",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Show All Plans"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Todos Los Planes"
           }
         }
       }
@@ -1002,6 +1094,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Welcome to Peak Ultra!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Bienvenido a Peak Ultra!"
           }
         }
       }

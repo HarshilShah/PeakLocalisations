@@ -9,6 +9,12 @@
             "state" : "translated",
             "value" : "A fresh new identity for the app"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una identidad fresca para la aplicación"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A brand new app icon!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Un icono de app completamente nuevo!"
           }
         }
       }
@@ -31,6 +43,12 @@
             "state" : "translated",
             "value" : "More information at a glance, and more customisable than ever before"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más información de un vistazo y más personalizable que nunca"
+          }
         }
       }
     },
@@ -41,6 +59,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "A brand new design!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Un diseño completamente nuevo!"
           }
         }
       }
@@ -77,6 +101,12 @@
             "state" : "translated",
             "value" : "Track your Mindful Minutes and Time in Daylight"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seguir sus Minutos de Mindfulness y Tiempo de Exposición a la Luz Diurna"
+          }
         }
       }
     },
@@ -87,6 +117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "New mental health metrics!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Nuevas métricas de salud mental!"
           }
         }
       }
@@ -99,6 +135,12 @@
             "state" : "translated",
             "value" : "Cappuccino, caramel frappe, pumpkin spice latte, espresso, black coffee, hot chocolate, chai, and matcha!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Cappuccino, frappe de caramelo, latte de especias de calabaza, espresso, café negro, chocolate caliente, chai y matcha!"
+          }
         }
       }
     },
@@ -109,6 +151,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beverage themes!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Temas de bebidas!"
           }
         }
       }
@@ -131,8 +179,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Nuevo en Peak"
+            "state" : "translated",
+            "value" : "Nuevo en Peak 4"
           }
         }
       }
@@ -145,6 +193,12 @@
             "state" : "translated",
             "value" : "Peak now runs natively on your Apple Vision Pro, with a beautiful glass interface"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak ya está en su Apple Vision Pro, con una hermosa interfaz de vidrio."
+          }
         }
       }
     },
@@ -155,6 +209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Now on Vision Pro!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Ahora en Vision Pro!"
           }
         }
       }
@@ -167,6 +227,12 @@
             "state" : "translated",
             "value" : "Quickly open the app, view your goals, pinned blocks, and progress for any metric, and log your weight"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abra rápidamente la aplicación, vea sus objetivos, bloques fijados y progreso para cualquier métrica, y registre su peso"
+          }
         }
       }
     },
@@ -177,6 +243,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Control Center widgets!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Widgets del Centro de Control!"
           }
         }
       }

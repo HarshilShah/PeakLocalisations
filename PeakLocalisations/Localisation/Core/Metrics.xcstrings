@@ -587,6 +587,12 @@
             "state" : "translated",
             "value" : "Mindful Minutes"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minutos de Mindfulness"
+          }
         }
       }
     },
@@ -945,6 +951,12 @@
             "state" : "translated",
             "value" : "Time in Daylight"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiempo de Exposición a la Luz Diurna"
+          }
         }
       }
     },
@@ -965,8 +977,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Distancia Andando/Corriendo"
+            "state" : "translated",
+            "value" : "Distancia de Pasos"
           }
         }
       }

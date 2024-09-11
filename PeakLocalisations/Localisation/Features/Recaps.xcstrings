@@ -510,6 +510,12 @@
             "state" : "translated",
             "value" : "You can view Recaps on your phone"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puede ver resúmenes en su teléfono"
+          }
         }
       }
     },
@@ -520,6 +526,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recaps Not Available"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resumen No Disponible"
           }
         }
       }
