@@ -47,6 +47,17 @@
         }
       }
     },
+    "Drag to Reorder" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drag to Reorder"
+          }
+        }
+      }
+    },
     "RemoveMetric.Body" : {
       "extractionState" : "manual",
       "localizations" : {

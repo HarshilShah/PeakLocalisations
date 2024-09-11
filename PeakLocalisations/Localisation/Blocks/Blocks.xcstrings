@@ -1,6 +1,17 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Add" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add a Block"
+          }
+        }
+      }
+    },
     "Kind.Chart" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -250,6 +261,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desanclar"
+          }
+        }
+      }
+    },
+    "Pinned" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pinned"
           }
         }
       }

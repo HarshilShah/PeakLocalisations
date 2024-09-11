@@ -24,6 +24,105 @@
         }
       }
     },
+    "Beverage.BlackCoffee" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Black Coffee"
+          }
+        }
+      }
+    },
+    "Beverage.Cappuccino" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cappuccino"
+          }
+        }
+      }
+    },
+    "Beverage.CaramelFrappe" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caramel Frappe"
+          }
+        }
+      }
+    },
+    "Beverage.Chai" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chai"
+          }
+        }
+      }
+    },
+    "Beverage.Espresso" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espresso"
+          }
+        }
+      }
+    },
+    "Beverage.HotChocolate" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hot Chocolate"
+          }
+        }
+      }
+    },
+    "Beverage.Matcha" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matcha"
+          }
+        }
+      }
+    },
+    "Beverage.Mocha" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mocha"
+          }
+        }
+      }
+    },
+    "Beverage.PumpkinSpiceLatte" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pumpkin Spice Latte"
+          }
+        }
+      }
+    },
     "Blue" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -434,6 +533,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ligero"
+          }
+        }
+      }
+    },
+    "List.Beverages" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Freshly Brewed"
           }
         }
       }

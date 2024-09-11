@@ -579,6 +579,17 @@
         }
       }
     },
+    "Mindful Minutes" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mindful Minutes"
+          }
+        }
+      }
+    },
     "Resting Energy" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -926,24 +937,35 @@
         }
       }
     },
+    "Time in Daylight" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time in Daylight"
+          }
+        }
+      }
+    },
     "Walking and Running Distance" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Strecke Gehen und Laufen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Walking and Running Distance"
+            "value" : "Step Distance"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "needs_review",
             "value" : "Distancia Andando/Corriendo"
           }
         }

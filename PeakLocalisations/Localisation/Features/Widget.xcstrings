@@ -261,6 +261,24 @@
         }
       }
     },
+    "DoNotLocalize.configKey" : {
+
+    },
+    "DoNotLocalize.dayComponents" : {
+
+    },
+    "DoNotLocalize.DeepLink" : {
+
+    },
+    "DoNotLocalize.HistoryWidgetDayPicker" : {
+
+    },
+    "DoNotLocalize.OpenDeepLink" : {
+
+    },
+    "DoNotLocalize.refresh" : {
+
+    },
     "Goal" : {
       "localizations" : {
         "de" : {
@@ -429,6 +447,9 @@
         }
       }
     },
+    "Log" : {
+
+    },
     "Match App" : {
       "localizations" : {
         "de" : {
@@ -493,22 +514,6 @@
         }
       }
     },
-    "No Goal Selected" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kein Ziel ausgewählt"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ninguna Meta Seleccionada"
-          }
-        }
-      }
-    },
     "No Metric Selected" : {
       "localizations" : {
         "de" : {
@@ -553,6 +558,19 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ninguna"
+          }
+        }
+      }
+    },
+    "Open Metric" : {
+
+    },
+    "Open Peak" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Peak"
           }
         }
       }
@@ -673,6 +691,22 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recientes"
+          }
+        }
+      }
+    },
+    "Set a Goal in Peak" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge ein Ziel in Peak hinzu"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crear una Meta en Peak"
           }
         }
       }
@@ -904,6 +938,12 @@
           }
         }
       }
+    },
+    "View Goals" : {
+
+    },
+    "View Pinned" : {
+
     },
     "Workout Type" : {
       "localizations" : {

@@ -501,6 +501,28 @@
           }
         }
       }
+    },
+    "Unavailable.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You can view Recaps on your phone"
+          }
+        }
+      }
+    },
+    "Unavailable.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recaps Not Available"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

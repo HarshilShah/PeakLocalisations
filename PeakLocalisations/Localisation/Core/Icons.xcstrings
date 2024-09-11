@@ -1,182 +1,186 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "AppIcon.Body" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A fresh new identity for the app"
-          }
-        }
-      }
-    },
-    "AppIcon.Title" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A brand new app icon!"
-          }
-        }
-      }
-    },
-    "Design.Body" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "More information at a glance, and more customisable than ever before"
-          }
-        }
-      }
-    },
-    "Design.Title" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "A brand new design!"
-          }
-        }
-      }
-    },
-    "Leave a Review" : {
-      "comment" : "Use a shorter version, if available",
+    "App Icon" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schreibe eine Rezension"
+            "value" : "App Icon"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Leave a Review"
+            "value" : "App Icon"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deja una reseña"
+            "value" : "Icono de App"
           }
         }
       }
     },
-    "MentalHealth.Body" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Track your Mindful Minutes and Time in Daylight"
-          }
-        }
-      }
-    },
-    "MentalHealth.Title" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "New mental health metrics!"
-          }
-        }
-      }
-    },
-    "Themes.Body" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cappuccino, caramel frappe, pumpkin spice latte, espresso, black coffee, hot chocolate, chai, and matcha!"
-          }
-        }
-      }
-    },
-    "Themes.Title" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beverage themes!"
-          }
-        }
-      }
-    },
-    "Title" : {
-      "comment" : "This can also be translated as \"New in Peak 4\", if that works better",
+    "Icon.Day" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Neu in Peak"
+            "state" : "translated",
+            "value" : "Tag"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "What’s New in Peak 4"
+            "value" : "Day"
           }
         },
         "es" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Nuevo en Peak"
+            "state" : "translated",
+            "value" : "Día"
           }
         }
       }
     },
-    "VisionPro.Body" : {
+    "Icon.Day Alt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tag Alternativ"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Day Alt"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Día (alt.)"
+          }
+        }
+      }
+    },
+    "Icon.Default" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Predeterminado"
+          }
+        }
+      }
+    },
+    "Icon.Default Alt" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard Alternativ"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default Alt"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Predeterminado (alt.)"
+          }
+        }
+      }
+    },
+    "Icon.Modifier Dark" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak now runs natively on your Apple Vision Pro, with a beautiful glass interface"
+            "value" : "%@ Dark"
           }
         }
       }
     },
-    "VisionPro.Title" : {
+    "Icon.Modifier Light" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Now on Vision Pro!"
+            "value" : "%@ Light"
           }
         }
       }
     },
-    "Widgets.Body" : {
+    "Icon.Night" : {
+      "comment" : "Don't include \"App Icon\" in the translation",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nacht"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Night"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Noche"
+          }
+        }
+      }
+    },
+    "IconList.Original" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quickly open the app, view your goals, pinned blocks, and progress for any metric, and log your weight"
+            "value" : "Original"
           }
         }
       }
     },
-    "Widgets.Title" : {
+    "Submit" : {
+      "comment" : "The argument passed is a link. Use standard Markdown syntax to add it to the call to action",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Control Center widgets!"
+            "value" : "If you'd like to submit your own app icon, [please get in touch](%@)!"
           }
         }
       }
