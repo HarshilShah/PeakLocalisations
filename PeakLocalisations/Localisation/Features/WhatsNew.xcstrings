@@ -4,6 +4,12 @@
     "AppIcon.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine neue Identität für die App"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21,6 +27,12 @@
     "AppIcon.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein brandneues App Icon!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38,6 +50,12 @@
     "Design.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehr Informationen auf einen Blick und mehr Anpassungsmöglichkeiten als je zuvor"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -55,6 +73,12 @@
     "Design.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein brandneues Design!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -96,6 +120,12 @@
     "MentalHealth.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verfolge deine Minuten der Achtsamkeit und die Zeit im Tageslicht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -113,6 +143,12 @@
     "MentalHealth.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue Metriken zur psychischen Gesundheit!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -130,6 +166,12 @@
     "Themes.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cappuccino, Caramel Frappe, Pumpkin Spice Latte, Espresso, schwarzer Kaffee, heiße Schokolade, Chai und Matcha!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +189,12 @@
     "Themes.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Getränke Themes!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -167,8 +215,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
-            "value" : "Neu in Peak"
+            "state" : "translated",
+            "value" : "Neu in Peak 4"
           }
         },
         "en" : {
@@ -188,6 +236,12 @@
     "VisionPro.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak läuft jetzt nativ auf deiner Apple Vision Pro, mit einer wunderschönen Glasoberfläche!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -205,6 +259,12 @@
     "VisionPro.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetzt auf der Vision Pro!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -222,6 +282,12 @@
     "Widgets.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öffnen die App im Handumdrehen, sieh dir deine Ziele an, angehefteten Blöcke und Fortschritte für jede Metrik und protokolliere dein Gewicht."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -239,6 +305,12 @@
     "Widgets.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widgets für’s Kontrollzentrum"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

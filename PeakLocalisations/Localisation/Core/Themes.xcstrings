@@ -27,6 +27,12 @@
     "Beverage.BlackCoffee" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schwarzer Kaffee"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44,6 +50,12 @@
     "Beverage.Cappuccino" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cappuccino"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -61,6 +73,12 @@
     "Beverage.CaramelFrappe" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Karamell-Frappé"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -78,6 +96,12 @@
     "Beverage.Chai" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chai"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95,6 +119,12 @@
     "Beverage.Espresso" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espresso"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -112,6 +142,12 @@
     "Beverage.HotChocolate" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heisse Schokolade"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -129,6 +165,12 @@
     "Beverage.Matcha" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matcha"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -146,6 +188,12 @@
     "Beverage.Mocha" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mokka"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -163,6 +211,12 @@
     "Beverage.PumpkinSpiceLatte" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pumpkin Spice Latte"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -595,6 +649,12 @@
       "comment" : "Feel free to use a translation of \"Beverages\" instead",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frisch aufgebrüht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

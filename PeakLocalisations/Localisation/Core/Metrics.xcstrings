@@ -582,6 +582,12 @@
     "Mindful Minutes" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minuten der Achtsamkeit"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -946,6 +952,12 @@
     "Time in Daylight" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeit im Tageslicht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -965,7 +977,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "needs_review",
+            "state" : "translated",
             "value" : "Strecke Gehen und Laufen"
           }
         },
