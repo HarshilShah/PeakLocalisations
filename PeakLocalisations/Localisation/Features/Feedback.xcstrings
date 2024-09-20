@@ -5,6 +5,12 @@
       "comment" : "Try to match or go shorter than the English length",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hallo, ich bin Harshil, der Entwickler hinter Peak. Ich würde gerne wissen, was du über die App denkst!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23,6 +29,12 @@
       "comment" : "Try to keep this really short and casual. Omit \"so far\" if you need to",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gefällt dir Peak bisher?"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
