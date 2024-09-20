@@ -404,13 +404,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Goal Completed"
+            "value" : "Goal Period Completed"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meta Completada"
+            "value" : "Periodo de la Meta Completado"
           }
         }
       }
@@ -749,13 +749,13 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed"
+            "value" : "Incomplete"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fallido"
+            "value" : "Incompleta"
           }
         }
       }
