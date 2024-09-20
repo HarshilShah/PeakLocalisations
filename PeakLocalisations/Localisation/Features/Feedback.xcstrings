@@ -1,0 +1,30 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Description" : {
+      "comment" : "Try to match or go shorter than the English length",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hi, I'm Harshil, the developer behind Peak. I'd love to know your thoughts about the app!"
+          }
+        }
+      }
+    },
+    "Title" : {
+      "comment" : "Try to keep this really short",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enjoying Peak so far?"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
