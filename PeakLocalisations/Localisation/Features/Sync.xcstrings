@@ -55,6 +55,12 @@
             "state" : "translated",
             "value" : "Last Successful Sync"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Última Sincronización Exitosa"
+          }
         }
       }
     },
@@ -66,6 +72,12 @@
             "state" : "translated",
             "value" : "Status"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estado"
+          }
         }
       }
     },
@@ -76,6 +88,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Active"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activo"
           }
         }
       }
@@ -134,6 +152,12 @@
             "state" : "translated",
             "value" : "Failed"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fallido"
+          }
         }
       }
     },
@@ -191,6 +215,12 @@
             "state" : "translated",
             "value" : "Requires OS/app update"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Requiere actualización de OS/app"
+          }
         }
       }
     },
@@ -201,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pending"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pendiente"
           }
         }
       }

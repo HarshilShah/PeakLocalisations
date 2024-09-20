@@ -10,17 +10,29 @@
             "state" : "translated",
             "value" : "Hi, I'm Harshil, the developer behind Peak. I'd love to know your thoughts about the app!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hola, soy Harshil, el desarrollador de Peak. ¡Me encantaría conocer qué piensa sobre la aplicación!"
+          }
         }
       }
     },
     "Title" : {
-      "comment" : "Try to keep this really short",
+      "comment" : "Try to keep this really short and casual. Omit \"so far\" if you need to",
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Enjoying Peak so far?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Está disfrutando de Peak?"
           }
         }
       }
