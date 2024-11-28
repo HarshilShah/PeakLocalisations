@@ -56,6 +56,12 @@
             "state" : "translated",
             "value" : "Set new Benchmarks"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Establecer nuevas Referencias"
+          }
         }
       }
     },
@@ -66,6 +72,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chart your Progress"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grafica su Progreso"
           }
         }
       }
@@ -78,6 +90,12 @@
             "state" : "translated",
             "value" : "Reach your Goals"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alcanza sus Metas"
+          }
         }
       }
     },
@@ -88,6 +106,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Get an Overview"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obtenga un Resumen"
           }
         }
       }
@@ -100,6 +124,12 @@
             "state" : "translated",
             "value" : "Recap Yesterday"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recapitule el Pasado"
+          }
         }
       }
     },
@@ -110,6 +140,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Review your Recents"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revisa sus Recientes"
           }
         }
       }
@@ -122,6 +158,12 @@
             "state" : "translated",
             "value" : "Grow Today"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crecer Hoy"
+          }
         }
       }
     },
@@ -133,6 +175,12 @@
             "state" : "translated",
             "value" : "Tally your Totals"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuente sus Totales"
+          }
         }
       }
     },
@@ -143,6 +191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Track your Trends"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sigue sus Tendencias"
           }
         }
       }
