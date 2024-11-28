@@ -1,6 +1,30 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "Alt" : {
+      "comment" : "This button is used to copy the Alt text for recaps. It's a small button, so feel free to shorten this",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alt"
+          }
+        }
+      }
+    },
+    "Alt.Copied" : {
+      "comment" : "This is shown in a little toast when copying alt text. Keep it short too",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alt text copied!"
+          }
+        }
+      }
+    },
     "Description" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -20,30 +44,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recapitule su Viaje de Fitness"
-          }
-        }
-      }
-    },
-    "In Review" : {
-      "comment" : "This is displayed after the current year, so \"2023 In Review\", for example",
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "im Rückblick"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "In Review"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "En Resumen"
           }
         }
       }
@@ -408,6 +408,18 @@
         }
       }
     },
+    "Reset" : {
+      "comment" : "This button is used to reset the time period of the recap to the current period",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset"
+          }
+        }
+      }
+    },
     "Share" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -427,6 +439,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Compartir"
+          }
+        }
+      }
+    },
+    "Shared with Peak" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shared with Peak"
           }
         }
       }
