@@ -10,6 +10,12 @@
             "state" : "translated",
             "value" : "Alt"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alt"
+          }
         }
       }
     },
@@ -21,6 +27,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alt text copied!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Texto alt copiado!"
           }
         }
       }
@@ -417,6 +429,12 @@
             "state" : "translated",
             "value" : "Reset"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Readjustar"
+          }
         }
       }
     },
@@ -450,6 +468,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Shared with Peak"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compartido con Peak"
           }
         }
       }
