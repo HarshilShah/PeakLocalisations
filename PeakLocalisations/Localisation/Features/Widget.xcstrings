@@ -628,7 +628,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Un resumen de su progreso a lo largo del tiempo."
+            "value" : "Un panorama de su progreso a lo largo del tiempo."
           }
         }
       }
@@ -650,7 +650,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resumen"
+            "value" : "Panorama"
           }
         }
       }
