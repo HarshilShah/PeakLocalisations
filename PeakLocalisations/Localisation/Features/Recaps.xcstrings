@@ -5,6 +5,12 @@
       "comment" : "This button is used to copy the Alt text for recaps. It's a small button, so feel free to shorten this",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23,6 +29,12 @@
       "comment" : "This is shown in a little toast when copying alt text. Keep it short too",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alt-Text kopiert"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -424,6 +436,12 @@
       "comment" : "This button is used to reset the time period of the recap to the current period",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zurücksetzen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -464,6 +482,12 @@
     "Shared with Peak" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aus Peak geteilt"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
