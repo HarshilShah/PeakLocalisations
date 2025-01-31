@@ -170,6 +170,12 @@
             "state" : "translated",
             "value" : "Peak includes beautiful widgets for your homescreen & lockscreen"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak incluye widgets hermosos para su pantalla de inicio y pantalla de bloqueo"
+          }
         }
       }
     },
@@ -182,6 +188,12 @@
             "state" : "translated",
             "value" : "Show Me How"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muéstreme Cómo"
+          }
         }
       }
     },
@@ -192,6 +204,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Set Up Your First Widget"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configure Su Primer Widget"
           }
         }
       }
