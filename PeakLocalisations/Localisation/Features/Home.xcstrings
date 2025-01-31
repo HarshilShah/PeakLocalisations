@@ -161,6 +161,76 @@
           }
         }
       }
+    },
+    "WidgetsBanner.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak enthält schöne Widgets für deinen Homescreen und Sperrbildschirm"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak includes beautiful widgets for your homescreen & lockscreen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak incluye widgets hermosos para su pantalla de inicio y pantalla de bloqueo"
+          }
+        }
+      }
+    },
+    "WidgetsBanner.OpenTutorial" : {
+      "comment" : "Feel free to use some different yet casual language here. It's basically a button that opens the widget tutorial",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeig mir wie"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Me How"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muéstreme Cómo"
+          }
+        }
+      }
+    },
+    "WidgetsBanner.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Richte dein erstes Widget ein"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set Up Your First Widget"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configure Su Primer Widget"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"
