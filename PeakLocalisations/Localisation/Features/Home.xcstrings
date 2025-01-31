@@ -161,6 +161,40 @@
           }
         }
       }
+    },
+    "WidgetsBanner.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak includes beautiful widgets for your homescreen & lockscreen"
+          }
+        }
+      }
+    },
+    "WidgetsBanner.OpenTutorial" : {
+      "comment" : "Feel free to use some different yet casual language here. It's basically a button that opens the widget tutorial",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Me How"
+          }
+        }
+      }
+    },
+    "WidgetsBanner.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set Up Your First Widget"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"
