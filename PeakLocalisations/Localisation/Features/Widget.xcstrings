@@ -763,6 +763,16 @@
         }
       }
     },
+    "Sleep Stage" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etapa de Sueño"
+          }
+        }
+      }
+    },
     "Statistic" : {
       "localizations" : {
         "de" : {
