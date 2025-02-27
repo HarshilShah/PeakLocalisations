@@ -356,6 +356,12 @@
     "Sleep Stage" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schlafphase"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -373,6 +379,12 @@
     "Sleep Stage.Select" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wähle eine Schlafphase aus"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
