@@ -24,6 +24,29 @@
         }
       }
     },
+    "Last N Days" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Last %lld day"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Last %lld days"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Period" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -768,6 +791,41 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cada Año"
+          }
+        }
+      }
+    },
+    "Window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Window"
+          }
+        }
+      }
+    },
+    "Window.Calendar" : {
+      "comment" : "This is a setting used to make a graph show data based on the calendar, so a monthly chart would show data for say August",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calendar"
+          }
+        }
+      }
+    },
+    "Window.Rolling" : {
+      "comment" : "This is a setting used to make a graph show data based on rolling time periods, so a monthly chart would show data for the past 30 days",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rolling"
           }
         }
       }

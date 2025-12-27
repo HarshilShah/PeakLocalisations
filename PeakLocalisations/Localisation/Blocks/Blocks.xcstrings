@@ -24,6 +24,39 @@
         }
       }
     },
+    "Block" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block"
+          }
+        }
+      }
+    },
+    "Blocks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocks"
+          }
+        }
+      }
+    },
+    "Edit Block" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Block"
+          }
+        }
+      }
+    },
     "Kind.Chart" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -66,6 +99,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visualiza tus estadísticas."
+          }
+        }
+      }
+    },
+    "Kind.Chart.Plural" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Charts"
           }
         }
       }
@@ -116,6 +160,17 @@
         }
       }
     },
+    "Kind.Overview.Plural" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overviews"
+          }
+        }
+      }
+    },
     "Kind.Recents" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -158,6 +213,28 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ver sus estadísticas recientes para cualquier métrica."
+          }
+        }
+      }
+    },
+    "Kind.Today" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
+          }
+        }
+      }
+    },
+    "Kind.Today.Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your stats for today."
           }
         }
       }
