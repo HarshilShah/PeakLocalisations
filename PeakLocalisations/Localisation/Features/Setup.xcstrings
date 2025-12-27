@@ -9,6 +9,12 @@
             "state" : "translated",
             "value" : "Your recent activity is ready. We’ll keep loading older history in the background."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Su actividad reciente está lista. Continuaremos cargando el historial anterior en segundo plano."
+          }
         }
       }
     },
@@ -20,6 +26,12 @@
             "state" : "translated",
             "value" : "Preparing Your Dashboard"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparando Su Panel"
+          }
         }
       }
     },
@@ -30,6 +42,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Get Started"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comenzar"
           }
         }
       }

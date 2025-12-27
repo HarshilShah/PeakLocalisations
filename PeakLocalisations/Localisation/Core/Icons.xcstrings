@@ -158,6 +158,12 @@
             "state" : "translated",
             "value" : "Hearts"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corazones"
+          }
         }
       }
     },

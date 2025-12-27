@@ -748,6 +748,12 @@
             "state" : "translated",
             "value" : "Wellbeing"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bienestar"
+          }
         }
       }
     },

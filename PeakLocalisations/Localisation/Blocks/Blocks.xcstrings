@@ -32,6 +32,12 @@
             "state" : "translated",
             "value" : "Block"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloque"
+          }
         }
       }
     },
@@ -43,6 +49,12 @@
             "state" : "translated",
             "value" : "Blocks"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloques"
+          }
         }
       }
     },
@@ -53,6 +65,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Edit Block"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar Bloque"
           }
         }
       }
@@ -111,6 +129,12 @@
             "state" : "translated",
             "value" : "Charts"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gráficos"
+          }
         }
       }
     },
@@ -167,6 +191,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Overviews"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panoramas"
           }
         }
       }
@@ -225,6 +255,12 @@
             "state" : "translated",
             "value" : "Today"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy"
+          }
         }
       }
     },
@@ -235,6 +271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Your stats for today."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sus estadísticas de hoy."
           }
         }
       }

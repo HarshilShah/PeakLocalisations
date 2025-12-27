@@ -9,6 +9,12 @@
             "state" : "translated",
             "value" : "Edit Dashboard"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar Panel"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grouping"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agrupación"
           }
         }
       }
@@ -31,6 +43,12 @@
             "state" : "translated",
             "value" : "Freeform"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Libre"
+          }
         }
       }
     },
@@ -42,6 +60,12 @@
             "state" : "translated",
             "value" : "Reorder Blocks"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reordenar Bloques"
+          }
         }
       }
     },
@@ -52,6 +76,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reorder Metrics"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reordenar Métricas"
           }
         }
       }

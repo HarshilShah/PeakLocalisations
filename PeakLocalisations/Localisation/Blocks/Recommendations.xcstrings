@@ -9,6 +9,12 @@
             "state" : "translated",
             "value" : "Sleep 8 Hours"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dormir 8 Horas"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Start Workout Out"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comenzar a Entrenar"
           }
         }
       }
@@ -31,6 +43,12 @@
             "state" : "translated",
             "value" : "Walk 10,000 Steps"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caminar 10,000 Pasos"
+          }
         }
       }
     },
@@ -41,6 +59,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gain or Lose Weight"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subir o Bajar de Peso"
           }
         }
       }
@@ -53,6 +77,12 @@
             "state" : "translated",
             "value" : "Goals"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Objetivos"
+          }
         }
       }
     },
@@ -63,6 +93,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stats & Numbers"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estadísticas y Números"
           }
         }
       }
@@ -75,6 +111,12 @@
             "state" : "translated",
             "value" : "Recent Step Distances"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distancias Recientes de Pasos"
+          }
         }
       }
     },
@@ -85,6 +127,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Steps this Week, Month, & Year"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pasos de Esta Semana, Mes y Año"
           }
         }
       }
@@ -97,6 +145,12 @@
             "state" : "translated",
             "value" : "An Overview of your Workouts"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un Resumen de sus Entrenamientos"
+          }
         }
       }
     },
@@ -107,6 +161,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Today"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy"
           }
         }
       }
@@ -119,6 +179,12 @@
             "state" : "translated",
             "value" : "Trends in your Sleep"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tendencias en tu Sueño"
+          }
         }
       }
     },
@@ -129,6 +195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Set a Steps Benchmark"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Establecer una Referencia de Pasos"
           }
         }
       }
@@ -141,6 +213,12 @@
             "state" : "translated",
             "value" : "Chart your Weight"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gráfica de tu Peso"
+          }
         }
       }
     },
@@ -151,6 +229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visualizations"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizaciones"
           }
         }
       }

@@ -332,6 +332,12 @@
             "state" : "translated",
             "value" : "More"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más"
+          }
         }
       }
     },
@@ -411,6 +417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reorder"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reordenar"
           }
         }
       }

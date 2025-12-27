@@ -9,6 +9,12 @@
             "state" : "translated",
             "value" : "Now with multiple widget sizes, grouping modes, and quick filtering!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Ahora con múltiples tamaños de widgets, modos de agrupación y filtrado rápido!"
+          }
         }
       }
     },
@@ -19,6 +25,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Brand New Dashboard!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Panel Completamente Nuevo!"
           }
         }
       }
@@ -42,7 +54,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deja una reseña"
+            "value" : "Deja una Reseña"
           }
         }
       }
@@ -54,6 +66,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peak has been redesigned for iOS 26 and Liquid Glass"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak ha sido rediseñado para iOS 26 y Liquid Glass"
           }
         }
       }
@@ -67,6 +85,12 @@
             "state" : "translated",
             "value" : "A Fresh Coat of Glass"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una Capa Fresca de Cristal"
+          }
         }
       }
     },
@@ -77,6 +101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Your data now loads faster than ever before"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sus datos ahora se cargan más rápido que nunca"
           }
         }
       }
@@ -90,11 +120,17 @@
             "state" : "translated",
             "value" : "Blink and You’ll Miss It"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parpadea y Te Lo Perderás"
+          }
         }
       }
     },
     "Title" : {
-      "comment" : "This can also be translated as \"New in Peak 5”, if that works better",
+      "comment" : "This can also be translated as “New in Peak 5”, if that works better",
       "extractionState" : "manual",
       "localizations" : {
         "de" : {

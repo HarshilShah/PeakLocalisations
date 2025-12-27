@@ -124,6 +124,12 @@
             "state" : "translated",
             "value" : "Benchmarks"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Referencias"
+          }
         }
       }
     }

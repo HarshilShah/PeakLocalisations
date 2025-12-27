@@ -9,6 +9,12 @@
             "state" : "translated",
             "value" : "Dashboard"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panel"
+          }
         }
       }
     },
@@ -43,6 +49,12 @@
             "state" : "translated",
             "value" : "Add some blocks to get started"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregue unos bloques para comenzar"
+          }
         }
       }
     },
@@ -53,6 +65,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Add some blocks on your phone to get started"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregue unos bloques en su teléfono para comenzar"
           }
         }
       }

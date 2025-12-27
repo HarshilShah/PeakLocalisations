@@ -78,6 +78,12 @@
             "state" : "translated",
             "value" : "Goal Type"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipo de Meta"
+          }
         }
       }
     },

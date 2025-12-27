@@ -44,6 +44,24 @@
               }
             }
           }
+        },
+        "es" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Último día"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Últimos %lld días"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -803,6 +821,12 @@
             "state" : "translated",
             "value" : "Window"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plazo"
+          }
         }
       }
     },
@@ -815,6 +839,12 @@
             "state" : "translated",
             "value" : "Calendar"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calendario"
+          }
         }
       }
     },
@@ -826,6 +856,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rolling"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Variable"
           }
         }
       }
