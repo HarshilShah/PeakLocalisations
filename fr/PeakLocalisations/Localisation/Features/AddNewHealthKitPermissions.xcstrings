@@ -95,8 +95,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gezondheidsmachtigingen vereist"
+            "state" : "new",
+            "value" : "Health Permissions Required"
           }
         },
         "zh-Hans" : {
