@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reeds een back-up gemaakt"
+            "state" : "new",
+            "value" : "Already Backed Up"
           }
         },
         "zh-Hans" : {
@@ -95,8 +95,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Automatische back-ups"
+            "state" : "new",
+            "value" : "Automatic Backups"
           }
         },
         "zh-Hans" : {
@@ -201,8 +201,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nu een back-up maken"
+            "state" : "new",
+            "value" : "Back Up Now"
           }
         },
         "zh-Hans" : {
@@ -254,8 +254,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Huidige back-up"
+            "state" : "new",
+            "value" : "Current Backup"
           }
         },
         "zh-Hans" : {
@@ -307,8 +307,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fout bij decoderen van back-up"
+            "state" : "new",
+            "value" : "Failed to decode backup"
           }
         },
         "zh-Hans" : {
@@ -360,8 +360,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importeren van back-up mislukt"
+            "state" : "new",
+            "value" : "Failed to import backup"
           }
         },
         "zh-Hans" : {
@@ -413,8 +413,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Exporteer back-up"
+            "state" : "new",
+            "value" : "Export Backup"
           }
         },
         "zh-Hans" : {
@@ -466,8 +466,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Importeer back-up"
+            "state" : "new",
+            "value" : "Import Backup"
           }
         },
         "zh-Hans" : {
@@ -656,8 +656,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "van %@"
+            "state" : "new",
+            "value" : "from %@"
           }
         },
         "zh-Hans" : {
@@ -709,8 +709,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recente back-ups"
+            "state" : "new",
+            "value" : "Recent Backups"
           }
         },
         "zh-Hans" : {
@@ -762,8 +762,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Herstellen"
+            "state" : "new",
+            "value" : "Restore"
           }
         },
         "zh-Hans" : {
@@ -815,8 +815,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Back-up herstellen"
+            "state" : "new",
+            "value" : "Restore from Backup"
           }
         },
         "zh-Hans" : {
@@ -868,8 +868,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dit overschrijft al je huidige gegevens en voorkeuren.\n\nDeze actie kan niet ongedaan worden gemaakt."
+            "state" : "new",
+            "value" : "This will overwrite all your current data and preferences.\n\nThis action cannot be undone."
           }
         },
         "zh-Hans" : {
@@ -921,8 +921,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annuleren"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "zh-Hans" : {
@@ -974,8 +974,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schuif om te herstellen"
+            "state" : "new",
+            "value" : "Slide to Restore"
           }
         },
         "zh-Hans" : {
@@ -1027,8 +1027,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deze back-up herstellen?"
+            "state" : "new",
+            "value" : "Restore This Backup?"
           }
         },
         "zh-Hans" : {
@@ -1133,8 +1133,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Je bent ingelogd op je iCloud-account."
+            "state" : "new",
+            "value" : "You are logged into your iCloud account."
           }
         },
         "zh-Hans" : {
@@ -1186,8 +1186,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "iCloud-Drive is ingeschakeld"
+            "state" : "new",
+            "value" : "iCloud Drive is enabled"
           }
         },
         "zh-Hans" : {
