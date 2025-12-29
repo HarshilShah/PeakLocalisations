@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voeg een doel toe"
+            "state" : "new",
+            "value" : "Add a Goal"
           }
         },
         "zh-Hans" : {
@@ -95,8 +95,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Doel Bewerken"
+            "state" : "new",
+            "value" : "Edit Goal"
           }
         },
         "zh-Hans" : {
@@ -254,8 +254,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vooruitgang in de richting van een langetermijndoel"
+            "state" : "new",
+            "value" : "Progress toward a long term target"
           }
         },
         "zh-Hans" : {
@@ -360,8 +360,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stel dagelijkse doelen in om nieuwe gewoonten op te bouwen"
+            "state" : "new",
+            "value" : "Set daily goals to build new habits"
           }
         },
         "zh-Hans" : {
@@ -413,8 +413,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Herhalen"
+            "state" : "new",
+            "value" : "Repeat"
           }
         },
         "zh-Hans" : {
@@ -731,8 +731,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opslaan"
+            "state" : "new",
+            "value" : "Save"
           }
         },
         "zh-Hans" : {
@@ -784,8 +784,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Doel"
+            "state" : "new",
+            "value" : "Target"
           }
         },
         "zh-Hans" : {
@@ -890,8 +890,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Doel"
+            "state" : "new",
+            "value" : "Target Goal"
           }
         },
         "zh-Hans" : {
