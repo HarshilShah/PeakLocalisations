@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Huidige"
+            "state" : "new",
+            "value" : "Current"
           }
         },
         "zh-Hans" : {
@@ -95,8 +95,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Volgende"
+            "state" : "new",
+            "value" : "Next"
           }
         },
         "zh-Hans" : {
@@ -148,8 +148,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vorige"
+            "state" : "new",
+            "value" : "Previous"
           }
         },
         "zh-Hans" : {
@@ -201,7 +201,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Start"
           }
         },
@@ -254,8 +254,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Doel"
+            "state" : "new",
+            "value" : "Target"
           }
         },
         "zh-Hans" : {
