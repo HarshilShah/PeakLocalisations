@@ -203,8 +203,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Je kunt maximaal %lld statistieken selecteren."
+            "state" : "new",
+            "value" : "You can only select up to %lld metrics."
           }
         },
         "zh-Hans" : {
@@ -256,8 +256,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Limiet bereikt"
+            "state" : "new",
+            "value" : "Limit Reached"
           }
         },
         "zh-Hans" : {
@@ -309,8 +309,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%lld/%lld Geselecteerd"
+            "state" : "new",
+            "value" : "%lld/%lld Selected"
           }
         },
         "zh-Hans" : {
@@ -895,8 +895,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Samenvatting"
+            "state" : "new",
+            "value" : "Recap"
           }
         },
         "zh-Hans" : {
@@ -1055,8 +1055,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Delen"
+            "state" : "new",
+            "value" : "Share"
           }
         },
         "zh-Hans" : {
