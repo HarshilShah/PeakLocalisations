@@ -360,8 +360,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annuleren"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "zh-Hans" : {
@@ -413,8 +413,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veeg om te verwijderen"
+            "state" : "new",
+            "value" : "Slide to Delete"
           }
         },
         "zh-Hans" : {
@@ -466,8 +466,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verwijder %@?"
+            "state" : "new",
+            "value" : "Remove %@?"
           }
         },
         "zh-Hans" : {
