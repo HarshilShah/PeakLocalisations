@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dagelijks doel"
+            "state" : "new",
+            "value" : "Daily Goal"
           }
         },
         "zh-Hans" : {
@@ -95,8 +95,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bekijk hoe uw doelen vorderen."
+            "state" : "new",
+            "value" : "See how your goals are progressing."
           }
         },
         "zh-Hans" : {
@@ -148,8 +148,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gebalanceerd"
+            "state" : "new",
+            "value" : "Balanced"
           }
         },
         "zh-Hans" : {
@@ -201,8 +201,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Huidig"
+            "state" : "new",
+            "value" : "Current"
           }
         },
         "zh-Hans" : {
@@ -254,8 +254,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rustige start"
+            "state" : "new",
+            "value" : "Gentle Start"
           }
         },
         "zh-Hans" : {
@@ -307,8 +307,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lineair"
+            "state" : "new",
+            "value" : "Linear"
           }
         },
         "zh-Hans" : {
@@ -360,8 +360,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sterke Start"
+            "state" : "new",
+            "value" : "Strong Start"
           }
         },
         "zh-Hans" : {
@@ -413,8 +413,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bewerken"
+            "state" : "new",
+            "value" : "Edit"
           }
         },
         "zh-Hans" : {
@@ -466,8 +466,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Doel"
+            "state" : "new",
+            "value" : "Goal"
           }
         },
         "zh-Hans" : {
@@ -519,8 +519,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Doelen"
+            "state" : "new",
+            "value" : "Goals"
           }
         },
         "zh-Hans" : {
@@ -572,8 +572,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Naarmate je je doelen hebt voltooid, zullen ze hier verschijnen."
+            "state" : "new",
+            "value" : "As you complete your goals, they will show up here."
           }
         },
         "zh-Hans" : {
@@ -625,8 +625,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hier is (nog) niets te zien"
+            "state" : "new",
+            "value" : "Nothing to see here… yet"
           }
         },
         "zh-Hans" : {
@@ -731,8 +731,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Meer laden"
+            "state" : "new",
+            "value" : "Load More"
           }
         },
         "zh-Hans" : {
@@ -837,8 +837,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kritieke Dag"
+            "state" : "new",
+            "value" : "Critical Day"
           }
         },
         "zh-Hans" : {
@@ -890,8 +890,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Doel bijgewerkt"
+            "state" : "new",
+            "value" : "Goal Updated"
           }
         },
         "zh-Hans" : {
@@ -1049,8 +1049,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voortgang"
+            "state" : "new",
+            "value" : "Progress"
           }
         },
         "zh-Hans" : {
@@ -1102,8 +1102,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vooruitgang"
+            "state" : "new",
+            "value" : "Progression"
           }
         },
         "zh-Hans" : {
@@ -1155,8 +1155,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wijzigen"
+            "state" : "new",
+            "value" : "Change"
           }
         },
         "zh-Hans" : {
@@ -1208,8 +1208,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Huidig tempo"
+            "state" : "new",
+            "value" : "Current Pace"
           }
         },
         "zh-Hans" : {
@@ -1314,8 +1314,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Resterende dagen"
+            "state" : "new",
+            "value" : "Remaining Days"
           }
         },
         "zh-Hans" : {
@@ -1367,8 +1367,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Resterend"
+            "state" : "new",
+            "value" : "Remaining"
           }
         },
         "zh-Hans" : {
@@ -1420,8 +1420,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nog te gaan vandaag"
+            "state" : "new",
+            "value" : "Remaining Today"
           }
         },
         "zh-Hans" : {
@@ -1473,8 +1473,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vereiste snelheid"
+            "state" : "new",
+            "value" : "Required Pace"
           }
         },
         "zh-Hans" : {
@@ -1526,8 +1526,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voltooid!"
+            "state" : "new",
+            "value" : "Completed!"
           }
         },
         "zh-Hans" : {
@@ -1579,8 +1579,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kritieke Dag"
+            "state" : "new",
+            "value" : "Critical Day"
           }
         },
         "zh-Hans" : {
@@ -1632,8 +1632,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kritieke Dag Voltooid"
+            "state" : "new",
+            "value" : "Critical Day Completed"
           }
         },
         "zh-Hans" : {
@@ -1685,8 +1685,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kritieke Dag Mislukt"
+            "state" : "new",
+            "value" : "Critical Day Failed"
           }
         },
         "zh-Hans" : {
@@ -1844,8 +1844,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Op schema"
+            "state" : "new",
+            "value" : "On Track"
           }
         },
         "zh-Hans" : {
@@ -1897,8 +1897,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bekijk geschiedenis"
+            "state" : "new",
+            "value" : "View History"
           }
         },
         "zh-Hans" : {
