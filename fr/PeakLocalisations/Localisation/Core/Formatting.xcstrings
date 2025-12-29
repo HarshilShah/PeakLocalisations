@@ -42,7 +42,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cal"
           }
         },
@@ -95,7 +95,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "kJ"
           }
         },
@@ -148,7 +148,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "kcal"
           }
         },
@@ -321,7 +321,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%2$@ %#@unit@"
           },
           "substitutions" : {
@@ -331,14 +331,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "dag"
+                      "state" : "new",
+                      "value" : "day"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "dagen"
+                      "state" : "new",
+                      "value" : "days"
                     }
                   }
                 }
@@ -540,14 +540,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "dag"
+                      "state" : "new",
+                      "value" : "day"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "dagen"
+                      "state" : "new",
+                      "value" : "days"
                     }
                   }
                 }
@@ -739,7 +739,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%#@unit@"
           },
           "substitutions" : {
@@ -749,14 +749,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "dag"
+                      "state" : "new",
+                      "value" : "day"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "dagen"
+                      "state" : "new",
+                      "value" : "days"
                     }
                   }
                 }
@@ -828,7 +828,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "km"
           }
         },
@@ -881,7 +881,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "m"
           }
         },
@@ -934,8 +934,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "mijl"
+            "state" : "new",
+            "value" : "mi"
           }
         },
         "zh-Hans" : {
@@ -1107,7 +1107,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%2$@ %#@unit@"
           },
           "substitutions" : {
@@ -1525,7 +1525,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%#@unit@"
           },
           "substitutions" : {
@@ -1614,7 +1614,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%2$@ bpm"
           }
         },
@@ -1720,7 +1720,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "bpm"
           }
         },
@@ -1893,7 +1893,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%2$@ %#@unit@"
           },
           "substitutions" : {
@@ -1903,14 +1903,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "maand"
+                      "state" : "new",
+                      "value" : "month"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "maanden"
+                      "state" : "new",
+                      "value" : "months"
                     }
                   }
                 }
@@ -2112,14 +2112,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "maand"
+                      "state" : "new",
+                      "value" : "month"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "maanden"
+                      "state" : "new",
+                      "value" : "months"
                     }
                   }
                 }
@@ -2311,7 +2311,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%#@unit@"
           },
           "substitutions" : {
@@ -2321,14 +2321,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "maand"
+                      "state" : "new",
+                      "value" : "month"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "maanden"
+                      "state" : "new",
+                      "value" : "months"
                     }
                   }
                 }
@@ -2506,7 +2506,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "/km"
           }
         },
@@ -2665,8 +2665,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "/mijl"
+            "state" : "new",
+            "value" : "/mi"
           }
         },
         "zh-Hans" : {
@@ -2718,7 +2718,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%"
           }
         },
@@ -2891,7 +2891,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%2$@ %#@unit@"
           },
           "substitutions" : {
@@ -3309,7 +3309,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%#@unit@"
           },
           "substitutions" : {
@@ -3518,7 +3518,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%2$@ %#@unit@"
           },
           "substitutions" : {
@@ -3936,7 +3936,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%#@unit@"
           },
           "substitutions" : {
@@ -4025,8 +4025,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "km/u"
+            "state" : "new",
+            "value" : "kph"
           }
         },
         "zh-Hans" : {
@@ -4078,8 +4078,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "m/u"
+            "state" : "new",
+            "value" : "mph"
           }
         },
         "zh-Hans" : {
@@ -4251,7 +4251,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%2$@ %#@unit@"
           },
           "substitutions" : {
@@ -4261,14 +4261,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "stap"
+                      "state" : "new",
+                      "value" : "step"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "stappen"
+                      "state" : "new",
+                      "value" : "steps"
                     }
                   }
                 }
@@ -4470,14 +4470,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "stap"
+                      "state" : "new",
+                      "value" : "step"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "stappen"
+                      "state" : "new",
+                      "value" : "steps"
                     }
                   }
                 }
@@ -4669,7 +4669,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%#@unit@"
           },
           "substitutions" : {
@@ -4679,14 +4679,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "stap"
+                      "state" : "new",
+                      "value" : "step"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "stappen"
+                      "state" : "new",
+                      "value" : "steps"
                     }
                   }
                 }
@@ -4758,8 +4758,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "uren"
+            "state" : "new",
+            "value" : "hours"
           }
         },
         "zh-Hans" : {
@@ -4864,8 +4864,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "minuten"
+            "state" : "new",
+            "value" : "minutes"
           }
         },
         "zh-Hans" : {
@@ -5037,7 +5037,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%2$@ %#@unit@"
           },
           "substitutions" : {
@@ -5518,14 +5518,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "week"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "weken"
+                      "state" : "new",
+                      "value" : "weeks"
                     }
                   }
                 }
@@ -5727,14 +5727,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "week"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "weken"
+                      "state" : "new",
+                      "value" : "weeks"
                     }
                   }
                 }
@@ -5926,7 +5926,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%#@unit@"
           },
           "substitutions" : {
@@ -5936,14 +5936,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "new",
                       "value" : "week"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "weken"
+                      "state" : "new",
+                      "value" : "weeks"
                     }
                   }
                 }
@@ -6015,7 +6015,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "kg"
           }
         },
@@ -6068,7 +6068,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "lb"
           }
         },
@@ -6121,7 +6121,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "st"
           }
         },
@@ -6294,7 +6294,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%2$@ %#@unit@"
           },
           "substitutions" : {
@@ -6304,14 +6304,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "work-out"
+                      "state" : "new",
+                      "value" : "workout"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "work-outs"
+                      "state" : "new",
+                      "value" : "workouts"
                     }
                   }
                 }
@@ -6513,14 +6513,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "work-out"
+                      "state" : "new",
+                      "value" : "workout"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "work-outs"
+                      "state" : "new",
+                      "value" : "workouts"
                     }
                   }
                 }
@@ -6712,7 +6712,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%#@unit@"
           },
           "substitutions" : {
@@ -6722,14 +6722,14 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "work-out"
+                      "state" : "new",
+                      "value" : "workout"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "work-outs"
+                      "state" : "new",
+                      "value" : "workouts"
                     }
                   }
                 }
