@@ -1,0 +1,916 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "homescreen.add" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homebildschirm-Widgets hinzufügen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding Home Screen Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar Widgets de Pantalla de Inicio"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding Home Screen Widgets"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding Home Screen Widgets"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding Home Screen Widgets"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Startpagina Widgets toevoegen"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding Home Screen Widgets"
+          }
+        }
+      }
+    },
+    "homescreen.addInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Homebildschirm.\nTippe auf den Plus-Button oben links.\nSuche \"Peak\".\nWähle ein Widget aus und klicke auf \"Hinzufügen\".\nTippe auf das Widget, um es zu bearbeiten."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Home Screen, long press in an empty space\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En su Pantalla de Inicio, pulsación larga en un espacio vacío\nToque el botón más en la parte superior izquierda\nEncuentre \"Peak\"\nElije un widget, y pulse \"Agregar Widget\"\nToque el widget para editarlo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Home Screen, long press in an empty space\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Home Screen, long press in an empty space\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Home Screen, long press in an empty space\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Home Screen, long press in an empty space\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Home Screen, long press in an empty space\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        }
+      }
+    },
+    "homescreen.edit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homebildschirm-Widgets editieren"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Home Screen Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar Widgets de Pantalla de Inicio"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Home Screen Widgets"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Home Screen Widgets"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Home Screen Widgets"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Home Screen Widgets"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Home Screen Widgets"
+          }
+        }
+      }
+    },
+    "homescreen.editInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tippe lange auf ein Widget.\nWähle \"Widget bearbeiten\" aus."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Long press on the widget\nSelect “Edit Widget”"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulsación larga en el widget\nSeleccione \"Editar Widget\""
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Long press on the widget\nSelect “Edit Widget”"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Long press on the widget\nSelect “Edit Widget”"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Long press on the widget\nSelect “Edit Widget”"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Long press on the widget\nSelect “Edit Widget”"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Long press on the widget\nSelect “Edit Widget”"
+          }
+        }
+      }
+    },
+    "lockscreen.add" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sperrbildschirm-Widgets hinzufügen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding Lock Screen Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar Widgets de Pantalla de Bloqueo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding Lock Screen Widgets"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding Lock Screen Widgets"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding Lock Screen Widgets"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding Lock Screen Widgets"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding Lock Screen Widgets"
+          }
+        }
+      }
+    },
+    "lockscreen.addInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über oder unter der Zeit aus.\nSuche \"Peak\".\nWähle eines der Widgets aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist).\nTippe auf das Widget, um es zu bearbeiten."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En su Pantalla de Bloqueo, pulsación larga en un espacio vacío\nToque el botón \"Personalizar\"\nSeleccione la Pantalla de Bloqueo\nSeleccione el rectángulo arriba o debajo de la hora\nBuscar “Peak”\nToque cualquier widget para añadirlo (Nota: Puede que necesite eliminar los widgets existentes si no hay suficiente espacio)\nToque su widget recientemente añadido para editarlo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        }
+      }
+    },
+    "lockscreen.addInstructionsPad" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über der Zeit oder links aus.\nSuche \"Peak\".\nWähle eines der Widgets aus um es hinzuzufügen (Hinweis: Du musst eventuell existierende Widgets entfernen, wenn nicht genug Platz vorhanden ist).\nTippe auf das Widget, um es zu bearbeiten."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En su Pantalla de Bloqueo, pulsación larga en un espacio vacío\nToque el botón \"Personalizar\"\nSeleccione la Pantalla de Bloqueo\nSeleccione el rectángulo encima de la hora o a la izquierda\nBuscar “Peak”\nToque cualquier widget para añadirlo (Nota: Puede que necesite eliminar los widgets existentes si no hay suficiente espacio)\nToque su widget recientemente añadido para editarlo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nFind “Peak”\nTap any widget to add it (Note: You may need to remove existing widgets if there isn’t enough space)\nTap your newly added widget to edit it"
+          }
+        }
+      }
+    },
+    "lockscreen.edit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sperrbildschirm-Widgets bearbeiten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Lock Screen Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar Widgets de Pantalla de Bloqueo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Lock Screen Widgets"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Lock Screen Widgets"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Lock Screen Widgets"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Lock Screen Widgets"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing Lock Screen Widgets"
+          }
+        }
+      }
+    },
+    "lockscreen.editInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über oder unter der Zeit aus.\nTippe auf ein Widget, um es zu bearbeiten."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nTap any widget to edit it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En su Pantalla de Bloqueo, pulsación larga en un espacio vacío\nToque el botón \"Personalizar\"\nSeleccione la Pantalla de Bloqueo\nSeleccione el rectángulo arriba o debajo de la hora\nToque cualquier widget para editarlo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nTap any widget to edit it"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nTap any widget to edit it"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nTap any widget to edit it"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nTap any widget to edit it"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above or below the time\nTap any widget to edit it"
+          }
+        }
+      }
+    },
+    "lockscreen.editInstructionsPad" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drücke lange auf einen freien Bereich auf deinem Sperrbildschirm.\nTippe auf \"Anpassen\".\nWähle den Sperrbildschirm aus.\nWähle ein Rechteck über der Zeit oder links aus.\nTippe auf ein Widget, um es zu bearbeiten."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nTap any widget to edit it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En su Pantalla de Bloqueo, pulsación larga en un espacio vacío\nToque el botón \"Personalizar\"\nSeleccione la Pantalla de Bloqueo\nSeleccione el rectángulo encima de la hora o a la izquierda\nToque cualquier widget para editarlo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nTap any widget to edit it"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nTap any widget to edit it"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nTap any widget to edit it"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nTap any widget to edit it"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "On your Lock Screen, long press in an empty space\nTap the “Customize” button\nSelect the Lock Screen\nSelect the rectangle above the time, or on the left\nTap any widget to edit it"
+          }
+        }
+      }
+    },
+    "standBy.add" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StandBy-Widgets hinzufügen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding StandBy Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar Widgets en Modo de Reposo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding StandBy Widgets"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding StandBy Widgets"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding StandBy Widgets"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding StandBy Widgets"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Adding StandBy Widgets"
+          }
+        }
+      }
+    },
+    "standBy.addInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktiviere StandBy und wechsle zu einer Ansicht mit zwei Widgets nebeneinander.\nHalte ein Widget lange gedrückt.\nTippe auf den Plus-Button oben links.\nSuche \"Peak\".\nWähle ein Widget aus, und klicke auf \"Widget hinzufügen\".\nTippe auf das Widget, um es zu bearbeiten."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with two widgets side-by-side\nTap and hold on a widget\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrar en modo de reposo, y desplácese hacia una vista con dos widgets lado a lado\nToque y mantenga presionado un widget\nToque el botón más en la parte superior izquierda\nBuscar “Peak”\nElija un widget, y pulse “Aregar Widget”\nToque el widget para editarlo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with two widgets side-by-side\nTap and hold on a widget\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with two widgets side-by-side\nTap and hold on a widget\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with two widgets side-by-side\nTap and hold on a widget\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with two widgets side-by-side\nTap and hold on a widget\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with two widgets side-by-side\nTap and hold on a widget\nTap the plus button in the top left\nFind “Peak”\nPick a widget, and tap “Add Widget”\nTap the widget to edit it"
+          }
+        }
+      }
+    },
+    "standBy.edit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StandBy-Widgets bearbeiten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing StandBy Widgets"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar Widgets en Modo de Reposo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing StandBy Widgets"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing StandBy Widgets"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing StandBy Widgets"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing StandBy Widgets"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Editing StandBy Widgets"
+          }
+        }
+      }
+    },
+    "standBy.editInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktiviere StandBy und wechsle zu einer Ansicht mit einem Peak Widget.\nHalte das Widget lange gedrückt, bis eine vertikales Karussell erscheint.\nTippe auf das Widget im Karussell, um es zu bearbeiten."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with a Peak widget\nTap and hold on the widget until a vertical carousel appears\nTap the widget in the carousel to edit it"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrar en modo de reposo, y desplácese hasta una vista con un widget de Peak\nToque y mantenga presionado el widget hasta que aparezca un carrusel vertical\nToque el widget en el carrusel para editarlo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with a Peak widget\nTap and hold on the widget until a vertical carousel appears\nTap the widget in the carousel to edit it"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with a Peak widget\nTap and hold on the widget until a vertical carousel appears\nTap the widget in the carousel to edit it"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with a Peak widget\nTap and hold on the widget until a vertical carousel appears\nTap the widget in the carousel to edit it"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with a Peak widget\nTap and hold on the widget until a vertical carousel appears\nTap the widget in the carousel to edit it"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter StandBy mode, and scroll to a view with a Peak widget\nTap and hold on the widget until a vertical carousel appears\nTap the widget in the carousel to edit it"
+          }
+        }
+      }
+    },
+    "standBy.enter" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StandBy aktivieren"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Entering StandBy Mode"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrar en Modo de Reposo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Entering StandBy Mode"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Entering StandBy Mode"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Entering StandBy Mode"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Entering StandBy Mode"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Entering StandBy Mode"
+          }
+        }
+      }
+    },
+    "standBy.enterInstructions" : {
+      "comment" : "Separate instructions with a single new line",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinweis: StandBy funktioniert nur auf einem iPhone mit iOS 17 oder neuer.\nGehe in die Einstellungen > StandBy und stelle sicher, dass StandBy aktiviert ist.\nVerbinde dein iPhone mit einem Ladegerät und kippe es in eine horizontale Position.\nDrücke den Seitenschalter.\nStreiche links oder rechts, um zwischen den verschiedenen Ansichten zu wechseln. Streiche hoch oder runter, um zwischen den verschiedenen Optionen der Ansichten zu wechseln."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Note: StandBy mode only works on iPhone, and requires iOS 17 or later\nGo to Settings > StandBy and make sure StandBy is turned on\nConnect your iPhone to a charger and set it down on its side\nTap the side button\nSwipe left or right to switch between different views. Swipe up or down to scroll between options for each of these views"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nota: El modo de reposo solo funciona en iPhone y requiere iOS 17 o superior\nVaya a Configuración > StandBy y asegúrese de que En Reposo esté activado\nConecte su iPhone a un cargador y colóquelo de lado\nToque el botón lateral\nDesliza el dedo hacia la izquierda o hacia la derecha para cambiar entre diferentes vistas. Desliza hacia arriba o hacia abajo para desplazarte entre las opciones de cada una de estas vistas"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Note: StandBy mode only works on iPhone, and requires iOS 17 or later\nGo to Settings > StandBy and make sure StandBy is turned on\nConnect your iPhone to a charger and set it down on its side\nTap the side button\nSwipe left or right to switch between different views. Swipe up or down to scroll between options for each of these views"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Note: StandBy mode only works on iPhone, and requires iOS 17 or later\nGo to Settings > StandBy and make sure StandBy is turned on\nConnect your iPhone to a charger and set it down on its side\nTap the side button\nSwipe left or right to switch between different views. Swipe up or down to scroll between options for each of these views"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Note: StandBy mode only works on iPhone, and requires iOS 17 or later\nGo to Settings > StandBy and make sure StandBy is turned on\nConnect your iPhone to a charger and set it down on its side\nTap the side button\nSwipe left or right to switch between different views. Swipe up or down to scroll between options for each of these views"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Note: StandBy mode only works on iPhone, and requires iOS 17 or later\nGo to Settings > StandBy and make sure StandBy is turned on\nConnect your iPhone to a charger and set it down on its side\nTap the side button\nSwipe left or right to switch between different views. Swipe up or down to scroll between options for each of these views"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Note: StandBy mode only works on iPhone, and requires iOS 17 or later\nGo to Settings > StandBy and make sure StandBy is turned on\nConnect your iPhone to a charger and set it down on its side\nTap the side button\nSwipe left or right to switch between different views. Swipe up or down to scroll between options for each of these views"
+          }
+        }
+      }
+    },
+    "title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget-Anleitung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Widget Tutorial"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutorial de Widgets"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Widget Tutorial"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Widget Tutorial"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Widget Tutorial"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Widget Tutorial"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Widget Tutorial"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
