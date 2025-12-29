@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Misschien later"
+            "state" : "new",
+            "value" : "Maybe Later"
           }
         },
         "zh-Hans" : {
@@ -95,8 +95,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Natuurlijk"
+            "state" : "new",
+            "value" : "Sure"
           }
         },
         "zh-Hans" : {
@@ -254,8 +254,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deze actie kan niet ongedaan worden gemaakt en kan voorkomen dat uw widgets werken.\n\nDeze wijziging heeft geen invloed op uw HealthKit gegevens."
+            "state" : "new",
+            "value" : "This action cannot be undone, and may prevent your widgets from working.\n\nThis change does not affect your HealthKit data."
           }
         },
         "zh-Hans" : {
@@ -307,8 +307,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Annuleren"
+            "state" : "new",
+            "value" : "Cancel"
           }
         },
         "zh-Hans" : {
@@ -360,8 +360,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schuif om te verwijderen"
+            "state" : "new",
+            "value" : "Slide to Delete"
           }
         },
         "zh-Hans" : {
@@ -413,8 +413,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deze %@ verwijderen?"
+            "state" : "new",
+            "value" : "Remove this %@?"
           }
         },
         "zh-Hans" : {
