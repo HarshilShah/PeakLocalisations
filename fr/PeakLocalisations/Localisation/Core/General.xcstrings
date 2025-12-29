@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toevoegen"
+            "state" : "new",
+            "value" : "Add"
           }
         },
         "zh-Hans" : {
@@ -201,8 +201,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wissen"
+            "state" : "new",
+            "value" : "Clear"
           }
         },
         "zh-Hans" : {
@@ -254,8 +254,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Doorgaan"
+            "state" : "new",
+            "value" : "Continue"
           }
         },
         "zh-Hans" : {
@@ -307,8 +307,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vermindering"
+            "state" : "new",
+            "value" : "Decrement"
           }
         },
         "zh-Hans" : {
@@ -360,8 +360,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verwijderen"
+            "state" : "new",
+            "value" : "Delete"
           }
         },
         "zh-Hans" : {
@@ -466,8 +466,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klaar"
+            "state" : "new",
+            "value" : "Done"
           }
         },
         "zh-Hans" : {
@@ -519,8 +519,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bewerken"
+            "state" : "new",
+            "value" : "Edit"
           }
         },
         "zh-Hans" : {
@@ -625,8 +625,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toename"
+            "state" : "new",
+            "value" : "Increment"
           }
         },
         "zh-Hans" : {
@@ -678,8 +678,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vergrendeld"
+            "state" : "new",
+            "value" : "Locked"
           }
         },
         "zh-Hans" : {
@@ -731,8 +731,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Misschien later"
+            "state" : "new",
+            "value" : "Maybe Later"
           }
         },
         "zh-Hans" : {
@@ -838,8 +838,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geen gegevens"
+            "state" : "new",
+            "value" : "No Data"
           }
         },
         "zh-Hans" : {
@@ -1050,8 +1050,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zoeken"
+            "state" : "new",
+            "value" : "Search"
           }
         },
         "zh-Hans" : {
@@ -1103,8 +1103,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Natuurlijk"
+            "state" : "new",
+            "value" : "Sure"
           }
         },
         "zh-Hans" : {
@@ -1156,8 +1156,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eenheid"
+            "state" : "new",
+            "value" : "Unit"
           }
         },
         "zh-Hans" : {
@@ -1209,8 +1209,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Waarde"
+            "state" : "new",
+            "value" : "Value"
           }
         },
         "zh-Hans" : {
