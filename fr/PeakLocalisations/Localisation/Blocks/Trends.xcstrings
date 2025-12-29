@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blijf op de goede weg en bouw verder op je vorige prestaties."
+            "state" : "new",
+            "value" : "Stay on track and build on your past performance."
           }
         },
         "zh-Hans" : {
@@ -95,8 +95,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niet genoeg gegevens"
+            "state" : "new",
+            "value" : "Not Enough Data"
           }
         },
         "zh-Hans" : {
@@ -148,8 +148,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "vs. %@ totaal"
+            "state" : "new",
+            "value" : "vs. %@ overall"
           }
         },
         "zh-Hans" : {
@@ -413,8 +413,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lange termijn"
+            "state" : "new",
+            "value" : "Long Term"
           }
         },
         "zh-Hans" : {
@@ -466,8 +466,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "90 vs. 365 dagen"
+            "state" : "new",
+            "value" : "90 vs. 365 days"
           }
         },
         "zh-Hans" : {
@@ -572,8 +572,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Middellange termijn"
+            "state" : "new",
+            "value" : "Medium Term"
           }
         },
         "zh-Hans" : {
@@ -625,8 +625,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "30 vs. 120 dagen"
+            "state" : "new",
+            "value" : "30 vs. 120 days"
           }
         },
         "zh-Hans" : {
@@ -731,8 +731,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Korte termijn"
+            "state" : "new",
+            "value" : "Short Term"
           }
         },
         "zh-Hans" : {
@@ -784,8 +784,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "7 vs. 28 dagen"
+            "state" : "new",
+            "value" : "7 vs. 28 days"
           }
         },
         "zh-Hans" : {
