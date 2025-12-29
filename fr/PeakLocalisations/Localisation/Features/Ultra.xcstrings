@@ -95,8 +95,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Je bent helemaal klaar!"
+            "state" : "new",
+            "value" : "You’re all set up!"
           }
         },
         "zh-Hans" : {
@@ -254,8 +254,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "App-pictogrammen"
+            "state" : "new",
+            "value" : "App Icons"
           }
         },
         "zh-Hans" : {
@@ -466,8 +466,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ondersteun de ontwikkelaar van de app"
+            "state" : "new",
+            "value" : "Support the developer"
           }
         },
         "zh-Hans" : {
@@ -572,8 +572,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Thema's"
+            "state" : "new",
+            "value" : "Themes"
           }
         },
         "zh-Hans" : {
@@ -1526,8 +1526,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lees meer"
+            "state" : "new",
+            "value" : "Learn More"
           }
         },
         "zh-Hans" : {
@@ -1579,8 +1579,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abonnement beheren"
+            "state" : "new",
+            "value" : "Manage Subscription"
           }
         },
         "zh-Hans" : {
@@ -1632,8 +1632,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niet Nu"
+            "state" : "new",
+            "value" : "Not Now"
           }
         },
         "zh-Hans" : {
@@ -1685,7 +1685,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Peak Ultra"
           }
         },
@@ -1738,8 +1738,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Levenslang"
+            "state" : "new",
+            "value" : "Lifetime"
           }
         },
         "zh-Hans" : {
@@ -1791,8 +1791,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maandelijks"
+            "state" : "new",
+            "value" : "Monthly"
           }
         },
         "zh-Hans" : {
@@ -1844,8 +1844,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jaarlijks"
+            "state" : "new",
+            "value" : "Yearly"
           }
         },
         "zh-Hans" : {
@@ -2005,8 +2005,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kopen"
+            "state" : "new",
+            "value" : "Purchase"
           }
         },
         "zh-Hans" : {
@@ -2111,8 +2111,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voeg meer dan %d blokken toe met"
+            "state" : "new",
+            "value" : "Add more than %d blocks with"
           }
         },
         "zh-Hans" : {
@@ -2164,8 +2164,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wordt sterker samen met"
+            "state" : "new",
+            "value" : "Get stronger together with"
           }
         },
         "zh-Hans" : {
@@ -2270,8 +2270,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pas uw thema aan met"
+            "state" : "new",
+            "value" : "Customise your theme with"
           }
         },
         "zh-Hans" : {
@@ -2323,8 +2323,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ontgrendel alle widgets met"
+            "state" : "new",
+            "value" : "Unlock all widgets with"
           }
         },
         "zh-Hans" : {
@@ -2376,8 +2376,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Inwisselen"
+            "state" : "new",
+            "value" : "Redeem"
           }
         },
         "zh-Hans" : {
@@ -2429,8 +2429,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Herstellen"
+            "state" : "new",
+            "value" : "Restore"
           }
         },
         "zh-Hans" : {
@@ -2482,8 +2482,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Start je gratis proefperiode van 7 dagen"
+            "state" : "new",
+            "value" : "Start Your 7 Day Free Trial"
           }
         },
         "zh-Hans" : {
@@ -2535,8 +2535,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abonneren"
+            "state" : "new",
+            "value" : "Subscribe"
           }
         },
         "zh-Hans" : {
@@ -2588,8 +2588,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tik om te ontgrendelen"
+            "state" : "new",
+            "value" : "Tap to Unlock"
           }
         },
         "zh-Hans" : {
@@ -2641,8 +2641,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bedankt voor het ontgrendelen van Peak Ultra!"
+            "state" : "new",
+            "value" : "Thank you for unlocking Peak Ultra!"
           }
         },
         "zh-Hans" : {
