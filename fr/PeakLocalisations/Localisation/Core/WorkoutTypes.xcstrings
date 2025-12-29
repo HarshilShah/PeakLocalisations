@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Amerikaans voetbal"
+            "state" : "new",
+            "value" : "American Football"
           }
         },
         "zh-Hans" : {
@@ -95,8 +95,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Boogschieten"
+            "state" : "new",
+            "value" : "Archery"
           }
         },
         "zh-Hans" : {
@@ -148,8 +148,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Australisch Voetbal"
+            "state" : "new",
+            "value" : "Australian Football"
           }
         },
         "zh-Hans" : {
@@ -201,7 +201,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Badminton"
           }
         },
@@ -307,8 +307,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Honkbal"
+            "state" : "new",
+            "value" : "Baseball"
           }
         },
         "zh-Hans" : {
@@ -360,8 +360,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Basketbal"
+            "state" : "new",
+            "value" : "Basketball"
           }
         },
         "zh-Hans" : {
@@ -413,8 +413,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bowlen"
+            "state" : "new",
+            "value" : "Bowling"
           }
         },
         "zh-Hans" : {
@@ -466,8 +466,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Boksen"
+            "state" : "new",
+            "value" : "Boxing"
           }
         },
         "zh-Hans" : {
@@ -572,8 +572,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klimmen"
+            "state" : "new",
+            "value" : "Climbing"
           }
         },
         "zh-Hans" : {
@@ -678,8 +678,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Krachttraining"
+            "state" : "new",
+            "value" : "Core Training"
           }
         },
         "zh-Hans" : {
@@ -731,7 +731,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Cricket"
           }
         },
@@ -837,8 +837,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Crosstraining"
+            "state" : "new",
+            "value" : "Cross Training"
           }
         },
         "zh-Hans" : {
@@ -890,7 +890,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Curling"
           }
         },
@@ -943,8 +943,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fietsen"
+            "state" : "new",
+            "value" : "Cycling"
           }
         },
         "zh-Hans" : {
@@ -996,8 +996,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dansen"
+            "state" : "new",
+            "value" : "Dance"
           }
         },
         "zh-Hans" : {
@@ -1261,8 +1261,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paardensport"
+            "state" : "new",
+            "value" : "Equestrian Sports"
           }
         },
         "zh-Hans" : {
@@ -1314,8 +1314,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sport en fitness"
+            "state" : "new",
+            "value" : "Exercise and Fitness"
           }
         },
         "zh-Hans" : {
@@ -1367,8 +1367,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schermen"
+            "state" : "new",
+            "value" : "Fencing"
           }
         },
         "zh-Hans" : {
@@ -1420,8 +1420,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vissen"
+            "state" : "new",
+            "value" : "Fishing"
           }
         },
         "zh-Hans" : {
@@ -1473,7 +1473,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Fitness Gaming"
           }
         },
@@ -1526,8 +1526,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Flexibiliteit"
+            "state" : "new",
+            "value" : "Flexibility"
           }
         },
         "zh-Hans" : {
@@ -1579,8 +1579,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Functionele Krachttraining"
+            "state" : "new",
+            "value" : "Functional Strength Training"
           }
         },
         "zh-Hans" : {
@@ -1632,8 +1632,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Golfen"
+            "state" : "new",
+            "value" : "Golf"
           }
         },
         "zh-Hans" : {
@@ -1685,8 +1685,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gymnastiek"
+            "state" : "new",
+            "value" : "Gymnastics"
           }
         },
         "zh-Hans" : {
@@ -1738,8 +1738,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Handfietsen"
+            "state" : "new",
+            "value" : "Hand Cycling"
           }
         },
         "zh-Hans" : {
@@ -1791,8 +1791,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Handbal"
+            "state" : "new",
+            "value" : "Handball"
           }
         },
         "zh-Hans" : {
@@ -1897,8 +1897,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wandelen"
+            "state" : "new",
+            "value" : "Hiking"
           }
         },
         "zh-Hans" : {
@@ -1950,7 +1950,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Hockey"
           }
         },
@@ -2003,8 +2003,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jagen"
+            "state" : "new",
+            "value" : "Hunting"
           }
         },
         "zh-Hans" : {
@@ -2056,8 +2056,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Individuele sporten"
+            "state" : "new",
+            "value" : "Individual Sports"
           }
         },
         "zh-Hans" : {
@@ -2109,8 +2109,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Springtouwen"
+            "state" : "new",
+            "value" : "Jump Rope"
           }
         },
         "zh-Hans" : {
@@ -2162,8 +2162,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kickboksen"
+            "state" : "new",
+            "value" : "Kickboxing"
           }
         },
         "zh-Hans" : {
@@ -2268,8 +2268,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vechtsporten"
+            "state" : "new",
+            "value" : "Martial Arts"
           }
         },
         "zh-Hans" : {
@@ -2321,8 +2321,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geheugen en Lichaam"
+            "state" : "new",
+            "value" : "Mind and Body"
           }
         },
         "zh-Hans" : {
@@ -2374,8 +2374,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gemengde Cardio"
+            "state" : "new",
+            "value" : "Mixed Cardio"
           }
         },
         "zh-Hans" : {
@@ -2480,8 +2480,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Andere"
+            "state" : "new",
+            "value" : "Other"
           }
         },
         "zh-Hans" : {
@@ -2533,8 +2533,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Buitenactiviteiten"
+            "state" : "new",
+            "value" : "Outdoor Activities"
           }
         },
         "zh-Hans" : {
@@ -2586,8 +2586,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Peddelsporten"
+            "state" : "new",
+            "value" : "Paddle Sports"
           }
         },
         "zh-Hans" : {
@@ -2692,7 +2692,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pilates"
           }
         },
@@ -2798,8 +2798,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voorbereiding en herstel"
+            "state" : "new",
+            "value" : "Preparation and Recovery"
           }
         },
         "zh-Hans" : {
@@ -2851,8 +2851,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Racketsporten"
+            "state" : "new",
+            "value" : "Racket Sports"
           }
         },
         "zh-Hans" : {
@@ -2957,8 +2957,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Roeien"
+            "state" : "new",
+            "value" : "Rowing"
           }
         },
         "zh-Hans" : {
@@ -3010,7 +3010,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Rugby"
           }
         },
@@ -3063,8 +3063,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rennen"
+            "state" : "new",
+            "value" : "Running"
           }
         },
         "zh-Hans" : {
@@ -3116,8 +3116,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zeilen"
+            "state" : "new",
+            "value" : "Sailing"
           }
         },
         "zh-Hans" : {
@@ -3169,8 +3169,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schaatssporten"
+            "state" : "new",
+            "value" : "Skating Sports"
           }
         },
         "zh-Hans" : {
@@ -3222,8 +3222,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sneeuw en ijssport"
+            "state" : "new",
+            "value" : "Snow and Ice Sports"
           }
         },
         "zh-Hans" : {
@@ -3275,8 +3275,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sneeuwsporten"
+            "state" : "new",
+            "value" : "Snow Sports"
           }
         },
         "zh-Hans" : {
@@ -3328,8 +3328,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Snowboarden"
+            "state" : "new",
+            "value" : "Snowboarding"
           }
         },
         "zh-Hans" : {
@@ -3381,8 +3381,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voetbal"
+            "state" : "new",
+            "value" : "Soccer"
           }
         },
         "zh-Hans" : {
@@ -3434,8 +3434,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sociale dansen"
+            "state" : "new",
+            "value" : "Social Dance"
           }
         },
         "zh-Hans" : {
@@ -3487,8 +3487,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Softbal"
+            "state" : "new",
+            "value" : "Softball"
           }
         },
         "zh-Hans" : {
@@ -3540,7 +3540,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Squash"
           }
         },
@@ -3593,8 +3593,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trappen lopen"
+            "state" : "new",
+            "value" : "Stair Climbing"
           }
         },
         "zh-Hans" : {
@@ -3646,8 +3646,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trappen"
+            "state" : "new",
+            "value" : "Stairs"
           }
         },
         "zh-Hans" : {
@@ -3805,8 +3805,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Surfsporten"
+            "state" : "new",
+            "value" : "Surfing Sports"
           }
         },
         "zh-Hans" : {
@@ -3858,8 +3858,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zwemmen, fietsen en rennen"
+            "state" : "new",
+            "value" : "Swim, Bike, and Run"
           }
         },
         "zh-Hans" : {
@@ -3911,8 +3911,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zwemmen"
+            "state" : "new",
+            "value" : "Swimming"
           }
         },
         "zh-Hans" : {
@@ -3964,8 +3964,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tafeltennis"
+            "state" : "new",
+            "value" : "Table Tennis"
           }
         },
         "zh-Hans" : {
@@ -4017,8 +4017,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tai-chi"
+            "state" : "new",
+            "value" : "Tai Chi"
           }
         },
         "zh-Hans" : {
@@ -4070,8 +4070,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Teamsporten"
+            "state" : "new",
+            "value" : "Team Sports"
           }
         },
         "zh-Hans" : {
@@ -4123,7 +4123,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Tennis"
           }
         },
@@ -4176,8 +4176,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veldlopen"
+            "state" : "new",
+            "value" : "Track and Field"
           }
         },
         "zh-Hans" : {
@@ -4229,8 +4229,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Traditionele Krachttraining"
+            "state" : "new",
+            "value" : "Traditional Strength Training"
           }
         },
         "zh-Hans" : {
@@ -4335,8 +4335,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Onderwater duiken"
+            "state" : "new",
+            "value" : "Underwater Diving"
           }
         },
         "zh-Hans" : {
@@ -4388,8 +4388,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Volleybal"
+            "state" : "new",
+            "value" : "Volleyball"
           }
         },
         "zh-Hans" : {
@@ -4441,8 +4441,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wandelen"
+            "state" : "new",
+            "value" : "Walking"
           }
         },
         "zh-Hans" : {
@@ -4494,8 +4494,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wateractiviteiten"
+            "state" : "new",
+            "value" : "Water Activities"
           }
         },
         "zh-Hans" : {
@@ -4547,8 +4547,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Waterfitness"
+            "state" : "new",
+            "value" : "Water Fitness"
           }
         },
         "zh-Hans" : {
@@ -4600,8 +4600,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Waterpolo"
+            "state" : "new",
+            "value" : "Water Polo"
           }
         },
         "zh-Hans" : {
@@ -4653,8 +4653,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Watersporten"
+            "state" : "new",
+            "value" : "Water Sports"
           }
         },
         "zh-Hans" : {
@@ -4812,8 +4812,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Worstelen"
+            "state" : "new",
+            "value" : "Wrestling"
           }
         },
         "zh-Hans" : {
@@ -4865,7 +4865,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Yoga"
           }
         },
