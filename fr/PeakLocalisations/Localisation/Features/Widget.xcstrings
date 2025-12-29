@@ -41,8 +41,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gewoon een groot app-pictogram."
+            "state" : "new",
+            "value" : "Just a big app icon."
           }
         },
         "zh-Hans" : {
@@ -93,8 +93,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "App-pictogram"
+            "state" : "new",
+            "value" : "App Icon"
           }
         },
         "zh-Hans" : {
@@ -301,8 +301,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grafiek"
+            "state" : "new",
+            "value" : "Chart"
           }
         },
         "zh-Hans" : {
@@ -353,8 +353,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Volg je vooruitgang op weg naar het bereiken van je fitnessdoelen."
+            "state" : "new",
+            "value" : "Track your progress towards achieving your fitness goals."
           }
         },
         "zh-Hans" : {
@@ -405,8 +405,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Doel"
+            "state" : "new",
+            "value" : "Goal"
           }
         },
         "zh-Hans" : {
@@ -457,8 +457,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bekijk al je statistieken van de afgelopen week."
+            "state" : "new",
+            "value" : "View all of your stats for the past week."
           }
         },
         "zh-Hans" : {
@@ -509,8 +509,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geschiedenis"
+            "state" : "new",
+            "value" : "History"
           }
         },
         "zh-Hans" : {
@@ -613,8 +613,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Krijg een overzicht van je voortgang na verloop van tijd."
+            "state" : "new",
+            "value" : "Get a overview of your progress over time."
           }
         },
         "zh-Hans" : {
@@ -665,8 +665,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Overzicht"
+            "state" : "new",
+            "value" : "Overview"
           }
         },
         "zh-Hans" : {
@@ -821,8 +821,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Je statistieken voor vandaag."
+            "state" : "new",
+            "value" : "Your stats for today."
           }
         },
         "zh-Hans" : {
@@ -873,8 +873,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vandaag"
+            "state" : "new",
+            "value" : "Today"
           }
         },
         "zh-Hans" : {
@@ -925,8 +925,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bekijk uw totale voortgang van de/het afgelopen week, maand en jaar."
+            "state" : "new",
+            "value" : "See your total progress over the past week, month, and year."
           }
         },
         "zh-Hans" : {
@@ -977,8 +977,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Totalen"
+            "state" : "new",
+            "value" : "Totals"
           }
         },
         "zh-Hans" : {
@@ -1029,8 +1029,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blijf op de goede weg en bouw verder op je vorige prestaties."
+            "state" : "new",
+            "value" : "Stay on track and build on your past performance."
           }
         },
         "zh-Hans" : {
