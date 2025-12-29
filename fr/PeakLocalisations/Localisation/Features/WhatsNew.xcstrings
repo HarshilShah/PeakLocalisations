@@ -149,8 +149,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schrijf een beoordeling"
+            "state" : "new",
+            "value" : "Leave a Review"
           }
         },
         "zh-Hans" : {
