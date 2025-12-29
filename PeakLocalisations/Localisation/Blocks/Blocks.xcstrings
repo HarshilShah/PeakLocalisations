@@ -24,6 +24,57 @@
         }
       }
     },
+    "Block" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Block"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloque"
+          }
+        }
+      }
+    },
+    "Blocks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocks"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloques"
+          }
+        }
+      }
+    },
+    "Edit Block" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edit Block"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar Bloque"
+          }
+        }
+      }
+    },
     "Kind.Chart" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -66,6 +117,23 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visualiza tus estadísticas."
+          }
+        }
+      }
+    },
+    "Kind.Chart.Plural" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Charts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gráficos"
           }
         }
       }
@@ -116,6 +184,23 @@
         }
       }
     },
+    "Kind.Overview.Plural" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Overviews"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panoramas"
+          }
+        }
+      }
+    },
     "Kind.Recents" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -158,6 +243,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ver sus estadísticas recientes para cualquier métrica."
+          }
+        }
+      }
+    },
+    "Kind.Today" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Today"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy"
+          }
+        }
+      }
+    },
+    "Kind.Today.Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your stats for today."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sus estadísticas de hoy."
           }
         }
       }

@@ -7,514 +7,450 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hinzufügen"
+            "value" : "Ziel hinzufügen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add"
+            "value" : "Add a Goal"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir"
+            "value" : "Agregar una Meta"
           }
         }
       }
     },
-    "Back" : {
+    "Edit Goal" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zurück"
+            "value" : "Ziel editieren"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Back"
+            "value" : "Edit Goal"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Volver"
+            "value" : "Editar meta"
           }
         }
       }
     },
-    "Cancel" : {
+    "Initial" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abbrechen"
+            "value" : "Initial"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cancel"
+            "value" : "Initial"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cancelar"
+            "value" : "Inicial"
           }
         }
       }
     },
-    "Clear" : {
+    "Kind" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Goal Type"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipo de Meta"
+          }
+        }
+      }
+    },
+    "Kind.Build" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Löschen"
+            "value" : "Aufbau"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clear"
+            "value" : "Build"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Borrar"
+            "value" : "Construir"
           }
         }
       }
     },
-    "ContinueButton" : {
+    "Kind.Build.Description" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Weiter"
+            "value" : "Fortschritt eines langfristigen Ziels"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continue"
+            "value" : "Progress toward a long term target"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuar"
+            "value" : "Avanzar hacia un objetivo a largo plazo"
           }
         }
       }
     },
-    "Decrement" : {
+    "Kind.ShowUp" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verringern"
+            "value" : "Routine"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Decrement"
+            "value" : "Show Up"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reducir"
+            "value" : "Aparecer"
           }
         }
       }
     },
-    "Delete" : {
+    "Kind.ShowUp.Description" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Löschen"
+            "value" : "Setze Tages-Ziele um neue Gewohnheiten zu erschaffen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Delete"
+            "value" : "Set daily goals to build new habits"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eliminar"
+            "value" : "Establece objetivos diarios para desarrollar nuevos hábitos"
           }
         }
       }
     },
-    "Dismiss" : {
+    "RepeatLabel" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schließen"
+            "value" : "Wiederholen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dismiss"
+            "value" : "Repeat"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cerrar"
+            "value" : "Repetir"
           }
         }
       }
     },
-    "Done" : {
+    "Resolution Duration" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fertig"
+            "value" : "Vorsatz-Dauer"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Done"
+            "value" : "Resolution Duration"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "OK"
+            "value" : "Duración de la Resolución"
           }
         }
       }
     },
-    "Edit" : {
+    "Resolution Info" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bearbeiten"
+            "value" : "Erhöhe deinen Aktivitätslevel schrittweise im Verlauf der Zeit, um deine langfristigen Ziele in einer nachhaltigen Art und Weise zu erreichen."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Edit"
+            "value" : "Gradually increase your activity levels over time to help you meet your long term goals in a sustainable manner"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Editar"
+            "value" : "Aumente gradualmente sus niveles de actividad con el tiempo para alcanzar sus objetivos a largo plazo de manera sostenible"
           }
         }
       }
     },
-    "Filter" : {
+    "Resolution.Add" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filter"
+            "value" : "Vorsatz hinzufügen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filter"
+            "value" : "Add Resolution"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtro"
+            "value" : "Agregar Resolución"
           }
         }
       }
     },
-    "Increment" : {
+    "Resolution.LearnMore" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erhöhen"
+            "value" : "Lerne mehr über Vorsätze"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Increment"
+            "value" : "Learn more about resolutions"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aumentar"
+            "value" : "Más información sobre resoluciones"
           }
         }
       }
     },
-    "Locked" : {
+    "Resolution.Remove" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gesperrt"
+            "value" : "Vorsatz entfernen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Locked"
+            "value" : "Remove Resolution"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bloqueado"
+            "value" : "Eliminar Resolución"
           }
         }
       }
     },
-    "Maybe Later" : {
+    "Save" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vielleicht Später"
+            "value" : "Speichern"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maybe Later"
+            "value" : "Save"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quizá Más Tarde"
+            "value" : "Guardar"
           }
         }
       }
     },
-    "More" : {
-      "comment" : "This is used as the title of ellipsis … buttons that show additional options",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "More"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Más"
-          }
-        }
-      }
-    },
-    "No Data" : {
+    "Target" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine Daten"
+            "value" : "Ziel"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No Data"
+            "value" : "Target"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No Hay Datos"
+            "value" : "Destino"
           }
         }
       }
     },
-    "Off" : {
+    "Target Daily Goal" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aus"
+            "value" : "Tägliche Zielvorgabe"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Off"
+            "value" : "Target Daily Goal"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Desactivado"
+            "value" : "Objetivo Diario de Destino"
           }
         }
       }
     },
-    "On" : {
+    "Target Goal" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ein"
+            "value" : "Zielvorgabe"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "On"
+            "value" : "Target Goal"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Activado"
+            "value" : "Objetivo de Destino"
           }
         }
       }
     },
-    "Reorder" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reorder"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reordenar"
-          }
-        }
-      }
-    },
-    "Search" : {
+    "Target Number of Days" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suchen"
+            "value" : "Ziel-Anzahl Tage"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Search"
+            "value" : "Target Number of Days"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar"
+            "value" : "Número de Días de Objetivo"
           }
         }
       }
     },
-    "Sure" : {
+    "Title.ActivityRings" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klar"
+            "value" : "Aktivitätsring-Ziele"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sure"
+            "value" : "Activity Rings Goal"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "OK"
-          }
-        }
-      }
-    },
-    "Unit" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Einheit"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unit"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unidad"
-          }
-        }
-      }
-    },
-    "Value" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wert"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Value"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Valor"
+            "value" : "Meta de Anillos de Actividad"
           }
         }
       }

@@ -1,236 +1,244 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "Additional Permissions" : {
+    "GoalKind.Sleep8Hours" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zusätzlich auch für %@ berechtigen"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Also requests permissions for %@"
+            "value" : "Sleep 8 Hours"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "También solicita permiso para %@"
+            "value" : "Dormir 8 Horas"
           }
         }
       }
     },
-    "EmptyState.Body" : {
+    "GoalKind.StartExercising" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weitere Kennzahlen sind in Arbeit. Wenn du Vorschläge hast, lass es mich gerne wissen!"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "More metrics coming soon. If you have any suggestions or requests, please do let me know."
+            "value" : "Start Workout Out"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Más métricas próximamente. Si tiene alguna sugerencia o solicitud, por favor hágamelo saber."
+            "value" : "Comenzar a Entrenar"
           }
         }
       }
     },
-    "EmptyState.Subtitle" : {
+    "GoalKind.Walk10k" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Du hast alles hinzugefügt!"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "You’ve added everything!"
+            "value" : "Walk 10,000 Steps"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Ha añadido todo!"
+            "value" : "Caminar 10,000 Pasos"
           }
         }
       }
     },
-    "EmptyState.Title" : {
+    "GoalKind.Weight" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ausverkauft"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Out of Stock"
+            "value" : "Gain or Lose Weight"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agotado"
+            "value" : "Subir o Bajar de Peso"
           }
         }
       }
     },
-    "Error.FailedToRequest" : {
+    "Goals.Title" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Freigabe fehlgeschlagen"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Failed to Request Permissions"
+            "value" : "Goals"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Error al solicitar permisos"
+            "value" : "Objetivos"
           }
         }
       }
     },
-    "Section.Activity" : {
+    "Stats.Title" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktivität"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Activity"
+            "value" : "Stats & Numbers"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actividad"
+            "value" : "Estadísticas y Números"
           }
         }
       }
     },
-    "Section.BodyMeasurements" : {
+    "StatsKind.DistanceRecents" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Körpermaße"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Body Measurements"
+            "value" : "Recent Step Distances"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medidas Corporales"
+            "value" : "Distancias Recientes de Pasos"
           }
         }
       }
     },
-    "Section.Recommended" : {
+    "StatsKind.StepsTotals" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Empfohlen"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recommended"
+            "value" : "Steps this Week, Month, & Year"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recomendados"
+            "value" : "Pasos de Esta Semana, Mes y Año"
           }
         }
       }
     },
-    "Section.Vitals" : {
+    "StatsKind.WorkoutOverview" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vitalzeichen"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vitals"
+            "value" : "An Overview of your Workouts"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Constantes Vitales"
+            "value" : "Un Resumen de sus Entrenamientos"
           }
         }
       }
     },
-    "Title" : {
+    "Today.Title" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kennzahl hinzufügen"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add Metrics"
+            "value" : "Today"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar Métricas"
+            "value" : "Hoy"
+          }
+        }
+      }
+    },
+    "VisualizationKind.SleepTrends" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trends in your Sleep"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tendencias en tu Sueño"
+          }
+        }
+      }
+    },
+    "VisualizationKind.StepsBenchmark" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set a Steps Benchmark"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Establecer una Referencia de Pasos"
+          }
+        }
+      }
+    },
+    "VisualizationKind.WeightChart" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chart your Weight"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gráfica de tu Peso"
+          }
+        }
+      }
+    },
+    "Visualizations.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizations"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizaciones"
           }
         }
       }
     }
   },
-  "version" : "1.0"
+  "version" : "1.1"
 }

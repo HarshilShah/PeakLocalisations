@@ -26,7 +26,6 @@
 		E8BE49072B551871005075DC /* WidgetSetup.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */; };
 		E8BE49082B551871005075DC /* Details.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EA2B551871005075DC /* Details.xcstrings */; };
 		E8BE49092B551871005075DC /* Preferences.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EB2B551871005075DC /* Preferences.xcstrings */; };
-		E8BE490A2B551871005075DC /* AddMetrics.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EC2B551871005075DC /* AddMetrics.xcstrings */; };
 		E8BE490B2B551871005075DC /* Home.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48ED2B551871005075DC /* Home.xcstrings */; };
 		E8BE490C2B551871005075DC /* Resolutions.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EF2B551871005075DC /* Resolutions.xcstrings */; };
 		E8BE490D2B551871005075DC /* ConfigureGoal.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F02B551871005075DC /* ConfigureGoal.xcstrings */; };
@@ -43,6 +42,11 @@
 		E8BE49182B551871005075DC /* General.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48FC2B551871005075DC /* General.xcstrings */; };
 		E8BE491B2B551972005075DC /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE491A2B551972005075DC /* InfoPlist.xcstrings */; };
 		E8BE491D2B551980005075DC /* Widget.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE491C2B551980005075DC /* Widget.xcstrings */; };
+		E8E0FCB02EFFE47B00C7E1C9 /* Recommendations.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8E0FCAF2EFFE47B00C7E1C9 /* Recommendations.xcstrings */; };
+		E8E0FCB12EFFE47B00C7E1C9 /* AddBlock.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8E0FCAD2EFFE47B00C7E1C9 /* AddBlock.xcstrings */; };
+		E8E0FCB22EFFE47B00C7E1C9 /* AddGoal.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8E0FCAE2EFFE47B00C7E1C9 /* AddGoal.xcstrings */; };
+		E8E0FCB52EFFE5B500C7E1C9 /* Dashboard.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8E0FCB32EFFE5B500C7E1C9 /* Dashboard.xcstrings */; };
+		E8E0FCB62EFFE5B500C7E1C9 /* Setup.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8E0FCB42EFFE5B500C7E1C9 /* Setup.xcstrings */; };
 		E8EABF842C91A5D700D8E21E /* Icons.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8EABF832C91A5D700D8E21E /* Icons.xcstrings */; };
 /* End PBXBuildFile section */
 
@@ -67,7 +71,6 @@
 		E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = WidgetSetup.xcstrings; sourceTree = "<group>"; };
 		E8BE48EA2B551871005075DC /* Details.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Details.xcstrings; sourceTree = "<group>"; };
 		E8BE48EB2B551871005075DC /* Preferences.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Preferences.xcstrings; sourceTree = "<group>"; };
-		E8BE48EC2B551871005075DC /* AddMetrics.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = AddMetrics.xcstrings; sourceTree = "<group>"; };
 		E8BE48ED2B551871005075DC /* Home.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Home.xcstrings; sourceTree = "<group>"; };
 		E8BE48EF2B551871005075DC /* Resolutions.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Resolutions.xcstrings; sourceTree = "<group>"; };
 		E8BE48F02B551871005075DC /* ConfigureGoal.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = ConfigureGoal.xcstrings; sourceTree = "<group>"; };
@@ -84,6 +87,11 @@
 		E8BE48FC2B551871005075DC /* General.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = General.xcstrings; sourceTree = "<group>"; };
 		E8BE491A2B551972005075DC /* InfoPlist.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 		E8BE491C2B551980005075DC /* Widget.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Widget.xcstrings; sourceTree = "<group>"; };
+		E8E0FCAD2EFFE47B00C7E1C9 /* AddBlock.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = AddBlock.xcstrings; sourceTree = "<group>"; };
+		E8E0FCAE2EFFE47B00C7E1C9 /* AddGoal.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = AddGoal.xcstrings; sourceTree = "<group>"; };
+		E8E0FCAF2EFFE47B00C7E1C9 /* Recommendations.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Recommendations.xcstrings; sourceTree = "<group>"; };
+		E8E0FCB32EFFE5B500C7E1C9 /* Dashboard.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Dashboard.xcstrings; sourceTree = "<group>"; };
+		E8E0FCB42EFFE5B500C7E1C9 /* Setup.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Setup.xcstrings; sourceTree = "<group>"; };
 		E8EABF832C91A5D700D8E21E /* Icons.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Icons.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -139,15 +147,16 @@
 				E8BE48E72B551871005075DC /* AddEntry.xcstrings */,
 				E8BE48E12B551871005075DC /* AddNewHealthKitPermissions.xcstrings */,
 				E8BE48E42B551871005075DC /* Backups.xcstrings */,
-				E8BE48E62B551871005075DC /* Onboarding.xcstrings */,
-				E8BE48EC2B551871005075DC /* AddMetrics.xcstrings */,
+				E8E0FCB32EFFE5B500C7E1C9 /* Dashboard.xcstrings */,
 				E8BE48EA2B551871005075DC /* Details.xcstrings */,
 				E81EA89F2C9D802B003A4023 /* Feedback.xcstrings */,
 				E8BE48E22B551871005075DC /* HealthKitUnavailable.xcstrings */,
 				E8BE48ED2B551871005075DC /* Home.xcstrings */,
 				E8BE48E52B551871005075DC /* Notifications.xcstrings */,
+				E8BE48E62B551871005075DC /* Onboarding.xcstrings */,
 				E8BE48EB2B551871005075DC /* Preferences.xcstrings */,
 				E8BE48E82B551871005075DC /* Recaps.xcstrings */,
+				E8E0FCB42EFFE5B500C7E1C9 /* Setup.xcstrings */,
 				E81EA8A02C9D802B003A4023 /* Sync.xcstrings */,
 				E8BE48E32B551871005075DC /* Ultra.xcstrings */,
 				E88B42BE2C36739600A65CAC /* WatchSetup.xcstrings */,
@@ -161,10 +170,13 @@
 		E8BE48EE2B551871005075DC /* Blocks */ = {
 			isa = PBXGroup;
 			children = (
+				E8E0FCAD2EFFE47B00C7E1C9 /* AddBlock.xcstrings */,
+				E8E0FCAE2EFFE47B00C7E1C9 /* AddGoal.xcstrings */,
 				E8BE48F32B551871005075DC /* Blocks.xcstrings */,
 				E8BE48F42B551871005075DC /* Goals.xcstrings */,
 				E8BE48F52B551871005075DC /* GoalTitles.xcstrings */,
 				E8BE48F02B551871005075DC /* ConfigureGoal.xcstrings */,
+				E8E0FCAF2EFFE47B00C7E1C9 /* Recommendations.xcstrings */,
 				E8BE48EF2B551871005075DC /* Resolutions.xcstrings */,
 				E8BE48F22B551871005075DC /* Benchmark.xcstrings */,
 				E8BE48F12B551871005075DC /* Trends.xcstrings */,
@@ -260,9 +272,11 @@
 			files = (
 				E8BE48FF2B551871005075DC /* AddNewHealthKitPermissions.xcstrings in Resources */,
 				E8BE49052B551871005075DC /* AddEntry.xcstrings in Resources */,
+				E8E0FCB02EFFE47B00C7E1C9 /* Recommendations.xcstrings in Resources */,
+				E8E0FCB12EFFE47B00C7E1C9 /* AddBlock.xcstrings in Resources */,
+				E8E0FCB22EFFE47B00C7E1C9 /* AddGoal.xcstrings in Resources */,
 				E8BE49112B551871005075DC /* Goals.xcstrings in Resources */,
 				E8BE48FE2B551871005075DC /* Metadata.xcstrings in Resources */,
-				E8BE490A2B551871005075DC /* AddMetrics.xcstrings in Resources */,
 				E8BE49042B551871005075DC /* Onboarding.xcstrings in Resources */,
 				E8BE490B2B551871005075DC /* Home.xcstrings in Resources */,
 				E8BE490D2B551871005075DC /* ConfigureGoal.xcstrings in Resources */,
@@ -274,6 +288,8 @@
 				E8BE49132B551871005075DC /* Stats.xcstrings in Resources */,
 				E8BE49092B551871005075DC /* Preferences.xcstrings in Resources */,
 				E8BE49032B551871005075DC /* Notifications.xcstrings in Resources */,
+				E8E0FCB52EFFE5B500C7E1C9 /* Dashboard.xcstrings in Resources */,
+				E8E0FCB62EFFE5B500C7E1C9 /* Setup.xcstrings in Resources */,
 				E8EABF842C91A5D700D8E21E /* Icons.xcstrings in Resources */,
 				E8B3C1502B552E2800030D64 /* Formatting.xcstrings in Resources */,
 				E8BE49012B551871005075DC /* Ultra.xcstrings in Resources */,

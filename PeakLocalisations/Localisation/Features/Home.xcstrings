@@ -1,48 +1,19 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "AddMetrics" : {
+    "Dashboard" : {
       "extractionState" : "manual",
       "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Füge eine Kennzahl hinzu um loszulegen"
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add Some Metrics to Get Started"
+            "value" : "Dashboard"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregue Algunas Métricas para Comenzar"
-          }
-        }
-      }
-    },
-    "AddMetrics.onPhone" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Füge eine Kennzahl auf deinem iPhone hinzu um loszulegen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Add Some Metrics on Your Phone to Get Started"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Agregue Algunas Métricas en su Teléfono para Comenzar"
+            "value" : "Panel"
           }
         }
       }
@@ -66,6 +37,63 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Arrastre para Reordenar"
+          }
+        }
+      }
+    },
+    "EmptyState.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add some blocks to get started"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregue unos bloques para comenzar"
+          }
+        }
+      }
+    },
+    "EmptyState.Body.Watch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add some blocks on your phone to get started"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregue unos bloques en su teléfono para comenzar"
+          }
+        }
+      }
+    },
+    "EmptyState.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hier gibt es (noch) nichts zu sehen…"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing To See Here… Yet"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay nada que ver aquí… todavía"
           }
         }
       }

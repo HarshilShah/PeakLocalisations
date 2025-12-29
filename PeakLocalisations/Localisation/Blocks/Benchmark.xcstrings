@@ -115,6 +115,23 @@
           }
         }
       }
+    },
+    "Title.Plural" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benchmarks"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Referencias"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

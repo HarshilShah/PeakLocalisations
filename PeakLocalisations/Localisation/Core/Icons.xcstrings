@@ -24,6 +24,23 @@
         }
       }
     },
+    "Icon.Arrows" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrows"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flechas"
+          }
+        }
+      }
+    },
     "Icon.Day" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -112,6 +129,40 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Predeterminado (alt.)"
+          }
+        }
+      }
+    },
+    "Icon.Glass" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glass"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vidrio"
+          }
+        }
+      }
+    },
+    "Icon.Hearts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hearts"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corazones"
           }
         }
       }

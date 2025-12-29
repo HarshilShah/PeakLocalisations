@@ -24,6 +24,47 @@
         }
       }
     },
+    "Last N Days" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Last %lld day"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Last %lld days"
+                }
+              }
+            }
+          }
+        },
+        "es" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Último día"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Últimos %lld días"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Period" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -768,6 +809,59 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cada Año"
+          }
+        }
+      }
+    },
+    "Window" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Window"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plazo"
+          }
+        }
+      }
+    },
+    "Window.Calendar" : {
+      "comment" : "This is a setting used to make a graph show data based on the calendar, so a monthly chart would show data for say August",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calendar"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calendario"
+          }
+        }
+      }
+    },
+    "Window.Rolling" : {
+      "comment" : "This is a setting used to make a graph show data based on rolling time periods, so a monthly chart would show data for the past 30 days",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rolling"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Variable"
           }
         }
       }

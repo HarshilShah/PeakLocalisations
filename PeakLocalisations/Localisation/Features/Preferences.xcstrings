@@ -170,19 +170,19 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Block Größe"
+            "value" : "Größe"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Block Size"
+            "value" : "Size"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tamaño de bloque"
+            "value" : "Tamaño"
           }
         }
       }
