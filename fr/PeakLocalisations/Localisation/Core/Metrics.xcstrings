@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Actieve energie"
+            "state" : "new",
+            "value" : "Active Energy"
           }
         },
         "zh-Hans" : {
@@ -149,8 +149,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ringen"
+            "state" : "new",
+            "value" : "Rings"
           }
         },
         "zh-Hans" : {
@@ -202,8 +202,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beweging"
+            "state" : "new",
+            "value" : "Exercise"
           }
         },
         "zh-Hans" : {
@@ -361,8 +361,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bloedzuurstof"
+            "state" : "new",
+            "value" : "Blood Oxygen"
           }
         },
         "zh-Hans" : {
@@ -414,8 +414,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lichaamsvetpercentage"
+            "state" : "new",
+            "value" : "Body Fat Percentage"
           }
         },
         "zh-Hans" : {
@@ -468,8 +468,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lichaamsvet %"
+            "state" : "new",
+            "value" : "Body Fat %"
           }
         },
         "zh-Hans" : {
@@ -521,7 +521,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Body Mass Index"
           }
         },
@@ -575,7 +575,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "BMI"
           }
         },
@@ -734,8 +734,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fietsafstand"
+            "state" : "new",
+            "value" : "Cycling Distance"
           }
         },
         "zh-Hans" : {
@@ -787,8 +787,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Afstand"
+            "state" : "new",
+            "value" : "Distance"
           }
         },
         "zh-Hans" : {
@@ -840,8 +840,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Minuten oefening"
+            "state" : "new",
+            "value" : "Exercise Minutes"
           }
         },
         "zh-Hans" : {
@@ -946,8 +946,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hartslag"
+            "state" : "new",
+            "value" : "Heart Rate"
           }
         },
         "zh-Hans" : {
@@ -1105,8 +1105,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hoogte"
+            "state" : "new",
+            "value" : "Height"
           }
         },
         "zh-Hans" : {
@@ -1158,8 +1158,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wordt gebruikt om je BMI te berekenen"
+            "state" : "new",
+            "value" : "Used to calculate your BMI"
           }
         },
         "zh-Hans" : {
@@ -1264,8 +1264,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Metrisch"
+            "state" : "new",
+            "value" : "Metric"
           }
         },
         "zh-Hans" : {
@@ -1901,8 +1901,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Slaap"
+            "state" : "new",
+            "value" : "Sleep"
           }
         },
         "zh-Hans" : {
@@ -1954,8 +1954,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "In slaap"
+            "state" : "new",
+            "value" : "Asleep"
           }
         },
         "zh-Hans" : {
@@ -2007,8 +2007,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wakker"
+            "state" : "new",
+            "value" : "Awake"
           }
         },
         "zh-Hans" : {
@@ -2113,8 +2113,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Diep"
+            "state" : "new",
+            "value" : "Deep"
           }
         },
         "zh-Hans" : {
@@ -2166,8 +2166,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "In bed"
+            "state" : "new",
+            "value" : "In Bed"
           }
         },
         "zh-Hans" : {
@@ -2219,7 +2219,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "REM"
           }
         },
@@ -2325,8 +2325,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stappen"
+            "state" : "new",
+            "value" : "Steps"
           }
         },
         "zh-Hans" : {
@@ -2378,8 +2378,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zwemafstand"
+            "state" : "new",
+            "value" : "Swimming Distance"
           }
         },
         "zh-Hans" : {
@@ -2432,8 +2432,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zwemafstand"
+            "state" : "new",
+            "value" : "Swim Distance"
           }
         },
         "zh-Hans" : {
@@ -2644,8 +2644,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gewicht"
+            "state" : "new",
+            "value" : "Weight"
           }
         },
         "zh-Hans" : {
@@ -2697,8 +2697,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rolstoelafstand"
+            "state" : "new",
+            "value" : "Wheelchair Distance"
           }
         },
         "zh-Hans" : {
@@ -2857,8 +2857,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Work-outs"
+            "state" : "new",
+            "value" : "Workouts"
           }
         },
         "zh-Hans" : {
