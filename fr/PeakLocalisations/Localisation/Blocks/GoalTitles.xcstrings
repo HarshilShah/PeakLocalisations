@@ -43,8 +43,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ Doel"
+            "state" : "new",
+            "value" : "%@ Goal"
           }
         },
         "zh-Hans" : {
@@ -96,8 +96,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Doel van vandaag"
+            "state" : "new",
+            "value" : "Today’s Goal"
           }
         },
         "zh-Hans" : {
@@ -149,8 +149,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dagelijks doel"
+            "state" : "new",
+            "value" : "Daily Goal"
           }
         },
         "zh-Hans" : {
@@ -256,8 +256,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ op %@"
+            "state" : "new",
+            "value" : "%@ on %@"
           }
         },
         "zh-Hans" : {
@@ -309,8 +309,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Doel van deze week"
+            "state" : "new",
+            "value" : "This Week’s Goal"
           }
         },
         "zh-Hans" : {
@@ -362,8 +362,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weekdoel"
+            "state" : "new",
+            "value" : "Weekly Goal"
           }
         },
         "zh-Hans" : {
