@@ -148,8 +148,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verberg statistieken"
+            "state" : "new",
+            "value" : "Hide Stats"
           }
         },
         "zh-Hans" : {
@@ -201,8 +201,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toon statistieken"
+            "state" : "new",
+            "value" : "Show Stats"
           }
         },
         "zh-Hans" : {
