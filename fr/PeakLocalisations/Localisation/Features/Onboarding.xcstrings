@@ -201,8 +201,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Je gezondheidsgegevens zijn uiterst gevoelig, dus de Peak verzamelt geen gebruikersgegevens."
+            "state" : "new",
+            "value" : "Your health data is extremely sensitive, so Peak doesn’t collect any user data."
           }
         },
         "zh-Hans" : {
@@ -466,8 +466,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Welkom bij"
+            "state" : "new",
+            "value" : "Welcome to"
           }
         },
         "zh-Hans" : {
@@ -572,8 +572,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Houd altijd een oogje op je vooruitgang."
+            "state" : "new",
+            "value" : "Always keep an eye on your progress."
           }
         },
         "zh-Hans" : {
