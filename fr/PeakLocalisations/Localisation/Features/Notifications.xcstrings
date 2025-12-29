@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schakel meldingen in in Instellingen om updates te ontvangen."
+            "state" : "new",
+            "value" : "Please enable notifications in Settings to receive updates."
           }
         },
         "zh-Hans" : {
@@ -95,8 +95,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toestemmingen voor meldingen geweigerd"
+            "state" : "new",
+            "value" : "Notifications Permissions Denied"
           }
         },
         "zh-Hans" : {
@@ -148,8 +148,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hier is (nog) niets te zien"
+            "state" : "new",
+            "value" : "Nothing to see here… yet"
           }
         },
         "zh-Hans" : {
@@ -201,8 +201,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Meldingen van uw doelen zullen hier verschijnen."
+            "state" : "new",
+            "value" : "Notifications from your goals will show up here."
           }
         },
         "zh-Hans" : {
@@ -254,8 +254,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Meldingen"
+            "state" : "new",
+            "value" : "Notifications"
           }
         },
         "zh-Hans" : {
@@ -307,8 +307,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gelezen"
+            "state" : "new",
+            "value" : "Read"
           }
         },
         "zh-Hans" : {
@@ -360,8 +360,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ongelezen"
+            "state" : "new",
+            "value" : "Unread"
           }
         },
         "zh-Hans" : {
@@ -482,14 +482,14 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld ongelezen melding"
+                  "state" : "new",
+                  "value" : "%lld unread notification"
                 }
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld ongelezen meldingen"
+                  "state" : "new",
+                  "value" : "%lld unread notifications"
                 }
               }
             }
