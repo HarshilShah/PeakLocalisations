@@ -73,6 +73,12 @@
     "Kind" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zieltyp"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

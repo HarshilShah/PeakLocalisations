@@ -4,10 +4,16 @@
     "Import.SuccessMessage" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ihre aktuelle Aktivität ist bereit. Wir laden ältere Verläufe weiterhin im Hintergrund."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Your recent activity is ready. We’ll keep loading older history in the background."
+            "value" : "Your recent activity is ready. We'll keep loading older history in the background."
           }
         },
         "es" : {
@@ -21,6 +27,12 @@
     "Import.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ihr Dashboard Wird Vorbereitet"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -38,6 +50,12 @@
     "Restore.GetStarted" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loslegen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
