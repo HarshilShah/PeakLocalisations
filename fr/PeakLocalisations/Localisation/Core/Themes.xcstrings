@@ -42,7 +42,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Beige"
           }
         },
@@ -572,8 +572,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Blauw"
+            "state" : "new",
+            "value" : "Blue"
           }
         },
         "zh-Hans" : {
@@ -625,8 +625,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Donker"
+            "state" : "new",
+            "value" : "Dark"
           }
         },
         "zh-Hans" : {
@@ -678,8 +678,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gedimd"
+            "state" : "new",
+            "value" : "Dimmed"
           }
         },
         "zh-Hans" : {
@@ -731,8 +731,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Banaan"
+            "state" : "new",
+            "value" : "Banana"
           }
         },
         "zh-Hans" : {
@@ -784,8 +784,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bosbes"
+            "state" : "new",
+            "value" : "Blueberry"
           }
         },
         "zh-Hans" : {
@@ -837,7 +837,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Dragonfruit"
           }
         },
@@ -890,8 +890,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Druif"
+            "state" : "new",
+            "value" : "Grape"
           }
         },
         "zh-Hans" : {
@@ -943,8 +943,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Limoen"
+            "state" : "new",
+            "value" : "Lime"
           }
         },
         "zh-Hans" : {
@@ -996,7 +996,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Mango"
           }
         },
@@ -1049,8 +1049,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sinaasappel"
+            "state" : "new",
+            "value" : "Orange"
           }
         },
         "zh-Hans" : {
@@ -1102,8 +1102,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Perzik"
+            "state" : "new",
+            "value" : "Peach"
           }
         },
         "zh-Hans" : {
@@ -1155,8 +1155,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aardbei"
+            "state" : "new",
+            "value" : "Strawberry"
           }
         },
         "zh-Hans" : {
@@ -1208,8 +1208,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Groen"
+            "state" : "new",
+            "value" : "Green"
           }
         },
         "zh-Hans" : {
@@ -1261,7 +1261,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%@/%@"
           }
         },
@@ -1314,7 +1314,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Indigo"
           }
         },
@@ -1420,8 +1420,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lavendel"
+            "state" : "new",
+            "value" : "Lavender"
           }
         },
         "zh-Hans" : {
@@ -1473,8 +1473,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Licht"
+            "state" : "new",
+            "value" : "Light"
           }
         },
         "zh-Hans" : {
@@ -1580,8 +1580,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Donker"
+            "state" : "new",
+            "value" : "Dark"
           }
         },
         "zh-Hans" : {
@@ -1633,8 +1633,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gedimd"
+            "state" : "new",
+            "value" : "Dimmed"
           }
         },
         "zh-Hans" : {
@@ -1686,8 +1686,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fruitig"
+            "state" : "new",
+            "value" : "Fruity"
           }
         },
         "zh-Hans" : {
@@ -1792,8 +1792,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Natuur"
+            "state" : "new",
+            "value" : "Nature"
           }
         },
         "zh-Hans" : {
@@ -1845,8 +1845,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pastelkrijtjes"
+            "state" : "new",
+            "value" : "Pastels"
           }
         },
         "zh-Hans" : {
@@ -1898,8 +1898,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Standaard"
+            "state" : "new",
+            "value" : "Standard"
           }
         },
         "zh-Hans" : {
@@ -2004,8 +2004,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Levendig"
+            "state" : "new",
+            "value" : "Vivid"
           }
         },
         "zh-Hans" : {
@@ -2057,8 +2057,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Koraal"
+            "state" : "new",
+            "value" : "Coral"
           }
         },
         "zh-Hans" : {
@@ -2110,8 +2110,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Woestijn"
+            "state" : "new",
+            "value" : "Desert"
           }
         },
         "zh-Hans" : {
@@ -2163,8 +2163,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bos"
+            "state" : "new",
+            "value" : "Forest"
           }
         },
         "zh-Hans" : {
@@ -2216,8 +2216,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weide"
+            "state" : "new",
+            "value" : "Meadow"
           }
         },
         "zh-Hans" : {
@@ -2269,8 +2269,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oceaan"
+            "state" : "new",
+            "value" : "Ocean"
           }
         },
         "zh-Hans" : {
@@ -2322,8 +2322,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zee"
+            "state" : "new",
+            "value" : "Sea"
           }
         },
         "zh-Hans" : {
@@ -2375,8 +2375,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toendra"
+            "state" : "new",
+            "value" : "Tundra"
           }
         },
         "zh-Hans" : {
@@ -2481,8 +2481,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oranje"
+            "state" : "new",
+            "value" : "Orange"
           }
         },
         "zh-Hans" : {
@@ -2534,7 +2534,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pastel"
           }
         },
@@ -2587,8 +2587,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Roze"
+            "state" : "new",
+            "value" : "Pink"
           }
         },
         "zh-Hans" : {
@@ -2640,8 +2640,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Paars"
+            "state" : "new",
+            "value" : "Purple"
           }
         },
         "zh-Hans" : {
@@ -2693,8 +2693,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rood"
+            "state" : "new",
+            "value" : "Red"
           }
         },
         "zh-Hans" : {
@@ -2746,8 +2746,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Leisteen"
+            "state" : "new",
+            "value" : "Slate"
           }
         },
         "zh-Hans" : {
@@ -2799,8 +2799,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mandarijn"
+            "state" : "new",
+            "value" : "Tangerine"
           }
         },
         "zh-Hans" : {
@@ -2905,7 +2905,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Turquoise"
           }
         },
@@ -2958,8 +2958,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geel"
+            "state" : "new",
+            "value" : "Yellow"
           }
         },
         "zh-Hans" : {
