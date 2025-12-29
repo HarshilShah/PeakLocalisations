@@ -201,8 +201,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uw invoer kon niet worden opgeslagen"
+            "state" : "new",
+            "value" : "Failed to save your entry"
           }
         },
         "zh-Hans" : {
@@ -519,8 +519,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opslaan"
+            "state" : "new",
+            "value" : "Save"
           }
         },
         "zh-Hans" : {
@@ -572,8 +572,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Opgeslagen!"
+            "state" : "new",
+            "value" : "Saved!"
           }
         },
         "zh-Hans" : {
@@ -625,8 +625,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tijd"
+            "state" : "new",
+            "value" : "Time"
           }
         },
         "zh-Hans" : {
