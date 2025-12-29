@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Datum"
+            "state" : "new",
+            "value" : "Date"
           }
         },
         "zh-Hans" : {
@@ -232,8 +232,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Periode"
+            "state" : "new",
+            "value" : "Period"
           }
         },
         "zh-Hans" : {
@@ -285,8 +285,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selecteer een periode"
+            "state" : "new",
+            "value" : "Select a Period"
           }
         },
         "zh-Hans" : {
@@ -338,8 +338,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dag"
+            "state" : "new",
+            "value" : "Day"
           }
         },
         "zh-Hans" : {
@@ -460,14 +460,14 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "Gisteren"
+                  "state" : "new",
+                  "value" : "Yesterday"
                 }
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld dagen geleden"
+                  "state" : "new",
+                  "value" : "%lld days ago"
                 }
               }
             }
@@ -597,14 +597,14 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "In %lld dag"
+                  "state" : "new",
+                  "value" : "In %lld day"
                 }
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "In %lld dagen"
+                  "state" : "new",
+                  "value" : "In %lld days"
                 }
               }
             }
@@ -665,8 +665,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aantal dagen"
+            "state" : "new",
+            "value" : "Number of Days"
           }
         },
         "zh-Hans" : {
@@ -718,8 +718,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vandaag"
+            "state" : "new",
+            "value" : "Today"
           }
         },
         "zh-Hans" : {
@@ -771,8 +771,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gisteren"
+            "state" : "new",
+            "value" : "Yesterday"
           }
         },
         "zh-Hans" : {
@@ -824,8 +824,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elke dag"
+            "state" : "new",
+            "value" : "Every Day"
           }
         },
         "zh-Hans" : {
@@ -877,8 +877,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maand"
+            "state" : "new",
+            "value" : "Month"
           }
         },
         "zh-Hans" : {
@@ -999,14 +999,14 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "In %lld maand"
+                  "state" : "new",
+                  "value" : "In %lld month"
                 }
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "In %lld maanden"
+                  "state" : "new",
+                  "value" : "In %lld months"
                 }
               }
             }
@@ -1067,8 +1067,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aantal maanden"
+            "state" : "new",
+            "value" : "Number of Months"
           }
         },
         "zh-Hans" : {
@@ -1120,8 +1120,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deze maand"
+            "state" : "new",
+            "value" : "This Month"
           }
         },
         "zh-Hans" : {
@@ -1173,8 +1173,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vorige maand"
+            "state" : "new",
+            "value" : "Last Month"
           }
         },
         "zh-Hans" : {
@@ -1226,8 +1226,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elke maand"
+            "state" : "new",
+            "value" : "Every Month"
           }
         },
         "zh-Hans" : {
@@ -1279,7 +1279,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Week"
           }
         },
@@ -1401,14 +1401,14 @@
             "plural" : {
               "one" : {
                 "stringUnit" : {
-                  "state" : "translated",
+                  "state" : "new",
                   "value" : "In %lld week"
                 }
               },
               "other" : {
                 "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "In %lld weken"
+                  "state" : "new",
+                  "value" : "In %lld weeks"
                 }
               }
             }
@@ -1469,8 +1469,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aantal weken"
+            "state" : "new",
+            "value" : "Number of Weeks"
           }
         },
         "zh-Hans" : {
@@ -1522,8 +1522,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Deze week"
+            "state" : "new",
+            "value" : "This Week"
           }
         },
         "zh-Hans" : {
@@ -1575,8 +1575,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vorige week"
+            "state" : "new",
+            "value" : "Last Week"
           }
         },
         "zh-Hans" : {
@@ -1628,8 +1628,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elke week"
+            "state" : "new",
+            "value" : "Every Week"
           }
         },
         "zh-Hans" : {
@@ -1681,8 +1681,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jaar"
+            "state" : "new",
+            "value" : "Year"
           }
         },
         "zh-Hans" : {
@@ -1734,8 +1734,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aantal jaren"
+            "state" : "new",
+            "value" : "Number of Years"
           }
         },
         "zh-Hans" : {
@@ -1787,8 +1787,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dit jaar"
+            "state" : "new",
+            "value" : "This Year"
           }
         },
         "zh-Hans" : {
@@ -1840,8 +1840,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vorig jaar"
+            "state" : "new",
+            "value" : "Last Year"
           }
         },
         "zh-Hans" : {
@@ -1893,8 +1893,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elk jaar"
+            "state" : "new",
+            "value" : "Every Year"
           }
         },
         "zh-Hans" : {
