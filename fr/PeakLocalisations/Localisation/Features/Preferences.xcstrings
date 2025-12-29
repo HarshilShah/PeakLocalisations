@@ -43,8 +43,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Over"
+            "state" : "new",
+            "value" : "About"
           }
         },
         "zh-Hans" : {
@@ -97,8 +97,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Over Peak"
+            "state" : "new",
+            "value" : "About Peak"
           }
         },
         "zh-Hans" : {
@@ -150,8 +150,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weergave"
+            "state" : "new",
+            "value" : "Appearance"
           }
         },
         "zh-Hans" : {
@@ -203,8 +203,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Donker"
+            "state" : "new",
+            "value" : "Dark"
           }
         },
         "zh-Hans" : {
@@ -256,8 +256,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Licht"
+            "state" : "new",
+            "value" : "Light"
           }
         },
         "zh-Hans" : {
@@ -309,8 +309,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Volg systeem"
+            "state" : "new",
+            "value" : "Match System"
           }
         },
         "zh-Hans" : {
@@ -362,8 +362,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Back-ups"
+            "state" : "new",
+            "value" : "Backups"
           }
         },
         "zh-Hans" : {
@@ -786,8 +786,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Donker thema"
+            "state" : "new",
+            "value" : "Dark Theme"
           }
         },
         "zh-Hans" : {
@@ -840,8 +840,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Weergave"
+            "state" : "new",
+            "value" : "Display"
           }
         },
         "zh-Hans" : {
@@ -893,7 +893,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Kilometers (km)"
           }
         },
@@ -946,8 +946,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mijlen (mi)"
+            "state" : "new",
+            "value" : "Miles (mi)"
           }
         },
         "zh-Hans" : {
@@ -999,7 +999,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Calorie (Cal)"
           }
         },
@@ -1052,7 +1052,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "kilocalorie (kcal)"
           }
         },
@@ -1105,7 +1105,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "kilojoule (kJ)"
           }
         },
@@ -1159,7 +1159,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Feedback"
           }
         },
@@ -1266,8 +1266,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Algemeen"
+            "state" : "new",
+            "value" : "General"
           }
         },
         "zh-Hans" : {
@@ -1372,8 +1372,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Startscherm"
+            "state" : "new",
+            "value" : "Homescreen"
           }
         },
         "zh-Hans" : {
@@ -1425,8 +1425,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Licht thema"
+            "state" : "new",
+            "value" : "Light Theme"
           }
         },
         "zh-Hans" : {
@@ -1478,8 +1478,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vergrendelscherm"
+            "state" : "new",
+            "value" : "Lockscreen"
           }
         },
         "zh-Hans" : {
@@ -1531,8 +1531,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gemaakt in Mumbai, India"
+            "state" : "new",
+            "value" : "Made in Mumbai, India"
           }
         },
         "zh-Hans" : {
@@ -1584,8 +1584,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "App openen"
+            "state" : "new",
+            "value" : "Open App"
           }
         },
         "zh-Hans" : {
@@ -1637,8 +1637,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Instellingen openen"
+            "state" : "new",
+            "value" : "Open Settings"
           }
         },
         "zh-Hans" : {
@@ -1690,8 +1690,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Systeeminstellingen openen"
+            "state" : "new",
+            "value" : "Open System Settings"
           }
         },
         "zh-Hans" : {
@@ -1743,8 +1743,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kies een thema"
+            "state" : "new",
+            "value" : "Pick a Theme"
           }
         },
         "zh-Hans" : {
@@ -1796,8 +1796,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kies een pictogram"
+            "state" : "new",
+            "value" : "Pick an Icon"
           }
         },
         "zh-Hans" : {
@@ -1849,7 +1849,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Privacy"
           }
         },
@@ -1902,8 +1902,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Privacybeleid"
+            "state" : "new",
+            "value" : "Privacy Policy"
           }
         },
         "zh-Hans" : {
@@ -1955,8 +1955,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vernieuwen"
+            "state" : "new",
+            "value" : "Refresh"
           }
         },
         "zh-Hans" : {
@@ -2008,8 +2008,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Beoordeel in de App Store"
+            "state" : "new",
+            "value" : "Review on the App Store"
           }
         },
         "zh-Hans" : {
@@ -2061,8 +2061,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stuur een bericht"
+            "state" : "new",
+            "value" : "Send a Message"
           }
         },
         "zh-Hans" : {
@@ -2114,8 +2114,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stuur een e-mail"
+            "state" : "new",
+            "value" : "Send an Email"
           }
         },
         "zh-Hans" : {
@@ -2168,8 +2168,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Peak delen"
+            "state" : "new",
+            "value" : "Share Peak"
           }
         },
         "zh-Hans" : {
@@ -2221,8 +2221,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Speciale dank aan"
+            "state" : "new",
+            "value" : "Special Thanks To"
           }
         },
         "zh-Hans" : {
@@ -2274,8 +2274,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stand-by"
+            "state" : "new",
+            "value" : "StandBy"
           }
         },
         "zh-Hans" : {
@@ -2327,8 +2327,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voorwaarden"
+            "state" : "new",
+            "value" : "Terms"
           }
         },
         "zh-Hans" : {
@@ -2380,8 +2380,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Algemene gebruikersvoorwaarden"
+            "state" : "new",
+            "value" : "Terms of Service"
           }
         },
         "zh-Hans" : {
@@ -2433,8 +2433,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Thema"
+            "state" : "new",
+            "value" : "Theme"
           }
         },
         "zh-Hans" : {
@@ -2539,8 +2539,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Instellingen"
+            "state" : "new",
+            "value" : "Settings"
           }
         },
         "zh-Hans" : {
@@ -2593,8 +2593,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eenheden"
+            "state" : "new",
+            "value" : "Units"
           }
         },
         "zh-Hans" : {
@@ -2699,8 +2699,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "kilogrammen (kg)"
+            "state" : "new",
+            "value" : "kilograms (kg)"
           }
         },
         "zh-Hans" : {
@@ -2752,8 +2752,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "ponden (lb)"
+            "state" : "new",
+            "value" : "pounds (lb)"
           }
         },
         "zh-Hans" : {
@@ -2858,8 +2858,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Widget Interacties"
+            "state" : "new",
+            "value" : "Widget Interactions"
           }
         },
         "zh-Hans" : {
