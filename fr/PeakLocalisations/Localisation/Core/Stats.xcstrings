@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Actieve energie"
+            "state" : "new",
+            "value" : "Active Energy"
           }
         },
         "zh-Hans" : {
@@ -96,8 +96,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alle"
+            "state" : "new",
+            "value" : "All"
           }
         },
         "zh-Hans" : {
@@ -149,8 +149,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gemiddeld"
+            "state" : "new",
+            "value" : "Average"
           }
         },
         "zh-Hans" : {
@@ -202,8 +202,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Duur"
+            "state" : "new",
+            "value" : "Duration"
           }
         },
         "zh-Hans" : {
@@ -256,8 +256,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verstreken tijd"
+            "state" : "new",
+            "value" : "Elapsed Time"
           }
         },
         "zh-Hans" : {
@@ -362,7 +362,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Maximum"
           }
         },
@@ -415,7 +415,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Minimum"
           }
         },
@@ -468,8 +468,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aantal dagen"
+            "state" : "new",
+            "value" : "Number of Days"
           }
         },
         "zh-Hans" : {
@@ -521,8 +521,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aantal work-outs"
+            "state" : "new",
+            "value" : "Number of Workouts"
           }
         },
         "zh-Hans" : {
@@ -575,8 +575,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tempo"
+            "state" : "new",
+            "value" : "Pace"
           }
         },
         "zh-Hans" : {
@@ -629,7 +629,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "%1$@/%2$@"
           }
         },
@@ -683,7 +683,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "/%@"
           }
         },
@@ -737,8 +737,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ van %2$@"
+            "state" : "new",
+            "value" : "%1$@ out of %2$@"
           }
         },
         "zh-Hans" : {
@@ -791,7 +791,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "/%@"
           }
         },
@@ -950,8 +950,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Snelheid"
+            "state" : "new",
+            "value" : "Speed"
           }
         },
         "zh-Hans" : {
@@ -1003,8 +1003,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Statistieken"
+            "state" : "new",
+            "value" : "Stats"
           }
         },
         "zh-Hans" : {
@@ -1056,8 +1056,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Totaal"
+            "state" : "new",
+            "value" : "Total"
           }
         },
         "zh-Hans" : {
@@ -1109,8 +1109,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Totale energie"
+            "state" : "new",
+            "value" : "Total Energy"
           }
         },
         "zh-Hans" : {
@@ -1268,8 +1268,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trainingstype"
+            "state" : "new",
+            "value" : "Workout Type"
           }
         },
         "zh-Hans" : {
@@ -1321,8 +1321,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Trainingstypen"
+            "state" : "new",
+            "value" : "Workout Types"
           }
         },
         "zh-Hans" : {
@@ -1374,8 +1374,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alle Work-outs"
+            "state" : "new",
+            "value" : "All Workouts"
           }
         },
         "zh-Hans" : {
@@ -1533,8 +1533,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niets te zien hier"
+            "state" : "new",
+            "value" : "Nothing to see here"
           }
         },
         "zh-Hans" : {
@@ -1586,8 +1586,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Toon alle"
+            "state" : "new",
+            "value" : "Show All"
           }
         },
         "zh-Hans" : {
