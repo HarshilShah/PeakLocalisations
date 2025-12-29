@@ -42,8 +42,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Startpagina Widgets toevoegen"
+            "state" : "new",
+            "value" : "Adding Home Screen Widgets"
           }
         },
         "zh-Hans" : {
