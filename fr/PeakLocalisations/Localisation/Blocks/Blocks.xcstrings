@@ -254,8 +254,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grafiek"
+            "state" : "new",
+            "value" : "Chart"
           }
         },
         "zh-Hans" : {
@@ -307,8 +307,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uw statistieken visualiseren."
+            "state" : "new",
+            "value" : "Visualise your stats."
           }
         },
         "zh-Hans" : {
@@ -413,8 +413,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Overzicht"
+            "state" : "new",
+            "value" : "Overview"
           }
         },
         "zh-Hans" : {
@@ -466,8 +466,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Krijg een overzicht van je statistieken."
+            "state" : "new",
+            "value" : "Get an overview of your stats."
           }
         },
         "zh-Hans" : {
@@ -572,8 +572,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recent"
+            "state" : "new",
+            "value" : "Recents"
           }
         },
         "zh-Hans" : {
@@ -625,8 +625,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bekijk je recente statistieken."
+            "state" : "new",
+            "value" : "View your recent stats."
           }
         },
         "zh-Hans" : {
@@ -642,8 +642,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Heute"
+            "state" : "new",
+            "value" : "Today"
           }
         },
         "en" : {
@@ -784,8 +784,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Totalen"
+            "state" : "new",
+            "value" : "Totals"
           }
         },
         "zh-Hans" : {
@@ -837,8 +837,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Totalen toevoegen"
+            "state" : "new",
+            "value" : "Add Totals"
           }
         },
         "zh-Hans" : {
@@ -890,8 +890,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bekijk uw totale voortgang van de/het afgelopen week, maand en jaar."
+            "state" : "new",
+            "value" : "See your total progress over the past week, month, and year."
           }
         },
         "zh-Hans" : {
@@ -943,7 +943,7 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "Pin"
           }
         },
@@ -996,8 +996,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Losmaken"
+            "state" : "new",
+            "value" : "Unpin"
           }
         },
         "zh-Hans" : {
