@@ -6,7 +6,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
+            "state" : "new",
             "value" : "&"
           }
         },
@@ -18,8 +18,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "y"
+            "state" : "new",
+            "value" : "&"
           }
         },
         "fr" : {
@@ -95,8 +95,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uw persoonlijke Fitness Dashboard"
+            "state" : "new",
+            "value" : "Your Personal Fitness Dashboard"
           }
         },
         "zh-Hans" : {
@@ -113,8 +113,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Setze neue Benchmarks"
+            "state" : "new",
+            "value" : "Set new Benchmarks"
           }
         },
         "en" : {
@@ -125,8 +125,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Establecer nuevas Referencias"
+            "state" : "new",
+            "value" : "Set new Benchmarks"
           }
         },
         "fr" : {
@@ -166,8 +166,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Visualisiere deinen Fortschritt"
+            "state" : "new",
+            "value" : "Chart your Progress"
           }
         },
         "en" : {
@@ -178,8 +178,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grafica su Progreso"
+            "state" : "new",
+            "value" : "Chart your Progress"
           }
         },
         "fr" : {
@@ -219,8 +219,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erreiche deine Ziele"
+            "state" : "new",
+            "value" : "Reach your Goals"
           }
         },
         "en" : {
@@ -231,8 +231,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alcanza sus Metas"
+            "state" : "new",
+            "value" : "Reach your Goals"
           }
         },
         "fr" : {
@@ -272,8 +272,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erhalte eine Übersicht"
+            "state" : "new",
+            "value" : "Get an Overview"
           }
         },
         "en" : {
@@ -284,8 +284,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Obtenga un Panorama"
+            "state" : "new",
+            "value" : "Get an Overview"
           }
         },
         "fr" : {
@@ -325,8 +325,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gestern zusammengefasst"
+            "state" : "new",
+            "value" : "Recap Yesterday"
           }
         },
         "en" : {
@@ -337,8 +337,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recapitule el Pasado"
+            "state" : "new",
+            "value" : "Recap Yesterday"
           }
         },
         "fr" : {
@@ -378,8 +378,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Das Neueste"
+            "state" : "new",
+            "value" : "Review your Recents"
           }
         },
         "en" : {
@@ -390,8 +390,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Revisa sus Recientes"
+            "state" : "new",
+            "value" : "Review your Recents"
           }
         },
         "fr" : {
@@ -431,8 +431,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wachse Heute"
+            "state" : "new",
+            "value" : "Grow Today"
           }
         },
         "en" : {
@@ -443,8 +443,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Crecer Hoy"
+            "state" : "new",
+            "value" : "Grow Today"
           }
         },
         "fr" : {
@@ -484,8 +484,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zähle deine Summen"
+            "state" : "new",
+            "value" : "Tally your Totals"
           }
         },
         "en" : {
@@ -496,8 +496,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cuente sus Totales"
+            "state" : "new",
+            "value" : "Tally your Totals"
           }
         },
         "fr" : {
@@ -537,8 +537,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verfolge deine Trends"
+            "state" : "new",
+            "value" : "Track your Trends"
           }
         },
         "en" : {
@@ -549,8 +549,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sigue sus Tendencias"
+            "state" : "new",
+            "value" : "Track your Trends"
           }
         },
         "fr" : {
@@ -626,8 +626,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uw gezondheidsgegevens zijn uiterst gevoelig, dus de Peak verzamelt geen gebruikersgegevens of analytics van de gebruiker."
+            "state" : "new",
+            "value" : "Your health data is extremely sensitive, so Peak doesn’t collect any user data or analytics."
           }
         },
         "zh-Hans" : {
@@ -696,8 +696,8 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Über 80 schicke Themes"
+            "state" : "new",
+            "value" : "Over 80 Gorgeous Themes"
           }
         },
         "en" : {
@@ -708,8 +708,8 @@
         },
         "es" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Más de 80 Temas Magníficos"
+            "state" : "new",
+            "value" : "Over 80 Gorgeous Themes"
           }
         },
         "fr" : {
@@ -785,8 +785,8 @@
         },
         "nl" : {
           "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prachtig ontworpen Widgets"
+            "state" : "new",
+            "value" : "Beautifully Designed Widgets"
           }
         },
         "zh-Hans" : {
