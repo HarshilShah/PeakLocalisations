@@ -4,6 +4,12 @@
     "Dashboard" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dashboard"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44,6 +50,12 @@
     "EmptyState.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge Blöcke hinzu, um loszulegen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -61,6 +73,12 @@
     "EmptyState.Body.Watch" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Füge Blöcke auf deinem iPhone hinzu, um loszulegen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

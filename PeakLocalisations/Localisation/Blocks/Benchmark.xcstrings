@@ -119,6 +119,12 @@
     "Title.Plural" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benchmarks"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
