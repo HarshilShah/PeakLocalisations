@@ -4,6 +4,12 @@
     "GoalKind.Sleep8Hours" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "8 Stunden Schlafen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21,10 +27,16 @@
     "GoalKind.StartExercising" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mit dem Training beginnen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Start Workout Out"
+            "value" : "Start Working Out"
           }
         },
         "es" : {
@@ -38,6 +50,12 @@
     "GoalKind.Walk10k" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10.000 Schritte Gehen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -55,6 +73,12 @@
     "GoalKind.Weight" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ab- oder zunehmen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -72,6 +96,12 @@
     "Goals.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziele"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -89,6 +119,12 @@
     "Stats.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zahlen & Statistiken"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -106,6 +142,12 @@
     "StatsKind.DistanceRecents" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelle Schritt-Entfernungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -123,6 +165,12 @@
     "StatsKind.StepsTotals" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schritte in der Woche, im Monat & im Jahr "
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -140,6 +188,12 @@
     "StatsKind.WorkoutOverview" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Übersicht über deine Trainings"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -157,6 +211,12 @@
     "Today.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heute"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -174,6 +234,12 @@
     "VisualizationKind.SleepTrends" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trends in deinem Schlaf"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -191,6 +257,12 @@
     "VisualizationKind.StepsBenchmark" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Setze einen Schritte-Benchmark"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -208,6 +280,12 @@
     "VisualizationKind.WeightChart" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualisiere dein Gewicht"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -225,6 +303,12 @@
     "Visualizations.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualisierungen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

@@ -5,6 +5,12 @@
       "comment" : "Feel free to translate this as “All” if there isn’t a good choice. The idea is this is a tab where you can make a custom widget, rather than choosing from the suggestions",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Individuell"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22,6 +28,12 @@
     "Tab.Suggestions" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorschläge"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

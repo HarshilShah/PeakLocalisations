@@ -327,6 +327,12 @@
       "comment" : "This is used as the title of ellipsis … buttons that show additional options",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehr"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -413,6 +419,12 @@
     "Reorder" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neu Anordnen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

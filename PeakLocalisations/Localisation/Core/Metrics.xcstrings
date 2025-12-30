@@ -743,6 +743,12 @@
     "Section.Wellbeing" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wohlbefinden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

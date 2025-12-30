@@ -4,6 +4,12 @@
     "Dashboard.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetzt mit mehreren Widget-Grössen, Gruppierungsmodi, und Filter-Schnellzugriffen!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -21,6 +27,12 @@
     "Dashboard.Title" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brandneues Dashboard!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -62,6 +74,12 @@
     "LiquidGlass.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak wurde für iOS 26 und Liquid Glass neu gestaltet"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -80,6 +98,12 @@
       "comment" : "This is a play on the phrase “A Fresh Coat of Paint”. If something similar doesn’t exist, feel free to use “Liquid Glass Design” or similar",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frisch poliertes Glas"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -97,6 +121,12 @@
     "Speed.Body" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deine Daten laden jetzt schneller als je zuvor"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -115,6 +145,12 @@
       "comment" : "This is just a phrase about speed. If something similar doesn’t exist, feel free to use “Faster Than Ever Before” or similar",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blitzschnell"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

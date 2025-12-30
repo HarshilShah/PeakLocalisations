@@ -27,6 +27,24 @@
     "Last N Days" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Letzter Tag"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Letzte %lld Tage"
+                }
+              }
+            }
+          }
+        },
         "en" : {
           "variations" : {
             "plural" : {
@@ -816,6 +834,12 @@
     "Window" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeitfenster"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -834,6 +858,12 @@
       "comment" : "This is a setting used to make a graph show data based on the calendar, so a monthly chart would show data for say August",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kalendarisch"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -852,6 +882,12 @@
       "comment" : "This is a setting used to make a graph show data based on rolling time periods, so a monthly chart would show data for the past 30 days",
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rollierend"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
