@@ -49,6 +49,52 @@
         }
       }
     },
+    "About the Developer.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak wird von Harshil Shah in Mumbai, Indien, gestaltet & entwickelt."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak is designed & developed by Harshil Shah, in Mumbai, India."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak está diseñado y desarrollado por Harshil Shah, en Mumbai, India."
+          }
+        }
+      }
+    },
+    "AboutTheDeveloper.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Über den Entwickler"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About the Developer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca del Desarrollador"
+          }
+        }
+      }
+    },
     "Appearance" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -950,25 +996,25 @@
         }
       }
     },
-    "Special Thanks To" : {
+    "Special Thanks" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Besonderen Dank an"
+            "value" : "Besonderen Dank"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Special Thanks To"
+            "value" : "Special Thanks"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agradecimiento especial a"
+            "value" : "Agradecimiento Especial"
           }
         }
       }
@@ -1077,7 +1123,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Third Party Libraries"
+            "value" : "Third-Party Libraries"
           }
         },
         "es" : {
@@ -1154,6 +1200,29 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Versión %@ (Compilación %@)"
+          }
+        }
+      }
+    },
+    "Website" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Webseite"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Website"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitio web"
           }
         }
       }

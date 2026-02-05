@@ -47,6 +47,52 @@
         }
       }
     },
+    "Icons.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jetzt verfügbar in Rot, Orange, Grün, Blau, Violett, Silber und Gold!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Now in red, orange, green, blue, purple, silver, and gold!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Ahora en rojo, naranja, verde, azul, morado, plateado y dorado!"
+          }
+        }
+      }
+    },
+    "Icons.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue App Icons"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New App Icons"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuevos Iconos de la App"
+          }
+        }
+      }
+    },
     "Leave a Review" : {
       "comment" : "Use a shorter version, if available",
       "extractionState" : "manual",
@@ -166,25 +212,117 @@
       }
     },
     "Title" : {
-      "comment" : "This can also be translated as “New in Peak 5”, if that works better",
+      "comment" : "This can also be translated as “New in Peak (versionNumber)”, if that works better",
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neu in Peak 5"
+            "value" : "Neu in Peak %@"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "What’s New in Peak 5"
+            "value" : "What’s New in Peak %@"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuevo en Peak 5"
+            "value" : "Nuevo en Peak %@"
+          }
+        }
+      }
+    },
+    "Totals.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Summen Block zeigt dir deine Gesamt-Statistiken"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The Totals block now shows your All Time stats"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El bloque de Totales ahora muestra sus estadísticas de Todos los Tiempos"
+          }
+        }
+      }
+    },
+    "Totals.Title " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gesamt-Summen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Time Totals"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totales de Todos los Tiempos"
+          }
+        }
+      }
+    },
+    "Trends.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kurzfristige, mittelfristige und langfristige Trends zusammengefasst"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "View short, medium, and long term trends at the same time"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vea tendencias a corto, mediano y largo plazo al mismo tiempo"
+          }
+        }
+      }
+    },
+    "Trends.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehrere Trends"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Multi Trends"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Múltiples Tendencias"
           }
         }
       }
