@@ -1229,6 +1229,12 @@
     "Workout Route" : {
       "extractionState" : "manual",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trainings-Route"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
