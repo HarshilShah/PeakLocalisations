@@ -3,6 +3,7 @@
   "strings" : {
     "ActiveEnergy.Cal.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -26,6 +27,7 @@
     },
     "ActiveEnergy.Joules.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -49,6 +51,7 @@
     },
     "ActiveEnergy.Kcal.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -72,6 +75,7 @@
     },
     "Days %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -158,6 +162,7 @@
     },
     "Days.Attributed %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -244,6 +249,7 @@
     },
     "Days.Unit %lf" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -330,6 +336,7 @@
     },
     "Distance.Kilometers.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -353,6 +360,7 @@
     },
     "Distance.Meters.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -376,6 +384,7 @@
     },
     "Distance.Miles.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -399,6 +408,7 @@
     },
     "Flights %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -485,6 +495,7 @@
     },
     "Flights.Attributed %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -571,6 +582,7 @@
     },
     "Flights.Unit %lf" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -657,6 +669,7 @@
     },
     "HeartRate %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -680,6 +693,7 @@
     },
     "HeartRate.Attributed %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -703,6 +717,7 @@
     },
     "HeartRate.Unit %lf" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -726,6 +741,7 @@
     },
     "Months %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -812,6 +828,7 @@
     },
     "Months.Attributed %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -898,6 +915,7 @@
     },
     "Months.Unit %lf" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -984,6 +1002,7 @@
     },
     "Pace.Kilometers %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1007,6 +1026,7 @@
     },
     "Pace.Kilometers.Attributed %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1030,6 +1050,7 @@
     },
     "Pace.Kilometers.Unit %lf" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1053,6 +1074,7 @@
     },
     "Pace.Miles %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1076,6 +1098,7 @@
     },
     "Pace.Miles.Attributed %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1099,6 +1122,7 @@
     },
     "Pace.Miles.Unit %lf" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1122,6 +1146,7 @@
     },
     "Percentage.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1145,6 +1170,7 @@
     },
     "Pushes %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1231,6 +1257,7 @@
     },
     "Pushes.Attributed %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1317,6 +1344,7 @@
     },
     "Pushes.Unit %lf" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1403,6 +1431,7 @@
     },
     "Rings %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1489,6 +1518,7 @@
     },
     "Rings.Attributed %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1575,6 +1605,7 @@
     },
     "Rings.Unit %lf" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1661,6 +1692,7 @@
     },
     "Speed.Kilometers.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1684,6 +1716,7 @@
     },
     "Speed.Miles.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1707,6 +1740,7 @@
     },
     "Steps %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1793,6 +1827,7 @@
     },
     "Steps.Attributed %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1879,6 +1914,7 @@
     },
     "Steps.Unit %lf" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1965,6 +2001,7 @@
     },
     "Time.Hours.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -1988,6 +2025,7 @@
     },
     "Time.Milliseconds.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2011,6 +2049,7 @@
     },
     "Time.Minutes.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2032,8 +2071,32 @@
         }
       }
     },
+    "Time.Seconds.Unit" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sekunden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "seconds"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "segundos"
+          }
+        }
+      }
+    },
     "vo2Max %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2120,6 +2183,7 @@
     },
     "vo2Max.Attributed %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2206,6 +2270,7 @@
     },
     "vo2Max.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2229,6 +2294,7 @@
     },
     "Weeks %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2315,6 +2381,7 @@
     },
     "Weeks.Attributed %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2401,6 +2468,7 @@
     },
     "Weeks.Unit %lf" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2487,6 +2555,7 @@
     },
     "Weight.Kilograms.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2510,6 +2579,7 @@
     },
     "Weight.Pounds.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2533,6 +2603,7 @@
     },
     "Weight.Stones.Unit" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2556,6 +2627,7 @@
     },
     "Workouts %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2642,6 +2714,7 @@
     },
     "Workouts.Attributed %lf %@" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2728,6 +2801,7 @@
     },
     "Workouts.Unit %lf" : {
       "extractionState" : "manual",
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -2813,5 +2887,5 @@
       }
     }
   },
-  "version" : "1.0"
+  "version" : "1.1"
 }

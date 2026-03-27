@@ -422,6 +422,28 @@
         }
       }
     },
+    "Split" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Split"
+          }
+        }
+      }
+    },
+    "Splits" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Splits"
+          }
+        }
+      }
+    },
     "Stats" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -441,6 +463,17 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estadísticas"
+          }
+        }
+      }
+    },
+    "Time" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Time"
           }
         }
       }

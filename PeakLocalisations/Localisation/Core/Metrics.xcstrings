@@ -1226,6 +1226,17 @@
         }
       }
     },
+    "Workout Route" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Workout Route"
+          }
+        }
+      }
+    },
     "Workouts" : {
       "extractionState" : "manual",
       "localizations" : {
