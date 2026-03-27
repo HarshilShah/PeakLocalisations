@@ -1234,6 +1234,12 @@
             "state" : "translated",
             "value" : "Workout Route"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ruta de Entrenamiento"
+          }
         }
       }
     },
