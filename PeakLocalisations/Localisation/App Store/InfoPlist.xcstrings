@@ -113,6 +113,16 @@
         }
       }
     },
+    "Peak archive" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak Archiv"
+          }
+        }
+      }
+    },
     "Peak backup" : {
       "localizations" : {
         "de" : {

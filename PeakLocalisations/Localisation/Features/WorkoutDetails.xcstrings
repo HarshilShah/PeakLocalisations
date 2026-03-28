@@ -1,332 +1,282 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "Dashboard.Body" : {
+    "Align" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jetzt mit mehreren Widget-Grössen, Gruppierungsmodi, und Filter-Schnellzugriffen!"
+            "value" : "Ausrichten"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Now with multiple widget sizes, grouping modes, and quick filtering!"
+            "value" : "Align"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Ahora con múltiples tamaños de widgets, modos de agrupación y filtrado rápido!"
+            "value" : "Alinear"
           }
         }
       }
     },
-    "Dashboard.Title" : {
+    "Align.Centered" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Brandneues Dashboard!"
+            "value" : "Zentriert"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Brand New Dashboard!"
+            "value" : "Centered"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Panel Completamente Nuevo!"
+            "value" : "Centrado"
           }
         }
       }
     },
-    "Icons.Body" : {
+    "Align.Leading" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jetzt verfügbar in Rot, Orange, Grün, Blau, Violett, Silber und Gold!"
+            "value" : "Linksbündig"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Now in red, orange, green, blue, purple, silver, and gold!"
+            "value" : "Leading"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Ahora en rojo, naranja, verde, azul, morado, plateado y dorado!"
+            "value" : "Inicial"
           }
         }
       }
     },
-    "Icons.Title" : {
+    "Layout.Grid" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neue App Icons"
+            "value" : "Gitter"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New App Icons"
+            "value" : "Grid"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuevos Iconos de la App"
+            "value" : "Cuadrícula"
           }
         }
       }
     },
-    "Leave a Review" : {
-      "comment" : "Use a shorter version, if available",
+    "Layout.Simple" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schreibe eine Rezension"
+            "value" : "Einfach"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Leave a Review"
+            "value" : "Simple"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deja una Reseña"
+            "value" : "Simple"
           }
         }
       }
     },
-    "LiquidGlass.Body" : {
+    "Map" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak wurde für iOS 26 und Liquid Glass neu gestaltet"
+            "value" : "Karte"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak has been redesigned for iOS 26 and Liquid Glass"
+            "value" : "Map"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak ha sido rediseñado para iOS 26 y Liquid Glass"
+            "value" : "Mapa"
           }
         }
       }
     },
-    "LiquidGlass.Title" : {
-      "comment" : "This is a play on the phrase “A Fresh Coat of Paint”. If something similar doesn’t exist, feel free to use “Liquid Glass Design” or similar",
+    "Share" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Frisch poliertes Glas"
+            "value" : "Teilen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A Fresh Coat of Glass"
+            "value" : "Share"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Una Capa Fresca de Cristal"
+            "value" : "Compartir"
           }
         }
       }
     },
-    "Speed.Body" : {
+    "Size" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deine Daten laden jetzt schneller als je zuvor"
+            "value" : "Größe"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Your data now loads faster than ever before"
+            "value" : "Size"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sus datos ahora se cargan más rápido que nunca"
+            "value" : "Tamaño"
           }
         }
       }
     },
-    "Speed.Title" : {
-      "comment" : "This is just a phrase about speed. If something similar doesn’t exist, feel free to use “Faster Than Ever Before” or similar",
+    "Size.Square" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Blitzschnell"
+            "value" : "Quadratisch"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Blink and You’ll Miss It"
+            "value" : "Square"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Parpadea y Te Lo Perderás"
+            "value" : "Cuadrado"
           }
         }
       }
     },
-    "Title" : {
-      "comment" : "This can also be translated as “New in Peak (versionNumber)”, if that works better",
+    "Size.Story" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neu in Peak %@"
+            "value" : "Story"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "What’s New in Peak %@"
+            "value" : "Story"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuevo en Peak %@"
+            "value" : "Historia"
           }
         }
       }
     },
-    "Totals.Body" : {
+    "Split" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Der Summen Block zeigt dir deine Gesamt-Statistiken"
+            "value" : "Split %1$lld von %2$lld"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "The Totals block now shows your All Time stats"
+            "value" : "Split %1$lld of %2$lld"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El bloque de Totales ahora muestra sus estadísticas de Todos los Tiempos"
+            "value" : "Ritmo %1$lld de %2$lld"
           }
         }
       }
     },
-    "Totals.Title" : {
+    "Transparent" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gesamt-Summen"
+            "value" : "Transparent"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "All Time Totals"
+            "value" : "Transparent"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Totales de Todos los Tiempos"
-          }
-        }
-      }
-    },
-    "Trends.Body" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kurzfristige, mittelfristige und langfristige Trends zusammengefasst"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "View short, medium, and long term trends at the same time"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vea tendencias a corto, mediano y largo plazo al mismo tiempo"
-          }
-        }
-      }
-    },
-    "Trends.Title" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mehrere Trends"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Multi Trends"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Múltiples Tendencias"
+            "value" : "Transparente"
           }
         }
       }
     }
   },
-  "version" : "1.0"
+  "version" : "1.2"
 }

@@ -1,332 +1,282 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "Dashboard.Body" : {
+    "Boundaries" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jetzt mit mehreren Widget-Grössen, Gruppierungsmodi, und Filter-Schnellzugriffen!"
+            "value" : "Grenzen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Now with multiple widget sizes, grouping modes, and quick filtering!"
+            "value" : "Boundaries"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Ahora con múltiples tamaños de widgets, modos de agrupación y filtrado rápido!"
+            "value" : "Límites"
           }
         }
       }
     },
-    "Dashboard.Title" : {
+    "Heart Rate Zones" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Brandneues Dashboard!"
+            "value" : "Herzfrequenzbereiche"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Brand New Dashboard!"
+            "value" : "Heart Rate Zones"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Panel Completamente Nuevo!"
+            "value" : "Zonas de Frecuencia Cardíaca"
           }
         }
       }
     },
-    "Icons.Body" : {
+    "Max Heart Rate" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jetzt verfügbar in Rot, Orange, Grün, Blau, Violett, Silber und Gold!"
+            "value" : "Maximale Herzfrequenz"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Now in red, orange, green, blue, purple, silver, and gold!"
+            "value" : "Max Heart Rate"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Ahora en rojo, naranja, verde, azul, morado, plateado y dorado!"
+            "value" : "Frecuencia Cardíaca Máxima"
           }
         }
       }
     },
-    "Icons.Title" : {
+    "Method" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neue App Icons"
+            "value" : "Methode"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New App Icons"
+            "value" : "Method"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuevos Iconos de la App"
+            "value" : "Método"
           }
         }
       }
     },
-    "Leave a Review" : {
-      "comment" : "Use a shorter version, if available",
+    "Method.HeartRateReserve" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schreibe eine Rezension"
+            "value" : "Herzfrequenz-Reserve (HRR)"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Leave a Review"
+            "value" : "Heart Rate Reserve"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deja una Reseña"
+            "value" : "Reserva de Frecuencia Cardíaca"
           }
         }
       }
     },
-    "LiquidGlass.Body" : {
+    "Method.MaxHeartRate" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak wurde für iOS 26 und Liquid Glass neu gestaltet"
+            "value" : "Maximale Herzfrequenz"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak has been redesigned for iOS 26 and Liquid Glass"
+            "value" : "Max Heart Rate"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak ha sido rediseñado para iOS 26 y Liquid Glass"
+            "value" : "Frecuencia Cardíaca Máxima"
           }
         }
       }
     },
-    "LiquidGlass.Title" : {
-      "comment" : "This is a play on the phrase “A Fresh Coat of Paint”. If something similar doesn’t exist, feel free to use “Liquid Glass Design” or similar",
+    "Reset" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Frisch poliertes Glas"
+            "value" : "Zurücksetzen"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A Fresh Coat of Glass"
+            "value" : "Reset"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Una Capa Fresca de Cristal"
+            "value" : "Restablecer"
           }
         }
       }
     },
-    "Speed.Body" : {
+    "Resting Heart Rate" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deine Daten laden jetzt schneller als je zuvor"
+            "value" : "Ruheherzfrequenz"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Your data now loads faster than ever before"
+            "value" : "Resting Heart Rate"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sus datos ahora se cargan más rápido que nunca"
+            "value" : "Frecuencia Cardíaca en Reposo"
           }
         }
       }
     },
-    "Speed.Title" : {
-      "comment" : "This is just a phrase about speed. If something similar doesn’t exist, feel free to use “Faster Than Ever Before” or similar",
+    "Setup Heart Rate Zones" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Blitzschnell"
+            "value" : "Herzfrequenzbereiche einrichten"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Blink and You’ll Miss It"
+            "value" : "Setup Heart Rate Zones"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Parpadea y Te Lo Perderás"
+            "value" : "Configurar Zonas de Frecuencia Cardíaca"
           }
         }
       }
     },
-    "Title" : {
-      "comment" : "This can also be translated as “New in Peak (versionNumber)”, if that works better",
+    "Zone" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neu in Peak %@"
+            "value" : "Zone %d"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "What’s New in Peak %@"
+            "value" : "Zone %d"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuevo en Peak %@"
+            "value" : "Zona %d"
           }
         }
       }
     },
-    "Totals.Body" : {
+    "Zone Boundary" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Der Summen Block zeigt dir deine Gesamt-Statistiken"
+            "value" : "Grenze"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "The Totals block now shows your All Time stats"
+            "value" : "Boundary"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El bloque de Totales ahora muestra sus estadísticas de Todos los Tiempos"
+            "value" : "Límite"
           }
         }
       }
     },
-    "Totals.Title" : {
+    "Zone Boundary Title" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gesamt-Summen"
+            "value" : "Zonengrenze %d/%d"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "All Time Totals"
+            "value" : "Zone %d/%d Boundary"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Totales de Todos los Tiempos"
-          }
-        }
-      }
-    },
-    "Trends.Body" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kurzfristige, mittelfristige und langfristige Trends zusammengefasst"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "View short, medium, and long term trends at the same time"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vea tendencias a corto, mediano y largo plazo al mismo tiempo"
-          }
-        }
-      }
-    },
-    "Trends.Title" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mehrere Trends"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Multi Trends"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Múltiples Tendencias"
+            "value" : "Límite de Zona %d/%d"
           }
         }
       }
     }
   },
-  "version" : "1.0"
+  "version" : "1.1"
 }
