@@ -220,6 +220,17 @@
           }
         }
       }
+    },
+    "Workout Summaries" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Workout Summaries"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

@@ -1,0 +1,358 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Closer.CTA.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See how you did!"
+          }
+        }
+      }
+    },
+    "Closer.CTA.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take a closer look!"
+          }
+        }
+      }
+    },
+    "Closer.CTA.3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "See what you accomplished!"
+          }
+        }
+      }
+    },
+    "Closer.Encouragement.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep going!"
+          }
+        }
+      }
+    },
+    "Closer.Encouragement.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Strong work!"
+          }
+        }
+      }
+    },
+    "Closer.Encouragement.3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You're crushing it!"
+          }
+        }
+      }
+    },
+    "Fallback.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check out your latest activity in Peak."
+          }
+        }
+      }
+    },
+    "Fallback.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Workout Logged"
+          }
+        }
+      }
+    },
+    "Multiple.Description.Calories.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You burned %1$@ across %2$d workouts."
+          }
+        }
+      }
+    },
+    "Multiple.Description.Calories.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ burned across your recent sessions."
+          }
+        }
+      }
+    },
+    "Multiple.Description.Duration.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You put in %1$@ across %2$d workouts."
+          }
+        }
+      }
+    },
+    "Multiple.Description.Duration.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ logged across your recent workouts."
+          }
+        }
+      }
+    },
+    "Multiple.Description.Fallback" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%d new workouts were logged."
+          }
+        }
+      }
+    },
+    "Multiple.Title.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Workouts logged"
+          }
+        }
+      }
+    },
+    "Multiple.Title.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That's some work"
+          }
+        }
+      }
+    },
+    "Multiple.Title.3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You were busy"
+          }
+        }
+      }
+    },
+    "Multiple.Title.4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Good work"
+          }
+        }
+      }
+    },
+    "Multiple.Title.5" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Workouts recorded"
+          }
+        }
+      }
+    },
+    "NotificationPrompt.Body" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Get notified when Peak finds a new workout and see a few highlights from your session."
+          }
+        }
+      }
+    },
+    "NotificationPrompt.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Want Workout Updates?"
+          }
+        }
+      }
+    },
+    "Single.Description.Calories.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You burned %@ along the way."
+          }
+        }
+      }
+    },
+    "Single.Description.Calories.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ later, you're done."
+          }
+        }
+      }
+    },
+    "Single.Description.Distance.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You covered %@."
+          }
+        }
+      }
+    },
+    "Single.Description.Distance.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That's %@ in the books."
+          }
+        }
+      }
+    },
+    "Single.Description.Distance.3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ under your belt."
+          }
+        }
+      }
+    },
+    "Single.Description.Duration.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You put in %@ today."
+          }
+        }
+      }
+    },
+    "Single.Description.Duration.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ well spent."
+          }
+        }
+      }
+    },
+    "Single.Description.Fallback" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You logged a %@ session."
+          }
+        }
+      }
+    },
+    "Single.Title.1" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "That's a workout"
+          }
+        }
+      }
+    },
+    "Single.Title.2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Another workout down"
+          }
+        }
+      }
+    },
+    "Single.Title.3" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solid workout"
+          }
+        }
+      }
+    },
+    "Single.Title.4" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Workout logged"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
