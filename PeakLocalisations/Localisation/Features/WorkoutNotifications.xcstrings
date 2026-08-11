@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "See how you did!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Mira tus resultados!"
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Take a closer look!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Échale un vistazo!"
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "See what you accomplished!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Mira lo que has conseguido!"
+          }
         }
       }
     },
@@ -65,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Keep going!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Sigue así!"
           }
         }
       }
@@ -83,6 +107,12 @@
             "state" : "translated",
             "value" : "Strong work!"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Gran trabajo!"
+          }
         }
       }
     },
@@ -99,6 +129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You're crushing it!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Estás a tope!"
           }
         }
       }
@@ -117,6 +153,12 @@
             "state" : "translated",
             "value" : "Check out your latest activity in Peak."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revisa tu última actividad en Peak."
+          }
         }
       }
     },
@@ -133,6 +175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Workout Logged"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrenamiento registrado"
           }
         }
       }
@@ -151,6 +199,12 @@
             "state" : "translated",
             "value" : "You burned %1$@ across %2$d workouts."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quemaste %1$@ en total en %2$d entrenamientos."
+          }
         }
       }
     },
@@ -167,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ burned across your recent sessions."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ quemadas en tus últimas sesiones."
           }
         }
       }
@@ -185,6 +245,12 @@
             "state" : "translated",
             "value" : "You put in %1$@ across %2$d workouts."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invertiste %1$@ en %2$d entrenamientos."
+          }
         }
       }
     },
@@ -201,6 +267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ logged across your recent workouts."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ acumulados en tus entrenamientos recientes."
           }
         }
       }
@@ -219,6 +291,12 @@
             "state" : "translated",
             "value" : "%d new workouts were logged."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se han registrado %d entrenamientos nuevos."
+          }
         }
       }
     },
@@ -235,6 +313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Workouts logged"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrenamientos registrados"
           }
         }
       }
@@ -253,6 +337,12 @@
             "state" : "translated",
             "value" : "That's some work"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Vaya trabajazo!"
+          }
         }
       }
     },
@@ -269,6 +359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You were busy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡No has parado!"
           }
         }
       }
@@ -287,6 +383,12 @@
             "state" : "translated",
             "value" : "Good work"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buen trabajo"
+          }
         }
       }
     },
@@ -303,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Workouts recorded"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrenamientos guardados"
           }
         }
       }
@@ -321,6 +429,12 @@
             "state" : "translated",
             "value" : "Get notified when Peak finds a new workout and see a few highlights from your session."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recibe alertas cuando Peak detecte un nuevo entrenamiento y descubre los momentos destacados de tu sesión."
+          }
         }
       }
     },
@@ -337,6 +451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Want Workout Updates?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Quieres estar al día de tus entrenamientos?"
           }
         }
       }
@@ -355,6 +475,12 @@
             "state" : "translated",
             "value" : "You burned %@ along the way."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quemaste %@ durante la sesión."
+          }
         }
       }
     },
@@ -371,6 +497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ later, you're done."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ después, ¡objetivo cumplido!"
           }
         }
       }
@@ -389,6 +521,12 @@
             "state" : "translated",
             "value" : "You covered %@."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Has recorrido %@."
+          }
         }
       }
     },
@@ -405,6 +543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "That's %@ in the books."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ más para el contador."
           }
         }
       }
@@ -423,6 +567,12 @@
             "state" : "translated",
             "value" : "%@ under your belt."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ más en el bolsillo."
+          }
         }
       }
     },
@@ -439,6 +589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You put in %@ today."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoy le has dedicado %@."
           }
         }
       }
@@ -457,6 +613,12 @@
             "state" : "translated",
             "value" : "%@ well spent."
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ muy bien invertidos."
+          }
         }
       }
     },
@@ -473,6 +635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "You logged a %@ session."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completaste una sesión de %@."
           }
         }
       }
@@ -491,6 +659,12 @@
             "state" : "translated",
             "value" : "That's a workout"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Eso sí es entrenar!"
+          }
         }
       }
     },
@@ -507,6 +681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Another workout down"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Otro más al bote!"
           }
         }
       }
@@ -525,6 +705,12 @@
             "state" : "translated",
             "value" : "Solid workout"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrenamiento impecable"
+          }
         }
       }
     },
@@ -541,6 +727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Workout logged"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entrenamiento registrado"
           }
         }
       }

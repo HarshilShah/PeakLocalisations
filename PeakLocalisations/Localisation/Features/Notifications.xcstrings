@@ -235,6 +235,12 @@
             "state" : "translated",
             "value" : "Workout Summaries"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desglose de Entrenamientos"
+          }
         }
       }
     }
