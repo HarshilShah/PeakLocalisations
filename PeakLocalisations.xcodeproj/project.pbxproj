@@ -3,109 +3,26 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 100;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		07D419672B5FC5AA006A52B4 /* WhatsNew.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 07D419662B5FC5AA006A52B4 /* WhatsNew.xcstrings */; };
-		E81EA8A12C9D802B003A4023 /* Feedback.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E81EA89F2C9D802B003A4023 /* Feedback.xcstrings */; };
-		E81EA8A22C9D802B003A4023 /* Sync.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E81EA8A02C9D802B003A4023 /* Sync.xcstrings */; };
-		E8312AB32F76B88B0001B81B /* HeartRateZones.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8312AB12F76B88B0001B81B /* HeartRateZones.xcstrings */; };
-		E8312AB42F76B88B0001B81B /* WorkoutDetails.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8312AB22F76B88B0001B81B /* WorkoutDetails.xcstrings */; };
-		E88B42BF2C36739600A65CAC /* WatchSetup.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E88B42BE2C36739600A65CAC /* WatchSetup.xcstrings */; };
-		E88E3D7F2F34975900A4464A /* Totals.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E88E3D7E2F34975900A4464A /* Totals.xcstrings */; };
-		E8B3C1502B552E2800030D64 /* Formatting.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8B3C14F2B552E2800030D64 /* Formatting.xcstrings */; };
-		E8BE48D02B5517DE005075DC /* PeakLocalisationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */; };
-		E8BE48FD2B551871005075DC /* Screenshots.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48DE2B551871005075DC /* Screenshots.xcstrings */; };
-		E8BE48FE2B551871005075DC /* Metadata.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48DF2B551871005075DC /* Metadata.xcstrings */; };
-		E8BE48FF2B551871005075DC /* AddNewHealthKitPermissions.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E12B551871005075DC /* AddNewHealthKitPermissions.xcstrings */; };
-		E8BE49002B551871005075DC /* HealthKitUnavailable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E22B551871005075DC /* HealthKitUnavailable.xcstrings */; };
-		E8BE49012B551871005075DC /* Ultra.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E32B551871005075DC /* Ultra.xcstrings */; };
-		E8BE49022B551871005075DC /* Backups.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E42B551871005075DC /* Backups.xcstrings */; };
-		E8BE49032B551871005075DC /* Notifications.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E52B551871005075DC /* Notifications.xcstrings */; };
-		E8BE49042B551871005075DC /* Onboarding.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E62B551871005075DC /* Onboarding.xcstrings */; };
-		E8BE49052B551871005075DC /* AddEntry.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E72B551871005075DC /* AddEntry.xcstrings */; };
-		E8BE49062B551871005075DC /* Recaps.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E82B551871005075DC /* Recaps.xcstrings */; };
-		E8BE49072B551871005075DC /* WidgetSetup.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */; };
-		E8BE49082B551871005075DC /* Details.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EA2B551871005075DC /* Details.xcstrings */; };
-		E8BE49092B551871005075DC /* Preferences.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EB2B551871005075DC /* Preferences.xcstrings */; };
-		E8BE490B2B551871005075DC /* Home.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48ED2B551871005075DC /* Home.xcstrings */; };
-		E8BE490C2B551871005075DC /* Resolutions.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48EF2B551871005075DC /* Resolutions.xcstrings */; };
-		E8BE490E2B551871005075DC /* Trends.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F12B551871005075DC /* Trends.xcstrings */; };
-		E8BE490F2B551871005075DC /* Benchmark.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F22B551871005075DC /* Benchmark.xcstrings */; };
-		E8BE49102B551871005075DC /* Blocks.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F32B551871005075DC /* Blocks.xcstrings */; };
-		E8BE49112B551871005075DC /* Goals.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F42B551871005075DC /* Goals.xcstrings */; };
-		E8BE49122B551871005075DC /* GoalTitles.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F52B551871005075DC /* GoalTitles.xcstrings */; };
-		E8BE49132B551871005075DC /* Stats.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F72B551871005075DC /* Stats.xcstrings */; };
-		E8BE49142B551871005075DC /* Themes.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F82B551871005075DC /* Themes.xcstrings */; };
-		E8BE49152B551871005075DC /* WorkoutTypes.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48F92B551871005075DC /* WorkoutTypes.xcstrings */; };
-		E8BE49162B551871005075DC /* Time.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48FA2B551871005075DC /* Time.xcstrings */; };
-		E8BE49172B551871005075DC /* Metrics.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48FB2B551871005075DC /* Metrics.xcstrings */; };
-		E8BE49182B551871005075DC /* General.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE48FC2B551871005075DC /* General.xcstrings */; };
-		E8BE491B2B551972005075DC /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE491A2B551972005075DC /* InfoPlist.xcstrings */; };
-		E8BE491D2B551980005075DC /* Widget.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8BE491C2B551980005075DC /* Widget.xcstrings */; };
-		E8E0FCB02EFFE47B00C7E1C9 /* Recommendations.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8E0FCAF2EFFE47B00C7E1C9 /* Recommendations.xcstrings */; };
-		E8E0FCB12EFFE47B00C7E1C9 /* AddBlock.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8E0FCAD2EFFE47B00C7E1C9 /* AddBlock.xcstrings */; };
-		E8E0FCB22EFFE47B00C7E1C9 /* AddGoal.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8E0FCAE2EFFE47B00C7E1C9 /* AddGoal.xcstrings */; };
-		E8E0FCB52EFFE5B500C7E1C9 /* Dashboard.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8E0FCB32EFFE5B500C7E1C9 /* Dashboard.xcstrings */; };
-		E8E0FCB62EFFE5B500C7E1C9 /* Setup.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8E0FCB42EFFE5B500C7E1C9 /* Setup.xcstrings */; };
-		E8EABF842C91A5D700D8E21E /* Icons.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = E8EABF832C91A5D700D8E21E /* Icons.xcstrings */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
-		07D419662B5FC5AA006A52B4 /* WhatsNew.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = WhatsNew.xcstrings; sourceTree = "<group>"; };
-		E81EA89F2C9D802B003A4023 /* Feedback.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Feedback.xcstrings; sourceTree = "<group>"; };
-		E81EA8A02C9D802B003A4023 /* Sync.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Sync.xcstrings; sourceTree = "<group>"; };
-		E8312AB12F76B88B0001B81B /* HeartRateZones.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = HeartRateZones.xcstrings; sourceTree = "<group>"; };
-		E8312AB22F76B88B0001B81B /* WorkoutDetails.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = WorkoutDetails.xcstrings; sourceTree = "<group>"; };
-		E88B42BE2C36739600A65CAC /* WatchSetup.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = WatchSetup.xcstrings; sourceTree = "<group>"; };
-		E88E3D7E2F34975900A4464A /* Totals.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Totals.xcstrings; sourceTree = "<group>"; };
-		E8B3C14F2B552E2800030D64 /* Formatting.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Formatting.xcstrings; sourceTree = "<group>"; };
 		E8BE48CC2B5517DE005075DC /* PeakLocalisations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PeakLocalisations.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PeakLocalisationsApp.swift; sourceTree = "<group>"; };
-		E8BE48DE2B551871005075DC /* Screenshots.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Screenshots.xcstrings; sourceTree = "<group>"; };
-		E8BE48DF2B551871005075DC /* Metadata.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Metadata.xcstrings; sourceTree = "<group>"; };
-		E8BE48E12B551871005075DC /* AddNewHealthKitPermissions.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = AddNewHealthKitPermissions.xcstrings; sourceTree = "<group>"; };
-		E8BE48E22B551871005075DC /* HealthKitUnavailable.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = HealthKitUnavailable.xcstrings; sourceTree = "<group>"; };
-		E8BE48E32B551871005075DC /* Ultra.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Ultra.xcstrings; sourceTree = "<group>"; };
-		E8BE48E42B551871005075DC /* Backups.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Backups.xcstrings; sourceTree = "<group>"; };
-		E8BE48E52B551871005075DC /* Notifications.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Notifications.xcstrings; sourceTree = "<group>"; };
-		E8BE48E62B551871005075DC /* Onboarding.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Onboarding.xcstrings; sourceTree = "<group>"; };
-		E8BE48E72B551871005075DC /* AddEntry.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = AddEntry.xcstrings; sourceTree = "<group>"; };
-		E8BE48E82B551871005075DC /* Recaps.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Recaps.xcstrings; sourceTree = "<group>"; };
-		E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = WidgetSetup.xcstrings; sourceTree = "<group>"; };
-		E8BE48EA2B551871005075DC /* Details.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Details.xcstrings; sourceTree = "<group>"; };
-		E8BE48EB2B551871005075DC /* Preferences.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Preferences.xcstrings; sourceTree = "<group>"; };
-		E8BE48ED2B551871005075DC /* Home.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Home.xcstrings; sourceTree = "<group>"; };
-		E8BE48EF2B551871005075DC /* Resolutions.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Resolutions.xcstrings; sourceTree = "<group>"; };
-		E8BE48F12B551871005075DC /* Trends.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Trends.xcstrings; sourceTree = "<group>"; };
-		E8BE48F22B551871005075DC /* Benchmark.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Benchmark.xcstrings; sourceTree = "<group>"; };
-		E8BE48F32B551871005075DC /* Blocks.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Blocks.xcstrings; sourceTree = "<group>"; };
-		E8BE48F42B551871005075DC /* Goals.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Goals.xcstrings; sourceTree = "<group>"; };
-		E8BE48F52B551871005075DC /* GoalTitles.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = GoalTitles.xcstrings; sourceTree = "<group>"; };
-		E8BE48F72B551871005075DC /* Stats.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Stats.xcstrings; sourceTree = "<group>"; };
-		E8BE48F82B551871005075DC /* Themes.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Themes.xcstrings; sourceTree = "<group>"; };
-		E8BE48F92B551871005075DC /* WorkoutTypes.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = WorkoutTypes.xcstrings; sourceTree = "<group>"; };
-		E8BE48FA2B551871005075DC /* Time.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Time.xcstrings; sourceTree = "<group>"; };
-		E8BE48FB2B551871005075DC /* Metrics.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Metrics.xcstrings; sourceTree = "<group>"; };
-		E8BE48FC2B551871005075DC /* General.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = General.xcstrings; sourceTree = "<group>"; };
-		E8BE491A2B551972005075DC /* InfoPlist.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
-		E8BE491C2B551980005075DC /* Widget.xcstrings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json.xcstrings; path = Widget.xcstrings; sourceTree = "<group>"; };
-		E8E0FCAD2EFFE47B00C7E1C9 /* AddBlock.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = AddBlock.xcstrings; sourceTree = "<group>"; };
-		E8E0FCAE2EFFE47B00C7E1C9 /* AddGoal.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = AddGoal.xcstrings; sourceTree = "<group>"; };
-		E8E0FCAF2EFFE47B00C7E1C9 /* Recommendations.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Recommendations.xcstrings; sourceTree = "<group>"; };
-		E8E0FCB32EFFE5B500C7E1C9 /* Dashboard.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Dashboard.xcstrings; sourceTree = "<group>"; };
-		E8E0FCB42EFFE5B500C7E1C9 /* Setup.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Setup.xcstrings; sourceTree = "<group>"; };
-		E8EABF832C91A5D700D8E21E /* Icons.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Icons.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		07490364302B0E7E004006C2 /* PeakLocalisations */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = PeakLocalisations;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		E8BE48C92B5517DE005075DC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
 			files = (
 			);
-			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
@@ -113,7 +30,7 @@
 		E8BE48C32B5517DE005075DC = {
 			isa = PBXGroup;
 			children = (
-				E8BE48CE2B5517DE005075DC /* PeakLocalisations */,
+				07490364302B0E7E004006C2 /* PeakLocalisations */,
 				E8BE48CD2B5517DE005075DC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -124,96 +41,6 @@
 				E8BE48CC2B5517DE005075DC /* PeakLocalisations.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		E8BE48CE2B5517DE005075DC /* PeakLocalisations */ = {
-			isa = PBXGroup;
-			children = (
-				E8BE48CF2B5517DE005075DC /* PeakLocalisationsApp.swift */,
-				E8BE49192B551956005075DC /* Localisation */,
-			);
-			path = PeakLocalisations;
-			sourceTree = "<group>";
-		};
-		E8BE48DD2B551871005075DC /* App Store */ = {
-			isa = PBXGroup;
-			children = (
-				E8BE491A2B551972005075DC /* InfoPlist.xcstrings */,
-				E8BE48DE2B551871005075DC /* Screenshots.xcstrings */,
-				E8BE48DF2B551871005075DC /* Metadata.xcstrings */,
-			);
-			path = "App Store";
-			sourceTree = "<group>";
-		};
-		E8BE48E02B551871005075DC /* Features */ = {
-			isa = PBXGroup;
-			children = (
-				E8BE48E72B551871005075DC /* AddEntry.xcstrings */,
-				E8BE48E12B551871005075DC /* AddNewHealthKitPermissions.xcstrings */,
-				E8BE48E42B551871005075DC /* Backups.xcstrings */,
-				E8E0FCB32EFFE5B500C7E1C9 /* Dashboard.xcstrings */,
-				E8BE48EA2B551871005075DC /* Details.xcstrings */,
-				E81EA89F2C9D802B003A4023 /* Feedback.xcstrings */,
-				E8BE48E22B551871005075DC /* HealthKitUnavailable.xcstrings */,
-				E8312AB12F76B88B0001B81B /* HeartRateZones.xcstrings */,
-				E8BE48ED2B551871005075DC /* Home.xcstrings */,
-				E8BE48E52B551871005075DC /* Notifications.xcstrings */,
-				E8BE48E62B551871005075DC /* Onboarding.xcstrings */,
-				E8BE48EB2B551871005075DC /* Preferences.xcstrings */,
-				E8BE48E82B551871005075DC /* Recaps.xcstrings */,
-				E8E0FCB42EFFE5B500C7E1C9 /* Setup.xcstrings */,
-				E81EA8A02C9D802B003A4023 /* Sync.xcstrings */,
-				E8BE48E32B551871005075DC /* Ultra.xcstrings */,
-				E88B42BE2C36739600A65CAC /* WatchSetup.xcstrings */,
-				07D419662B5FC5AA006A52B4 /* WhatsNew.xcstrings */,
-				E8BE491C2B551980005075DC /* Widget.xcstrings */,
-				E8BE48E92B551871005075DC /* WidgetSetup.xcstrings */,
-				E8312AB22F76B88B0001B81B /* WorkoutDetails.xcstrings */,
-			);
-			path = Features;
-			sourceTree = "<group>";
-		};
-		E8BE48EE2B551871005075DC /* Blocks */ = {
-			isa = PBXGroup;
-			children = (
-				E8E0FCAD2EFFE47B00C7E1C9 /* AddBlock.xcstrings */,
-				E8E0FCAE2EFFE47B00C7E1C9 /* AddGoal.xcstrings */,
-				E8BE48F32B551871005075DC /* Blocks.xcstrings */,
-				E8E0FCAF2EFFE47B00C7E1C9 /* Recommendations.xcstrings */,
-				E8BE48F42B551871005075DC /* Goals.xcstrings */,
-				E8BE48F52B551871005075DC /* GoalTitles.xcstrings */,
-				E8BE48EF2B551871005075DC /* Resolutions.xcstrings */,
-				E8BE48F22B551871005075DC /* Benchmark.xcstrings */,
-				E88E3D7E2F34975900A4464A /* Totals.xcstrings */,
-				E8BE48F12B551871005075DC /* Trends.xcstrings */,
-			);
-			path = Blocks;
-			sourceTree = "<group>";
-		};
-		E8BE48F62B551871005075DC /* Core */ = {
-			isa = PBXGroup;
-			children = (
-				E8BE48FC2B551871005075DC /* General.xcstrings */,
-				E8BE48FA2B551871005075DC /* Time.xcstrings */,
-				E8BE48FB2B551871005075DC /* Metrics.xcstrings */,
-				E8BE48F72B551871005075DC /* Stats.xcstrings */,
-				E8EABF832C91A5D700D8E21E /* Icons.xcstrings */,
-				E8BE48F82B551871005075DC /* Themes.xcstrings */,
-				E8BE48F92B551871005075DC /* WorkoutTypes.xcstrings */,
-				E8B3C14F2B552E2800030D64 /* Formatting.xcstrings */,
-			);
-			path = Core;
-			sourceTree = "<group>";
-		};
-		E8BE49192B551956005075DC /* Localisation */ = {
-			isa = PBXGroup;
-			children = (
-				E8BE48F62B551871005075DC /* Core */,
-				E8BE48EE2B551871005075DC /* Blocks */,
-				E8BE48E02B551871005075DC /* Features */,
-				E8BE48DD2B551871005075DC /* App Store */,
-			);
-			path = Localisation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,7 +56,8 @@
 			);
 			buildRules = (
 			);
-			dependencies = (
+			fileSystemSynchronizedGroups = (
+				07490364302B0E7E004006C2 /* PeakLocalisations */,
 			);
 			name = PeakLocalisations;
 			productName = PeakLocalisations;
@@ -244,7 +72,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1520;
-				LastUpgradeCheck = 1520;
+				LastUpgradeCheck = 2660;
 				TargetAttributes = {
 					E8BE48CB2B5517DE005075DC = {
 						CreatedOnToolsVersion = 15.2;
@@ -252,7 +80,6 @@
 				};
 			};
 			buildConfigurationList = E8BE48C72B5517DE005075DC /* Build configuration list for PBXProject "PeakLocalisations" */;
-			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -262,6 +89,8 @@
 				es,
 			);
 			mainGroup = E8BE48C32B5517DE005075DC;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 100;
 			productRefGroup = E8BE48CD2B5517DE005075DC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -274,72 +103,26 @@
 /* Begin PBXResourcesBuildPhase section */
 		E8BE48CA2B5517DE005075DC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
 			files = (
-				E8BE48FF2B551871005075DC /* AddNewHealthKitPermissions.xcstrings in Resources */,
-				E8BE49052B551871005075DC /* AddEntry.xcstrings in Resources */,
-				E8E0FCB02EFFE47B00C7E1C9 /* Recommendations.xcstrings in Resources */,
-				E8E0FCB12EFFE47B00C7E1C9 /* AddBlock.xcstrings in Resources */,
-				E8E0FCB22EFFE47B00C7E1C9 /* AddGoal.xcstrings in Resources */,
-				E8BE49112B551871005075DC /* Goals.xcstrings in Resources */,
-				E8BE48FE2B551871005075DC /* Metadata.xcstrings in Resources */,
-				E8BE49042B551871005075DC /* Onboarding.xcstrings in Resources */,
-				E8BE490B2B551871005075DC /* Home.xcstrings in Resources */,
-				E8BE48FD2B551871005075DC /* Screenshots.xcstrings in Resources */,
-				E81EA8A12C9D802B003A4023 /* Feedback.xcstrings in Resources */,
-				E8312AB32F76B88B0001B81B /* HeartRateZones.xcstrings in Resources */,
-				E8312AB42F76B88B0001B81B /* WorkoutDetails.xcstrings in Resources */,
-				E81EA8A22C9D802B003A4023 /* Sync.xcstrings in Resources */,
-				E8BE49142B551871005075DC /* Themes.xcstrings in Resources */,
-				E88E3D7F2F34975900A4464A /* Totals.xcstrings in Resources */,
-				E8BE49182B551871005075DC /* General.xcstrings in Resources */,
-				E8BE49132B551871005075DC /* Stats.xcstrings in Resources */,
-				E8BE49092B551871005075DC /* Preferences.xcstrings in Resources */,
-				E8BE49032B551871005075DC /* Notifications.xcstrings in Resources */,
-				E8E0FCB52EFFE5B500C7E1C9 /* Dashboard.xcstrings in Resources */,
-				E8E0FCB62EFFE5B500C7E1C9 /* Setup.xcstrings in Resources */,
-				E8EABF842C91A5D700D8E21E /* Icons.xcstrings in Resources */,
-				E8B3C1502B552E2800030D64 /* Formatting.xcstrings in Resources */,
-				E8BE49012B551871005075DC /* Ultra.xcstrings in Resources */,
-				E8BE49002B551871005075DC /* HealthKitUnavailable.xcstrings in Resources */,
-				E8BE49122B551871005075DC /* GoalTitles.xcstrings in Resources */,
-				E8BE49072B551871005075DC /* WidgetSetup.xcstrings in Resources */,
-				E8BE490E2B551871005075DC /* Trends.xcstrings in Resources */,
-				E8BE49172B551871005075DC /* Metrics.xcstrings in Resources */,
-				E8BE49022B551871005075DC /* Backups.xcstrings in Resources */,
-				07D419672B5FC5AA006A52B4 /* WhatsNew.xcstrings in Resources */,
-				E8BE49152B551871005075DC /* WorkoutTypes.xcstrings in Resources */,
-				E8BE491B2B551972005075DC /* InfoPlist.xcstrings in Resources */,
-				E8BE490F2B551871005075DC /* Benchmark.xcstrings in Resources */,
-				E8BE49082B551871005075DC /* Details.xcstrings in Resources */,
-				E8BE49102B551871005075DC /* Blocks.xcstrings in Resources */,
-				E88B42BF2C36739600A65CAC /* WatchSetup.xcstrings in Resources */,
-				E8BE491D2B551980005075DC /* Widget.xcstrings in Resources */,
-				E8BE49062B551871005075DC /* Recaps.xcstrings in Resources */,
-				E8BE49162B551871005075DC /* Time.xcstrings in Resources */,
-				E8BE490C2B551871005075DC /* Resolutions.xcstrings in Resources */,
 			);
-			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		E8BE48C82B5517DE005075DC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
 			files = (
-				E8BE48D02B5517DE005075DC /* PeakLocalisationsApp.swift in Sources */,
 			);
-			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		E8BE48D82B5517DF005075DC /* Debug */ = {
+		E8BE48D82B5517DF005075DC /* Debug configuration for PBXProject "PeakLocalisations" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -370,6 +153,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 7TRWX579Z9;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -398,11 +182,12 @@
 			};
 			name = Debug;
 		};
-		E8BE48D92B5517DF005075DC /* Release */ = {
+		E8BE48D92B5517DF005075DC /* Release configuration for PBXProject "PeakLocalisations" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -433,6 +218,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 7TRWX579Z9;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -454,14 +240,13 @@
 			};
 			name = Release;
 		};
-		E8BE48DB2B5517DF005075DC /* Debug */ = {
+		E8BE48DB2B5517DF005075DC /* Debug configuration for PBXNativeTarget "PeakLocalisations" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 7TRWX579Z9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -482,14 +267,13 @@
 			};
 			name = Debug;
 		};
-		E8BE48DC2B5517DF005075DC /* Release */ = {
+		E8BE48DC2B5517DF005075DC /* Release configuration for PBXNativeTarget "PeakLocalisations" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 7TRWX579Z9;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -516,19 +300,17 @@
 		E8BE48C72B5517DE005075DC /* Build configuration list for PBXProject "PeakLocalisations" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E8BE48D82B5517DF005075DC /* Debug */,
-				E8BE48D92B5517DF005075DC /* Release */,
+				E8BE48D82B5517DF005075DC /* Debug configuration for PBXProject "PeakLocalisations" */,
+				E8BE48D92B5517DF005075DC /* Release configuration for PBXProject "PeakLocalisations" */,
 			);
-			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 		E8BE48DA2B5517DF005075DC /* Build configuration list for PBXNativeTarget "PeakLocalisations" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E8BE48DB2B5517DF005075DC /* Debug */,
-				E8BE48DC2B5517DF005075DC /* Release */,
+				E8BE48DB2B5517DF005075DC /* Debug configuration for PBXNativeTarget "PeakLocalisations" */,
+				E8BE48DC2B5517DF005075DC /* Release configuration for PBXNativeTarget "PeakLocalisations" */,
 			);
-			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */

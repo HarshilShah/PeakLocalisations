@@ -1,836 +1,738 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "Active Energy" : {
+    "Closer.CTA.1" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktive Energie"
+            "value" : "Sieh nach, wie du abgeschnitten hast!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Active Energy"
+            "value" : "See how you did!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energía en Actividad"
+            "value" : "¡Mira tus resultados!"
           }
         }
       }
     },
-    "All" : {
-      "comment" : "This is used as a shorthand for \"All Rings\"; it's shorter to match Move, Exercise, and Stand",
+    "Closer.CTA.2" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alle"
+            "value" : "Schau es dir genauer an!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "All"
+            "value" : "Take a closer look!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Todos"
+            "value" : "¡Échale un vistazo!"
           }
         }
       }
     },
-    "Average" : {
+    "Closer.CTA.3" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Durchschnitt"
+            "value" : "Sieh dir an, was du erreicht hast!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Average"
+            "value" : "See what you accomplished!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Promedio"
+            "value" : "¡Mira lo que has conseguido!"
           }
         }
       }
     },
-    "Cadence" : {
+    "Closer.Encouragement.1" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kadenz"
+            "value" : "Weiter so!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cadence"
+            "value" : "Keep going!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cadencia"
+            "value" : "¡Sigue así!"
           }
         }
       }
     },
-    "Days Active" : {
+    "Closer.Encouragement.2" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$lld/%#@arg2@ aktiv"
-          },
-          "substitutions" : {
-            "arg2" : {
-              "argNum" : 2,
-              "formatSpecifier" : "lld",
-              "variations" : {
-                "plural" : {
-                  "one" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "%arg Tag"
-                    }
-                  },
-                  "other" : {
-                    "stringUnit" : {
-                      "state" : "translated",
-                      "value" : "%arg Tage"
-                    }
-                  }
-                }
-              }
-            }
+            "value" : "Tolle Leistung!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$lld/%2$lld days active"
+            "value" : "Strong work!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$lld/%2$lld días de actividad"
+            "value" : "¡Gran trabajo!"
           }
         }
       }
     },
-    "Duration" : {
+    "Closer.Encouragement.3" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dauer"
+            "value" : "Das machst du super!"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Duration"
+            "value" : "You're crushing it!"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Duración"
+            "value" : "¡Estás a tope!"
           }
         }
       }
     },
-    "Elapsed Time" : {
-      "comment" : "This is different from \"Duration\" in that it covers the total workout time, including when you paused it",
+    "Fallback.Body" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gesamtzeit"
+            "value" : "Sieh dir deine neueste Aktivität in Peak an."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elapsed Time"
+            "value" : "Check out your latest activity in Peak."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiempo Transcurrido"
+            "value" : "Revisa tu última actividad en Peak."
           }
         }
       }
     },
-    "Elevation Gained" : {
+    "Fallback.Title" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Höhenmeter"
+            "value" : "Training erfasst"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elevation Gained"
+            "value" : "Workout Logged"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Desnivel"
+            "value" : "Entrenamiento registrado"
           }
         }
       }
     },
-    "Maximum" : {
+    "Multiple.Description.Calories.1" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maximum"
+            "value" : "Du hast %1$@ über %2$d Trainings hinweg verbrannt."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maximum"
+            "value" : "You burned %1$@ across %2$d workouts."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Máximo"
+            "value" : "Quemaste %1$@ en total en %2$d entrenamientos."
           }
         }
       }
     },
-    "Minimum" : {
+    "Multiple.Description.Calories.2" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Minimum"
+            "value" : "%@ verbrannt in deinem letzten Training."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Minimum"
+            "value" : "%@ burned across your recent sessions."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mínimo"
+            "value" : "%@ quemadas en tus últimas sesiones."
           }
         }
       }
     },
-    "Number of Days" : {
+    "Multiple.Description.Duration.1" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anzahl Tage"
+            "value" : "Du hast heute %1$@ über %2$d Trainings verteilt investiert."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Number of Days"
+            "value" : "You put in %1$@ across %2$d workouts."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Número de Días"
+            "value" : "Invertiste %1$@ en %2$d entrenamientos."
           }
         }
       }
     },
-    "Number of Workouts" : {
+    "Multiple.Description.Duration.2" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anzahl Trainings"
+            "value" : "%@ an neuen Trainings erfasst."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Number of Workouts"
+            "value" : "%@ logged across your recent workouts."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Número de Entrenos"
+            "value" : "%@ acumulados en tus entrenamientos recientes."
           }
         }
       }
     },
-    "Pace" : {
-      "comment" : "This is the inverse of \"Speed\"; so if the speed is in kilometres per hour, pace would be expressed as minutes or hours per kilometre",
+    "Multiple.Description.Fallback" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pace"
+            "value" : "%d neue Trainings erfasst."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pace"
+            "value" : "%d new workouts were logged."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ritmo"
+            "value" : "Se han registrado %d entrenamientos nuevos."
           }
         }
       }
     },
-    "Progress" : {
-      "comment" : "Used to show progress (first parameter) relative to a goal (second parameter)",
+    "Multiple.Title.1" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@/%2$@"
+            "value" : "Trainings erfasst"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@/%2$@"
+            "value" : "Workouts logged"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@/%2$@"
+            "value" : "Entrenamientos registrados"
           }
         }
       }
     },
-    "Progress.PerPeriod" : {
-      "comment" : "Used to show the current or required progress per unit of time, for example \"per week\"",
+    "Multiple.Title.2" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "/%@"
+            "value" : "Das ist ganze Arbeit"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "/%@"
+            "value" : "That's some work"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "/%@"
+            "value" : "¡Vaya trabajazo!"
           }
         }
       }
     },
-    "Progress.SpelledOut" : {
-      "comment" : "Used to show progress (first parameter) relative to a goal (second parameter)",
+    "Multiple.Title.3" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ von %2$@"
+            "value" : "Du warst fleissig"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ out of %2$@"
+            "value" : "You were busy"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@ de %2$@"
+            "value" : "¡No has parado!"
           }
         }
       }
     },
-    "Progress.Towards" : {
-      "comment" : "Used to show a goal. The current progress is rendered separately, when using this variant",
+    "Multiple.Title.4" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "/%@"
+            "value" : "Gute Arbeit"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "/%@"
+            "value" : "Good work"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "/%@"
+            "value" : "Buen trabajo"
           }
         }
       }
     },
-    "Sleep Stage" : {
+    "Multiple.Title.5" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schlafphase"
+            "value" : "Trainings erfasst"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sleep Stage"
+            "value" : "Workouts recorded"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etapa de Sueño"
+            "value" : "Entrenamientos guardados"
           }
         }
       }
     },
-    "Sleep Stage.Select" : {
+    "NotificationPrompt.Body" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wähle eine Schlafphase aus"
+            "value" : "Erhalte eine Benachrichtigung wenn Peak neue Trainings findet, inklusive einiger Highlights."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Select Sleep Stage"
+            "value" : "Get notified when Peak finds a new workout and see a few highlights from your session."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seleccione la Etapa de Sueño"
+            "value" : "Recibe alertas cuando Peak detecte un nuevo entrenamiento y descubre los momentos destacados de tu sesión."
           }
         }
       }
     },
-    "Speed" : {
+    "NotificationPrompt.Title" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tempo"
+            "value" : "Trainings-Benachrichtungen gewünscht?"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Speed"
+            "value" : "Want Workout Updates?"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Velocidad"
+            "value" : "¿Quieres estar al día de tus entrenamientos?"
           }
         }
       }
     },
-    "Split" : {
+    "Single.Description.Calories.1" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Split"
+            "value" : "Du hast %@ verbrannt."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Split"
+            "value" : "You burned %@ along the way."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "División"
+            "value" : "Quemaste %@ durante la sesión."
           }
         }
       }
     },
-    "Splits" : {
+    "Single.Description.Calories.2" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Splits"
+            "value" : "Nach %@ hast du’s geschafft."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Splits"
+            "value" : "%@ later, you're done."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Divisiones"
+            "value" : "%@ después, ¡objetivo cumplido!"
           }
         }
       }
     },
-    "Stats" : {
+    "Single.Description.Distance.1" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Statistiken"
+            "value" : "Du hast %@ zurückgelegt."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stats"
+            "value" : "You covered %@."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estadísticas"
+            "value" : "Has recorrido %@."
           }
         }
       }
     },
-    "Time" : {
+    "Single.Description.Distance.2" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeit"
+            "value" : "Das sind %@, die hinter dir liegen."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Time"
+            "value" : "That's %@ in the books."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiempo"
+            "value" : "%@ más para el contador."
           }
         }
       }
     },
-    "Total" : {
+    "Single.Description.Distance.3" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gesamt"
+            "value" : "%@ geschafft."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Total"
+            "value" : "%@ under your belt."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Total"
+            "value" : "%@ más en el bolsillo."
           }
         }
       }
     },
-    "Total Energy" : {
+    "Single.Description.Duration.1" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gesamt Energie"
+            "value" : "Du hast heute %@ investiert."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Total Energy"
+            "value" : "You put in %@ today."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energía Total"
+            "value" : "Hoy le has dedicado %@."
           }
         }
       }
     },
-    "Workout Stat" : {
+    "Single.Description.Duration.2" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trainigs-Statistik"
+            "value" : "%@ gut investiert."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Workout Stat"
+            "value" : "%@ well spent."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estadística de Entreno"
+            "value" : "%@ muy bien invertidos."
           }
         }
       }
     },
-    "Workout Stat.Select" : {
+    "Single.Description.Fallback" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wähle eine Trainings-Statistik"
+            "value" : "Du hast ein %@ Training erfasst"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Select a Workout Stat"
+            "value" : "You logged a %@ session."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seleccione una Estadística de Entreno"
+            "value" : "Completaste una sesión de %@."
           }
         }
       }
     },
-    "Workout Type" : {
+    "Single.Title.1" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trainingsart"
+            "value" : "Das ist ein richtiges Training"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Workout Type"
+            "value" : "That's a workout"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipo de Entreno"
+            "value" : "¡Eso sí es entrenar!"
           }
         }
       }
     },
-    "Workout Types" : {
+    "Single.Title.2" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trainingsarten"
+            "value" : "Wieder ein Training geschafft"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Workout Types"
+            "value" : "Another workout down"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipos de Entreno"
+            "value" : "¡Otro más al bote!"
           }
         }
       }
     },
-    "Workout Types.All" : {
+    "Single.Title.3" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alle Trainings"
+            "value" : "Starkes Training"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "All Workouts"
+            "value" : "Solid workout"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Todos"
+            "value" : "Entrenamiento impecable"
           }
         }
       }
     },
-    "Workout Types.Select" : {
+    "Single.Title.4" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wähle Trainingsarten"
+            "value" : "Training erfasst"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Select Workout Types"
+            "value" : "Workout logged"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seleccionar Tipos de Entreno"
-          }
-        }
-      }
-    },
-    "Workout Types.Select.EmptyDescription" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wenn dir eine Trainingsart fehlt, kontaktiere bitte den Entwickler."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "If you think a workout type is missing, please contact the developer"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Si cree que falta un tipo de entreno, comuníquese con el desarrollador"
-          }
-        }
-      }
-    },
-    "Workout Types.Select.EmptyTitle" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hier gibt es nichts zu sehen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nothing to see here"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nada que ver aquí"
-          }
-        }
-      }
-    },
-    "Workout Types.Show All" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alle"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Show All"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mostrar Todo"
+            "value" : "Entrenamiento registrado"
           }
         }
       }

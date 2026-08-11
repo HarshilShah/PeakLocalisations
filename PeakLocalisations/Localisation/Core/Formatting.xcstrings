@@ -73,6 +73,54 @@
         }
       }
     },
+    "Cadence.Attributed %@" : {
+      "extractionState" : "manual",
+      "generatesSymbol" : false,
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%1$@](measurement: 'value') ^[spm](measurement: 'unit')"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%1$@](measurement: 'value') ^[spm](measurement: 'unit')"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%1$@](measurement: 'value') ^[ppm](measurement: 'unit')"
+          }
+        }
+      }
+    },
+    "Cadence.Unit %lf" : {
+      "extractionState" : "manual",
+      "generatesSymbol" : false,
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "spm"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "spm"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ppm"
+          }
+        }
+      }
+    },
     "Days %lf %@" : {
       "extractionState" : "manual",
       "generatesSymbol" : false,
