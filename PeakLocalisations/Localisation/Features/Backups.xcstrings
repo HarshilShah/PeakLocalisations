@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ya se Realizó una Copia de Seguridad"
+            "value" : "Ya se realizó una copia de seguridad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backup già eseguito"
           }
         }
       }
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copias de Seguridad Automáticas"
+            "value" : "Copias de seguridad automáticas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backup automatici"
           }
         }
       }
@@ -65,7 +77,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak hará una copia de seguridad automática de sus datos aproximadamente una vez al día"
+            "value" : "Peak hará una copia de seguridad automática de tus datos aproximadamente una vez al día"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak eseguirà automaticamente un backup dei tuoi dati circa una volta al giorno"
           }
         }
       }
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Realizar Copia de Seguridad Ahora"
+            "value" : "Realizar copia de seguridad ahora"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esegui backup adesso"
           }
         }
       }
@@ -111,7 +135,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copia de Seguridad Actual"
+            "value" : "Copia de seguridad actual"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backup attuale"
           }
         }
       }
@@ -136,6 +166,12 @@
             "state" : "translated",
             "value" : "Error al decodificar la copia de seguridad"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile decodificare il backup"
+          }
         }
       }
     },
@@ -159,6 +195,12 @@
             "state" : "translated",
             "value" : "Error al importar la copia de seguridad"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile importare il backup"
+          }
         }
       }
     },
@@ -180,7 +222,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportar Copia de Seguridad"
+            "value" : "Exportar copia de seguridad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esporta backup"
           }
         }
       }
@@ -203,7 +251,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importar Copia de Seguridad"
+            "value" : "Importar copia de seguridad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Importa backup"
           }
         }
       }
@@ -264,6 +318,24 @@
               }
             }
           }
+        },
+        "it" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%1$lld blocco"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%1$lld blocchi"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -287,6 +359,12 @@
             "state" : "translated",
             "value" : "de %@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "da %@"
+          }
         }
       }
     },
@@ -308,7 +386,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copias de Seguridad Recientes"
+            "value" : "Copias de seguridad recientes"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backup recenti"
           }
         }
       }
@@ -333,6 +417,12 @@
             "state" : "translated",
             "value" : "Restaurar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ripristina"
+          }
         }
       }
     },
@@ -354,7 +444,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restaurar desde Copia de Seguridad"
+            "value" : "Restaurar desde copia de seguridad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ripristina da backup"
           }
         }
       }
@@ -377,7 +473,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esto sobrescribirá todos sus datos y preferencias actuales.\n\nEsta acción no se puede deshacer."
+            "value" : "Esto sobrescribirá todos tus datos y preferencias actuales.\n\nEsta acción no se puede deshacer."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutti i tuoi dati e le preferenze attuali verranno sovrascritti.\n\nQuesta azione non può essere annullata."
           }
         }
       }
@@ -402,6 +504,12 @@
             "state" : "translated",
             "value" : "Cancelar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla"
+          }
         }
       }
     },
@@ -423,7 +531,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deslizar para Restaurar"
+            "value" : "Deslizar para restaurar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scorri per ripristinare"
           }
         }
       }
@@ -446,7 +560,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¿Restaurar Esta Copia de Seguridad?"
+            "value" : "¿Restaurar esta copia de seguridad?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuoi ripristinare questo backup?"
           }
         }
       }
@@ -469,7 +589,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Para utilizar sincronización y copias de seguridad automáticas, asegúrese de que:"
+            "value" : "Para utilizar sincronización y copias de seguridad automáticas, asegúrate de que:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Per usare la sincronizzazione e i backup automatici, assicurati che:"
           }
         }
       }
@@ -492,7 +618,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ha iniciado sesión en su cuenta de iCloud."
+            "value" : "Hayas iniciado sesión en tu cuenta de iCloud."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai effettuato l'accesso al tuo account iCloud."
           }
         }
       }
@@ -515,7 +647,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iCloud Drive está Activado"
+            "value" : "iCloud drive está activado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud Drive sia attivato"
           }
         }
       }
@@ -538,7 +676,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "iCloud No Disponible"
+            "value" : "iCloud no disponible"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iCloud non disponibile"
           }
         }
       }

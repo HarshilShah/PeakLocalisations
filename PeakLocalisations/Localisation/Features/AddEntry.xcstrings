@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar Entrada"
+            "value" : "Agregar entrada"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi voce"
           }
         }
       }
@@ -44,6 +50,12 @@
             "state" : "translated",
             "value" : "Entrada"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voce"
+          }
         }
       }
     },
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "Por favor, asegúrese de que ha concedido permiso para guardar datos en HealthKit\n\nError: %@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Assicurati di aver concesso l'autorizzazione per salvare i dati su HealthKit\n\nErrore: %@"
+          }
         }
       }
     },
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Error al guardar su entrada"
+            "value" : "Error al guardar tu entrada"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossibile salvare la voce"
           }
         }
       }
@@ -113,6 +137,12 @@
             "state" : "translated",
             "value" : "Registre"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registra"
+          }
         }
       }
     },
@@ -136,6 +166,12 @@
             "state" : "translated",
             "value" : "Registre IMC"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registra IMC"
+          }
         }
       }
     },
@@ -157,7 +193,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registre Grasa Corporal"
+            "value" : "Registre grasa corporal"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registra massa grassa"
           }
         }
       }
@@ -180,7 +222,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registre Masa Corporal Magra"
+            "value" : "Registre masa corporal magra"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registra massa magra"
           }
         }
       }
@@ -203,7 +251,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registre Peso"
+            "value" : "Registre peso"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registra peso"
           }
         }
       }
@@ -228,6 +282,12 @@
             "state" : "translated",
             "value" : "Guardar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva"
+          }
         }
       }
     },
@@ -251,6 +311,12 @@
             "state" : "translated",
             "value" : "¡Guardado!"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvato!"
+          }
         }
       }
     },
@@ -273,6 +339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hora"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ora"
           }
         }
       }

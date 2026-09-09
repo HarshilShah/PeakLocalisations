@@ -1,77 +1,6 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
-    "" : {
-
-    },
-    "%@" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@"
-          }
-        }
-      }
-    },
-    "%@ " : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@"
-          }
-        }
-      }
-    },
-    "%@ %@" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ %2$@"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ %2$@"
-          }
-        }
-      }
-    },
-    "%@ %@ %@" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ %2$@ %3$@"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ %2$@ %3$@"
-          }
-        }
-      }
-    },
-    "%@ %@: %@" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@ %2$@: %3$@"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@ %2$@: %3$@"
-          }
-        }
-      }
-    },
     "%@ Hold to set up" : {
       "localizations" : {
         "de" : {
@@ -84,6 +13,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ Mantén pulsado para configurar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Tieni premuto per configurare"
           }
         }
       }
@@ -101,53 +36,11 @@
             "state" : "translated",
             "value" : "%@ Toca o mantén pulsado para configurar"
           }
-        }
-      }
-    },
-    "%@: %@" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%1$@: %2$@"
-          }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@: %2$@"
-          }
-        }
-      }
-    },
-    "%@%@" : {
-      "localizations" : {
-        "de" : {
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%1$@%2$@"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "new",
-            "value" : "%1$@%2$@"
-          }
-        }
-      }
-    },
-    "All" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alle"
-      }
-    },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Todos"
+            "value" : "%@ Tocca e tieni premuto per configurare"
           }
         }
       }
@@ -165,11 +58,36 @@
             "state" : "translated",
             "value" : "Todos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutti gli allenamenti"
+          }
         }
       }
     },
     "Automatic" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatische"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automático"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatico"
+          }
+        }
+      }
     },
     "Benchmark" : {
       "localizations" : {
@@ -182,7 +100,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referencia"
+            "value" : "Benchmark"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benchmark"
           }
         }
       }
@@ -204,7 +128,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compare su progreso con un punto de referencia."
+            "value" : "Compara tu progreso con un benchmark."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confronta i tuoi progressi con un benchmark."
           }
         }
       }
@@ -226,7 +156,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referencia"
+            "value" : "Benchmark"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benchmark"
           }
         }
       }
@@ -248,7 +184,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Visualice su viaje de fitness con gráficos."
+            "value" : "Visualiza tu camino fitness con gráficos."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizza il tuo percorso fitness con i grafici."
           }
         }
       }
@@ -272,25 +214,67 @@
             "state" : "translated",
             "value" : "Gráfico"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grafico"
+          }
         }
       }
     },
     "ComparisonWidget.Description" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vergleiche deinen Fortschritt mit vorherigen Zeiträumen."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Compare progress to previous periods."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compara tu progreso con períodos anteriores."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confronta i progressi con i periodi precedenti."
           }
         }
       }
     },
     "ComparisonWidget.Title" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vergleich"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comparison"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparación"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confronto"
           }
         }
       }
@@ -306,7 +290,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tema Oscuro"
+            "value" : "Tema oscuro"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema modalità scura"
           }
         }
       }
@@ -315,84 +305,28 @@
 
     },
     "DoNotLocalize.configKey" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DoNotLocalize.configKey"
-          }
-        }
-      }
+
     },
     "DoNotLocalize.dayComponents" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DoNotLocalize.dayComponents"
-          }
-        }
-      }
+
     },
     "DoNotLocalize.DeepLink" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DoNotLocalize.DeepLink"
-          }
-        }
-      }
+
     },
     "DoNotLocalize.HistoryWidgetDayPicker" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DoNotLocalize.HistoryWidgetDayPicker"
-          }
-        }
-      }
+
     },
     "DoNotLocalize.OpenDeepLink" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DoNotLocalize.OpenDeepLink"
-          }
-        }
-      }
+
     },
     "DoNotLocalize.period" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DoNotLocalize.period"
-          }
-        }
-      }
+
     },
     "DoNotLocalize.refresh" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DoNotLocalize.refresh"
-          }
-        }
-      }
+
     },
     "DoNotLocalize.TrendsChartPeriodPicker" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "DoNotLocalize.TrendsChartPeriodPicker"
-          }
-        }
-      }
+
     },
     "Goal" : {
       "localizations" : {
@@ -407,11 +341,36 @@
             "state" : "translated",
             "value" : "Meta"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo"
+          }
         }
       }
     },
     "Goals" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ziele"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivi"
+          }
+        }
+      }
     },
     "GoalWidget.Description" : {
       "localizations" : {
@@ -430,7 +389,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Siga su progreso hacia sus metas."
+            "value" : "Sigue tu progreso hacia tus metas."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monitora i tuoi progressi verso il raggiungimento dei tuoi obiettivi."
           }
         }
       }
@@ -454,6 +419,12 @@
             "state" : "translated",
             "value" : "Meta"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo"
+          }
         }
       }
     },
@@ -474,7 +445,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mire todas sus estadísticas de la semana pasada."
+            "value" : "Mira todas tus estadísticas de la semana pasada."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizza tutte le tue statistiche dell'ultima settimana."
           }
         }
       }
@@ -498,6 +475,12 @@
             "state" : "translated",
             "value" : "Historia"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cronologia"
+          }
         }
       }
     },
@@ -512,7 +495,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tema Ligero"
+            "value" : "Tema ligero"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema modalità chiara"
           }
         }
       }
@@ -530,6 +519,12 @@
             "state" : "translated",
             "value" : "Registre"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registra"
+          }
         }
       }
     },
@@ -544,7 +539,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Empareja la App"
+            "value" : "Empareja la app"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uguale all'app"
           }
         }
       }
@@ -562,6 +563,12 @@
             "state" : "translated",
             "value" : "Métrica"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metrica"
+          }
         }
       }
     },
@@ -578,6 +585,12 @@
             "state" : "translated",
             "value" : "Métricas"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metriche"
+          }
         }
       }
     },
@@ -592,7 +605,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ninguna Referencia Seleccionada"
+            "value" : "Ningún benchmark configurado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessun benchmark configurato"
           }
         }
       }
@@ -608,7 +627,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ninguna Métrica Seleccionada"
+            "value" : "Ninguna métrica seleccionada"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessuna metrica selezionata"
           }
         }
       }
@@ -624,7 +649,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No Hay Métricas Seleccionadas"
+            "value" : "No hay métricas seleccionadas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessuna metrica selezionata"
           }
         }
       }
@@ -642,6 +673,12 @@
             "state" : "translated",
             "value" : "Ninguna"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessuno"
+          }
         }
       }
     },
@@ -656,7 +693,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abre la Métrica"
+            "value" : "Abre la métrica"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri metrica"
           }
         }
       }
@@ -680,6 +723,12 @@
             "state" : "translated",
             "value" : "Abre Peak"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri Peak"
+          }
         }
       }
     },
@@ -695,6 +744,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Período"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Periodo panoramica"
           }
         }
       }
@@ -716,7 +771,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Un panorama de su progreso a lo largo del tiempo."
+            "value" : "Un panorama de tu progreso a lo largo del tiempo."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ottieni una panoramica dei tuoi progressi nel tempo."
           }
         }
       }
@@ -740,6 +801,12 @@
             "state" : "translated",
             "value" : "Panorama"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panoramica"
+          }
         }
       }
     },
@@ -756,6 +823,12 @@
             "state" : "translated",
             "value" : "Período"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Periodo"
+          }
         }
       }
     },
@@ -765,6 +838,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zeiträume"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Períodos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Periodi"
           }
         }
       }
@@ -786,7 +871,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mire sus estadísticas recientes para cualquier métrica."
+            "value" : "Mira tus estadísticas recientes para cualquier métrica."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizza le statistiche recenti per qualsiasi metrica."
           }
         }
       }
@@ -810,6 +901,12 @@
             "state" : "translated",
             "value" : "Recientes"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recenti"
+          }
         }
       }
     },
@@ -824,7 +921,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crear una Meta en Peak"
+            "value" : "Crear una meta en Peak"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crea un obiettivo in Peak"
           }
         }
       }
@@ -840,7 +943,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostrar Estadísticas"
+            "value" : "Mostrar estadísticas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra statistiche"
           }
         }
       }
@@ -856,7 +965,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostrar Estadísticas para Hoy"
+            "value" : "Mostrar estadísticas para hoy"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra statistiche di oggi"
           }
         }
       }
@@ -872,7 +987,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etapa de Sueño"
+            "value" : "Etapa de sueño"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fase di sonno"
           }
         }
       }
@@ -890,6 +1011,12 @@
             "state" : "translated",
             "value" : "Estadísticas"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistica"
+          }
         }
       }
     },
@@ -905,6 +1032,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toca o mantén pulsado para configurar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tocca e tieni premuto per configurare"
           }
         }
       }
@@ -926,7 +1059,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toque para Desbloquear"
+            "value" : "Toca para desbloquear"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tocca per sbloccare"
           }
         }
       }
@@ -940,6 +1079,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tema"
@@ -964,7 +1109,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sus estadísticas para hoy."
+            "value" : "Tus estadísticas de hoy."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le tue statistiche di oggi."
           }
         }
       }
@@ -988,6 +1139,12 @@
             "state" : "translated",
             "value" : "Hoy"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi"
+          }
         }
       }
     },
@@ -1008,7 +1165,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vea su progreso total durante la última semana, mes y año."
+            "value" : "Mira tu progreso total durante la última semana, el mes y el año."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda i tuoi progressi totali nell'ultima settimana, mese e anno."
           }
         }
       }
@@ -1032,6 +1195,12 @@
             "state" : "translated",
             "value" : "Totales"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totali"
+          }
         }
       }
     },
@@ -1052,7 +1221,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mire las tendencias en su progreso."
+            "value" : "Mira las tendencias en tu progreso."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monitora e migliora le tue prestazioni passate."
           }
         }
       }
@@ -1076,6 +1251,12 @@
             "state" : "translated",
             "value" : "Tendencias"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trend"
+          }
         }
       }
     },
@@ -1090,7 +1271,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Metas"
+            "value" : "Ver metas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizza obiettivi"
           }
         }
       }
@@ -1106,7 +1293,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Fijados"
+            "value" : "Ver fijados"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizza fissati"
           }
         }
       }
@@ -1122,7 +1315,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipo de Entreno"
+            "value" : "Tipo de entreno"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipo di allenamento"
           }
         }
       }
@@ -1138,7 +1337,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipos de Entreno"
+            "value" : "Tipos de entreno"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipi di allenamento"
           }
         }
       }

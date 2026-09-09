@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "Una visualización rotativa de la interfaz de usuario para pasos, entrenamientos y anillos de actividad"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una serie di elementi segnaposto per passi, allenamenti e anelli attività"
+          }
         }
       }
     },
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configure sus métricas y bloques"
+            "value" : "Configura tus métricas y bloques"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configura le tue metriche e i tuoi blocchi"
           }
         }
       }
@@ -65,7 +77,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Su Panel Personal de Fitness"
+            "value" : "Tu panel personal de fitness"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il tuo pannello fitness personale"
           }
         }
       }
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sus datos de salud son extremadamente confidenciales y, por eso, Peak no recopila ningún dato del usuario."
+            "value" : "Tus datos de salud son extremadamente confidenciales y, por eso, Peak no recopila ningún dato del usuario."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I tuoi dati sanitari sono estremamente sensibili, per questo Peak non raccoglie alcun dato utente."
           }
         }
       }
@@ -111,7 +135,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Privada por Diseño"
+            "value" : "Privada por diseño"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privata fin dalla progettazione"
           }
         }
       }
@@ -136,6 +166,12 @@
             "state" : "translated",
             "value" : "Una lista de bloques de vista general superpuestos parcialmente desde la aplicación, renderizada en diferentes temas multicolores"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un elenco sovrapposto di blocchi Panoramica dell'app mostrati in diversi temi colorati"
+          }
         }
       }
     },
@@ -157,7 +193,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elija su estilo."
+            "value" : "Elige tu estilo."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scegli il tuo stile."
           }
         }
       }
@@ -180,7 +222,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Una Amplia Variedad de Temas"
+            "value" : "Una amplia variedad de temas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un'ampia varietà di temi"
           }
         }
       }
@@ -205,6 +253,12 @@
             "state" : "translated",
             "value" : "Bienvenido a"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benvenuto su"
+          }
         }
       }
     },
@@ -228,6 +282,12 @@
             "state" : "translated",
             "value" : "Una pantalla de inicio y una de bloqueo, cada una de las cuales muestra varios widgets de Peak."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una schermata Home e di blocco, ciascuna con diversi widget di Peak."
+          }
         }
       }
     },
@@ -249,7 +309,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Siempre vigile su progreso."
+            "value" : "Sigue siempre tu progreso."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tieni sempre d'occhio i tuoi progressi."
           }
         }
       }
@@ -272,7 +338,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Widgets de Pantalla de Inicio y Pantalla de Bloqueo"
+            "value" : "Widgets de pantalla de inicio y pantalla de bloqueo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget per schermata Home e di blocco"
           }
         }
       }

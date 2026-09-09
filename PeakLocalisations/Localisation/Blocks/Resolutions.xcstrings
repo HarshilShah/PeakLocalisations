@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "Actual"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attuale"
+          }
         }
       }
     },
@@ -43,6 +49,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Siguiente"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Successivo"
           }
         }
       }
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "Anterior"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precedente"
+          }
         }
       }
     },
@@ -90,6 +108,12 @@
             "state" : "translated",
             "value" : "Inicial"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniziale"
+          }
         }
       }
     },
@@ -111,7 +135,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Destino"
+            "value" : "Meta"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo"
           }
         }
       }
@@ -135,7 +165,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Está en la recta final! Solo falta una meta más"
+            "value" : "¡Estás en la recta final! Solo falta una meta más"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei al traguardo! Manca solo un obiettivo"
           }
         }
       }
@@ -158,7 +194,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Progreso de la Resolución"
+            "value" : "Progreso del propósito"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Progresso del proposito"
           }
         }
       }
@@ -181,7 +223,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resoluciones"
+            "value" : "Propósitos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Propositi"
           }
         }
       }

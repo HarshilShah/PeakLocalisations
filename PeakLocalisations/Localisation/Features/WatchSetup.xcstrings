@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak todavía no está listo para usar en su reloj"
+            "value" : "Peak todavía no está listo para usarse en tu reloj"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak non è ancora pronto per l'uso sul tuo Apple Watch"
           }
         }
       }
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¿Cancelar la Configuración de Peak en su Apple Watch?"
+            "value" : "¿Cancelar la configuración de Peak en tu Apple Watch?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuoi annullare la configurazione di Peak su Apple Watch?"
           }
         }
       }
@@ -65,7 +77,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cancelar Configuración"
+            "value" : "Cancelar configuración"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla configurazione"
           }
         }
       }
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuar Configuración"
+            "value" : "Continuar configuración"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continua configurazione"
           }
         }
       }
@@ -111,7 +135,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mantén Peak abierto en su teléfono y en su reloj para terminar de configurar."
+            "value" : "Mantén Peak abierto en tu teléfono y en tu reloj para terminar de configurarlo."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tieni Peak aperto su iPhone e Apple Watch per completare la configurazione."
           }
         }
       }
@@ -134,7 +164,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preparando Peak para su Apple Watch"
+            "value" : "Preparando Peak para tu Apple Watch"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparazione di Peak per Apple Watch"
           }
         }
       }

@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "Sobre"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Info"
+          }
         }
       }
     },
@@ -46,6 +52,12 @@
             "state" : "translated",
             "value" : "Sobre Peak"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Info su Peak"
+          }
         }
       }
     },
@@ -69,6 +81,12 @@
             "state" : "translated",
             "value" : "Peak está diseñado y desarrollado por Harshil Shah, en Mumbai, India."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak è progettata e sviluppata da Harshil Shah a Mumbai, India."
+          }
         }
       }
     },
@@ -90,7 +108,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acerca del Desarrollador"
+            "value" : "Acerca del desarrollador"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informazioni sullo sviluppatore"
           }
         }
       }
@@ -115,6 +139,12 @@
             "state" : "translated",
             "value" : "Apariencia"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aspetto"
+          }
         }
       }
     },
@@ -137,6 +167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oscura"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scuro"
           }
         }
       }
@@ -161,6 +197,12 @@
             "state" : "translated",
             "value" : "Ligera"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chiaro"
+          }
         }
       }
     },
@@ -182,7 +224,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Según el Sistema"
+            "value" : "Según el sistema"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatico"
           }
         }
       }
@@ -205,7 +253,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copia de Seguridad"
+            "value" : "Copia de seguridad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backup"
           }
         }
       }
@@ -230,6 +284,12 @@
             "state" : "translated",
             "value" : "Tamaño"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dimensione"
+          }
         }
       }
     },
@@ -253,6 +313,12 @@
             "state" : "translated",
             "value" : "Completo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intero"
+          }
         }
       }
     },
@@ -272,6 +338,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grande"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Grande"
@@ -299,6 +371,12 @@
             "state" : "translated",
             "value" : "Mediano"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medio"
+          }
         }
       }
     },
@@ -321,6 +399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pequeño"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piccolo"
           }
         }
       }
@@ -345,6 +429,12 @@
             "state" : "translated",
             "value" : "por %@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "di %@"
+          }
         }
       }
     },
@@ -368,6 +458,12 @@
             "state" : "translated",
             "value" : "por [Harshil Shah](https://harshil.net)"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "di [Harshil Shah](https://harshil.net)"
+          }
         }
       }
     },
@@ -389,7 +485,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tema Oscuro"
+            "value" : "Tema oscuro"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema scuro"
           }
         }
       }
@@ -415,6 +517,12 @@
             "state" : "translated",
             "value" : "Visual"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schermo"
+          }
         }
       }
     },
@@ -437,6 +545,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kilómetros (km)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chilometri (km)"
           }
         }
       }
@@ -461,6 +575,12 @@
             "state" : "translated",
             "value" : "Millas (mi)"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miglia (mi)"
+          }
         }
       }
     },
@@ -482,7 +602,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calorías (Cal)"
+            "value" : "Calorías (cal)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calorie (Cal)"
           }
         }
       }
@@ -507,6 +633,12 @@
             "state" : "translated",
             "value" : "kilocalorías (kcal)"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chilocalorie (kcal)"
+          }
         }
       }
     },
@@ -529,6 +661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "kilojulio (kJ)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chilojoule (kJ)"
           }
         }
       }
@@ -554,6 +692,12 @@
             "state" : "translated",
             "value" : "Comentarios"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback"
+          }
         }
       }
     },
@@ -575,7 +719,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Primer Día de la Semana"
+            "value" : "Primer día de la semana"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Primo giorno della settimana"
           }
         }
       }
@@ -601,6 +751,12 @@
             "state" : "translated",
             "value" : "General"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Generali"
+          }
         }
       }
     },
@@ -624,6 +780,12 @@
             "state" : "translated",
             "value" : "Vibración"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback aptico"
+          }
         }
       }
     },
@@ -645,7 +807,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pantalla de Inicio"
+            "value" : "Pantalla de inicio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schermata Home"
           }
         }
       }
@@ -668,7 +836,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tema Ligero"
+            "value" : "Tema ligero"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema chiaro"
           }
         }
       }
@@ -691,7 +865,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pantalla de Bloqueo"
+            "value" : "Pantalla de bloqueo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schermata di blocco"
           }
         }
       }
@@ -716,6 +896,12 @@
             "state" : "translated",
             "value" : "Hecho en Bombay, India"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fatto a Mumbai, India"
+          }
         }
       }
     },
@@ -737,7 +923,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abrir App"
+            "value" : "Abrir app"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri l'app"
           }
         }
       }
@@ -760,7 +952,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abrir Ajustes"
+            "value" : "Abrir Configuración"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri Impostazioni"
           }
         }
       }
@@ -783,7 +981,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abrir Ajustes del Sistema"
+            "value" : "Abrir Configuración del sistema"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri Impostazioni di sistema"
           }
         }
       }
@@ -806,7 +1010,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seleccione un tema"
+            "value" : "Selecciona un tema"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scegli un tema"
           }
         }
       }
@@ -829,7 +1039,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seleccione un Icono"
+            "value" : "Selecciona un ícono"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scegli un'icona"
           }
         }
       }
@@ -854,6 +1070,12 @@
             "state" : "translated",
             "value" : "Privacidad"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Privacy"
+          }
         }
       }
     },
@@ -875,7 +1097,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Política de Privacidad"
+            "value" : "Política de privacidad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informativa sulla privacy"
           }
         }
       }
@@ -900,6 +1128,12 @@
             "state" : "translated",
             "value" : "Actualizar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiorna"
+          }
         }
       }
     },
@@ -921,7 +1155,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reseña en la App Store"
+            "value" : "Reseña en App Store"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scrivi una recensione su App Store"
           }
         }
       }
@@ -944,7 +1184,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enviar un Mensaje"
+            "value" : "Enviar un mensaje"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invia un messaggio"
           }
         }
       }
@@ -967,7 +1213,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enviar un Correo"
+            "value" : "Enviar un correo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invia un'email"
           }
         }
       }
@@ -993,6 +1245,12 @@
             "state" : "translated",
             "value" : "Compartir Peak"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Condividi Peak"
+          }
         }
       }
     },
@@ -1014,7 +1272,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agradecimiento Especial"
+            "value" : "Agradecimiento especial"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ringraziamenti speciali"
           }
         }
       }
@@ -1037,7 +1301,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En Reposo"
+            "value" : "En reposo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standby"
           }
         }
       }
@@ -1062,6 +1332,12 @@
             "state" : "translated",
             "value" : "Términos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termini"
+          }
         }
       }
     },
@@ -1083,7 +1359,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Términos de Servicio"
+            "value" : "Términos de servicio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Termini di servizio"
           }
         }
       }
@@ -1104,6 +1386,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tema"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tema"
@@ -1129,7 +1417,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bibliotecas de Terceros"
+            "value" : "Bibliotecas de terceros"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Librerie di terze parti"
           }
         }
       }
@@ -1152,7 +1446,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustes"
+            "value" : "Configuración"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impostazioni"
           }
         }
       }
@@ -1178,6 +1478,12 @@
             "state" : "translated",
             "value" : "Unidades"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unità di misura"
+          }
         }
       }
     },
@@ -1199,7 +1505,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Versión %@ (Compilación %@)"
+            "value" : "Versión %@ (compilación %@)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versione %1$@ (build %2$@)"
           }
         }
       }
@@ -1224,6 +1536,12 @@
             "state" : "translated",
             "value" : "Sitio web"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sito web"
+          }
         }
       }
     },
@@ -1246,6 +1564,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "kilogramos (kg)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chilogrammi (kg)"
           }
         }
       }
@@ -1270,6 +1594,12 @@
             "state" : "translated",
             "value" : "libras (lb)"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Libbre (lb)"
+          }
         }
       }
     },
@@ -1293,6 +1623,12 @@
             "state" : "translated",
             "value" : "piedras (st)"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stone (st)"
+          }
         }
       }
     },
@@ -1314,7 +1650,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Interacciones de Widget"
+            "value" : "Interacciones de widget"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interazioni widget"
           }
         }
       }

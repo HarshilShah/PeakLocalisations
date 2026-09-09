@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "Fecha"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Data"
+          }
         }
       }
     },
@@ -80,6 +86,24 @@
               }
             }
           }
+        },
+        "it" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Ultimo giorno"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Ultimi %lld giorni"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -103,6 +127,12 @@
             "state" : "translated",
             "value" : "Período"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Periodo"
+          }
         }
       }
     },
@@ -124,7 +154,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seleccione un Período"
+            "value" : "Selecciona un período"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona un periodo"
           }
         }
       }
@@ -149,6 +185,12 @@
             "state" : "translated",
             "value" : "Períodos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Periodi"
+          }
         }
       }
     },
@@ -172,6 +214,12 @@
             "state" : "translated",
             "value" : "Todos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sempre"
+          }
         }
       }
     },
@@ -194,6 +242,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Días"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorni"
           }
         }
       }
@@ -260,6 +314,24 @@
               }
             }
           }
+        },
+        "it" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Ieri"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld giorni fa"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -319,6 +391,24 @@
               }
             }
           }
+        },
+        "it" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Tra %lld giorno"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Tra %lld giorni"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -341,6 +431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Número de días"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numero di giorni"
           }
         }
       }
@@ -365,6 +461,12 @@
             "state" : "translated",
             "value" : "Hoy"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi"
+          }
         }
       }
     },
@@ -387,6 +489,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ayer"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ieri"
           }
         }
       }
@@ -411,6 +519,12 @@
             "state" : "translated",
             "value" : "Todos los días"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogni giorno"
+          }
         }
       }
     },
@@ -433,6 +547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mes actual"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mese"
           }
         }
       }
@@ -493,6 +613,24 @@
               }
             }
           }
+        },
+        "it" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Tra %lld mese"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Tra %lld mesi"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -515,6 +653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Número de meses"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numero di mesi"
           }
         }
       }
@@ -539,6 +683,12 @@
             "state" : "translated",
             "value" : "Este mes"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questo mese"
+          }
         }
       }
     },
@@ -561,6 +711,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "El mes pasado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il mese scorso"
           }
         }
       }
@@ -585,6 +741,12 @@
             "state" : "translated",
             "value" : "Cada mes"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogni mese"
+          }
         }
       }
     },
@@ -607,6 +769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Semana"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settimana"
           }
         }
       }
@@ -667,6 +835,24 @@
               }
             }
           }
+        },
+        "it" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Tra %lld settimana"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Tra %lld settimane"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -689,6 +875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Número de semanas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numero di settimane"
           }
         }
       }
@@ -713,6 +905,12 @@
             "state" : "translated",
             "value" : "Esta semana"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questa sett."
+          }
         }
       }
     },
@@ -736,6 +934,12 @@
             "state" : "translated",
             "value" : "La semana pasada"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scorsa sett."
+          }
         }
       }
     },
@@ -757,7 +961,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cada Semana"
+            "value" : "Cada semana"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogni settimana"
           }
         }
       }
@@ -778,6 +988,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "S%lld"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "S%lld"
@@ -805,6 +1021,12 @@
             "state" : "translated",
             "value" : "Año"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anno"
+          }
         }
       }
     },
@@ -826,7 +1048,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Número de Años"
+            "value" : "Número de años"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numero di anni"
           }
         }
       }
@@ -849,7 +1077,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Este Año"
+            "value" : "Este año"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quest'anno"
           }
         }
       }
@@ -872,7 +1106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El Año Pasado"
+            "value" : "El año pasado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'anno scorso"
           }
         }
       }
@@ -895,7 +1135,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cada Año"
+            "value" : "Cada año"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ogni anno"
           }
         }
       }
@@ -920,6 +1166,12 @@
             "state" : "translated",
             "value" : "Plazo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intervallo"
+          }
         }
       }
     },
@@ -940,6 +1192,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calendario"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Calendario"
@@ -967,6 +1225,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Variable"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Variabile"
           }
         }
       }

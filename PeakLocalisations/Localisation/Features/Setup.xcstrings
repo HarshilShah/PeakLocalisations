@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Su actividad reciente está lista. Continuaremos cargando el historial anterior en segundo plano."
+            "value" : "Tu actividad reciente está lista. Continuaremos cargando el historial anterior en segundo plano."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La tua attività recente è pronta. Continueremo a caricare la cronologia precedente in background."
           }
         }
       }
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preparando Su Panel"
+            "value" : "Preparando tu panel"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparazione del pannello"
           }
         }
       }
@@ -66,6 +78,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Comenzar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inizia"
           }
         }
       }

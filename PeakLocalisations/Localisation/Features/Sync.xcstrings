@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak sincroniza y realiza copias de seguridad de sus métricas, bloques y configuraciones en su cuenta de iCloud"
+            "value" : "Peak sincroniza y realiza copias de seguridad de tus métricas, bloques y configuraciones en tu cuenta de iCloud"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak sincronizza e crea copie di backup di metriche, blocchi e impostazioni nel tuo account iCloud"
           }
         }
       }
@@ -44,6 +50,12 @@
             "state" : "translated",
             "value" : "Mantenga la pantalla iluminada mientras Peak se configura"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tieni lo schermo acceso durante la configurazione di Peak"
+          }
         }
       }
     },
@@ -65,7 +77,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Última Sincronización Exitosa"
+            "value" : "Última sincronización exitosa"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ultima sincronizzazione riuscita"
           }
         }
       }
@@ -90,6 +108,12 @@
             "state" : "translated",
             "value" : "Estado"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stato"
+          }
         }
       }
     },
@@ -112,6 +136,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attivo"
           }
         }
       }
@@ -136,6 +166,12 @@
             "state" : "translated",
             "value" : "Buscando datos de sincronización"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ricerca dei dati di sincronizzazione"
+          }
         }
       }
     },
@@ -157,7 +193,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abra Peak en su iPhone para continuar"
+            "value" : "Abre Peak en tu iPhone para continuar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri Peak sul tuo iPhone per continuare"
           }
         }
       }
@@ -182,6 +224,12 @@
             "state" : "translated",
             "value" : "Fallido"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non riuscita"
+          }
         }
       }
     },
@@ -204,6 +252,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No se encontraron datos de sincronización"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dati di sincronizzazione non trovati"
           }
         }
       }
@@ -228,6 +282,12 @@
             "state" : "translated",
             "value" : "Estás desconectado. Conéctese a Internet para cargar datos sincronizados"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei offline. Connettiti a internet per caricare i dati sincronizzati"
+          }
         }
       }
     },
@@ -250,6 +310,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Requiere actualización de OS/app"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Richiede l'aggiornamento del sistema operativo o dell'app"
           }
         }
       }
@@ -274,6 +340,12 @@
             "state" : "translated",
             "value" : "Pendiente"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In sospeso"
+          }
         }
       }
     },
@@ -296,6 +368,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Datos de sincronización restaurados!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dati di sincronizzazione ripristinati!"
           }
         }
       }
@@ -320,6 +398,12 @@
             "state" : "translated",
             "value" : "Restaurando archivos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ripristino degli archivi"
+          }
         }
       }
     },
@@ -343,6 +427,12 @@
             "state" : "translated",
             "value" : "Sincronización"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sincronizzazione"
+          }
         }
       }
     },
@@ -364,7 +454,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sincronización y Copias de Seguridad"
+            "value" : "Sincronización y copias de seguridad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sincronizzazione e backup"
           }
         }
       }

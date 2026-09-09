@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dormir 8 Horas"
+            "value" : "Dormir 8 horas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dormi 8 ore"
           }
         }
       }
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comenzar a Entrenar"
+            "value" : "Comenzar a entrenar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inizia ad allenarti"
           }
         }
       }
@@ -65,7 +77,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caminar 10,000 Pasos"
+            "value" : "Caminar 10,000 pasos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cammina per 10.000 passi"
           }
         }
       }
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Subir o Bajar de Peso"
+            "value" : "Subir o bajar de peso"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aumenta o perdi peso"
           }
         }
       }
@@ -113,6 +137,12 @@
             "state" : "translated",
             "value" : "Objetivos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivi"
+          }
         }
       }
     },
@@ -134,7 +164,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estadísticas y Números"
+            "value" : "Estadísticas y números"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistiche e numeri"
           }
         }
       }
@@ -157,7 +193,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distancias Recientes de Pasos"
+            "value" : "Distancias recientes de pasos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distanze recenti dei passi"
           }
         }
       }
@@ -180,7 +222,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pasos de Esta Semana, Mes y Año"
+            "value" : "Pasos de esta semana, mes y año"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passi di questa settimana, mese e anno"
           }
         }
       }
@@ -203,7 +251,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Un Resumen de sus Entrenamientos"
+            "value" : "Un resumen de tus entrenamientos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una panoramica dei tuoi allenamenti"
           }
         }
       }
@@ -228,6 +282,12 @@
             "state" : "translated",
             "value" : "Hoy"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi"
+          }
         }
       }
     },
@@ -249,7 +309,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tendencias en tu Sueño"
+            "value" : "Tendencias en tu sueño"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trend del tuo sonno"
           }
         }
       }
@@ -272,7 +338,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establecer una Referencia de Pasos"
+            "value" : "Establecer un benchmark de pasos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imposta un benchmark per i passi"
           }
         }
       }
@@ -295,7 +367,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gráfica de tu Peso"
+            "value" : "Gráfica de tu peso"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grafico del tuo peso"
           }
         }
       }
@@ -319,6 +397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visualizaciones"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizzazioni"
           }
         }
       }

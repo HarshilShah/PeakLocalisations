@@ -20,7 +20,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hola, soy Harshil, el desarrollador de Peak. ¡Me encantaría conocer qué piensa sobre la aplicación!"
+            "value" : "Hola, soy Harshil, el desarrollador de Peak. ¡Me encantaría saber qué piensas de la app!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciao, sono Harshil, lo sviluppatore di Peak. Mi farebbe molto piacere sapere cosa ne pensi dell'app!"
           }
         }
       }
@@ -44,7 +50,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¿Está disfrutando de Peak?"
+            "value" : "¿Estás disfrutando de Peak?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ti piace Peak finora?"
           }
         }
       }

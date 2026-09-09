@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energía en Actividad"
+            "value" : "Energía en actividad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Energia attiva"
           }
         }
       }
@@ -45,6 +51,12 @@
             "state" : "translated",
             "value" : "Todos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutti"
+          }
         }
       }
     },
@@ -67,6 +79,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Promedio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Media"
           }
         }
       }
@@ -91,6 +109,12 @@
             "state" : "translated",
             "value" : "Cadencia"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cadenza"
+          }
         }
       }
     },
@@ -114,6 +138,12 @@
             "state" : "translated",
             "value" : "Actual"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attuale"
+          }
         }
       }
     },
@@ -136,6 +166,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Días de actividad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorni attivi"
           }
         }
       }
@@ -182,6 +218,12 @@
             "state" : "translated",
             "value" : "%1$lld/%2$lld días de actividad"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld/%2$lld giorni attivi"
+          }
         }
       }
     },
@@ -205,6 +247,12 @@
             "state" : "translated",
             "value" : "Duración"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durata"
+          }
         }
       }
     },
@@ -227,7 +275,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiempo Transcurrido"
+            "value" : "Tiempo transcurrido"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo trascorso"
           }
         }
       }
@@ -252,6 +306,12 @@
             "state" : "translated",
             "value" : "Desnivel"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dislivello positivo"
+          }
         }
       }
     },
@@ -274,6 +334,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Último"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Più recente"
           }
         }
       }
@@ -298,6 +364,12 @@
             "state" : "translated",
             "value" : "Máximo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Massimo"
+          }
         }
       }
     },
@@ -321,6 +393,12 @@
             "state" : "translated",
             "value" : "Mínimo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimo"
+          }
         }
       }
     },
@@ -342,7 +420,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Número de Días"
+            "value" : "Número de días"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numero di giorni"
           }
         }
       }
@@ -365,7 +449,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Número de Entrenos"
+            "value" : "Número de entrenos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numero di allenamenti"
           }
         }
       }
@@ -387,6 +477,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ritmo"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ritmo"
@@ -414,6 +510,12 @@
             "state" : "translated",
             "value" : "Anterior"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precedente"
+          }
         }
       }
     },
@@ -434,6 +536,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@/%2$@"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@/%2$@"
@@ -462,6 +570,12 @@
             "state" : "translated",
             "value" : "/%@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/%@"
+          }
         }
       }
     },
@@ -486,6 +600,12 @@
             "state" : "translated",
             "value" : "%1$@ de %2$@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ su %2$@"
+          }
         }
       }
     },
@@ -506,6 +626,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/%@"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "/%@"
@@ -534,6 +660,12 @@
             "state" : "translated",
             "value" : "%1$@–%2$@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@–%2$@"
+          }
         }
       }
     },
@@ -554,6 +686,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "> %@"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "> %@"
@@ -582,6 +720,12 @@
             "state" : "translated",
             "value" : "< %@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "< %@"
+          }
         }
       }
     },
@@ -603,7 +747,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etapa de Sueño"
+            "value" : "Etapa de sueño"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fase di sonno"
           }
         }
       }
@@ -626,7 +776,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seleccione la Etapa de Sueño"
+            "value" : "Selecciona la etapa de sueño"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona fase di sonno"
           }
         }
       }
@@ -651,6 +807,12 @@
             "state" : "translated",
             "value" : "Velocidad"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velocità"
+          }
         }
       }
     },
@@ -673,6 +835,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "División"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parziale"
           }
         }
       }
@@ -697,6 +865,12 @@
             "state" : "translated",
             "value" : "Divisiones"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parziali"
+          }
         }
       }
     },
@@ -719,6 +893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estadísticas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistiche"
           }
         }
       }
@@ -743,6 +923,12 @@
             "state" : "translated",
             "value" : "Tiempo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo"
+          }
         }
       }
     },
@@ -766,6 +952,12 @@
             "state" : "translated",
             "value" : "Total"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totale"
+          }
         }
       }
     },
@@ -787,7 +979,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energía Total"
+            "value" : "Energía total"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Energia totale"
           }
         }
       }
@@ -813,6 +1011,12 @@
             "state" : "translated",
             "value" : "vs %@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vs %@"
+          }
         }
       }
     },
@@ -834,7 +1038,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estadística de Entreno"
+            "value" : "Estadística de entreno"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Statistica allenamento"
           }
         }
       }
@@ -857,7 +1067,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seleccione una Estadística de Entreno"
+            "value" : "Selecciona una estadística de entreno"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona una statistica di allenamento"
           }
         }
       }
@@ -880,7 +1096,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipo de Entreno"
+            "value" : "Tipo de entreno"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipo di allenamento"
           }
         }
       }
@@ -903,7 +1125,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipos de Entreno"
+            "value" : "Tipos de entreno"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipi di allenamento"
           }
         }
       }
@@ -928,6 +1156,12 @@
             "state" : "translated",
             "value" : "Todos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutti gli allenamenti"
+          }
         }
       }
     },
@@ -949,7 +1183,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seleccionar Tipos de Entreno"
+            "value" : "Seleccionar tipos de entreno"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona tipi di allenamento"
           }
         }
       }
@@ -972,7 +1212,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Si cree que falta un tipo de entreno, comuníquese con el desarrollador"
+            "value" : "Si crees que falta un tipo de entreno, comunícate con el desarrollador"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se pensi che manchi un tipo di allenamento, contatta lo sviluppatore"
           }
         }
       }
@@ -997,6 +1243,12 @@
             "state" : "translated",
             "value" : "Nada que ver aquí"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nulla da vedere qui"
+          }
         }
       }
     },
@@ -1018,7 +1270,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostrar Todo"
+            "value" : "Mostrar todo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra tutto"
           }
         }
       }

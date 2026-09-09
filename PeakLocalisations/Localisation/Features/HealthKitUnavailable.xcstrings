@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "Peak requiere HealthKit para funcionar. Para continuar, abre la aplicación en un iPhone, o en un iPad con iOS 17."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak richiede HealthKit per funzionare. Per continuare, apri l'app su un iPhone o su un iPad con iOS 17 o successivo."
+          }
         }
       }
     },
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "HealthKit No Disponible"
+            "value" : "HealthKit no disponible"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HealthKit non disponibile"
           }
         }
       }
