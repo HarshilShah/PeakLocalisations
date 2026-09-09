@@ -231,6 +231,29 @@
         }
       }
     },
+    "History" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verlauf"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historial"
+          }
+        }
+      }
+    },
     "History.Empty.Description" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -484,6 +507,29 @@
         }
       }
     },
+    "Stat.BestDay" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bester Tag"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Best Day"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejor Día"
+          }
+        }
+      }
+    },
     "Stat.Change" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -530,30 +576,7 @@
         }
       }
     },
-    "Stat.DaysInHand" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verfügbare Tage"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Days in Hand"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Días en Mano"
-          }
-        }
-      }
-    },
-    "Stat.DaysRemaining" : {
+    "Stat.DaysLeft" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
@@ -565,13 +588,59 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Remaining Days"
+            "value" : "Days Left"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Días Restantes"
+          }
+        }
+      }
+    },
+    "Stat.DaysNeeded" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benötigte Tage"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Days Needed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Días Necesarios"
+          }
+        }
+      }
+    },
+    "Stat.Projected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prognostiziert"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projected"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proyectado"
           }
         }
       }
@@ -641,6 +710,29 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ritmo Requerido"
+          }
+        }
+      }
+    },
+    "Stat.Start" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicio"
           }
         }
       }

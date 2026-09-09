@@ -142,8 +142,8 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle"
-          }
-        },
+      }
+    },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -167,6 +167,9 @@
           }
         }
       }
+    },
+    "Automatic" : {
+
     },
     "Benchmark" : {
       "localizations" : {
@@ -272,6 +275,26 @@
         }
       }
     },
+    "ComparisonWidget.Description" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compare progress to previous periods."
+          }
+        }
+      }
+    },
+    "ComparisonWidget.Title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparison"
+          }
+        }
+      }
+    },
     "Dark Mode Theme" : {
       "localizations" : {
         "de" : {
@@ -287,6 +310,9 @@
           }
         }
       }
+    },
+    "DoNotLocalize.ComparisonPeriodPicker" : {
+
     },
     "DoNotLocalize.configKey" : {
       "localizations" : {
@@ -384,6 +410,9 @@
         }
       }
     },
+    "Goals" : {
+
+    },
     "GoalWidget.Description" : {
       "localizations" : {
         "de" : {
@@ -468,38 +497,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Historia"
-          }
-        }
-      }
-    },
-    "Leave this empty to show totals for all workout types" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Leer lassen um die Summe aller deiner Trainings-Arten"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Déjelo vacío para mostrar los totales de todos los tipos de entrenamiento."
-          }
-        }
-      }
-    },
-    "Leave this empty to show trends for all workout types" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Leer lassen um die Trends aller deiner Trainings-Arten"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Déjelo vacío para mostrar tendencias para todos los tipos de entrenamiento."
           }
         }
       }

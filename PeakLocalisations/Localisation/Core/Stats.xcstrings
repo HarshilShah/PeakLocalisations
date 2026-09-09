@@ -94,7 +94,53 @@
         }
       }
     },
+    "Current" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuell"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actual"
+          }
+        }
+      }
+    },
     "Days Active" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktive Tage"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Days Active"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Días de actividad"
+          }
+        }
+      }
+    },
+    "Days Active Ratio" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
@@ -110,13 +156,13 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "needs_review",
                       "value" : "%arg Tag"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "translated",
+                      "state" : "needs_review",
                       "value" : "%arg Tage"
                     }
                   }
@@ -205,6 +251,29 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desnivel"
+          }
+        }
+      }
+    },
+    "Latest" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuell"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Latest"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Último"
           }
         }
       }
@@ -325,6 +394,29 @@
         }
       }
     },
+    "Previous" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorherige"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previous"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anterior"
+          }
+        }
+      }
+    },
     "Progress" : {
       "comment" : "Used to show progress (first parameter) relative to a goal (second parameter)",
       "extractionState" : "manual",
@@ -417,6 +509,78 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "/%@"
+          }
+        }
+      }
+    },
+    "Range" : {
+      "comment" : "Used to show a range between two values (e.g. \"116–133 bpm\")",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@–%2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@–%2$@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@–%2$@"
+          }
+        }
+      }
+    },
+    "Range.Over" : {
+      "comment" : "Used to show a value over a threshold (e.g. \"> 169 bpm\")",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "> %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "> %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "> %@"
+          }
+        }
+      }
+    },
+    "Range.Under" : {
+      "comment" : "Used to show a value under a threshold (e.g. \"< 95 bpm\")",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "< %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "< %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "< %@"
           }
         }
       }
@@ -624,6 +788,30 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Energía Total"
+          }
+        }
+      }
+    },
+    "Versus" : {
+      "comment" : "Used to show a comparison against a previous value, for example \"vs. 10,000 steps\"",
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vs. %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vs. %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "vs %@"
           }
         }
       }
