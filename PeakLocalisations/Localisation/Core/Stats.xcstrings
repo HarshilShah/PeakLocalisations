@@ -192,13 +192,13 @@
                 "plural" : {
                   "one" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
+                      "state" : "translated",
                       "value" : "%arg Tag"
                     }
                   },
                   "other" : {
                     "stringUnit" : {
-                      "state" : "needs_review",
+                      "state" : "translated",
                       "value" : "%arg Tage"
                     }
                   }
