@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fútbol Americano"
+            "value" : "Fútbol americano"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Football americano"
           }
         }
       }
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiro con Arco"
+            "value" : "Tiro con arco"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiro con l'arco"
           }
         }
       }
@@ -65,7 +77,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fútbol Australiano"
+            "value" : "Fútbol australiano"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Football australiano"
           }
         }
       }
@@ -90,6 +108,12 @@
             "state" : "translated",
             "value" : "Bádminton"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Badminton"
+          }
         }
       }
     },
@@ -112,6 +136,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Barre"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sbarra"
           }
         }
       }
@@ -136,6 +166,12 @@
             "state" : "translated",
             "value" : "Béisbol"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baseball"
+          }
         }
       }
     },
@@ -158,6 +194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Baloncesto"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pallacanestro"
           }
         }
       }
@@ -182,6 +224,12 @@
             "state" : "translated",
             "value" : "Bolos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bowling"
+          }
         }
       }
     },
@@ -204,6 +252,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Boxeo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pugilato"
           }
         }
       }
@@ -228,6 +282,12 @@
             "state" : "translated",
             "value" : "Baile"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ballo cardio"
+          }
         }
       }
     },
@@ -250,6 +310,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Escalada"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrampicata"
           }
         }
       }
@@ -274,6 +340,12 @@
             "state" : "translated",
             "value" : "Enfriamiento"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Defaticamento"
+          }
         }
       }
     },
@@ -296,6 +368,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Core"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Core training"
           }
         }
       }
@@ -320,6 +398,12 @@
             "state" : "translated",
             "value" : "Críquet"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cricket"
+          }
         }
       }
     },
@@ -341,7 +425,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esquí de Fondo"
+            "value" : "Esquí de fondo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sci di fondo"
           }
         }
       }
@@ -364,7 +454,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entreno Cruzado"
+            "value" : "Entreno cruzado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cross training"
           }
         }
       }
@@ -385,6 +481,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Curling"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Curling"
@@ -412,6 +514,12 @@
             "state" : "translated",
             "value" : "Ciclismo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciclismo"
+          }
         }
       }
     },
@@ -435,6 +543,12 @@
             "state" : "translated",
             "value" : "Baile"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ballo"
+          }
         }
       }
     },
@@ -456,7 +570,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entreno Mediante Baile"
+            "value" : "Entreno mediante baile"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamento ispirato alla danza"
           }
         }
       }
@@ -481,6 +601,12 @@
             "state" : "translated",
             "value" : "Deportes de disco"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sport con disco"
+          }
         }
       }
     },
@@ -502,7 +628,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esquí Alpino"
+            "value" : "Esquí alpino"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sci alpino"
           }
         }
       }
@@ -527,6 +659,12 @@
             "state" : "translated",
             "value" : "Elíptica"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ellittica"
+          }
         }
       }
     },
@@ -548,7 +686,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deportes Ecuestres"
+            "value" : "Deportes ecuestres"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sport equestri"
           }
         }
       }
@@ -573,6 +717,12 @@
             "state" : "translated",
             "value" : "Ejercicios"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esercizi"
+          }
         }
       }
     },
@@ -596,6 +746,12 @@
             "state" : "translated",
             "value" : "Esgrima"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scherma"
+          }
         }
       }
     },
@@ -615,6 +771,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesca"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pesca"
@@ -640,7 +802,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Videojuegos Activos"
+            "value" : "Videojuegos activos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Videogiochi attivi"
           }
         }
       }
@@ -665,6 +833,12 @@
             "state" : "translated",
             "value" : "Flexibilidad"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flessibilità"
+          }
         }
       }
     },
@@ -686,7 +860,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entreno Funcional de Fuerza"
+            "value" : "Entreno funcional de fuerza"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamento funzionale di forza"
           }
         }
       }
@@ -707,6 +887,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Golf"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Golf"
@@ -734,6 +920,12 @@
             "state" : "translated",
             "value" : "Gimnasia"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ginnastica"
+          }
         }
       }
     },
@@ -755,7 +947,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ciclismo de Mano"
+            "value" : "Ciclismo de mano"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Handbike"
           }
         }
       }
@@ -780,6 +978,12 @@
             "state" : "translated",
             "value" : "Balonmano"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pallamano"
+          }
         }
       }
     },
@@ -802,6 +1006,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entreno de Intervalos de Alta Int."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamento HIIT"
           }
         }
       }
@@ -826,6 +1036,12 @@
             "state" : "translated",
             "value" : "Senderismo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trekking"
+          }
         }
       }
     },
@@ -845,6 +1061,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hockey"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hockey"
@@ -872,6 +1094,12 @@
             "state" : "translated",
             "value" : "Caza"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caccia"
+          }
         }
       }
     },
@@ -893,7 +1121,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deportes Individuales"
+            "value" : "Deportes individuales"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sport individuali"
           }
         }
       }
@@ -918,6 +1152,12 @@
             "state" : "translated",
             "value" : "Comba"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salto con la corda"
+          }
         }
       }
     },
@@ -937,6 +1177,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kickboxing"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Kickboxing"
@@ -964,6 +1210,12 @@
             "state" : "translated",
             "value" : "Lacrosse"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lacrosse"
+          }
         }
       }
     },
@@ -985,7 +1237,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artes Marciales"
+            "value" : "Artes marciales"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arti marziali"
           }
         }
       }
@@ -1008,7 +1266,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cuerpo y Mente"
+            "value" : "Cuerpo y mente"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mente e corpo"
           }
         }
       }
@@ -1031,7 +1295,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ejercicios Aeróbicos Mixtos"
+            "value" : "Ejercicios aeróbicos mixtos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cardio misto"
           }
         }
       }
@@ -1054,7 +1324,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ejercicios Aeróbicos Mixtos"
+            "value" : "Ejercicios aeróbicos mixtos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamento cardio misto"
           }
         }
       }
@@ -1079,6 +1355,12 @@
             "state" : "translated",
             "value" : "Otro"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altro"
+          }
         }
       }
     },
@@ -1100,7 +1382,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actividades al Aire Libre"
+            "value" : "Actividades al aire libre"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attività all'aperto"
           }
         }
       }
@@ -1123,7 +1411,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deportes de Remar"
+            "value" : "Deportes de remar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sport con pagaia"
           }
         }
       }
@@ -1144,6 +1438,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pickleball"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pickleball"
@@ -1171,6 +1471,12 @@
             "state" : "translated",
             "value" : "Pilates"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilates"
+          }
         }
       }
     },
@@ -1194,6 +1500,12 @@
             "state" : "translated",
             "value" : "Jugar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gioco"
+          }
         }
       }
     },
@@ -1215,7 +1527,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preparación y Recuperación"
+            "value" : "Preparación y recuperación"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preparazione e recupero"
           }
         }
       }
@@ -1238,7 +1556,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deportes de Raqueta"
+            "value" : "Deportes de raqueta"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sport con racchetta"
           }
         }
       }
@@ -1263,6 +1587,12 @@
             "state" : "translated",
             "value" : "Raquetbol"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Racquetball"
+          }
         }
       }
     },
@@ -1286,6 +1616,12 @@
             "state" : "translated",
             "value" : "Remo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canottaggio"
+          }
         }
       }
     },
@@ -1305,6 +1641,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rugby"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rugby"
@@ -1332,6 +1674,12 @@
             "state" : "translated",
             "value" : "Correr"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corsa"
+          }
         }
       }
     },
@@ -1354,6 +1702,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Navegación"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vela"
           }
         }
       }
@@ -1378,6 +1732,12 @@
             "state" : "translated",
             "value" : "Patinaje/Skate"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pattinaggio/Skate"
+          }
         }
       }
     },
@@ -1399,7 +1759,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deportes de Nieve y Hielo"
+            "value" : "Deportes de nieve y hielo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sport su neve e ghiaccio"
           }
         }
       }
@@ -1422,7 +1788,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deportes de Nieve"
+            "value" : "Deportes de nieve"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sport sulla neve"
           }
         }
       }
@@ -1443,6 +1815,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Snowboard"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Snowboard"
@@ -1470,6 +1848,12 @@
             "state" : "translated",
             "value" : "Fútbol"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calcio"
+          }
         }
       }
     },
@@ -1491,7 +1875,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Baile Social"
+            "value" : "Baile social"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ballo da sala"
           }
         }
       }
@@ -1516,6 +1906,12 @@
             "state" : "translated",
             "value" : "Sófbol"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Softball"
+          }
         }
       }
     },
@@ -1535,6 +1931,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Squash"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Squash"
@@ -1562,6 +1964,12 @@
             "state" : "translated",
             "value" : "Stepper"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stepper"
+          }
         }
       }
     },
@@ -1585,6 +1993,12 @@
             "state" : "translated",
             "value" : "Escaleras"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scale"
+          }
         }
       }
     },
@@ -1606,7 +2020,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ejercicios con Step"
+            "value" : "Ejercicios con step"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamento con step"
           }
         }
       }
@@ -1629,7 +2049,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actividades de Estudio"
+            "value" : "Actividades de estudio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attività in studio"
           }
         }
       }
@@ -1650,6 +2076,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Surf"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Surf"
@@ -1677,6 +2109,12 @@
             "state" : "translated",
             "value" : "Multideporte"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuoto, bici e corsa"
+          }
         }
       }
     },
@@ -1700,6 +2138,12 @@
             "state" : "translated",
             "value" : "Natación"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuoto"
+          }
         }
       }
     },
@@ -1721,7 +2165,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tenis de Mesa"
+            "value" : "Tenis de mesa"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tennistavolo"
           }
         }
       }
@@ -1746,6 +2196,12 @@
             "state" : "translated",
             "value" : "Taichí"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tai Chi"
+          }
         }
       }
     },
@@ -1767,7 +2223,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deportes de Equipo"
+            "value" : "Deportes de equipo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sport di squadra"
           }
         }
       }
@@ -1792,6 +2254,12 @@
             "state" : "translated",
             "value" : "Tenis"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tennis"
+          }
         }
       }
     },
@@ -1815,6 +2283,12 @@
             "state" : "translated",
             "value" : "Atletismo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atletica leggera"
+          }
         }
       }
     },
@@ -1836,7 +2310,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ejercicios de Fuerza con Máquinas"
+            "value" : "Ejercicios de fuerza con máquinas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamento di forza tradizionale"
           }
         }
       }
@@ -1859,7 +2339,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transición de Actividad"
+            "value" : "Transición de actividad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transizione di attività"
           }
         }
       }
@@ -1882,7 +2368,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buceo Submarino"
+            "value" : "Buceo submarino"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Immersioni subacquee"
           }
         }
       }
@@ -1907,6 +2399,12 @@
             "state" : "translated",
             "value" : "Voleibol"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pallavolo"
+          }
         }
       }
     },
@@ -1930,6 +2428,12 @@
             "state" : "translated",
             "value" : "Andar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camminata"
+          }
         }
       }
     },
@@ -1951,7 +2455,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actividades Acuáticas"
+            "value" : "Actividades acuáticas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attività in acqua"
           }
         }
       }
@@ -1974,7 +2484,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aeróbic Acuático"
+            "value" : "Aeróbic acuático"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acquagym"
           }
         }
       }
@@ -1999,6 +2515,12 @@
             "state" : "translated",
             "value" : "Waterpolo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pallanuoto"
+          }
         }
       }
     },
@@ -2020,7 +2542,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deportes Acuáticos"
+            "value" : "Deportes acuáticos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sport acquatici"
           }
         }
       }
@@ -2043,7 +2571,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Correr en Silla de Ruedas"
+            "value" : "Correr en silla de ruedas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corsa su sedia a rotelle"
           }
         }
       }
@@ -2066,7 +2600,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Andar en Silla de Ruedas"
+            "value" : "Andar en silla de ruedas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camminata su sedia a rotelle"
           }
         }
       }
@@ -2091,6 +2631,12 @@
             "state" : "translated",
             "value" : "Lucha"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lotta"
+          }
         }
       }
     },
@@ -2110,6 +2656,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yoga"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Yoga"

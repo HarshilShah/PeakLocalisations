@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "Meta diaria"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo giornaliero"
+          }
         }
       }
     },
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vea cómo progresan sus metas."
+            "value" : "Mira cómo progresan tus metas."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda come procedono i tuoi obiettivi."
           }
         }
       }
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "Balanceado"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bilanciata"
+          }
         }
       }
     },
@@ -90,6 +108,12 @@
             "state" : "translated",
             "value" : "Actual"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attuale"
+          }
         }
       }
     },
@@ -111,7 +135,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inicio Suave"
+            "value" : "Inicio suave"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inizio graduale"
           }
         }
       }
@@ -136,6 +166,12 @@
             "state" : "translated",
             "value" : "Lineal"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lineare"
+          }
         }
       }
     },
@@ -157,7 +193,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inicio Fuerte"
+            "value" : "Inicio fuerte"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inizio deciso"
           }
         }
       }
@@ -182,6 +224,12 @@
             "state" : "translated",
             "value" : "Editar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modifica"
+          }
         }
       }
     },
@@ -204,6 +252,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Meta"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo"
           }
         }
       }
@@ -228,6 +282,41 @@
             "state" : "translated",
             "value" : "Metas"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivi"
+          }
+        }
+      }
+    },
+    "History" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verlauf"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historial"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cronologia"
+          }
         }
       }
     },
@@ -250,6 +339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Las metas completadas aparecerán aquí."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Man mano che completi i tuoi obiettivi, appariranno qui."
           }
         }
       }
@@ -274,6 +369,12 @@
             "state" : "translated",
             "value" : "No hay nada que ver aquí… todavía"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ancora nulla da vedere qui…"
+          }
         }
       }
     },
@@ -295,7 +396,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historia de Metas"
+            "value" : "Historia de metas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cronologia obiettivi"
           }
         }
       }
@@ -318,7 +425,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Más"
+            "value" : "Ver más"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra altro"
           }
         }
       }
@@ -341,7 +454,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Progreso de Resolución"
+            "value" : "Progreso del propósito"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Progresso del proposito"
           }
         }
       }
@@ -364,7 +483,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Día Crítico"
+            "value" : "Día crítico"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorno critico"
           }
         }
       }
@@ -387,7 +512,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meta Actualizada"
+            "value" : "Meta actualizada"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo aggiornato"
           }
         }
       }
@@ -410,7 +541,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Periodo de la Meta Completado"
+            "value" : "Periodo de la meta completado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Periodo dell'obiettivo completato"
           }
         }
       }
@@ -433,7 +570,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resolución Completada"
+            "value" : "Propósito completado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proposito completato"
           }
         }
       }
@@ -458,6 +601,12 @@
             "state" : "translated",
             "value" : "Progreso"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Progresso"
+          }
         }
       }
     },
@@ -480,6 +629,41 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Progresión"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Progressione"
+          }
+        }
+      }
+    },
+    "Stat.BestDay" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bester Tag"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Best Day"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mejor día"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miglior giorno"
           }
         }
       }
@@ -504,6 +688,12 @@
             "state" : "translated",
             "value" : "Cambio"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Variazione"
+          }
         }
       }
     },
@@ -525,35 +715,18 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ritmo Actual"
+            "value" : "Ritmo actual"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ritmo attuale"
           }
         }
       }
     },
-    "Stat.DaysInHand" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verfügbare Tage"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Days in Hand"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Días en Mano"
-          }
-        }
-      }
-    },
-    "Stat.DaysRemaining" : {
+    "Stat.DaysLeft" : {
       "extractionState" : "manual",
       "localizations" : {
         "de" : {
@@ -565,13 +738,77 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Remaining Days"
+            "value" : "Days Left"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Días Restantes"
+            "value" : "Días restantes"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorni rimanenti"
+          }
+        }
+      }
+    },
+    "Stat.DaysNeeded" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benötigte Tage"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Days Needed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Días necesarios"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorni necessari"
+          }
+        }
+      }
+    },
+    "Stat.Projected" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prognostiziert"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projected"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proyectado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Previsto"
           }
         }
       }
@@ -596,6 +833,12 @@
             "state" : "translated",
             "value" : "Restante"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimanente"
+          }
         }
       }
     },
@@ -617,7 +860,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restante Hoy"
+            "value" : "Restante hoy"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimanente oggi"
           }
         }
       }
@@ -640,7 +889,42 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ritmo Requerido"
+            "value" : "Ritmo requerido"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ritmo richiesto"
+          }
+        }
+      }
+    },
+    "Stat.Start" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inicio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inizio"
           }
         }
       }
@@ -665,6 +949,12 @@
             "state" : "translated",
             "value" : "¡Completada!"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completato!"
+          }
         }
       }
     },
@@ -686,7 +976,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Día Crítico"
+            "value" : "Día crítico"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorno critico"
           }
         }
       }
@@ -709,7 +1005,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Día Crítico Completado"
+            "value" : "Día crítico completado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorno critico completato"
           }
         }
       }
@@ -732,7 +1034,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Día Crítico Fallido"
+            "value" : "Día crítico fallido"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorno critico fallito"
           }
         }
       }
@@ -757,6 +1065,12 @@
             "state" : "translated",
             "value" : "Incompleta"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incompleto"
+          }
         }
       }
     },
@@ -780,6 +1094,12 @@
             "state" : "translated",
             "value" : "Atrasarse"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In ritardo"
+          }
         }
       }
     },
@@ -801,7 +1121,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En Plazo"
+            "value" : "En plazo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In linea"
           }
         }
       }
@@ -824,7 +1150,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Historial"
+            "value" : "Ver historial"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizza cronologia"
           }
         }
       }

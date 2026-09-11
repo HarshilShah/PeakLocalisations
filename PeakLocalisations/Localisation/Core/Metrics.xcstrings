@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energía en Actividad"
+            "value" : "Energía activa"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Energia attiva"
           }
         }
       }
@@ -43,6 +49,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anillos de actividad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anelli Attività"
           }
         }
       }
@@ -68,6 +80,12 @@
             "state" : "translated",
             "value" : "Anillos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anelli"
+          }
         }
       }
     },
@@ -90,6 +108,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ejercicio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esercizio"
           }
         }
       }
@@ -114,6 +138,12 @@
             "state" : "translated",
             "value" : "Movimiento"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Movimento"
+          }
         }
       }
     },
@@ -135,7 +165,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "De Pie"
+            "value" : "De pie"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In piedi"
           }
         }
       }
@@ -158,7 +194,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oxígeno en Sangre"
+            "value" : "Oxígeno en sangre"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ossigeno nel sangue"
           }
         }
       }
@@ -181,7 +223,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Porcentaje de Grasa Corporal"
+            "value" : "Porcentaje de grasa corporal"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Percentuale di massa grassa"
           }
         }
       }
@@ -205,7 +253,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Porcentaje de Grasa Corporal"
+            "value" : "Porcentaje de grasa corporal"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Massa grassa %"
           }
         }
       }
@@ -228,7 +282,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Índice de Masa Corporal"
+            "value" : "Índice de masa corporal"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indice di massa corporea"
           }
         }
       }
@@ -254,6 +314,12 @@
             "state" : "translated",
             "value" : "IMC"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "IMC"
+          }
         }
       }
     },
@@ -275,7 +341,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Capacidad Aeróbica"
+            "value" : "Capacidad aeróbica"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cardiofitness"
           }
         }
       }
@@ -298,7 +370,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recuperación Cardiaca"
+            "value" : "Recuperación cardiaca"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recupero cardiaco"
           }
         }
       }
@@ -323,6 +401,12 @@
             "state" : "translated",
             "value" : "Distancia en bicicleta"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distanza in bicicletta"
+          }
         }
       }
     },
@@ -346,6 +430,12 @@
             "state" : "translated",
             "value" : "Distancia"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distanza"
+          }
         }
       }
     },
@@ -367,7 +457,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Minutos de Ejercicio"
+            "value" : "Minutos de ejercicio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minuti di esercizio"
           }
         }
       }
@@ -390,7 +486,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pisos Subidos"
+            "value" : "Pisos subidos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piani saliti"
           }
         }
       }
@@ -413,7 +515,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Frecuencia Cardiaca"
+            "value" : "Frecuencia cardiaca"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frequenza cardiaca"
           }
         }
       }
@@ -438,6 +546,12 @@
             "state" : "translated",
             "value" : "Se utiliza para mostrar estadísticas y gráficos de frecuencia cardíaca para entrenamientos."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilizzato per mostrare statistiche e grafici della frequenza cardiaca per gli allenamenti"
+          }
         }
       }
     },
@@ -459,7 +573,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Variabilidad Cardiaca"
+            "value" : "Variabilidad cardiaca"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Variabilità frequenza cardiaca"
           }
         }
       }
@@ -484,6 +604,12 @@
             "state" : "translated",
             "value" : "Altura"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altezza"
+          }
         }
       }
     },
@@ -505,7 +631,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se utiliza para calcular su IMC."
+            "value" : "Se utiliza para calcular tu IMC."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilizzato per calcolare il tuo IMC"
           }
         }
       }
@@ -528,7 +660,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masa Corporal sin Grasa"
+            "value" : "Masa corporal sin grasa"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Massa magra"
           }
         }
       }
@@ -553,6 +691,12 @@
             "state" : "translated",
             "value" : "Métrica"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metrica"
+          }
         }
       }
     },
@@ -576,6 +720,12 @@
             "state" : "translated",
             "value" : "Métricas"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metriche"
+          }
         }
       }
     },
@@ -597,7 +747,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Minutos de Mindfulness"
+            "value" : "Minutos de mindfulness"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minuti di mindfulness"
           }
         }
       }
@@ -620,7 +776,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energía en Reposo"
+            "value" : "Energía en reposo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Energia a riposo"
           }
         }
       }
@@ -643,7 +805,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Frecuencia Cardiaca en Reposo"
+            "value" : "Frecuencia cardiaca en reposo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frequenza cardiaca a riposo"
           }
         }
       }
@@ -668,6 +836,12 @@
             "state" : "translated",
             "value" : "Actividad"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attività"
+          }
         }
       }
     },
@@ -689,7 +863,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medidas Corporales"
+            "value" : "Medidas corporales"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Misure corporee"
           }
         }
       }
@@ -714,6 +894,12 @@
             "state" : "translated",
             "value" : "Recomendados"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consigliati"
+          }
         }
       }
     },
@@ -735,7 +921,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Constantes Vitales"
+            "value" : "Constantes vitales"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Parametri vitali"
           }
         }
       }
@@ -760,6 +952,12 @@
             "state" : "translated",
             "value" : "Bienestar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benessere"
+          }
         }
       }
     },
@@ -781,7 +979,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distancia en Deportes de Nieve"
+            "value" : "Distancia en deportes de nieve"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distanza su sci e snowboard"
           }
         }
       }
@@ -805,7 +1009,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distancia en Deportes de Nieve"
+            "value" : "Distancia en deportes de nieve"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distanza sci"
           }
         }
       }
@@ -830,6 +1040,12 @@
             "state" : "translated",
             "value" : "Sueño"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonno"
+          }
         }
       }
     },
@@ -852,6 +1068,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Durmiendo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonno"
           }
         }
       }
@@ -876,6 +1098,12 @@
             "state" : "translated",
             "value" : "Vigilia"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veglia"
+          }
         }
       }
     },
@@ -898,6 +1126,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Esencial"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fase centrale"
           }
         }
       }
@@ -922,6 +1156,12 @@
             "state" : "translated",
             "value" : "Profundo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fase profonda"
+          }
         }
       }
     },
@@ -943,7 +1183,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En la Cama"
+            "value" : "En la cama"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A letto"
           }
         }
       }
@@ -964,6 +1210,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "REM"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "REM"
@@ -991,6 +1243,12 @@
             "state" : "translated",
             "value" : "Horas de pie"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ore in piedi"
+          }
         }
       }
     },
@@ -1014,6 +1272,12 @@
             "state" : "translated",
             "value" : "Pasos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Passi"
+          }
         }
       }
     },
@@ -1035,7 +1299,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distancia Nadada"
+            "value" : "Distancia nadada"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distanza nuoto"
           }
         }
       }
@@ -1059,7 +1329,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distancia Nadada"
+            "value" : "Distancia nadada"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distanza nuoto"
           }
         }
       }
@@ -1082,7 +1358,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiempo de Exposición a la Luz Diurna"
+            "value" : "Tiempo de exposición a la luz diurna"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo alla luce del sole"
           }
         }
       }
@@ -1105,7 +1387,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distancia de Pasos"
+            "value" : "Distancia de pasos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distanza passi"
           }
         }
       }
@@ -1128,7 +1416,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "FC Media al Caminar"
+            "value" : "FC media al caminar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FC media (camminata)"
           }
         }
       }
@@ -1149,6 +1443,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peso"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peso"
@@ -1174,7 +1474,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distancia en Silla de Ruedas"
+            "value" : "Distancia en silla de ruedas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distanza in sedia a rotelle"
           }
         }
       }
@@ -1198,6 +1504,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Impulsos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spinte"
           }
         }
       }
@@ -1223,6 +1535,12 @@
             "state" : "translated",
             "value" : "Impulsos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spinte"
+          }
         }
       }
     },
@@ -1244,7 +1562,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ruta de Entrenamiento"
+            "value" : "Ruta de entrenamiento"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Percorso di allenamento"
           }
         }
       }
@@ -1268,6 +1592,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entrenos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamenti"
           }
         }
       }

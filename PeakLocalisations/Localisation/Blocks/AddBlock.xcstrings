@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "Todos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personalizzato"
+          }
         }
       }
     },
@@ -44,6 +50,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sugerencias"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suggerimenti"
           }
         }
       }

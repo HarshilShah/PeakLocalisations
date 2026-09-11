@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "Beige"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beige"
+          }
         }
       }
     },
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Café Negro"
+            "value" : "Café negro"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caffè nero"
           }
         }
       }
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "Capuchino"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cappuccino"
+          }
         }
       }
     },
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Frappé de Caramelo"
+            "value" : "Frappé de caramelo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frappé al caramello"
           }
         }
       }
@@ -109,6 +133,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chai"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chai"
@@ -136,6 +166,12 @@
             "state" : "translated",
             "value" : "Espresso"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espresso"
+          }
         }
       }
     },
@@ -157,7 +193,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chocolate Caliente"
+            "value" : "Chocolate caliente"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cioccolata calda"
           }
         }
       }
@@ -178,6 +220,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Matcha"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Matcha"
@@ -205,6 +253,12 @@
             "state" : "translated",
             "value" : "Moca"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moka"
+          }
         }
       }
     },
@@ -226,7 +280,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Café con Leche Especiado con Calabaza"
+            "value" : "Café con leche especiado con calabaza"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pumpkin Spice Latte"
           }
         }
       }
@@ -251,6 +311,41 @@
             "state" : "translated",
             "value" : "Azul"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blu"
+          }
+        }
+      }
+    },
+    "Brown" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Braun"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brown"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marrón"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marrone"
+          }
         }
       }
     },
@@ -273,6 +368,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oscuro"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scuro"
           }
         }
       }
@@ -297,6 +398,12 @@
             "state" : "translated",
             "value" : "Atenuado"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attenuato"
+          }
         }
       }
     },
@@ -316,6 +423,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Banana"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Banana"
@@ -343,6 +456,12 @@
             "state" : "translated",
             "value" : "Arándano"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mirtillo"
+          }
         }
       }
     },
@@ -366,6 +485,12 @@
             "state" : "translated",
             "value" : "Pitahaya"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pitaya"
+          }
         }
       }
     },
@@ -385,6 +510,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uva"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uva"
@@ -412,6 +543,12 @@
             "state" : "translated",
             "value" : "Lima"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lime"
+          }
         }
       }
     },
@@ -431,6 +568,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mango"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mango"
@@ -458,6 +601,12 @@
             "state" : "translated",
             "value" : "Naranja"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arancia"
+          }
         }
       }
     },
@@ -480,6 +629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Durazno"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pesca"
           }
         }
       }
@@ -504,6 +659,12 @@
             "state" : "translated",
             "value" : "Fresa"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fragola"
+          }
         }
       }
     },
@@ -523,6 +684,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verde"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verde"
@@ -550,6 +717,12 @@
             "state" : "translated",
             "value" : "%@/%@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@/%@"
+          }
         }
       }
     },
@@ -572,6 +745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Añil"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indaco"
           }
         }
       }
@@ -596,6 +775,12 @@
             "state" : "translated",
             "value" : "Azabache"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nero profondo"
+          }
         }
       }
     },
@@ -615,6 +800,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lavanda"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lavanda"
@@ -642,6 +833,12 @@
             "state" : "translated",
             "value" : "Ligero"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chiaro"
+          }
         }
       }
     },
@@ -666,6 +863,12 @@
             "state" : "translated",
             "value" : "Infusiones"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appena preparati"
+          }
         }
       }
     },
@@ -688,6 +891,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oscuro"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scuro"
           }
         }
       }
@@ -712,6 +921,12 @@
             "state" : "translated",
             "value" : "Atenuado"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attenuato"
+          }
         }
       }
     },
@@ -734,6 +949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Afrutado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fruttato"
           }
         }
       }
@@ -758,6 +979,12 @@
             "state" : "translated",
             "value" : "Azabache"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nero profondo"
+          }
         }
       }
     },
@@ -780,6 +1007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Naturaleza"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Natura"
           }
         }
       }
@@ -804,6 +1037,12 @@
             "state" : "translated",
             "value" : "Pasteles"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pastello"
+          }
         }
       }
     },
@@ -826,6 +1065,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estándar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Standard"
           }
         }
       }
@@ -850,6 +1095,12 @@
             "state" : "translated",
             "value" : "Tintado"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colorato"
+          }
         }
       }
     },
@@ -872,6 +1123,41 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vívido"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vivace"
+          }
+        }
+      }
+    },
+    "Mono" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mono"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mono"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mono"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mono"
           }
         }
       }
@@ -896,6 +1182,12 @@
             "state" : "translated",
             "value" : "Coral"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corallo"
+          }
         }
       }
     },
@@ -918,6 +1210,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Desierto"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deserto"
           }
         }
       }
@@ -942,6 +1240,12 @@
             "state" : "translated",
             "value" : "Bosque"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foresta"
+          }
         }
       }
     },
@@ -964,6 +1268,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Prado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prato"
           }
         }
       }
@@ -988,6 +1298,12 @@
             "state" : "translated",
             "value" : "Océano"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oceano"
+          }
         }
       }
     },
@@ -1011,6 +1327,12 @@
             "state" : "translated",
             "value" : "Mar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mare"
+          }
         }
       }
     },
@@ -1030,6 +1352,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tundra"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tundra"
@@ -1057,6 +1385,12 @@
             "state" : "translated",
             "value" : "Laguna"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laguna"
+          }
         }
       }
     },
@@ -1079,6 +1413,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ocre"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocra"
           }
         }
       }
@@ -1103,6 +1443,12 @@
             "state" : "translated",
             "value" : "Naranja"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arancione"
+          }
         }
       }
     },
@@ -1126,6 +1472,12 @@
             "state" : "translated",
             "value" : "Pastel"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pastello"
+          }
         }
       }
     },
@@ -1145,6 +1497,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rosa"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rosa"
@@ -1172,6 +1530,12 @@
             "state" : "translated",
             "value" : "Violeta"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Viola"
+          }
         }
       }
     },
@@ -1194,6 +1558,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rojo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rosso"
           }
         }
       }
@@ -1218,6 +1588,12 @@
             "state" : "translated",
             "value" : "Pizarra"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ardesia"
+          }
         }
       }
     },
@@ -1240,6 +1616,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mandarina"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mandarino"
           }
         }
       }
@@ -1264,6 +1646,12 @@
             "state" : "translated",
             "value" : "Tintado"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colorato"
+          }
         }
       }
     },
@@ -1287,6 +1675,12 @@
             "state" : "translated",
             "value" : "Turquesa"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Turchese"
+          }
         }
       }
     },
@@ -1309,6 +1703,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Amarillo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giallo"
           }
         }
       }

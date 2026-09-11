@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar una Meta"
+            "value" : "Agregar una meta"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi un obiettivo"
           }
         }
       }
@@ -44,6 +50,12 @@
             "state" : "translated",
             "value" : "Editar meta"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modifica obiettivo"
+          }
         }
       }
     },
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "Inicial"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniziale"
+          }
         }
       }
     },
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipo de Meta"
+            "value" : "Tipo de meta"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipo di obiettivo"
           }
         }
       }
@@ -111,7 +135,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Construir"
+            "value" : "Acumulativa"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Costruzione"
           }
         }
       }
@@ -134,7 +164,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avanzar hacia un objetivo a largo plazo"
+            "value" : "Avanza hacia una meta a largo plazo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avanza verso un obiettivo a lungo termine"
           }
         }
       }
@@ -157,7 +193,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aparecer"
+            "value" : "Constancia"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Costanza"
           }
         }
       }
@@ -180,7 +222,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establece objetivos diarios para desarrollar nuevos hábitos"
+            "value" : "Establece metas diarias para crear nuevos hábitos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imposta obiettivi giornalieri per creare nuove abitudini"
           }
         }
       }
@@ -205,6 +253,12 @@
             "state" : "translated",
             "value" : "Repetir"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ripeti"
+          }
         }
       }
     },
@@ -226,7 +280,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Duración de la Resolución"
+            "value" : "Duración del propósito"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durata del proposito"
           }
         }
       }
@@ -249,7 +309,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aumente gradualmente sus niveles de actividad con el tiempo para alcanzar sus objetivos a largo plazo de manera sostenible"
+            "value" : "Aumenta gradualmente tus niveles de actividad con el tiempo para alcanzar tus objetivos a largo plazo de manera sostenible"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aumenta gradualmente i tuoi livelli di attività nel tempo per raggiungere i tuoi obiettivi a lungo termine in modo sostenibile"
           }
         }
       }
@@ -272,7 +338,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar Resolución"
+            "value" : "Agregar propósito"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi proposito"
           }
         }
       }
@@ -295,7 +367,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Más información sobre resoluciones"
+            "value" : "Más información sobre propósitos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maggiori informazioni sui propositi"
           }
         }
       }
@@ -318,7 +396,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eliminar Resolución"
+            "value" : "Eliminar propósito"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimuovi proposito"
           }
         }
       }
@@ -343,6 +427,12 @@
             "state" : "translated",
             "value" : "Guardar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva"
+          }
         }
       }
     },
@@ -364,7 +454,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Destino"
+            "value" : "Meta"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo"
           }
         }
       }
@@ -387,7 +483,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Objetivo Diario de Destino"
+            "value" : "Meta diaria objetivo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo giornaliero target"
           }
         }
       }
@@ -410,7 +512,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Objetivo de Destino"
+            "value" : "Meta objetivo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo target"
           }
         }
       }
@@ -433,7 +541,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Número de Días de Objetivo"
+            "value" : "Número de días de objetivo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Numero di giorni obiettivo"
           }
         }
       }
@@ -456,7 +570,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meta de Anillos de Actividad"
+            "value" : "Meta de anillos de actividad"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo anelli attività"
           }
         }
       }

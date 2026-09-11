@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Permita notificaciones en Ajustes para recibir actualizaciones."
+            "value" : "Permite notificaciones en Configuración para recibir actualizaciones."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abilita le notifiche in Impostazioni per ricevere aggiornamenti."
           }
         }
       }
@@ -44,6 +50,12 @@
             "state" : "translated",
             "value" : "Permiso de notificaciones denegado"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorizzazione notifiche negata"
+          }
         }
       }
     },
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "No hay nada que ver aquí… todavía"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ancora nulla da vedere qui… ancora"
+          }
         }
       }
     },
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Las notificaciones de sus metas aparecerán aquí."
+            "value" : "Las notificaciones de tus metas aparecerán aquí."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le notifiche dei tuoi obiettivi appariranno qui."
           }
         }
       }
@@ -113,6 +137,12 @@
             "state" : "translated",
             "value" : "Notificaciones"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifiche"
+          }
         }
       }
     },
@@ -136,6 +166,12 @@
             "state" : "translated",
             "value" : "Leídas"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lette"
+          }
         }
       }
     },
@@ -158,6 +194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No leídas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non lette"
           }
         }
       }
@@ -218,6 +260,24 @@
               }
             }
           }
+        },
+        "it" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld notifica non letta"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld notifiche non lette"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -239,7 +299,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Desglose de Entrenamientos"
+            "value" : "Desglose de entrenamientos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riepiloghi degli allenamenti"
           }
         }
       }

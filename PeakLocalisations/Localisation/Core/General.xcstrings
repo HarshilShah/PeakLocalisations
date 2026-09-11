@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir"
+            "value" : "Agregar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi"
           }
         }
       }
@@ -44,6 +50,12 @@
             "state" : "translated",
             "value" : "Volver"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indietro"
+          }
         }
       }
     },
@@ -66,6 +78,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cancelar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla"
           }
         }
       }
@@ -90,6 +108,12 @@
             "state" : "translated",
             "value" : "Borrar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancella"
+          }
         }
       }
     },
@@ -112,6 +136,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Continuar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continua"
           }
         }
       }
@@ -136,6 +166,12 @@
             "state" : "translated",
             "value" : "Reducir"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riduci"
+          }
         }
       }
     },
@@ -158,6 +194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Eliminar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elimina"
           }
         }
       }
@@ -182,6 +224,12 @@
             "state" : "translated",
             "value" : "Cerrar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chiudi"
+          }
         }
       }
     },
@@ -204,6 +252,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fine"
           }
         }
       }
@@ -228,6 +282,12 @@
             "state" : "translated",
             "value" : "Editar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modifica"
+          }
         }
       }
     },
@@ -250,6 +310,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Filtro"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtra"
           }
         }
       }
@@ -274,6 +340,12 @@
             "state" : "translated",
             "value" : "Aumentar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aumenta"
+          }
         }
       }
     },
@@ -297,6 +369,12 @@
             "state" : "translated",
             "value" : "Bloqueado"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bloccato"
+          }
         }
       }
     },
@@ -318,7 +396,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quizá Más Tarde"
+            "value" : "Quizá más tarde"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forse più tardi"
           }
         }
       }
@@ -344,6 +428,12 @@
             "state" : "translated",
             "value" : "Más"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altro"
+          }
         }
       }
     },
@@ -365,7 +455,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No Hay Datos"
+            "value" : "No hay datos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nessun dato"
           }
         }
       }
@@ -390,6 +486,12 @@
             "state" : "translated",
             "value" : "Desactivado"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non attivo"
+          }
         }
       }
     },
@@ -412,6 +514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Attivo"
           }
         }
       }
@@ -436,6 +544,12 @@
             "state" : "translated",
             "value" : "Reordenar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riordina"
+          }
         }
       }
     },
@@ -458,6 +572,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Buscar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerca"
           }
         }
       }
@@ -482,6 +602,12 @@
             "state" : "translated",
             "value" : "OK"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Certo"
+          }
         }
       }
     },
@@ -505,6 +631,12 @@
             "state" : "translated",
             "value" : "Unidad"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unità"
+          }
         }
       }
     },
@@ -527,6 +659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Valor"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valore"
           }
         }
       }

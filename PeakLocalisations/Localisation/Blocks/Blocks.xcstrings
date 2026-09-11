@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar un Bloque"
+            "value" : "Agregar un bloque"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi un blocco"
           }
         }
       }
@@ -44,6 +50,12 @@
             "state" : "translated",
             "value" : "Bloque"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocco"
+          }
         }
       }
     },
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "Bloques"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blocchi"
+          }
         }
       }
     },
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Editar Bloque"
+            "value" : "Editar bloque"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modifica blocco"
           }
         }
       }
@@ -113,6 +137,12 @@
             "state" : "translated",
             "value" : "Gráfico"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grafico"
+          }
         }
       }
     },
@@ -135,6 +165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Visualiza tus estadísticas."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizza le tue statistiche."
           }
         }
       }
@@ -159,6 +195,99 @@
             "state" : "translated",
             "value" : "Gráficos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grafici"
+          }
+        }
+      }
+    },
+    "Kind.Comparison" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vergleich"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparison"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparación"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confronto"
+          }
+        }
+      }
+    },
+    "Kind.Comparison.Description" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vergleiche deinen Fortschritt mit vorherigen Zeiträumen."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compare progress to previous periods."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compara tu progreso con períodos anteriores."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confronta i progressi con i periodi precedenti."
+          }
+        }
+      }
+    },
+    "Kind.Comparison.Plural" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vergleiche"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparisons"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comparaciones"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confronti"
+          }
         }
       }
     },
@@ -182,6 +311,12 @@
             "state" : "translated",
             "value" : "Panorama"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panoramica"
+          }
         }
       }
     },
@@ -203,7 +338,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Un panorama de su progreso a lo largo del tiempo."
+            "value" : "Un panorama de tu progreso a lo largo del tiempo."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ottieni una panoramica delle tue statistiche."
           }
         }
       }
@@ -228,6 +369,12 @@
             "state" : "translated",
             "value" : "Panoramas"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Panoramiche"
+          }
         }
       }
     },
@@ -251,6 +398,12 @@
             "state" : "translated",
             "value" : "Recientes"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recenti"
+          }
         }
       }
     },
@@ -272,7 +425,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver sus estadísticas recientes para cualquier métrica."
+            "value" : "Mira tus estadísticas recientes para cualquier métrica."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda le tue statistiche recenti per qualsiasi metrica."
           }
         }
       }
@@ -297,6 +456,12 @@
             "state" : "translated",
             "value" : "Hoy"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi"
+          }
         }
       }
     },
@@ -318,7 +483,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sus estadísticas de hoy."
+            "value" : "Tus estadísticas de hoy."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le tue statistiche di oggi."
           }
         }
       }
@@ -343,6 +514,12 @@
             "state" : "translated",
             "value" : "Fijar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fissa"
+          }
         }
       }
     },
@@ -366,6 +543,12 @@
             "state" : "translated",
             "value" : "Desfijar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rimuovi"
+          }
         }
       }
     },
@@ -388,6 +571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fijado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fissato"
           }
         }
       }

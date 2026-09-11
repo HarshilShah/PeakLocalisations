@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vea su progreso total durante la última semana, mes y año."
+            "value" : "Mira tu progreso total durante la última semana, el mes y el año."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda i tuoi progressi totali nell'ultima settimana, mese e anno."
           }
         }
       }
@@ -44,6 +50,12 @@
             "state" : "translated",
             "value" : "Comparación"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confronto"
+          }
         }
       }
     },
@@ -65,7 +77,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mes, Año y Todo el tiempo"
+            "value" : "Mes, año y todo el tiempo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mese, anno e sempre"
           }
         }
       }
@@ -90,6 +108,12 @@
             "state" : "translated",
             "value" : "En curso"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In corso"
+          }
         }
       }
     },
@@ -111,7 +135,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Semana, Mes y Año"
+            "value" : "Semana, mes y año"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settimana, mese e anno"
           }
         }
       }
@@ -136,6 +166,12 @@
             "state" : "translated",
             "value" : "Totales"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totali"
+          }
         }
       }
     },
@@ -157,7 +193,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar Totales"
+            "value" : "Agregar totales"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi totali"
           }
         }
       }

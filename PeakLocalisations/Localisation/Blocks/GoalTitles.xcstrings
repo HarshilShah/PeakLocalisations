@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "Meta de %@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo %@"
+          }
         }
       }
     },
@@ -43,7 +49,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meta de Hoy"
+            "value" : "Meta de hoy"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo di oggi"
           }
         }
       }
@@ -66,7 +78,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meta Diaria"
+            "value" : "Meta diaria"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo giornaliero"
           }
         }
       }
@@ -89,7 +107,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meta de %lld Meses"
+            "value" : "Meta de %lld meses"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo di %lld mesi"
           }
         }
       }
@@ -115,6 +139,12 @@
             "state" : "translated",
             "value" : "%@ en %@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ in %@"
+          }
         }
       }
     },
@@ -136,7 +166,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meta de Esta Semana"
+            "value" : "Meta de esta semana"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo di questa settimana"
           }
         }
       }
@@ -159,7 +195,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meta Semanal"
+            "value" : "Meta semanal"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo settimanale"
           }
         }
       }
@@ -182,7 +224,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meta de %lld Semanas"
+            "value" : "Meta de %lld semanas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obiettivo di %lld settimane"
           }
         }
       }

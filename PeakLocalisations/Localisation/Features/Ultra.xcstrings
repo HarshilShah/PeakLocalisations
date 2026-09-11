@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Todas las Características"
+            "value" : "Todas las características"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tutte le funzioni"
           }
         }
       }
@@ -44,6 +50,12 @@
             "state" : "translated",
             "value" : "¡Ya está todo listo!"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "È tutto pronto!"
+          }
         }
       }
     },
@@ -65,7 +77,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En Familia"
+            "value" : "En familia"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In famiglia"
           }
         }
       }
@@ -90,6 +108,12 @@
             "state" : "translated",
             "value" : "Háganse más fuerte, juntos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Migliorate insieme"
+          }
         }
       }
     },
@@ -111,7 +135,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Íconos de App"
+            "value" : "Íconos de app"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icone dell'app"
           }
         }
       }
@@ -134,7 +164,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lleve alegría a sus pantallas de inicio"
+            "value" : "Dale alegría a tus pantallas de inicio"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porta stile alla tua schermata Home"
           }
         }
       }
@@ -157,7 +193,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Métricas y Bloques Sin Límites"
+            "value" : "Métricas y bloques sin límites"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metriche e blocchi illimitati"
           }
         }
       }
@@ -180,7 +222,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Traiga todos sus datos"
+            "value" : "Trae todos tus datos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monitora tutte le tue statistiche"
           }
         }
       }
@@ -205,6 +253,12 @@
             "state" : "translated",
             "value" : "Apoya al desarrollador"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sostieni lo sviluppatore"
+          }
         }
       }
     },
@@ -226,7 +280,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak está hecho por un equipo de una persona. Sus suscripciones me ayudan directamente a seguir construyendo nuevas características"
+            "value" : "Peak está hecho por un equipo de una sola persona. Tu suscripción me ayuda directamente a seguir construyendo nuevas funciones"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak è sviluppata da una sola persona. Il tuo abbonamento mi aiuta direttamente a continuare a creare nuove funzionalità"
           }
         }
       }
@@ -251,6 +311,12 @@
             "state" : "translated",
             "value" : "Temas"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temi"
+          }
         }
       }
     },
@@ -274,6 +340,12 @@
             "state" : "translated",
             "value" : "Elige entre más de 80 temas hermosos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scegli tra oltre 80 splendidi temi"
+          }
         }
       }
     },
@@ -295,7 +367,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Widgets y Complicaciones"
+            "value" : "Widgets y complicaciones"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Widget e complicazioni"
           }
         }
       }
@@ -318,7 +396,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esté siempre atento a su progreso"
+            "value" : "Sigue siempre de cerca tu progreso"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tieni sempre d'occhio i tuoi progressi"
           }
         }
       }
@@ -343,6 +427,12 @@
             "state" : "translated",
             "value" : "Desbloquea métricas ilimitadas, bloques, temas, widgets y más"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca metriche illimitate, blocchi, temi, widget e altro ancora"
+          }
         }
       }
     },
@@ -366,6 +456,12 @@
             "state" : "translated",
             "value" : "Desbloquea todas las funciones"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca tutte le funzioni"
+          }
         }
       }
     },
@@ -387,7 +483,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comience a utilizar todas las funciones de Peak para seguir su salud y estado físico"
+            "value" : "Comienza a disfrutar de todas las funciones de Peak para seguir tu salud y estado físico"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inizia a usare tutte le funzionalità di Peak per monitorare salute e fitness"
           }
         }
       }
@@ -412,6 +514,12 @@
             "state" : "translated",
             "value" : "Hoy"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi"
+          }
         }
       }
     },
@@ -434,6 +542,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recibe un recordatorio sobre cuándo finalizará tu prueba. Requiere permisos de notificación"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ricevi un promemoria prima della scadenza del periodo di prova. Richiede i permessi per le notifiche"
           }
         }
       }
@@ -458,6 +572,12 @@
             "state" : "translated",
             "value" : "Día 5"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorno 5"
+          }
         }
       }
     },
@@ -479,7 +599,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se le cobrará el séptimo día. Puede cancelar en cualquier momento antes"
+            "value" : "Se te cobrará el séptimo día. Puedes cancelar en cualquier momento antes"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'addebito avverrà il settimo giorno. Puoi annullare in qualsiasi momento prima"
           }
         }
       }
@@ -504,6 +630,12 @@
             "state" : "translated",
             "value" : "Día 7"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giorno 7"
+          }
         }
       }
     },
@@ -525,7 +657,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cómo Funciona su Prueba Gratuita"
+            "value" : "Cómo funciona tu prueba gratuita"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Come funziona la prova gratuita"
           }
         }
       }
@@ -548,7 +686,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Su suscripción cambiará de una prueba a Peak Ultra pronto. ¡Esperamos que esté disfrutando de Peak!"
+            "value" : "Tu suscripción cambiará de prueba a Peak Ultra pronto. ¡Esperamos que estés disfrutando de Peak!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il tuo periodo di prova passerà presto a Peak Ultra. Speriamo ti stia piacendo Peak!"
           }
         }
       }
@@ -571,7 +715,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quedan 2 Días en su Prueba"
+            "value" : "Quedan 2 días de prueba"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restano 2 giorni di prova"
           }
         }
       }
@@ -596,6 +746,12 @@
             "state" : "translated",
             "value" : "Recordarme"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ricordamelo"
+          }
         }
       }
     },
@@ -619,6 +775,12 @@
             "state" : "translated",
             "value" : "No"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non ora"
+          }
         }
       }
     },
@@ -640,7 +802,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¿Le gustaría que Peak le envíe una notificación 2 días antes de que finalice su prueba?"
+            "value" : "¿Te gustaría que Peak te envíe un recordatorio 2 días antes de que finalice tu prueba?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuoi che Peak ti invii una notifica 2 giorni prima del termine della prova?"
           }
         }
       }
@@ -663,7 +831,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aprender Más"
+            "value" : "Aprender más"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scopri di più"
           }
         }
       }
@@ -686,7 +860,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Administrar Suscripción"
+            "value" : "Administrar suscripción"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gestisci abbonamento"
           }
         }
       }
@@ -709,7 +889,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ahora No"
+            "value" : "Ahora no"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non ora"
           }
         }
       }
@@ -730,6 +916,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak Ultra"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peak Ultra"
@@ -755,7 +947,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Para Siempre"
+            "value" : "Para siempre"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A vita"
           }
         }
       }
@@ -780,6 +978,12 @@
             "state" : "translated",
             "value" : "Mensual"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mensile"
+          }
         }
       }
     },
@@ -803,6 +1007,12 @@
             "state" : "translated",
             "value" : "Anual"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annuale"
+          }
         }
       }
     },
@@ -825,7 +1035,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ocultar Los Planes"
+            "value" : "Ocultar los planes"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nascondi tutti i piani"
           }
         }
       }
@@ -849,7 +1065,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Todos Los Planes"
+            "value" : "Todos los planes"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra tutti i piani"
           }
         }
       }
@@ -874,6 +1096,12 @@
             "state" : "translated",
             "value" : "Comprar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acquista"
+          }
         }
       }
     },
@@ -896,6 +1124,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cambiar iconos de app con"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambia icona dell'app con"
           }
         }
       }
@@ -932,6 +1166,24 @@
             "state" : "translated",
             "value" : "Agregar más de %d bloques con"
           }
+        },
+        "it" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Aggiungi più di %d blocco con"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Aggiungi più di %d blocchi con"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -953,7 +1205,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Háganse Más Fuerte, Juntos con"
+            "value" : "Háganse más fuerte, juntos con"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Migliorate insieme con"
           }
         }
       }
@@ -990,6 +1248,24 @@
             "state" : "translated",
             "value" : "Agregar más de %d bloques con"
           }
+        },
+        "it" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Aggiungi più di %d metrica con"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Aggiungi più di %d metriche con"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -1011,7 +1287,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Personalice su tema con"
+            "value" : "Personaliza tu tema con"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personalizza il tuo tema con"
           }
         }
       }
@@ -1036,6 +1318,12 @@
             "state" : "translated",
             "value" : "Desbloquear todos los widgets con"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sblocca tutti i widget con"
+          }
         }
       }
     },
@@ -1058,6 +1346,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Canjear"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riscatta"
           }
         }
       }
@@ -1082,6 +1376,12 @@
             "state" : "translated",
             "value" : "Restaurar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ripristina"
+          }
         }
       }
     },
@@ -1103,7 +1403,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comienza Su Prueba Gratuita de 7 Días"
+            "value" : "Comienza tu prueba gratuita de 7 días"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inizia la prova gratuita di 7 giorni"
           }
         }
       }
@@ -1128,6 +1434,12 @@
             "state" : "translated",
             "value" : "Suscribirse"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abbonati"
+          }
         }
       }
     },
@@ -1149,7 +1461,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toque para Desbloquear"
+            "value" : "Toca para desbloquear"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tocca per sbloccare"
           }
         }
       }
@@ -1174,6 +1492,12 @@
             "state" : "translated",
             "value" : "¡Gracias por conseguir Peak Ultra!"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grazie per aver scelto Peak Ultra!"
+          }
         }
       }
     },
@@ -1196,6 +1520,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Bienvenido a Peak Ultra!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benvenuto in Peak Ultra!"
           }
         }
       }

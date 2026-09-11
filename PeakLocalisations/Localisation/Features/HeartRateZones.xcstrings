@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "Límites"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limiti"
+          }
         }
       }
     },
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zonas de Frecuencia Cardíaca"
+            "value" : "Zonas de frecuencia cardíaca"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zone di frequenza cardiaca"
           }
         }
       }
@@ -65,7 +77,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Frecuencia Cardíaca Máxima"
+            "value" : "Frecuencia cardíaca máxima"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frequenza cardiaca massima"
           }
         }
       }
@@ -90,6 +108,12 @@
             "state" : "translated",
             "value" : "Método"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Metodo"
+          }
         }
       }
     },
@@ -111,7 +135,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reserva de Frecuencia Cardíaca"
+            "value" : "Reserva de frecuencia cardíaca"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riserva di frequenza cardiaca"
           }
         }
       }
@@ -134,7 +164,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Frecuencia Cardíaca Máxima"
+            "value" : "Frecuencia cardíaca máxima"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frequenza cardiaca massima"
           }
         }
       }
@@ -159,6 +195,12 @@
             "state" : "translated",
             "value" : "Restablecer"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reimposta"
+          }
         }
       }
     },
@@ -180,7 +222,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Frecuencia Cardíaca en Reposo"
+            "value" : "Frecuencia cardíaca en reposo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frequenza cardiaca a riposo"
           }
         }
       }
@@ -203,7 +251,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configurar Zonas de Frecuencia Cardíaca"
+            "value" : "Configurar zonas de frecuencia cardíaca"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configura zone di frequenza cardiaca"
           }
         }
       }
@@ -224,6 +278,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zona %d"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zona %d"
@@ -251,6 +311,12 @@
             "state" : "translated",
             "value" : "Límite"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limite"
+          }
         }
       }
     },
@@ -272,7 +338,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Límite de Zona %d/%d"
+            "value" : "Límite de zona %d/%d"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limite zona %d/%d"
           }
         }
       }

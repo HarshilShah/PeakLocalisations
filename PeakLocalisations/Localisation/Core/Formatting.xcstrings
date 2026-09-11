@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "Cal"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cal"
+          }
         }
       }
     },
@@ -42,6 +48,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kJ"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "kJ"
@@ -70,6 +82,12 @@
             "state" : "translated",
             "value" : "kcal"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kcal"
+          }
         }
       }
     },
@@ -94,6 +112,12 @@
             "state" : "translated",
             "value" : "^[%1$@](measurement: 'value') ^[ppm](measurement: 'unit')"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%1$@](measurement: 'value') ^[spm](measurement: 'unit')"
+          }
         }
       }
     },
@@ -117,6 +141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ppm"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "spm"
           }
         }
       }
@@ -199,6 +229,33 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "días"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "giorno"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "giorni"
                     }
                   }
                 }
@@ -292,6 +349,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’')"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "giorno"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "giorni"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -379,6 +463,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "giorno"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "giorni"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -399,6 +510,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "km"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "km"
@@ -427,6 +544,12 @@
             "state" : "translated",
             "value" : "m"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "m"
+          }
         }
       }
     },
@@ -447,6 +570,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mi"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "mi"
@@ -532,6 +661,33 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "pisos"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "piano"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "piani"
                     }
                   }
                 }
@@ -625,6 +781,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’')"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "piano"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "piani"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -712,6 +895,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "piano"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "piani"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -735,6 +945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%2$@ lpm"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ bpm"
           }
         }
       }
@@ -760,6 +976,12 @@
             "state" : "translated",
             "value" : "^[%1$@](measurement: 'value') ^[lpm](measurement: 'unit’)"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%1$@](measurement: 'value') ^[bpm](measurement: 'unit’')"
+          }
         }
       }
     },
@@ -783,6 +1005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "lpm"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "bpm"
           }
         }
       }
@@ -865,6 +1093,33 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "meses"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "mese"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "mesi"
                     }
                   }
                 }
@@ -958,6 +1213,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’')"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "mese"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "mesi"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -1045,6 +1327,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "mese"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "mesi"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -1065,6 +1374,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@/km"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@/km"
@@ -1093,6 +1408,12 @@
             "state" : "translated",
             "value" : "^[%2$@](measurement: 'value')^[/km](measurement: 'unit’)"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value')^[/km](measurement: 'unit’')"
+          }
         }
       }
     },
@@ -1113,6 +1434,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/km"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "/km"
@@ -1141,6 +1468,12 @@
             "state" : "translated",
             "value" : "%1$@/mi"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@/mi"
+          }
         }
       }
     },
@@ -1164,6 +1497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "^[%2$@](measurement: 'value')^[/mi](measurement: 'unit’)"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value')^[/mi](measurement: 'unit’')"
           }
         }
       }
@@ -1189,6 +1528,12 @@
             "state" : "translated",
             "value" : "/mi"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "/mi"
+          }
         }
       }
     },
@@ -1209,6 +1554,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%"
@@ -1294,6 +1645,33 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "empujones"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "spinta"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "spinte"
                     }
                   }
                 }
@@ -1387,6 +1765,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’')"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "spinta"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "spinte"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -1468,6 +1873,33 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "empujones"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "spinta"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "spinte"
                     }
                   }
                 }
@@ -1561,6 +1993,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "anello"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "anelli"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -1642,6 +2101,33 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "anillos"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’')"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "anello"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "anelli"
                     }
                   }
                 }
@@ -1735,6 +2221,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "anello"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "anelli"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -1759,6 +2272,12 @@
             "state" : "translated",
             "value" : "kmh"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "km/h"
+          }
         }
       }
     },
@@ -1779,6 +2298,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mph"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "mph"
@@ -1864,6 +2389,33 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "pasos"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "passo"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "passi"
                     }
                   }
                 }
@@ -1957,6 +2509,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’')"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "passo"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "passi"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -2044,6 +2623,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "passo"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "passi"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -2068,6 +2674,12 @@
             "state" : "translated",
             "value" : "horas"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ore"
+          }
         }
       }
     },
@@ -2088,6 +2700,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ms"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ms"
@@ -2116,6 +2734,12 @@
             "state" : "translated",
             "value" : "minutos"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "minuti"
+          }
         }
       }
     },
@@ -2138,6 +2762,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "segundos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "secondi"
           }
         }
       }
@@ -2220,6 +2850,33 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "VO₂ máx."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ max"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ max"
                     }
                   }
                 }
@@ -2313,6 +2970,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’')"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ max"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "VO₂ max"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -2336,6 +3020,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "VO₂ máx"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "VO₂ max"
           }
         }
       }
@@ -2418,6 +3108,33 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "semanas"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "settimana"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "settimane"
                     }
                   }
                 }
@@ -2511,6 +3228,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’')"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "settimana"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "settimane"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -2598,6 +3342,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "settimana"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "settimane"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -2618,6 +3389,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "kg"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "kg"
@@ -2646,6 +3423,12 @@
             "state" : "translated",
             "value" : "lb"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "lb"
+          }
         }
       }
     },
@@ -2666,6 +3449,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "st"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "st"
@@ -2751,6 +3540,33 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "entrenamientos"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%2$@ %#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "allenamento"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "allenamenti"
                     }
                   }
                 }
@@ -2844,6 +3660,33 @@
               }
             }
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "^[%2$@](measurement: 'value') ^[%#@unit@](measurement: 'unit’')"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "allenamento"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "allenamenti"
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -2925,6 +3768,33 @@
                     "stringUnit" : {
                       "state" : "translated",
                       "value" : "entrenamientos"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%#@unit@"
+          },
+          "substitutions" : {
+            "unit" : {
+              "formatSpecifier" : "lf",
+              "variations" : {
+                "plural" : {
+                  "one" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "allenamento"
+                    }
+                  },
+                  "other" : {
+                    "stringUnit" : {
+                      "state" : "translated",
+                      "value" : "allenamenti"
                     }
                   }
                 }

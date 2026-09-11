@@ -22,6 +22,12 @@
             "state" : "translated",
             "value" : "Peak"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak"
+          }
         }
       }
     },
@@ -36,7 +42,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cambiar Icono"
+            "value" : "Cambiar icono"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambia icona"
           }
         }
       }
@@ -60,7 +72,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak lee datos de HealthKit para mostrarle su progreso"
+            "value" : "Peak lee datos de HealthKit para mostrarte tu progreso"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak legge dati da HealthKit per mostrarti i tuoi progressi"
           }
         }
       }
@@ -84,7 +102,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak escribe su peso y medidas corporales en HealthKit"
+            "value" : "Peak escribe tu peso y medidas corporales en HealthKit"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak scrive il tuo peso e le tue misure corporee su HealthKit"
           }
         }
       }
@@ -108,7 +132,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak guarda sus informes en su biblioteca de fotos"
+            "value" : "Peak guarda tus informes en tu biblioteca de fotos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak salva i tuoi resoconti nella libreria foto"
           }
         }
       }
@@ -119,6 +149,18 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Peak Archiv"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Archivo de Peak"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Archivio di Peak"
           }
         }
       }
@@ -134,7 +176,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copia de Seguridad de Peak"
+            "value" : "Copia de seguridad de Peak"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backup di Peak"
           }
         }
       }
@@ -150,7 +198,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¿Pasa algo Mal?"
+            "value" : "¿Pasa algo malo?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qualcosa non va?"
           }
         }
       }
@@ -165,6 +219,12 @@
           }
         },
         "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UntitledHealthApp backup"
+          }
+        },
+        "it" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "UntitledHealthApp backup"
@@ -184,6 +244,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Estamos aquí para ayudar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siamo qui per aiutarti"
           }
         }
       }

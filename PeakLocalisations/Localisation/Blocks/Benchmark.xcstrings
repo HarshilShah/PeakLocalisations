@@ -19,7 +19,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar Referencia"
+            "value" : "Agregar benchmark"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi benchmark"
           }
         }
       }
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compare su progreso con un punto de referencia."
+            "value" : "Compara tu progreso con un benchmark."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Controlla i tuoi progressi giornalieri e storici verso un benchmark."
           }
         }
       }
@@ -65,7 +77,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ocultar Estadísticas"
+            "value" : "Ocultar estadísticas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nascondi statistiche"
           }
         }
       }
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostrar Estadísticas"
+            "value" : "Mostrar estadísticas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostra statistiche"
           }
         }
       }
@@ -111,7 +135,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referencia"
+            "value" : "Benchmark"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benchmark"
           }
         }
       }
@@ -134,7 +164,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Referencias"
+            "value" : "Benchmarks"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benchmark"
           }
         }
       }

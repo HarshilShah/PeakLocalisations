@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "Panel"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pannello"
+          }
         }
       }
     },
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arrastre para Reordenar"
+            "value" : "Arrastra para reordenar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trascina per riordinare"
           }
         }
       }
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "Agregue unos bloques para comenzar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi alcuni blocchi per iniziare"
+          }
         }
       }
     },
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregue unos bloques en su teléfono para comenzar"
+            "value" : "Agrega unos bloques en tu teléfono para comenzar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aggiungi alcuni blocchi sul tuo telefono per iniziare"
           }
         }
       }
@@ -113,6 +137,12 @@
             "state" : "translated",
             "value" : "No hay nada que ver aquí… todavía"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ancora nulla da vedere qui…"
+          }
         }
       }
     },
@@ -134,7 +164,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esta acción no se puede deshacer y puede impedir que sus widgets de %@ funcionen.\n\nEste cambio no afecta sus datos de HealthKit."
+            "value" : "Esta acción no se puede deshacer y puede impedir que tus widgets de %@ funcionen.\n\nEste cambio no afecta tus datos de HealthKit."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questa azione non può essere annullata e potrebbe impedire il funzionamento dei widget configurati per mostrare i dati di %@.\n\nQuesta modifica non influisce sui tuoi dati di HealthKit."
           }
         }
       }
@@ -159,6 +195,12 @@
             "state" : "translated",
             "value" : "Cancelar"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annulla"
+          }
         }
       }
     },
@@ -180,7 +222,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deslizar para Borrar"
+            "value" : "Deslizar para borrar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scorri per eliminare"
           }
         }
       }
@@ -205,6 +253,12 @@
             "state" : "translated",
             "value" : "¿Eliminar %@?"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuoi rimuovere %@?"
+          }
         }
       }
     },
@@ -226,7 +280,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peak incluye widgets hermosos para su pantalla de inicio y pantalla de bloqueo"
+            "value" : "Peak incluye hermosos widgets para tu pantalla de inicio y pantalla de bloqueo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak include splendidi widget per la schermata Home e di blocco"
           }
         }
       }
@@ -250,7 +310,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Muéstreme Cómo"
+            "value" : "Muéstrame cómo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrami come"
           }
         }
       }
@@ -273,7 +339,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Configure Su Primer Widget"
+            "value" : "Configura tu primer widget"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configura il tuo primo widget"
           }
         }
       }

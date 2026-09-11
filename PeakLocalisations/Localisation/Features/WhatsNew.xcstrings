@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "¡Ahora con múltiples tamaños de widgets, modos de agrupación y filtrado rápido!"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ora con più dimensioni di widget, modalità di raggruppamento e filtri rapidi!"
+          }
         }
       }
     },
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Panel Completamente Nuevo!"
+            "value" : "¡Panel completamente nuevo!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pannello completamente rinnovato!"
           }
         }
       }
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "¡Ahora en rojo, naranja, verde, azul, morado, plateado y dorado!"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ora in rosso, arancione, verde, blu, viola, argento e oro!"
+          }
         }
       }
     },
@@ -88,7 +106,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuevos Iconos de la App"
+            "value" : "Nuevos iconos de la app"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuove icone dell'app"
           }
         }
       }
@@ -112,7 +136,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deja una Reseña"
+            "value" : "Deja una reseña"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scrivi una recensione"
           }
         }
       }
@@ -137,6 +167,12 @@
             "state" : "translated",
             "value" : "Peak ha sido rediseñado para iOS 26 y Liquid Glass"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Peak è stata riprogettata per iOS 26 e Liquid Glass"
+          }
         }
       }
     },
@@ -159,7 +195,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Una Capa Fresca de Cristal"
+            "value" : "Una capa fresca de cristal"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una ventata di novità in vetro"
           }
         }
       }
@@ -182,7 +224,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sus datos ahora se cargan más rápido que nunca"
+            "value" : "Tus datos ahora se cargan más rápido que nunca"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I tuoi dati ora si caricano più velocemente che mai"
           }
         }
       }
@@ -206,7 +254,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Parpadea y Te Lo Perderás"
+            "value" : "Parpadea y te lo perderás"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un battito di ciglia ed è pronto"
           }
         }
       }
@@ -232,6 +286,12 @@
             "state" : "translated",
             "value" : "Nuevo en Peak %@"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novità in Peak %@"
+          }
         }
       }
     },
@@ -253,7 +313,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El bloque de Totales ahora muestra sus estadísticas de Todos los Tiempos"
+            "value" : "El bloque de Totales ahora muestra tus estadísticas históricas"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Il blocco Totali ora mostra le tue statistiche di sempre"
           }
         }
       }
@@ -276,7 +342,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Totales de Todos los Tiempos"
+            "value" : "Totales de todos los tiempos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Totali di sempre"
           }
         }
       }
@@ -299,7 +371,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vea tendencias a corto, mediano y largo plazo al mismo tiempo"
+            "value" : "Mira tendencias a corto, mediano y largo plazo al mismo tiempo"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualizza contemporaneamente i trend a breve, medio e lungo termine"
           }
         }
       }
@@ -322,7 +400,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Múltiples Tendencias"
+            "value" : "Múltiples tendencias"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trend multipli"
           }
         }
       }

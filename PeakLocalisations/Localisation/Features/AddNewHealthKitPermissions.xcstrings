@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "Nuevas funciones en Peak requieren permisos adicionales de datos de salud"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le nuove funzionalità di Peak richiedono ulteriori autorizzazioni per i dati sanitari"
+          }
         }
       }
     },
@@ -42,7 +48,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Permisos de Salud Requeridos"
+            "value" : "Permisos de salud requeridos"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Autorizzazioni sanitarie richieste"
           }
         }
       }

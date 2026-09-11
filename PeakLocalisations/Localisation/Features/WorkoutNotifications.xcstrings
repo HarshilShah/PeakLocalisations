@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "¡Mira tus resultados!"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda com'è andata!"
+          }
         }
       }
     },
@@ -43,6 +49,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Échale un vistazo!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dai un'occhiata più da vicino!"
           }
         }
       }
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "¡Mira lo que has conseguido!"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda cosa hai raggiunto!"
+          }
         }
       }
     },
@@ -89,6 +107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Sigue así!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continua così!"
           }
         }
       }
@@ -113,6 +137,12 @@
             "state" : "translated",
             "value" : "¡Gran trabajo!"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ottimo lavoro!"
+          }
         }
       }
     },
@@ -135,6 +165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Estás a tope!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stai andando alla grande!"
           }
         }
       }
@@ -159,6 +195,12 @@
             "state" : "translated",
             "value" : "Revisa tu última actividad en Peak."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Controlla la tua ultima attività su Peak."
+          }
         }
       }
     },
@@ -181,6 +223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entrenamiento registrado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamento registrato"
           }
         }
       }
@@ -205,6 +253,12 @@
             "state" : "translated",
             "value" : "Quemaste %1$@ en total en %2$d entrenamientos."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai bruciato %1$@ in %2$d allenamenti."
+          }
         }
       }
     },
@@ -227,6 +281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ quemadas en tus últimas sesiones."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ bruciate nelle tue sessioni recenti."
           }
         }
       }
@@ -251,6 +311,12 @@
             "state" : "translated",
             "value" : "Invertiste %1$@ en %2$d entrenamientos."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai dedicato %1$@ in %2$d allenamenti."
+          }
         }
       }
     },
@@ -273,6 +339,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ acumulados en tus entrenamientos recientes."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ registrate nei tuoi allenamenti recenti."
           }
         }
       }
@@ -297,6 +369,12 @@
             "state" : "translated",
             "value" : "Se han registrado %d entrenamientos nuevos."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sono stati registrati %d nuovi allenamenti."
+          }
         }
       }
     },
@@ -319,6 +397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entrenamientos registrados"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamenti registrati"
           }
         }
       }
@@ -343,6 +427,12 @@
             "state" : "translated",
             "value" : "¡Vaya trabajazo!"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Che sessione!"
+          }
         }
       }
     },
@@ -365,6 +455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡No has parado!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Non ti fermi mai"
           }
         }
       }
@@ -389,6 +485,12 @@
             "state" : "translated",
             "value" : "Buen trabajo"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ottimo lavoro"
+          }
         }
       }
     },
@@ -411,6 +513,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entrenamientos guardados"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamenti salvati"
           }
         }
       }
@@ -435,6 +543,12 @@
             "state" : "translated",
             "value" : "Recibe alertas cuando Peak detecte un nuevo entrenamiento y descubre los momentos destacados de tu sesión."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ricevi una notifica quando Peak rileva un nuovo allenamento e scopri i punti salienti della tua sessione."
+          }
         }
       }
     },
@@ -457,6 +571,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¿Quieres estar al día de tus entrenamientos?"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vuoi aggiornamenti sugli allenamenti?"
           }
         }
       }
@@ -481,6 +601,12 @@
             "state" : "translated",
             "value" : "Quemaste %@ durante la sesión."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai bruciato %@ lungo il percorso."
+          }
         }
       }
     },
@@ -503,6 +629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ después, ¡objetivo cumplido!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ dopo, hai completato la sessione."
           }
         }
       }
@@ -527,6 +659,12 @@
             "state" : "translated",
             "value" : "Has recorrido %@."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai percorso %@."
+          }
         }
       }
     },
@@ -549,6 +687,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ más para el contador."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Altri %@ messi a segno."
           }
         }
       }
@@ -573,6 +717,12 @@
             "state" : "translated",
             "value" : "%@ más en el bolsillo."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ in più nel tuo percorso."
+          }
         }
       }
     },
@@ -594,7 +744,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hoy le has dedicado %@."
+            "value" : "Hoy le dedicaste %@."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oggi hai dedicato %@."
           }
         }
       }
@@ -619,6 +775,12 @@
             "state" : "translated",
             "value" : "%@ muy bien invertidos."
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ben spesi."
+          }
         }
       }
     },
@@ -641,6 +803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Completaste una sesión de %@."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hai completato una sessione di %@."
           }
         }
       }
@@ -665,6 +833,12 @@
             "state" : "translated",
             "value" : "¡Eso sí es entrenar!"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Che allenamento!"
+          }
         }
       }
     },
@@ -687,6 +861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "¡Otro más al bote!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un altro allenamento completato"
           }
         }
       }
@@ -711,6 +891,12 @@
             "state" : "translated",
             "value" : "Entrenamiento impecable"
           }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamento impeccabile"
+          }
         }
       }
     },
@@ -733,6 +919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entrenamiento registrado"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allenamento registrato"
           }
         }
       }
