@@ -978,7 +978,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "KW%lld"
+            "value" : "KW %lld"
           }
         },
         "en" : {
